@@ -7,6 +7,22 @@
         mc:Ignorable="d"
         Loaded="Window_Loaded"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-    </Grid>
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition/>
+      <RowDefinition Height="20"/>
+    </Grid.RowDefinitions>
+    <ListView ItemsSource="{Binding dt}" Grid.Row="0">
+      <ListView.View>
+        <GridView>
+          <GridViewColumn DisplayMemberBinding= "{Binding Path=addrOfSeg}" Header="addrOfSeg"/>
+          <GridViewColumn DisplayMemberBinding= "{Binding Path=addrInSeg}" Header="addrInSeg" />
+          <GridViewColumn DisplayMemberBinding= "{Binding Path=originalText}" Header="originalText" />
+          <GridViewColumn DisplayMemberBinding= "{Binding Path=newAddrInSeg}" Header="newAddrInSeg" />
+          <GridViewColumn DisplayMemberBinding= "{Binding Path=localizedText}" Header="localizedText"/>
+        </GridView>
+      </ListView.View>
+    </ListView>
+    <Button Name="btnSaveFile" Grid.Row="1" Click="btnSaveFile_Click">OK</Button>
+  </Grid>
 </Window>
