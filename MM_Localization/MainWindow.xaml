@@ -7,22 +7,107 @@
         mc:Ignorable="d"
         Loaded="Window_Loaded"
         Title="MainWindow" Height="350" Width="525">
-  <Grid>
-    <Grid.RowDefinitions>
-      <RowDefinition/>
-      <RowDefinition Height="20"/>
-    </Grid.RowDefinitions>
-    <ListView ItemsSource="{Binding dt}" Grid.Row="0">
-      <ListView.View>
-        <GridView>
-          <GridViewColumn DisplayMemberBinding= "{Binding Path=addrOfSeg}" Header="addrOfSeg"/>
-          <GridViewColumn DisplayMemberBinding= "{Binding Path=addrInSeg}" Header="addrInSeg" />
-          <GridViewColumn DisplayMemberBinding= "{Binding Path=originalText}" Header="originalText" />
-          <GridViewColumn DisplayMemberBinding= "{Binding Path=newAddrInSeg}" Header="newAddrInSeg" />
-          <GridViewColumn DisplayMemberBinding= "{Binding Path=localizedText}" Header="localizedText"/>
-        </GridView>
-      </ListView.View>
-    </ListView>
-    <Button Name="btnSaveFile" Grid.Row="1" Click="btnSaveFile_Click">OK</Button>
-  </Grid>
+  <Window.CommandBindings>
+    <CommandBinding Command="Open" Executed="OpenCommandBinding_Executed"/>
+    <CommandBinding Command="Save" Executed="SaveCommandBinding_Executed"/>
+    <CommandBinding Command="SaveAs" Executed="SaveAsCommandBinding_Executed"/>
+    <CommandBinding Command="Close" Executed="ExitCommandBinding_Executed"/>
+  </Window.CommandBindings>
+  <Window.InputBindings>
+    <KeyBinding Key="O" Modifiers="Ctrl" Command="Open"/>
+    <KeyBinding Key="S" Modifiers="Ctrl" Command="Save"/>
+    <KeyBinding Key="S" Modifiers="Ctrl+Shift" Command="SaveAs"/>
+    <KeyBinding Key="X" Modifiers="Ctrl" Command="Close"/>
+  </Window.InputBindings>
+  <DockPanel>
+    <Menu DockPanel.Dock="Top">
+      <MenuItem Header="_File">
+        <MenuItem Header="_Open" Command="Open" InputGestureText="Ctrl+O"/>
+        <MenuItem Header="_Save" Command="Save" InputGestureText="Ctrl+S"/>
+        <MenuItem 
+          Header="Save As..." 
+          Command="SaveAs" 
+          InputGestureText="Ctrl+Shift+S"/>
+        <Separator/>
+        <MenuItem Header="E_xit" Command="Close" InputGestureText="Ctrl+X"/>
+      </MenuItem>
+    </Menu>
+    <Grid>
+      <Grid.RowDefinitions>
+        <RowDefinition />
+        <!--<RowDefinition Height="20" />-->
+      </Grid.RowDefinitions>
+      <DataGrid
+      ItemsSource="{Binding dt}"
+      AutoGenerateColumns="False"
+      GridLinesVisibility="None"
+      Grid.Row="0">
+        <DataGrid.Resources>
+          <local:StringToHex8Converter x:Key="StringToHex8Converter" />
+          <local:StringToHex4Converter x:Key="StringToHex4Converter" />
+        </DataGrid.Resources>
+        <DataGrid.Columns>
+          <DataGridTextColumn
+          Binding= "{
+          Binding Path=addrOfSeg,
+          Converter={StaticResource StringToHex8Converter}
+          }"
+          Header="addrOfSeg"
+          IsReadOnly="True" />
+          <DataGridTextColumn
+          Binding= "{
+          Binding Path=addrInSeg,
+          Converter={StaticResource StringToHex4Converter}
+          }"
+          Header="addrInSeg"
+          IsReadOnly="True" />
+          <DataGridTextColumn
+          Binding= "{
+          Binding Path=originalText}"
+          Header="originalText"
+          IsReadOnly="True" />
+          <DataGridTextColumn
+          Binding= "{
+          Binding Path=newAddrInSeg,
+          Converter={StaticResource StringToHex4Converter}
+          }"
+          Header="newAddrInSeg" />
+          <DataGridTextColumn
+          Binding= "{Binding Path=localizedText}" Header="localizedText" />
+        </DataGrid.Columns>
+      </DataGrid>
+      <!--<Grid Grid.Row="1">
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition />
+          <ColumnDefinition />
+          <ColumnDefinition />
+          <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Button
+          Name="btnReadFromOrig"
+          Grid.Column="0"
+          Click="btnReadFromOrig_Click">
+          Прочесть из оригинала
+        </Button>
+        <Button
+          Name="btnReadFromSave"
+          Grid.Column="1"
+          Click="btnReadFromSave_Click">
+          Прочесть из save-файла
+        </Button>
+        <Button
+          Name="btnSaveToSave"
+          Grid.Column="2"
+          Click="btnSaveToSave_Click">
+          Сохранить в save-файл
+        </Button>
+        <Button
+          Name="btnSaveToOrig"
+          Grid.Column="3"
+          Click="btnSaveToOrig_Click">
+          Сохранить в оригинал
+        </Button>
+      </Grid>-->
+    </Grid>
+  </DockPanel>
 </Window>

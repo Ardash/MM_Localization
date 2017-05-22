@@ -1,0 +1,78 @@
+﻿<Window x:Class="MM_Localization.wdwOptions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MM_Localization"
+        mc:Ignorable="d"
+        KeyDown="Window_KeyDown"
+        Title="Options"
+        WindowStyle="ToolWindow"
+        Width="400" MinWidth="400"
+        Height="150" MinHeight="150" MaxHeight="150">
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="auto" />
+      <RowDefinition />
+      <RowDefinition Height="auto" />
+    </Grid.RowDefinitions>
+    <Grid Grid.Row="0">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="auto" />
+        <ColumnDefinition />
+        <ColumnDefinition Width="auto" />
+      </Grid.ColumnDefinitions>
+      <Grid.RowDefinitions>
+        <RowDefinition />
+        <RowDefinition />
+      </Grid.RowDefinitions>
+      <TextBlock Grid.Row="0" Grid.Column="0" Margin="5">
+        Original MM Book One folder:
+      </TextBlock>
+      <TextBlock Grid.Row="1" Grid.Column="0" Margin="5">
+        Localized files save folder:
+      </TextBlock>
+      <TextBox
+        Name="txtOriginalFolder"
+        TabIndex="0"
+        Grid.Row="0" Grid.Column="1" Margin="5" />
+      <TextBox
+        Name="txtLocalizedFolder"
+        TabIndex="2"
+        Grid.Row="1" Grid.Column="1" Margin="5" />
+      <Button
+        Name="btnBrowseOriginal"
+        TabIndex="1"
+        Grid.Row="0" Grid.Column="2" Width="20" Margin="5"
+        Click="btnBrowseOriginal_Click"
+        >...</Button>
+      <Button
+        Name="btnBrowseLocalized"
+        TabIndex="3"
+        Grid.Row="1" Grid.Column="2" Width="20" Margin="5"
+        Click="btnBrowseLocalized_Click"
+        >...</Button>
+    </Grid>
+    <Grid Grid.Row="2">
+      <Grid.ColumnDefinitions>
+        <ColumnDefinition />
+        <ColumnDefinition Width="70" />
+        <ColumnDefinition Width="70" />
+      </Grid.ColumnDefinitions>
+      <Button
+        Name="btnOk"
+        TabIndex="4"
+        Grid.Column="1" Margin="10"
+        Click="btnOk_Click">
+        OK
+      </Button>
+      <Button
+        Name="btnCancel"
+        TabIndex="5"
+        Grid.Column="2" Margin="10"
+        Click="btnCancel_Click">
+        Cancel
+      </Button>
+    </Grid>
+  </Grid>
+</Window>

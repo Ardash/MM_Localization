@@ -1,19 +1,36 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Globalization;
 using System.IO;
 using System.Windows;
+using System.Windows.Data;
+using System.Xml.Serialization;
 
 namespace MM_Localization {
+
+  public class StringToHex8Converter : IValueConverter {
+
+    public object Convert(object value, Type targetType, object parameter, CultureInfo culture) {
+      return ((int)value).ToString("X8");
+    }
+
+    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture) {
+      throw new NotImplementedException();
+    }
+  }
+
+  public class StringToHex4Converter : IValueConverter {
+
+    public object Convert(object value, Type targetType, object parameter, CultureInfo culture) {
+      return ((ushort)value).ToString("X4");
+    }
+
+    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture) {
+      return System.Convert.ToUInt16((string)value, 16);
+    }
+  }
+
   public class text {
-    //public text(int AddrOfSeg, int AddrInSeg, string OriginalText, 
-    //            int NewAddrInSeg, string LocalizedText) {
-    //  addrOfSeg = AddrOfSeg;
-    //  addrInSeg = AddrInSeg;
-    //  originalText = OriginalText;
-    //  newAddrInSeg = NewAddrInSeg;
-    //  localizedText = LocalizedText;
-    //}
     public int addrOfAddr { get; set; }
     public int addrOfSeg { get; set; }
     public ushort addrInSeg { get; set; }
@@ -21,20 +38,25 @@ namespace MM_Localization {
     public ushort newAddrInSeg { get; set; }
     public string localizedText { get; set; }
   }
+
   public class textsTextsViewModel {
     public byte[] bb { get; set; }
     public string fPath = "c:\\Projects.side\\MM_Localization\\MM_Localization\\bin\\Debug\\MM.exe";
-    static ushort BBToShort(byte byte1, byte byte2) {
+
+    private static ushort BBToShort(byte byte1, byte byte2) {
       return (ushort)((byte2 << 8) + byte1);
     }
-    static int getStrLen(byte[] bArr, int index) {
+
+    private static int getStrLen(byte[] bArr, int index) {
       int j = 0;
       for (int i = index; i < bArr.Length; i++, j++)
         if (bArr[i] == 0x00) break;
       return j;
     }
+
     private const int seg000 = 0x00000200;
     private const int seg001 = 0x000109B0;
+
     private int[] textAddresses = {
       seg000+0x03F2,      //0062; INSERT MIGHT & MAGIC DISK
       seg000+0x0405,      //007D;IN DRIVE A AND PRESS 'ENTER'
@@ -780,10 +802,15 @@ namespace MM_Localization {
       //:C5A9;THE INNER SANCTUM IS A MYTH
       //:C5C5;THE CANINE HAS THE KEY
     };
+
     public ObservableCollection<text> dt { get; set; }
-    public void LoadTexts() {
+
+    public void LoadOrig() {
       dt = new ObservableCollection<text>();
       bb = File.ReadAllBytes(fPath);
+    }
+
+    public void FillCollectionFromFile() {
       foreach (int i in textAddresses) {
         text txt = new text();
         txt.addrOfAddr = i;
@@ -806,20 +833,75 @@ namespace MM_Localization {
         dt.Add(txt);
       }
     }
+
+    public void SaveCollectionToFile() {
+      XmlSerializer formatter = new XmlSerializer(typeof(ObservableCollection<text>));
+      using (FileStream fs = new FileStream("texts.xml", FileMode.OpenOrCreate)) {
+        formatter.Serialize(fs, dt);
+        fs.SetLength(fs.Position);
+      }
+    }
   }
+
   /// <summary>
   /// Interaction logic for MainWindow.xaml
   /// </summary>
   public partial class MainWindow : Window {
-    textsTextsViewModel textsViewModel;
+
+    public class config {
+      public string originalGameFolder;
+      public string saveLocalizedTo;
+    }
+
+    private config cfg = new config();
+    private textsTextsViewModel textsViewModel;
+    public string cfgFileName = "config.xml";
+    public string appPath = "";
+
     public MainWindow() {
       InitializeComponent();
+
+      appPath = AppDomain.CurrentDomain.BaseDirectory;
+
+      loadConfig();
+
+      if (string.IsNullOrEmpty(cfg.originalGameFolder) ||
+        string.IsNullOrEmpty(cfg.saveLocalizedTo)) {
+        wdwOptions options = new wdwOptions();
+        bool? res = options.ShowDialog();
+        if (res == true) {
+          cfg.originalGameFolder = options.originalFolderPath;
+          cfg.saveLocalizedTo = options.localizedFolderPath;
+          saveConfig();
+        }
+      }
+
       textsViewModel = new textsTextsViewModel();
-      textsViewModel.LoadTexts();
+      textsViewModel.LoadOrig();
       DataContext = textsViewModel;
     }
-    private void Window_Loaded(object sender, RoutedEventArgs e) {
 
+    void loadConfig() {
+      try {
+        var cfgFile = Path.Combine(appPath, cfgFileName);
+        XmlSerializer serializer = new XmlSerializer(typeof(config));
+        using (StreamReader reader = new StreamReader(cfgFile)) {
+          cfg = (config)serializer.Deserialize(reader);
+        }
+      } catch { }
+    }
+
+    void saveConfig() {
+      try {
+        XmlSerializer formatter = new XmlSerializer(typeof(config));
+        using (FileStream fs = new FileStream(Path.Combine(appPath, cfgFileName), FileMode.OpenOrCreate)) {
+          formatter.Serialize(fs, cfg);
+          fs.SetLength(fs.Position);
+        }
+      } catch { }
+    }
+
+    private void Window_Loaded(object sender, RoutedEventArgs e) {
     }
 
     private byte convertChar(char c) {
@@ -860,32 +942,32 @@ namespace MM_Localization {
         case '>':
         case '?':
         case '@':
-        case 'A': 
-        case 'B': 
-        case 'C': 
-        case 'D': 
-        case 'E': 
-        case 'F': 
-        case 'G': 
-        case 'H': 
-        case 'I': 
-        case 'J': 
-        case 'K': 
-        case 'L': 
-        case 'M': 
-        case 'N': 
-        case 'O': 
-        case 'P': 
-        case 'Q': 
-        case 'R': 
-        case 'S': 
-        case 'T': 
-        case 'U': 
-        case 'V': 
-        case 'W': 
-        case 'X': 
-        case 'Y': 
-        case 'Z': 
+        case 'A':
+        case 'B':
+        case 'C':
+        case 'D':
+        case 'E':
+        case 'F':
+        case 'G':
+        case 'H':
+        case 'I':
+        case 'J':
+        case 'K':
+        case 'L':
+        case 'M':
+        case 'N':
+        case 'O':
+        case 'P':
+        case 'Q':
+        case 'R':
+        case 'S':
+        case 'T':
+        case 'U':
+        case 'V':
+        case 'W':
+        case 'X':
+        case 'Y':
+        case 'Z':
         case '[':
         case '\\':
         case ']':
@@ -927,30 +1009,14 @@ namespace MM_Localization {
       }
       return retC;
     }
-    static byte[] ShortToBB(ushort sh) {
+
+    private static byte[] ShortToBB(ushort sh) {
       return new byte[] { (byte)(sh % 0x100), (byte)(sh / 0x100) };
     }
-    private void btnSaveFile_Click(object sender, RoutedEventArgs e) {
-      // Помещаем шрифт в свободное место
-      Array.Copy(fontArr, 0, textsViewModel.bb, 0x0001180F, fontArr.Length);
-      //  и правим ссылку
-      Array.Copy(ShortToBB(0x0E5F), 0, textsViewModel.bb, 0x00000F05, 2);
 
-      foreach (text t in textsViewModel.dt)
-        if (t.newAddrInSeg != 0) {
-          for (int i = 0; i < t.localizedText.Length; i++) {
-            textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + i] = convertChar(t.localizedText[i]);
-          }
-          textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + t.localizedText.Length] = 0x00;
-          Array.Copy(ShortToBB(t.newAddrInSeg), 0, textsViewModel.bb, t.addrOfAddr, 2);
-        }
-
-      File.WriteAllBytes(textsViewModel.fPath + ".L", textsViewModel.bb);
-    }
-
-    byte[] fontArr = {
+    private byte[] fontArr = {
       // Оригинальный шрифт
-      0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00, // 000 - Пробел 
+      0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00, // 000 - Пробел
       0x18,0x18,0x18,0x18,0x00,0x18,0x18,0x00, // 001 - !
       0x66,0x66,0x66,0x00,0x00,0x00,0x00,0x00, // 002 - "
       0x00,0x66,0xFF,0x66,0x66,0xFF,0x66,0x00, // 003 - #
@@ -983,32 +1049,32 @@ namespace MM_Localization {
       0x60,0x30,0x18,0x0C,0x18,0x30,0x60,0x00, // 01E - >
       0x3C,0x66,0x04,0x0C,0x18,0x00,0x18,0x00, // 01F - ?
       0x7C,0x82,0x9E,0xA2,0x9E,0x80,0x7E,0x00, // 020 - @
-      0x18,0x3C,0x66,0x66,0x7E,0x66,0x66,0x00, // 021 - A  
-      0x7C,0x66,0x66,0x7C,0x66,0x66,0x7C,0x00, // 022 - B 
-      0x3C,0x66,0x60,0x60,0x60,0x66,0x3C,0x00, // 023 - C 
-      0x78,0x6C,0x66,0x66,0x66,0x6C,0x78,0x00, // 024 - D 
-      0x7E,0x60,0x60,0x7C,0x60,0x60,0x7E,0x00, // 025 - E 
-      0x7E,0x60,0x60,0x7C,0x60,0x60,0x60,0x00, // 026 - F 
-      0x3E,0x60,0x60,0x6E,0x66,0x66,0x3E,0x00, // 027 - G 
-      0x66,0x66,0x66,0x7E,0x66,0x66,0x66,0x00, // 028 - H 
-      0x7E,0x18,0x18,0x18,0x18,0x18,0x7E,0x00, // 029 - I 
-      0x06,0x06,0x06,0x06,0x06,0x66,0x3C,0x00, // 02A - J 
-      0x66,0x6C,0x78,0x78,0x6C,0x66,0x66,0x00, // 02B - K 
-      0x60,0x60,0x60,0x60,0x60,0x60,0x7E,0x00, // 02C - L 
-      0x63,0x77,0x7F,0x6B,0x63,0x63,0x63,0x00, // 02D - M 
-      0x66,0x76,0x7E,0x7E,0x6E,0x66,0x66,0x00, // 02E - N 
-      0x3C,0x66,0x66,0x66,0x66,0x66,0x3C,0x00, // 02F - O 
-      0x7C,0x66,0x66,0x66,0x7C,0x60,0x60,0x00, // 030 - P 
-      0x3C,0x66,0x66,0x66,0x66,0x6C,0x36,0x00, // 031 - Q 
-      0x7C,0x66,0x66,0x7C,0x6C,0x66,0x66,0x00, // 032 - R 
-      0x3C,0x60,0x60,0x3C,0x06,0x06,0x3C,0x00, // 033 - S 
-      0x7E,0x18,0x18,0x18,0x18,0x18,0x18,0x00, // 034 - T 
-      0x66,0x66,0x66,0x66,0x66,0x66,0x7E,0x00, // 035 - U 
-      0x66,0x66,0x66,0x66,0x66,0x3C,0x18,0x00, // 036 - V 
-      0x63,0x63,0x63,0x6B,0x7F,0x77,0x63,0x00, // 037 - W 
-      0x66,0x66,0x3C,0x3C,0x66,0x66,0x66,0x00, // 038 - X 
-      0x66,0x66,0x66,0x3C,0x18,0x18,0x18,0x00, // 039 - Y 
-      0x7E,0x0C,0x18,0x30,0x60,0x60,0x7E,0x00, // 03A - Z 
+      0x18,0x3C,0x66,0x66,0x7E,0x66,0x66,0x00, // 021 - A
+      0x7C,0x66,0x66,0x7C,0x66,0x66,0x7C,0x00, // 022 - B
+      0x3C,0x66,0x60,0x60,0x60,0x66,0x3C,0x00, // 023 - C
+      0x78,0x6C,0x66,0x66,0x66,0x6C,0x78,0x00, // 024 - D
+      0x7E,0x60,0x60,0x7C,0x60,0x60,0x7E,0x00, // 025 - E
+      0x7E,0x60,0x60,0x7C,0x60,0x60,0x60,0x00, // 026 - F
+      0x3E,0x60,0x60,0x6E,0x66,0x66,0x3E,0x00, // 027 - G
+      0x66,0x66,0x66,0x7E,0x66,0x66,0x66,0x00, // 028 - H
+      0x7E,0x18,0x18,0x18,0x18,0x18,0x7E,0x00, // 029 - I
+      0x06,0x06,0x06,0x06,0x06,0x66,0x3C,0x00, // 02A - J
+      0x66,0x6C,0x78,0x78,0x6C,0x66,0x66,0x00, // 02B - K
+      0x60,0x60,0x60,0x60,0x60,0x60,0x7E,0x00, // 02C - L
+      0x63,0x77,0x7F,0x6B,0x63,0x63,0x63,0x00, // 02D - M
+      0x66,0x76,0x7E,0x7E,0x6E,0x66,0x66,0x00, // 02E - N
+      0x3C,0x66,0x66,0x66,0x66,0x66,0x3C,0x00, // 02F - O
+      0x7C,0x66,0x66,0x66,0x7C,0x60,0x60,0x00, // 030 - P
+      0x3C,0x66,0x66,0x66,0x66,0x6C,0x36,0x00, // 031 - Q
+      0x7C,0x66,0x66,0x7C,0x6C,0x66,0x66,0x00, // 032 - R
+      0x3C,0x60,0x60,0x3C,0x06,0x06,0x3C,0x00, // 033 - S
+      0x7E,0x18,0x18,0x18,0x18,0x18,0x18,0x00, // 034 - T
+      0x66,0x66,0x66,0x66,0x66,0x66,0x7E,0x00, // 035 - U
+      0x66,0x66,0x66,0x66,0x66,0x3C,0x18,0x00, // 036 - V
+      0x63,0x63,0x63,0x6B,0x7F,0x77,0x63,0x00, // 037 - W
+      0x66,0x66,0x3C,0x3C,0x66,0x66,0x66,0x00, // 038 - X
+      0x66,0x66,0x66,0x3C,0x18,0x18,0x18,0x00, // 039 - Y
+      0x7E,0x0C,0x18,0x30,0x60,0x60,0x7E,0x00, // 03A - Z
       0x00,0x18,0x3C,0x7E,0x18,0x18,0x18,0x00, // 03B - стрелка вверх
       0x00,0x18,0x18,0x18,0x7E,0x3C,0x18,0x00, // 03C - стрелка вниз
       0x00,0x18,0x30,0x7E,0x30,0x18,0x00,0x00, // 03D - стрелка влево
@@ -1048,5 +1114,50 @@ namespace MM_Localization {
       0xCE,0xDB,0xDB,0xFB,0xDB,0xDB,0xCE,0x00, // 05E - Ю
       0x3E,0x66,0x66,0x66,0x3E,0x36,0x66,0x00, // 05F - Я
     };
+
+    private void btnReadFromOrig_Click(object sender, RoutedEventArgs e) {
+      textsViewModel.FillCollectionFromFile();
+    }
+
+    private void btnReadFromSave_Click(object sender, RoutedEventArgs e) {
+    }
+
+    private void btnSaveToSave_Click(object sender, RoutedEventArgs e) {
+      textsViewModel.SaveCollectionToFile();
+    }
+
+    private void btnSaveToOrig_Click(object sender, RoutedEventArgs e) {
+      // Помещаем шрифт в свободное место
+      Array.Copy(fontArr, 0, textsViewModel.bb, 0x0001180F, fontArr.Length);
+      //  и правим ссылку
+      Array.Copy(ShortToBB(0x0E5F), 0, textsViewModel.bb, 0x00000F05, 2);
+
+      foreach (text t in textsViewModel.dt)
+        if (t.newAddrInSeg != 0) {
+          for (int i = 0; i < t.localizedText.Length; i++) {
+            textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + i] = convertChar(t.localizedText[i]);
+          }
+          textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + t.localizedText.Length] = 0x00;
+          Array.Copy(ShortToBB(t.newAddrInSeg), 0, textsViewModel.bb, t.addrOfAddr, 2);
+        }
+
+      File.WriteAllBytes(textsViewModel.fPath + ".L", textsViewModel.bb);
+    }
+
+    private void OpenCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+
+    }
+
+    private void SaveCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+
+    }
+
+    private void SaveAsCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+
+    }
+
+    private void ExitCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+      Application.Current.Shutdown();
+    }
   }
 }
