@@ -8,7 +8,7 @@
         KeyDown="Window_KeyDown"
         Title="Options"
         WindowStyle="ToolWindow"
-        Width="400" MinWidth="400"
+        Width="800" MinWidth="400"
         Height="150" MinHeight="150" MaxHeight="150">
   <Grid>
     <Grid.RowDefinitions>

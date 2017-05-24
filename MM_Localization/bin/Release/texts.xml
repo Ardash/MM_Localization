@@ -1,0 +1,4824 @@
+<?xml version="1.0"?>
+<ArrayOfText xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text>
+    <addrOfAddr>1522</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>98</addrInSeg>
+    <originalText> INSERT MIGHT &amp; MAGIC DISK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> INSERT MIGHT &amp; MAGIC DISK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>1541</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>125</addrInSeg>
+    <originalText>IN DRIVE A AND PRESS 'ENTER'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IN DRIVE A AND PRESS 'ENTER'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>7299</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3348</addrInSeg>
+    <originalText>  ARE YOU READY? </originalText>
+    <newAddrInSeg>3348</newAddrInSeg>
+    <localizedText>   Вы готовы?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>7318</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3366</addrInSeg>
+    <originalText>THEN PRESS ENTER!</originalText>
+    <newAddrInSeg>3366</newAddrInSeg>
+    <localizedText> Нажмите Enter!  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10523</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3502</addrInSeg>
+    <originalText>NO RUMORS TODAY.</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO RUMORS TODAY.</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10283</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3519</addrInSeg>
+    <originalText>GREAT STUFF!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GREAT STUFF!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10271</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3532</addrInSeg>
+    <originalText>YOU FEEL SICK!!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU FEEL SICK!!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10362</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3548</addrInSeg>
+    <originalText>HAVE A DRINK, THEN WE'LL TALK.</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HAVE A DRINK, THEN WE'LL TALK.</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10392</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3579</addrInSeg>
+    <originalText>THANKS A LOT, HAVE ANOTHER ROUND!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THANKS A LOT, HAVE ANOTHER ROUND!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10585</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3613</addrInSeg>
+    <originalText>YOU LOOK TERRIBLE, GO SEE THE CLERICS.</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU LOOK TERRIBLE, GO SEE THE CLERICS.</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71679</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3679</addrInSeg>
+    <originalText>SERVICES RENDERED, SECRETS UNFOLD
+THE BROTHERS TOGETHER
+LEAD TO TREASURES UNTOLD
+
+FIVE TOWNS YOU MUST TRAVEL
+FOR THIS QUEST TO UNRAVEL</originalText>
+    <newAddrInSeg>19724</newAddrInSeg>
+    <localizedText>TEST0</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71681</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>3814</addrInSeg>
+    <originalText>SEEK THE WIZARD RANALOU
+IN HIS LAIR AT THE KORIN BLUFFS
+SIX CASTLES HE WILL SEND YOU TO
+BUT DOOM WILL BE QUITE TOUGH!
+CRUELTY AND KINDNESS
+MEASURED THROUGHOUT
+JUDGEMENT DAY IS THEN SOUGHT OUT</originalText>
+    <newAddrInSeg>19732</newAddrInSeg>
+    <localizedText>TEST1</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71683</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4006</addrInSeg>
+    <originalText>ONE BY WATER, ONE BY LAND
+ONE BY AIR, AND ONE BY SAND
+THE WHEEL OF LUCK
+WILL FAVORABLY PAY, THE MORE OF THESE
+MENACING BEASTS YOU SLAY!
+ALTHOUGH WISHES MAY COME TRUE
+ALL THE BEASTS WILL BECOME ANEW</originalText>
+    <newAddrInSeg>19740</newAddrInSeg>
+    <localizedText>TEST2</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71685</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4204</addrInSeg>
+    <originalText>THERE ARE MANY DUNGEONS LIKE ME
+FIND THE RIGHT PAIR
+AND YOU'LL DISCOVER THE KEY
+THE ANCIENT SEER OG HAS LOST HIS SIGHT
+THE IDOLS WILL HELP TO END HIS PLIGHT</originalText>
+    <newAddrInSeg>19748</newAddrInSeg>
+    <localizedText>TEST3</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71687</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4361</addrInSeg>
+    <originalText>IN HONOR OF CORAK...
+
+FOR HIS MAPPING EXPEDITION
+OF THE LAND OF VARN AND REDISCOVERY
+OF THE LOST TOWN OF DUSK</originalText>
+    <newAddrInSeg>19756</newAddrInSeg>
+    <localizedText>TEST4</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71689</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4471</addrInSeg>
+    <originalText>IN HONOR OF GALA...
+
+FOR HER BRAVE ATTEMPT TO WORK WITH THE
+SAVAGES OF THE VOLCANIC ISLES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IN HONOR OF GALA...
+
+FOR HER BRAVE ATTEMPT TO WORK WITH THE
+SAVAGES OF THE VOLCANIC ISLES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71691</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4561</addrInSeg>
+    <originalText>IN MEMORY OF A TIME LONG AGO...
+
+BEFORE THE DAYS WHEN THE TOWNS
+MOVED UNDERGROUND, DRAGONS WERE
+FEW AND FAR BETWEEN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IN MEMORY OF A TIME LONG AGO...
+
+BEFORE THE DAYS WHEN THE TOWNS
+MOVED UNDERGROUND, DRAGONS WERE
+FEW AND FAR BETWEEN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>71693</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4677</addrInSeg>
+    <originalText>THIS BEAST ONCE ROAMED THE
+ENCHANTED FOREST AND NOW RULES
+A GREAT FORTRESS THERE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THIS BEAST ONCE ROAMED THE
+ENCHANTED FOREST AND NOW RULES
+A GREAT FORTRESS THERE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10624</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4758</addrInSeg>
+    <originalText>ON THIS STONE STATUE OF </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ON THIS STONE STATUE OF </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10655</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4783</addrInSeg>
+    <originalText>A PLAQUE READS...</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A PLAQUE READS...</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72817</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4817</addrInSeg>
+    <originalText>A HUMAN KNIGHT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A HUMAN KNIGHT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72819</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4832</addrInSeg>
+    <originalText>AN ELVEN WIZARD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AN ELVEN WIZARD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72821</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4848</addrInSeg>
+    <originalText>A GNOME ROBBER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A GNOME ROBBER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72823</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4863</addrInSeg>
+    <originalText>A DWARF PALADIN
+PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A DWARF PALADIN
+PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72825</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4919</addrInSeg>
+    <originalText>AN H-ORC ARCHER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AN H-ORC ARCHER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72827</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4935</addrInSeg>
+    <originalText>A HUMAN CLERIC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A HUMAN CLERIC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72829</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4950</addrInSeg>
+    <originalText>A BLUE DRAGON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A BLUE DRAGON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>72831</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4964</addrInSeg>
+    <originalText>A GRAY MINOTAUR</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A GRAY MINOTAUR</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8032</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>4990</addrInSeg>
+    <originalText>CONGRATULATIONS! YOU ARE NOW LEVEL </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CONGRATULATIONS! YOU ARE NOW LEVEL </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8088</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5026</addrInSeg>
+    <originalText>YOU GAINED </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU GAINED </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8134</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5038</addrInSeg>
+    <originalText>HIT POINTS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HIT POINTS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8160</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5050</addrInSeg>
+    <originalText>YOU GAINED NEW SPELLS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU GAINED NEW SPELLS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8202</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5083</addrInSeg>
+    <originalText>SPECIAL TODAY,ALL YOU CAN EAT! </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPECIAL TODAY,ALL YOU CAN EAT! </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8264</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5115</addrInSeg>
+    <originalText>GP/EA</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GP/EA</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8283</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5121</addrInSeg>
+    <originalText>WILL YOU PAY (Y/N)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WILL YOU PAY (Y/N)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8377</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5141</addrInSeg>
+    <originalText>NO GOLD, NO FOOD!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO GOLD, NO FOOD!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>8386</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5159</addrInSeg>
+    <originalText>THANK YOU, COME AGAIN!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THANK YOU, COME AGAIN!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9048</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5185</addrInSeg>
+    <originalText>THANK YOU!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THANK YOU!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9076</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5196</addrInSeg>
+    <originalText>*** TODAY YOU SHALL BE PROTECTED!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** TODAY YOU SHALL BE PROTECTED!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9787</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5237</addrInSeg>
+    <originalText>*** NOT ENOUGH GOLD ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NOT ENOUGH GOLD ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9777</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5261</addrInSeg>
+    <originalText>THANK YOU!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THANK YOU!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9821</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5272</addrInSeg>
+    <originalText>*** BACKPACK FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** BACKPACK FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9865</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5297</addrInSeg>
+    <originalText>*** CHECK CONDITION ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CHECK CONDITION ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10006</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5330</addrInSeg>
+    <originalText>'A'-'F' TO BUY
+(- = CANT USE)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'A'-'F' TO BUY
+(- = CANT USE)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10015</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5360</addrInSeg>
+    <originalText>'A'-'F' TO SELL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'A'-'F' TO SELL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>9913</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5376</addrInSeg>
+    <originalText>GOLD= </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOLD= </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10027</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5383</addrInSeg>
+    <originalText>'G' GATHER GOLD
+'#' OTHER CHAR</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'G' GATHER GOLD
+'#' OTHER CHAR</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10046</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5414</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10723</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5606</addrInSeg>
+    <originalText>A) BUY WEAPONS
+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A) BUY WEAPONS
+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10737</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5622</addrInSeg>
+    <originalText>B) BUY ARMOR
+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>B) BUY ARMOR
+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10751</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5636</addrInSeg>
+    <originalText>C) BUY MISC
+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>C) BUY MISC
+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10765</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5649</addrInSeg>
+    <originalText>D) SELL ITEM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>D) SELL ITEM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10807</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5662</addrInSeg>
+    <originalText>WEAPONS     PRICE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WEAPONS     PRICE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10960</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5680</addrInSeg>
+    <originalText>ARMOR      PRICE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ARMOR      PRICE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>10988</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5697</addrInSeg>
+    <originalText>MISC       PRICE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MISC       PRICE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11016</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5714</addrInSeg>
+    <originalText>BACKPACK     PRICE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BACKPACK     PRICE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11399</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5733</addrInSeg>
+    <originalText>NO WAY!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO WAY!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11336</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5741</addrInSeg>
+    <originalText>TRAINING FOR LEVEL </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TRAINING FOR LEVEL </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11746</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5761</addrInSeg>
+    <originalText>COST </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COST </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11798</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5767</addrInSeg>
+    <originalText>GOLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11817</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5772</addrInSeg>
+    <originalText>A) COMMENCE TRAINING</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A) COMMENCE TRAINING</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11885</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5793</addrInSeg>
+    <originalText>NEED </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NEED </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11949</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5799</addrInSeg>
+    <originalText>MORE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MORE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11968</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5804</addrInSeg>
+    <originalText>EXPERIENCE POINTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EXPERIENCE POINTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>11993</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5822</addrInSeg>
+    <originalText>SERVICE        COST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SERVICE        COST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12223</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5842</addrInSeg>
+    <originalText>A) RESTORE HEALTH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A) RESTORE HEALTH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12277</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>1735</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>12339</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5877</addrInSeg>
+    <originalText>C) RESTORE ALIGN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>C) RESTORE ALIGN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12417</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5894</addrInSeg>
+    <originalText>D) MAKE DONATION</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>D) MAKE DONATION</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12453</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5967</addrInSeg>
+    <originalText>----</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>----</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>73999</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>5993</addrInSeg>
+    <originalText>--TRAINING--</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>--TRAINING--</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>74001</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6006</addrInSeg>
+    <originalText>--MARKET--</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>--MARKET--</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>74003</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6017</addrInSeg>
+    <originalText>--TEMPLE--</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>--TEMPLE--</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>74005</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6028</addrInSeg>
+    <originalText>--BLACKSMITH--</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>--BLACKSMITH--</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>74007</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6043</addrInSeg>
+    <originalText>--TAVERN--</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>--TAVERN--</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12645</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6054</addrInSeg>
+    <originalText>A) HAVE A DRINK
+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A) HAVE A DRINK
+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12659</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6071</addrInSeg>
+    <originalText>B) TIP BARTENDER
+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>B) TIP BARTENDER
+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>12673</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6089</addrInSeg>
+    <originalText>C) LISTEN FOR RUMORS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>C) LISTEN FOR RUMORS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13519</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6115</addrInSeg>
+    <originalText>OPTIONS:  'A' ATTACK  'R' RETREAT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OPTIONS:  'A' ATTACK  'R' RETREAT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13537</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6149</addrInSeg>
+    <originalText>'B' BRIBE   'S' SURRENDER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'B' BRIBE   'S' SURRENDER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13438</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6175</addrInSeg>
+    <originalText>YOU SURPRISED A GROUP OF MONSTERS,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU SURPRISED A GROUP OF MONSTERS,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13456</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6210</addrInSeg>
+    <originalText>APPROACH (Y/N)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>APPROACH (Y/N)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13489</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6226</addrInSeg>
+    <originalText>THE MONSTERS SURPRISED YOU!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THE MONSTERS SURPRISED YOU!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14156</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6254</addrInSeg>
+    <originalText>COMBAT!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COMBAT!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13637</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6262</addrInSeg>
+    <originalText>NOWHERE TO RUN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOWHERE TO RUN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13677</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6277</addrInSeg>
+    <originalText>THE MONSTERS SURROUND YOU!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THE MONSTERS SURROUND YOU!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13744</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6304</addrInSeg>
+    <originalText>THE MONSTERS DON'T TAKE PRISONERS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THE MONSTERS DON'T TAKE PRISONERS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13874</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6339</addrInSeg>
+    <originalText>NO RESPONSE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO RESPONSE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13923</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6351</addrInSeg>
+    <originalText>GIVE UP ALL YOUR      (Y/N)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GIVE UP ALL YOUR      (Y/N)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13955</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6380</addrInSeg>
+    <originalText>GOLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13985</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6385</addrInSeg>
+    <originalText>GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13970</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6390</addrInSeg>
+    <originalText>FOOD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOOD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14048</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6395</addrInSeg>
+    <originalText>NOT ENOUGH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOT ENOUGH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>13327</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6406</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>14182</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6416</addrInSeg>
+    <originalText>*** ALIGNMENT SLIPS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** ALIGNMENT SLIPS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14223</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6440</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>14995</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6465</addrInSeg>
+    <originalText>IT OPENS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IT OPENS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15024</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6484</addrInSeg>
+    <originalText>EACH SHARE IS WORTH </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EACH SHARE IS WORTH </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15126</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6505</addrInSeg>
+    <originalText>GOLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15292</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6510</addrInSeg>
+    <originalText>FOUND </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOUND </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15651</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6510</addrInSeg>
+    <originalText>FOUND </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOUND </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15341</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6517</addrInSeg>
+    <originalText>GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14805</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6524</addrInSeg>
+    <originalText>OPTIONS:           1) OPEN IT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OPTIONS:           1) OPEN IT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14823</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6554</addrInSeg>
+    <originalText>2) FIND/REMOVE TRAP</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>2) FIND/REMOVE TRAP</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14844</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6574</addrInSeg>
+    <originalText>3) DETECT MAGIC/TRAP</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>3) DETECT MAGIC/TRAP</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15781</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6595</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>15938</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6612</addrInSeg>
+    <originalText>MAGIC (N)  TRAP (N)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC (N)  TRAP (N)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>16027</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6632</addrInSeg>
+    <originalText>*** BAD CLASS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** BAD CLASS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>16063</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6650</addrInSeg>
+    <originalText>*** NO SPELL POINTS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NO SPELL POINTS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>16204</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6674</addrInSeg>
+    <originalText>*** CHECK CONDITION ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CHECK CONDITION ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>16107</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6698</addrInSeg>
+    <originalText>WHO WILL TRY '1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHO WILL TRY '1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>14762</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6717</addrInSeg>
+    <originalText> CLOTH SACK </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> CLOTH SACK </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>16246</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>6925</addrInSeg>
+    <originalText>DARTS!! A SWARM OF POISONOUS DARTS
+        FILL THE AIR!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DARTS!! A SWARM OF POISONOUS DARTS
+        FILL THE AIR!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75650</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7666</addrInSeg>
+    <originalText>` COMMANDS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>` COMMANDS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75652</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7677</addrInSeg>
+    <originalText>`</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75654</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7679</addrInSeg>
+    <originalText>`[ FORWARD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`[ FORWARD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75656</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7690</addrInSeg>
+    <originalText>`\ BACK   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`\ BACK   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75658</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7701</addrInSeg>
+    <originalText>`] TURN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`] TURN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75660</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7709</addrInSeg>
+    <originalText>`   LEFT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`   LEFT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75662</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7718</addrInSeg>
+    <originalText>`^ TURN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`^ TURN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75666</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7736</addrInSeg>
+    <originalText>`O ORDER  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`O ORDER  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75668</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7747</addrInSeg>
+    <originalText>`P PROTECT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`P PROTECT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75670</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7758</addrInSeg>
+    <originalText>`R REST   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`R REST   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75672</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7769</addrInSeg>
+    <originalText>`S SEARCH </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`S SEARCH </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75674</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7780</addrInSeg>
+    <originalText>`B BASH   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`B BASH   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75676</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7791</addrInSeg>
+    <originalText>`U UNLOCK </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`U UNLOCK </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75678</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7802</addrInSeg>
+    <originalText>`Q QUIKREF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`Q QUIKREF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75680</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7813</addrInSeg>
+    <originalText>`# VIEW CH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>`# VIEW CH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75682</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8288</addrInSeg>
+    <originalText>GUARD DOG</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GUARD DOG</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>18439</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7904</addrInSeg>
+    <originalText> ENCOUNTER! </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> ENCOUNTER! </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>20917</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7917</addrInSeg>
+    <originalText>  BARRIER!  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>  BARRIER!  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>18843</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7930</addrInSeg>
+    <originalText> RE-ORDER PARTY  NEW  1  2  3  4  5  6</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> RE-ORDER PARTY  NEW  1  2  3  4  5  6</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>18862</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7969</addrInSeg>
+    <originalText>OLD ^</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OLD ^</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75991</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7987</addrInSeg>
+    <originalText>   SOLID!   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>   SOLID!   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75993</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8000</addrInSeg>
+    <originalText>   LOCKED!  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>   LOCKED!  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75995</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8013</addrInSeg>
+    <originalText> TOO DENSE! </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> TOO DENSE! </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75999</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8039</addrInSeg>
+    <originalText> ROUGH SEAS </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> ROUGH SEAS </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76001</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8052</addrInSeg>
+    <originalText> TOO WINDY! </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> TOO WINDY! </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76003</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8224</addrInSeg>
+    <originalText>SON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19146</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8066</addrInSeg>
+    <originalText>PROTECT:  SPELLS CURRENTLY ACTIVE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PROTECT:  SPELLS CURRENTLY ACTIVE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19358</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8100</addrInSeg>
+    <originalText>PROTECTION FROM:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PROTECTION FROM:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19331</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8117</addrInSeg>
+    <originalText>TO ATTACKS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TO ATTACKS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>18881</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8128</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19426</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8128</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19697</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8128</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19446</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8145</addrInSeg>
+    <originalText>VOLUME: ON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>VOLUME: ON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19463</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8156</addrInSeg>
+    <originalText>VOLUME: OFF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>VOLUME: OFF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76186</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8206</addrInSeg>
+    <originalText>FEAR</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FEAR</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76188</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8211</addrInSeg>
+    <originalText>COLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76190</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8216</addrInSeg>
+    <originalText>FIRE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIRE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76192</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8221</addrInSeg>
+    <originalText>POISON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POISON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76194</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8228</addrInSeg>
+    <originalText>ACID</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ACID</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76196</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8233</addrInSeg>
+    <originalText>ELEC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ELEC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76198</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8238</addrInSeg>
+    <originalText>MAGIC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76200</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8244</addrInSeg>
+    <originalText>LIGHT (</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LIGHT (</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76202</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8252</addrInSeg>
+    <originalText>LEATHER SKIN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LEATHER SKIN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76204</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8265</addrInSeg>
+    <originalText>LEVITATE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LEVITATE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76206</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8274</addrInSeg>
+    <originalText>WALK ON WATER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WALK ON WATER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76208</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8288</addrInSeg>
+    <originalText>GUARD DOG</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GUARD DOG</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76210</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8298</addrInSeg>
+    <originalText>PSYCHIC PROTECTION</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PSYCHIC PROTECTION</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76212</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8317</addrInSeg>
+    <originalText>BLESS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BLESS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76214</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8323</addrInSeg>
+    <originalText>INVISIBILITY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INVISIBILITY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76216</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8336</addrInSeg>
+    <originalText>SHIELD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SHIELD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76218</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8343</addrInSeg>
+    <originalText>POWER SHIELD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POWER SHIELD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>76220</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8356</addrInSeg>
+    <originalText>*** CURSED -</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CURSED -</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19513</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8369</addrInSeg>
+    <originalText>SEARCH:  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SEARCH:  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19540</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8379</addrInSeg>
+    <originalText>NOTHING</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOTHING</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19551</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8387</addrInSeg>
+    <originalText>YOU FOUND...</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOU FOUND...</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19659</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8400</addrInSeg>
+    <originalText>WHO WILL TRY '1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHO WILL TRY '1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19880</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8419</addrInSeg>
+    <originalText>UNLOCK FAILED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>UNLOCK FAILED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>19933</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8433</addrInSeg>
+    <originalText>SUCCESS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SUCCESS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>20152</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8442</addrInSeg>
+    <originalText>OOPS A TRAP!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OOPS A TRAP!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>20452</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8455</addrInSeg>
+    <originalText> CAN'T SWIM </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> CAN'T SWIM </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21190</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8468</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>18458</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8470</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>20944</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8470</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>21181</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8483</addrInSeg>
+    <originalText> PLEASE WAIT  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> PLEASE WAIT  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21547</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8520</addrInSeg>
+    <originalText>MIGHT AND MAGIC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MIGHT AND MAGIC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21584</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8536</addrInSeg>
+    <originalText>SECRET OF THE INNER SANCTUM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SECRET OF THE INNER SANCTUM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21607</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8564</addrInSeg>
+    <originalText>OPTIONS</originalText>
+    <newAddrInSeg>8564</newAddrInSeg>
+    <localizedText>Выберите</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21630</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8572</addrInSeg>
+    <originalText>-------</originalText>
+    <newAddrInSeg>8573</newAddrInSeg>
+    <localizedText>--------</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21653</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8580</addrInSeg>
+    <originalText>'C'.......CREATE NEW CHARACTERS</originalText>
+    <newAddrInSeg>8582</newAddrInSeg>
+    <localizedText>'C'.......Создать персонажей</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24032</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8590</addrInSeg>
+    <originalText>CREATE NEW CHARACTERS</originalText>
+    <newAddrInSeg>8592</newAddrInSeg>
+    <localizedText>Создать персонажей</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21676</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8612</addrInSeg>
+    <originalText>'V'.......VIEW ALL CHARACTERS</originalText>
+    <newAddrInSeg>8612</newAddrInSeg>
+    <localizedText>'V'.......Все персонажи</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24281</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8622</addrInSeg>
+    <originalText>VIEW ALL CHARACTERS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>VIEW ALL CHARACTERS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21699</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8642</addrInSeg>
+    <originalText>'#'.......GO TO TOWN</originalText>
+    <newAddrInSeg>8642</newAddrInSeg>
+    <localizedText>'#'.......В город </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21720</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8663</addrInSeg>
+    <originalText>COPR. 1986,1987-JON VAN CANEGHEM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COPR. 1986,1987-JON VAN CANEGHEM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21742</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8696</addrInSeg>
+    <originalText>ALL RIGHTS RESERVED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ALL RIGHTS RESERVED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24234</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8716</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>8716</newAddrInSeg>
+    <localizedText>'ESC' Назад</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22095</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8733</addrInSeg>
+    <originalText>'ESC' START OVER</originalText>
+    <newAddrInSeg>8733</newAddrInSeg>
+    <localizedText>'ESC' Заново    </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23813</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8753</addrInSeg>
+    <originalText>1) KNIGHT  </originalText>
+    <newAddrInSeg>8753</newAddrInSeg>
+    <localizedText>1) Рыцарь  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21882</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8756</addrInSeg>
+    <originalText>KNIGHT  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>KNIGHT  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24494</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8756</addrInSeg>
+    <originalText>KNIGHT  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>KNIGHT  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23855</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8766</addrInSeg>
+    <originalText>2) PALADIN </originalText>
+    <newAddrInSeg>8766</newAddrInSeg>
+    <localizedText>2) Паладин </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21895</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8769</addrInSeg>
+    <originalText>PALADIN </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PALADIN </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24510</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8769</addrInSeg>
+    <originalText>PALADIN </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PALADIN </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23896</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8778</addrInSeg>
+    <originalText>3) ARCHER  </originalText>
+    <newAddrInSeg>8778</newAddrInSeg>
+    <localizedText>3) Лучник  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21908</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8781</addrInSeg>
+    <originalText>ARCHER  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ARCHER  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24526</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8781</addrInSeg>
+    <originalText>ARCHER  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ARCHER  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23930</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8790</addrInSeg>
+    <originalText>4) CLERIC  </originalText>
+    <newAddrInSeg>8790</newAddrInSeg>
+    <localizedText>4) Клерик  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21921</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8793</addrInSeg>
+    <originalText>CLERIC  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CLERIC  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24542</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8793</addrInSeg>
+    <originalText>CLERIC  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CLERIC  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23964</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8802</addrInSeg>
+    <originalText>5) SORCERER</originalText>
+    <newAddrInSeg>8802</newAddrInSeg>
+    <localizedText>5) Чародей </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21934</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8805</addrInSeg>
+    <originalText>SORCERER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SORCERER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24558</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8805</addrInSeg>
+    <originalText>SORCERER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SORCERER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>23991</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8814</addrInSeg>
+    <originalText>6) ROBBER  </originalText>
+    <newAddrInSeg>8814</newAddrInSeg>
+    <localizedText>6) Вор     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21943</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8817</addrInSeg>
+    <originalText>ROBBER  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ROBBER  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24574</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8817</addrInSeg>
+    <originalText>ROBBER  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ROBBER  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21866</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8826</addrInSeg>
+    <originalText>CLASS.=</originalText>
+    <newAddrInSeg>8826</newAddrInSeg>
+    <localizedText>Класс.=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22166</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8834</addrInSeg>
+    <originalText>RACE..=</originalText>
+    <newAddrInSeg>8834</newAddrInSeg>
+    <localizedText>Раса..=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22469</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8842</addrInSeg>
+    <originalText>ALGN..=</originalText>
+    <newAddrInSeg>8842</newAddrInSeg>
+    <localizedText>Мирвзр=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22664</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8850</addrInSeg>
+    <originalText>SEX...=</originalText>
+    <newAddrInSeg>8850</newAddrInSeg>
+    <localizedText>Пол...=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22740</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8858</addrInSeg>
+    <originalText>NAME:         </originalText>
+    <newAddrInSeg>8858</newAddrInSeg>
+    <localizedText>Имя:          </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21979</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8873</addrInSeg>
+    <originalText>1) HUMAN    </originalText>
+    <newAddrInSeg>8873</newAddrInSeg>
+    <localizedText>1) Человек  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22182</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8876</addrInSeg>
+    <originalText>HUMAN    </originalText>
+    <newAddrInSeg>8876</newAddrInSeg>
+    <localizedText>Человек  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>21996</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8886</addrInSeg>
+    <originalText>2) ELF      </originalText>
+    <newAddrInSeg>8886</newAddrInSeg>
+    <localizedText>2) Эльф      </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22195</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8889</addrInSeg>
+    <originalText>ELF      </originalText>
+    <newAddrInSeg>8889</newAddrInSeg>
+    <localizedText>Эльф     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22013</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8899</addrInSeg>
+    <originalText>3) DWARF    </originalText>
+    <newAddrInSeg>8899</newAddrInSeg>
+    <localizedText>3) Дварф    </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22224</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8902</addrInSeg>
+    <originalText>DWARF    </originalText>
+    <newAddrInSeg>8902</newAddrInSeg>
+    <localizedText>Дварф    </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22030</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8912</addrInSeg>
+    <originalText>4) GNOME    </originalText>
+    <newAddrInSeg>8912</newAddrInSeg>
+    <localizedText>4) Гном     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22253</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8915</addrInSeg>
+    <originalText>GNOME    </originalText>
+    <newAddrInSeg>8915</newAddrInSeg>
+    <localizedText>Гном     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22047</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8925</addrInSeg>
+    <originalText>5) HALF-ORC </originalText>
+    <newAddrInSeg>8925</newAddrInSeg>
+    <localizedText>5) Полуорк  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22278</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8928</addrInSeg>
+    <originalText>HALF-ORC </originalText>
+    <newAddrInSeg>8928</newAddrInSeg>
+    <localizedText>Полуорк  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22345</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8938</addrInSeg>
+    <originalText>1) GOOD     </originalText>
+    <newAddrInSeg>8938</newAddrInSeg>
+    <localizedText>1) Добрый   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22485</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8941</addrInSeg>
+    <originalText>GOOD     </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOOD     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22362</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8951</addrInSeg>
+    <originalText>2) NEUT     </originalText>
+    <newAddrInSeg>8951</newAddrInSeg>
+    <localizedText>2) Нейтрал  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22498</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8954</addrInSeg>
+    <originalText>NEUT     </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NEUT     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22379</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8964</addrInSeg>
+    <originalText>3) EVIL     </originalText>
+    <newAddrInSeg>8964</newAddrInSeg>
+    <localizedText>3) Злой     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22507</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8967</addrInSeg>
+    <originalText>EVIL     </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EVIL     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22543</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8977</addrInSeg>
+    <originalText>1) MALE     </originalText>
+    <newAddrInSeg>8977</newAddrInSeg>
+    <localizedText>1) Мужчина  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22680</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8980</addrInSeg>
+    <originalText>MALE     </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MALE     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22560</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8990</addrInSeg>
+    <originalText>2) FEMALE   </originalText>
+    <newAddrInSeg>8990</newAddrInSeg>
+    <localizedText>2) Женщина  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22689</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>8993</addrInSeg>
+    <originalText>FEMALE   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FEMALE   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22071</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9003</addrInSeg>
+    <originalText>SELECT A RACE </originalText>
+    <newAddrInSeg>9003</newAddrInSeg>
+    <localizedText>Выберите расу </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22421</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9018</addrInSeg>
+    <originalText>SELECT ALIGNMENT</originalText>
+    <newAddrInSeg>9018</newAddrInSeg>
+    <localizedText>Мировоззрение   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22585</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9035</addrInSeg>
+    <originalText>  SELECT A SEX  </originalText>
+    <newAddrInSeg>9035</newAddrInSeg>
+    <localizedText>  Выберите пол  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22925</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9052</addrInSeg>
+    <originalText>SAVE CHARACTER</originalText>
+    <newAddrInSeg>9052</newAddrInSeg>
+    <localizedText>Сохр персонажа</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>22948</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9067</addrInSeg>
+    <originalText>     (Y/N)?     </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>     (Y/N)?     </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25707</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9084</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22118</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9092</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22781</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9092</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>24888</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9092</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>25061</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9092</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>25648</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9092</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>21959</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>34875</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22326</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22396</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22524</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22706</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22723</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>22802</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>24005</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9096</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>24662</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9172</addrInSeg>
+    <originalText>'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24686</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9178</addrInSeg>
+    <originalText>' TO VIEW A CHARACTER</originalText>
+    <newAddrInSeg>9178</newAddrInSeg>
+    <localizedText>' Просмотр персонажа </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24586</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9200</addrInSeg>
+    <originalText>NONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24796</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9205</addrInSeg>
+    <originalText>(CTRL)-'N' RE-NAME CHARACTER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(CTRL)-'N' RE-NAME CHARACTER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24816</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9234</addrInSeg>
+    <originalText>(CTRL)-'D' DELETE CHARACTER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(CTRL)-'D' DELETE CHARACTER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25041</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9262</addrInSeg>
+    <originalText>    ARE YOU SURE (Y/N)?          </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>    ARE YOU SURE (Y/N)?          </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24868</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9296</addrInSeg>
+    <originalText>NAME: _                       </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NAME: _                       </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24211</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9327</addrInSeg>
+    <originalText>*** ROSTER IS FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** ROSTER IS FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24057</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9372</addrInSeg>
+    <originalText>INTELLECT...=</originalText>
+    <newAddrInSeg>9372</newAddrInSeg>
+    <localizedText>Интеллект...=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24078</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9386</addrInSeg>
+    <originalText>MIGHT.......=</originalText>
+    <newAddrInSeg>9386</newAddrInSeg>
+    <localizedText>Сила........=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24099</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9400</addrInSeg>
+    <originalText>PERSONALITY.=</originalText>
+    <newAddrInSeg>9400</newAddrInSeg>
+    <localizedText>Сила духа...=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24120</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9414</addrInSeg>
+    <originalText>ENDURANCE...=</originalText>
+    <newAddrInSeg>9414</newAddrInSeg>
+    <localizedText>Выносливость=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24141</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9428</addrInSeg>
+    <originalText>SPEED.......=      SELECT A CLASS</originalText>
+    <newAddrInSeg>9428</newAddrInSeg>
+    <localizedText>Скорость....=      Выберите класс</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24162</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9462</addrInSeg>
+    <originalText>ACCURACY....=          (1-6)</originalText>
+    <newAddrInSeg>9462</newAddrInSeg>
+    <localizedText>Меткость....=          (1-6)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>24183</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9491</addrInSeg>
+    <originalText>LUCK........=     'ENT' TO RE-ROLL</originalText>
+    <newAddrInSeg>9491</newAddrInSeg>
+    <localizedText>Удача.......=     'ENTER' переброс</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26490</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9528</addrInSeg>
+    <originalText>+--------------------------------------+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>+--------------------------------------+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26641</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9528</addrInSeg>
+    <originalText>+--------------------------------------+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>+--------------------------------------+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26509</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9569</addrInSeg>
+    <originalText>THE SHADOW OF DEATH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>THE SHADOW OF DEATH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26531</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9589</addrInSeg>
+    <originalText>HAS FALLEN UPON YOUR PARTY!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HAS FALLEN UPON YOUR PARTY!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26553</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9617</addrInSeg>
+    <originalText>FORTUNATELY, YOU MAY RENEW</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FORTUNATELY, YOU MAY RENEW</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26575</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9644</addrInSeg>
+    <originalText>YOUR QUEST FROM THE LAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>YOUR QUEST FROM THE LAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26597</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9669</addrInSeg>
+    <originalText>INN IN WHICH YOU STAYED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INN IN WHICH YOU STAYED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26619</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9693</addrInSeg>
+    <originalText>BY PRESSING 'ENTER'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BY PRESSING 'ENTER'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25698</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9713</addrInSeg>
+    <originalText>*** PARTY IS FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** PARTY IS FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25177</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9735</addrInSeg>
+    <originalText>) INN OF </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>) INN OF </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25200</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9745</addrInSeg>
+    <originalText>SORPIGAL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SORPIGAL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25213</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9754</addrInSeg>
+    <originalText>PORTSMITH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PORTSMITH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25226</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9764</addrInSeg>
+    <originalText>ALGARY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ALGARY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25239</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9771</addrInSeg>
+    <originalText>DUSK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DUSK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25252</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9776</addrInSeg>
+    <originalText>ERLIQUIN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ERLIQUIN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25309</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9785</addrInSeg>
+    <originalText>AVAILABLE CHARACTERS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AVAILABLE CHARACTERS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25343</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9785</addrInSeg>
+    <originalText>AVAILABLE CHARACTERS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AVAILABLE CHARACTERS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25552</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9806</addrInSeg>
+    <originalText>'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25567</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9812</addrInSeg>
+    <originalText>' TO VIEW</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>' TO VIEW</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25587</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9822</addrInSeg>
+    <originalText>(CTRL)-'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(CTRL)-'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25602</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9835</addrInSeg>
+    <originalText>' ADD/REMOVE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>' ADD/REMOVE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>25657</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9848</addrInSeg>
+    <originalText>'X' EXIT INN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'X' EXIT INN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27246</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9863</addrInSeg>
+    <originalText>NONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27336</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9863</addrInSeg>
+    <originalText>NONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27439</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9863</addrInSeg>
+    <originalText>NONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27211</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9868</addrInSeg>
+    <originalText>GOOD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOOD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27500</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9868</addrInSeg>
+    <originalText>GOOD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOOD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27224</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9873</addrInSeg>
+    <originalText>NEUT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NEUT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27237</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9878</addrInSeg>
+    <originalText>EVIL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EVIL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27275</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9883</addrInSeg>
+    <originalText>HUMAN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HUMAN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27288</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9889</addrInSeg>
+    <originalText>ELF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ELF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27301</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9893</addrInSeg>
+    <originalText>DWARF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DWARF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27314</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9899</addrInSeg>
+    <originalText>GNOME</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GNOME</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27327</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9905</addrInSeg>
+    <originalText>H-ORC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>H-ORC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27365</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9911</addrInSeg>
+    <originalText>KNIGHT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>KNIGHT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27378</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9918</addrInSeg>
+    <originalText>PALADIN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PALADIN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27391</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9926</addrInSeg>
+    <originalText>ARCHER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ARCHER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27404</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9933</addrInSeg>
+    <originalText>CLERIC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CLERIC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27417</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9940</addrInSeg>
+    <originalText>SORCERER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SORCERER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27430</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9949</addrInSeg>
+    <originalText>ROBBER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ROBBER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27518</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9956</addrInSeg>
+    <originalText>ERADICATED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ERADICATED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27539</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9967</addrInSeg>
+    <originalText>DEAD,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DEAD,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26786</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>65509</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>27584</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9980</addrInSeg>
+    <originalText>UNCONSCIOUS,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>UNCONSCIOUS,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27599</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>9993</addrInSeg>
+    <originalText>PARALYZED,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PARALYZED,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27614</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10004</addrInSeg>
+    <originalText>POISONED,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POISONED,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27629</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10014</addrInSeg>
+    <originalText>DISEASED,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DISEASED,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27644</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10024</addrInSeg>
+    <originalText>SILENCED,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SILENCED,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27659</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10034</addrInSeg>
+    <originalText>BLINDED,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BLINDED,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27674</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10043</addrInSeg>
+    <originalText>ASLEEP,</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ASLEEP,</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27471</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10051</addrInSeg>
+    <originalText>COND=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COND=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27766</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10057</addrInSeg>
+    <originalText>INT=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INT=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27795</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10062</addrInSeg>
+    <originalText>LEVEL=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LEVEL=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27824</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10069</addrInSeg>
+    <originalText>AGE=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AGE=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27853</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10074</addrInSeg>
+    <originalText>EXP=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EXP=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27908</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10079</addrInSeg>
+    <originalText>MGT=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MGT=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27940</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10084</addrInSeg>
+    <originalText>PER=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PER=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27969</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10089</addrInSeg>
+    <originalText>SP=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SP=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28070</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10093</addrInSeg>
+    <originalText>GEMS=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GEMS=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28113</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10099</addrInSeg>
+    <originalText>END=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>END=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28145</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10104</addrInSeg>
+    <originalText>SPD=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPD=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28174</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10109</addrInSeg>
+    <originalText>HP=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HP=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28240</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10113</addrInSeg>
+    <originalText>GOLD=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOLD=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28289</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10119</addrInSeg>
+    <originalText>ACY=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ACY=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28321</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10124</addrInSeg>
+    <originalText>LUC=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LUC=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28350</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10129</addrInSeg>
+    <originalText>AC=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AC=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27012</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10133</addrInSeg>
+    <originalText>FOOD=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOOD=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28379</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10133</addrInSeg>
+    <originalText>FOOD=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOOD=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28427</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10139</addrInSeg>
+    <originalText>-----&lt;EQUIPPED&gt;----------&lt;BACKPACK&gt;-----</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>-----&lt;EQUIPPED&gt;----------&lt;BACKPACK&gt;-----</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>26707</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10180</addrInSeg>
+    <originalText>#     NAME        HIT PTS   SPELL PTS AC</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>#     NAME        HIT PTS   SPELL PTS AC</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27079</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10221</addrInSeg>
+    <originalText>'1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27094</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10227</addrInSeg>
+    <originalText>' TO VIEW</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>' TO VIEW</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>27113</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10237</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28667</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10256</addrInSeg>
+    <originalText>'Q' QUICK REF     'C' CAST    'R' REMOVE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'Q' QUICK REF     'C' CAST    'R' REMOVE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28688</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10297</addrInSeg>
+    <originalText> # VIEW OTHER     'D' DISCARD 'S' SHARE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> # VIEW OTHER     'D' DISCARD 'S' SHARE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28709</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10337</addrInSeg>
+    <originalText>                  'E' EQUIP   'T' TRADE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>                  'E' EQUIP   'T' TRADE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28730</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10377</addrInSeg>
+    <originalText>'ESC' TO GO BACK  'G' GATHER  'U' USE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK  'G' GATHER  'U' USE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28920</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10415</addrInSeg>
+    <originalText>*** TOO DANGEROUS TO REST HERE!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** TOO DANGEROUS TO REST HERE!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>28954</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10447</addrInSeg>
+    <originalText>REST HERE (Y/N)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>REST HERE (Y/N)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>29173</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10464</addrInSeg>
+    <originalText>REST COMPLETE: NO ENCOUNTERS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>REST COMPLETE: NO ENCOUNTERS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>30293</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10530</addrInSeg>
+    <originalText>DISCARD WHICH ITEM: 'A'-'F'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DISCARD WHICH ITEM: 'A'-'F'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>30569</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10559</addrInSeg>
+    <originalText>*** 40 FOOD MAX ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** 40 FOOD MAX ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>31092</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10579</addrInSeg>
+    <originalText>SHARE ALL:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SHARE ALL:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32745</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10602</addrInSeg>
+    <originalText>*** ALREADY HAVE WEAPON ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** ALREADY HAVE WEAPON ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32759</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10630</addrInSeg>
+    <originalText>*** AREADY HAVE MISSILE WEAPON ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** AREADY HAVE MISSILE WEAPON ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32773</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10665</addrInSeg>
+    <originalText>*** CANNOT WITH SHIELD ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CANNOT WITH SHIELD ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32787</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10692</addrInSeg>
+    <originalText>*** ALREADY WEARING ARMOR ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** ALREADY WEARING ARMOR ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32801</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10722</addrInSeg>
+    <originalText>*** CANNOT WITH TWO-HANDED WEAPON ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CANNOT WITH TWO-HANDED WEAPON ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32815</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10760</addrInSeg>
+    <originalText>*** ALREADY HAVE ONE ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** ALREADY HAVE ONE ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32829</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10785</addrInSeg>
+    <originalText>*** FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33304</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10785</addrInSeg>
+    <originalText>*** FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34269</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10785</addrInSeg>
+    <originalText>*** FULL ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** FULL ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32843</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10798</addrInSeg>
+    <originalText>*** NOT EQUIPPED ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NOT EQUIPPED ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35058</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10798</addrInSeg>
+    <originalText>*** NOT EQUIPPED ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NOT EQUIPPED ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32717</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10819</addrInSeg>
+    <originalText>*** WRONG ALIGNMENT ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** WRONG ALIGNMENT ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32731</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10843</addrInSeg>
+    <originalText>*** WRONG CLASS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** WRONG CLASS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>31892</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10863</addrInSeg>
+    <originalText>EQUIP WHICH ITEM: 'A'-'F'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EQUIP WHICH ITEM: 'A'-'F'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33467</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10869</addrInSeg>
+    <originalText>WHICH ITEM: 'A'-'F'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHICH ITEM: 'A'-'F'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38745</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10869</addrInSeg>
+    <originalText>WHICH ITEM: 'A'-'F'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHICH ITEM: 'A'-'F'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38969</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10869</addrInSeg>
+    <originalText>WHICH ITEM: 'A'-'F'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHICH ITEM: 'A'-'F'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33282</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10898</addrInSeg>
+    <originalText>*** CURSED ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** CURSED ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>32936</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10913</addrInSeg>
+    <originalText>REMOVE WHICH ITEM: '1'-'6'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>REMOVE WHICH ITEM: '1'-'6'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33955</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10941</addrInSeg>
+    <originalText>*** YOU DON'T HAVE THAT MUCH ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** YOU DON'T HAVE THAT MUCH ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33344</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10974</addrInSeg>
+    <originalText>TRADE WHICH:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TRADE WHICH:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33369</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10987</addrInSeg>
+    <originalText>4) ITEM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>4) ITEM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>33980</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>10995</addrInSeg>
+    <originalText>TRADE WITH: '1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TRADE WITH: '1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34105</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11013</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34125</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11030</addrInSeg>
+    <originalText>1) GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>1) GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34143</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11038</addrInSeg>
+    <originalText>2) GOLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>2) GOLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34161</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11046</addrInSeg>
+    <originalText>3) FOOD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>3) FOOD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>30413</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11054</addrInSeg>
+    <originalText>GATHER ALL:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GATHER ALL:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34444</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11075</addrInSeg>
+    <originalText>HOW MUCH: _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HOW MUCH: _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>34863</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11091</addrInSeg>
+    <originalText>USE WHICH 'A'-'F','1'-'6'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>USE WHICH 'A'-'F','1'-'6'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35032</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11118</addrInSeg>
+    <originalText>*** NO SPECIAL POWER ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NO SPECIAL POWER ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35087</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11143</addrInSeg>
+    <originalText>*** NO CHARGES LEFT ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NO CHARGES LEFT ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35284</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11167</addrInSeg>
+    <originalText>CAST SPELL:  LEVEL= _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAST SPELL:  LEVEL= _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35346</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11189</addrInSeg>
+    <originalText>NUMBER= _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NUMBER= _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35912</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11199</addrInSeg>
+    <originalText>*** DONE ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** DONE ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35779</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11212</addrInSeg>
+    <originalText>CAST ON: '1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAST ON: '1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35803</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11227</addrInSeg>
+    <originalText>'ENTER' TO CAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ENTER' TO CAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38312</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11227</addrInSeg>
+    <originalText>'ENTER' TO CAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ENTER' TO CAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38567</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11227</addrInSeg>
+    <originalText>'ENTER' TO CAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ENTER' TO CAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37180</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11437</addrInSeg>
+    <originalText>WHICH TOWN (1-5)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WHICH TOWN (1-5)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37419</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11458</addrInSeg>
+    <originalText>MAGIC (CHARGES)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC (CHARGES)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37677</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11474</addrInSeg>
+    <originalText>LOCATION: </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LOCATION: </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37704</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11485</addrInSeg>
+    <originalText>UNKNOWN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>UNKNOWN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37720</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11493</addrInSeg>
+    <originalText>IN TOWN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IN TOWN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37729</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11501</addrInSeg>
+    <originalText>IN CASTLE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IN CASTLE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37738</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11511</addrInSeg>
+    <originalText>OUTDOORS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OUTDOORS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37761</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11520</addrInSeg>
+    <originalText>0' UNDER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>0' UNDER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37775</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11529</addrInSeg>
+    <originalText>MAP SECTOR: </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAP SECTOR: </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37824</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11542</addrInSeg>
+    <originalText>SURFACE: X=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SURFACE: X=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37899</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11554</addrInSeg>
+    <originalText>INSIDE: X=</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INSIDE: X=</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>37952</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11565</addrInSeg>
+    <originalText>FACING: </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FACING: </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38210</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11576</addrInSeg>
+    <originalText>FLY TO (A-E): _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FLY TO (A-E): _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38266</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11592</addrInSeg>
+    <originalText>(1-4): _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(1-4): _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38466</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11603</addrInSeg>
+    <originalText>DIRECTION (N,E,S,W):_</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DIRECTION (N,E,S,W):_</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>38523</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11625</addrInSeg>
+    <originalText># OF SQUARES (0-9):_</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText># OF SQUARES (0-9):_</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35587</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11750</addrInSeg>
+    <originalText>*** NOT ENOUGH SPELL POINTS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NOT ENOUGH SPELL POINTS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35658</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11782</addrInSeg>
+    <originalText>*** NOT ENOUGH GEMS ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** NOT ENOUGH GEMS ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35738</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11806</addrInSeg>
+    <originalText>*** OUTDOOR ONLY ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** OUTDOOR ONLY ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35696</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11827</addrInSeg>
+    <originalText>*** COMBAT ONLY ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** COMBAT ONLY ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>35951</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11847</addrInSeg>
+    <originalText>*** MAGIC DOESN'T WORK HERE ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** MAGIC DOESN'T WORK HERE ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>39207</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>11879</addrInSeg>
+    <originalText>*** SPELL FAILED ***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>*** SPELL FAILED ***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41716</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12384</addrInSeg>
+    <originalText>! FOR DEFEATING THE MONSTERS !</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>! FOR DEFEATING THE MONSTERS !</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41735</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12415</addrInSeg>
+    <originalText>!   EACH SURVIVOR RECEIVES   !</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>!   EACH SURVIVOR RECEIVES   !</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41779</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12446</addrInSeg>
+    <originalText>EXPERIENCE POINTS.</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EXPERIENCE POINTS.</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41605</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12465</addrInSeg>
+    <originalText>+----------------------------+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>+----------------------------+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41798</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12465</addrInSeg>
+    <originalText>+----------------------------+</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>+----------------------------+</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>40274</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12502</addrInSeg>
+    <originalText>RUNS AWAY...</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>RUNS AWAY...</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>40476</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12516</addrInSeg>
+    <originalText>INFILTRATES THE RANKS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INFILTRATES THE RANKS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>40536</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12539</addrInSeg>
+    <originalText>ATTACKS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ATTACKS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43016</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12699</addrInSeg>
+    <originalText>WEAPON HAS NO EFFECT!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WEAPON HAS NO EFFECT!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44574</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12723</addrInSeg>
+    <originalText>AND </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AND </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44760</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12729</addrInSeg>
+    <originalText> ADVANCES!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> ADVANCES!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45135</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12750</addrInSeg>
+    <originalText>SOME MONSTERS REGENERATE!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SOME MONSTERS REGENERATE!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45177</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12776</addrInSeg>
+    <originalText>SOME MONSTERS OVERCOME SPELLS!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SOME MONSTERS OVERCOME SPELLS!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45347</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12807</addrInSeg>
+    <originalText> WAITS FOR AN OPENING.</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> WAITS FOR AN OPENING.</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45338</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12830</addrInSeg>
+    <originalText> SHOOTS AT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText> SHOOTS AT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43581</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12891</addrInSeg>
+    <originalText>TAKES FOOD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TAKES FOOD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43600</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12902</addrInSeg>
+    <originalText>INFLICTS DISEASE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INFLICTS DISEASE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43625</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12919</addrInSeg>
+    <originalText>CAUSES PARALYSIS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAUSES PARALYSIS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43650</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12936</addrInSeg>
+    <originalText>INDUCES POISON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INDUCES POISON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43730</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12951</addrInSeg>
+    <originalText>STEALS SOME GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STEALS SOME GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43772</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12968</addrInSeg>
+    <originalText>REDUCES ENDURANCE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>REDUCES ENDURANCE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43801</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>12986</addrInSeg>
+    <originalText>INDUCES SLEEP</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INDUCES SLEEP</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43898</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13000</addrInSeg>
+    <originalText>STEALS SOME GOLD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STEALS SOME GOLD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43946</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13017</addrInSeg>
+    <originalText>STEALS SOMETHING</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STEALS SOMETHING</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>43968</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13034</addrInSeg>
+    <originalText>CAUSES BLINDNESS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAUSES BLINDNESS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44019</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13051</addrInSeg>
+    <originalText>DRAINS LIFEFORCE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DRAINS LIFEFORCE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44173</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13051</addrInSeg>
+    <originalText>DRAINS LIFEFORCE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DRAINS LIFEFORCE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44068</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13068</addrInSeg>
+    <originalText>IS TURNED TO STONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS TURNED TO STONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44116</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13087</addrInSeg>
+    <originalText>CAUSES RAPID AGING</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAUSES RAPID AGING</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44222</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13106</addrInSeg>
+    <originalText>IS KILLED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS KILLED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>56057</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13106</addrInSeg>
+    <originalText>IS KILLED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS KILLED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44247</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13116</addrInSeg>
+    <originalText>INDUCES UNCONSCIOUSNESS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>INDUCES UNCONSCIOUSNESS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44295</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13140</addrInSeg>
+    <originalText>DRAINS MIGHT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DRAINS MIGHT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44376</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13153</addrInSeg>
+    <originalText>DRAINS ABILITIES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DRAINS ABILITIES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44413</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13170</addrInSeg>
+    <originalText>STEALS BACKPACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STEALS BACKPACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44480</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13186</addrInSeg>
+    <originalText>STEALS GOLD AND GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STEALS GOLD AND GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44518</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13207</addrInSeg>
+    <originalText>IS ERADICATED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS ERADICATED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44549</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13221</addrInSeg>
+    <originalText>DRAINS SPELL POINTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DRAINS SPELL POINTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45401</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13245</addrInSeg>
+    <originalText>WANDERS AIMLESSLY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>WANDERS AIMLESSLY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45546</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13327</addrInSeg>
+    <originalText>A CURSE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>A CURSE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45571</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13335</addrInSeg>
+    <originalText>ENERGY BLAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ENERGY BLAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45601</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13348</addrInSeg>
+    <originalText>FIRE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIRE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46018</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13348</addrInSeg>
+    <originalText>FIRE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIRE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45652</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13353</addrInSeg>
+    <originalText>BLINDNESS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BLINDNESS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45677</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13363</addrInSeg>
+    <originalText>SPRAYS POISON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPRAYS POISON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45703</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13377</addrInSeg>
+    <originalText>SPRAYS ACID</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPRAYS ACID</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45735</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13389</addrInSeg>
+    <originalText>SLEEP</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SLEEP</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45768</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13395</addrInSeg>
+    <originalText>PARALYZE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PARALYZE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45815</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13404</addrInSeg>
+    <originalText>DISPELL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DISPELL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45831</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13412</addrInSeg>
+    <originalText>LIGHTNING BOLT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LIGHTNING BOLT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45870</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13427</addrInSeg>
+    <originalText>STRANGE GAS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>STRANGE GAS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45896</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13439</addrInSeg>
+    <originalText>EXPLODE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EXPLODE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>45951</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13447</addrInSeg>
+    <originalText>FIRE BALL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIRE BALL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46075</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13457</addrInSeg>
+    <originalText>GAZES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GAZES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46099</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13463</addrInSeg>
+    <originalText>ACID ARROW</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ACID ARROW</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46135</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13474</addrInSeg>
+    <originalText>CALLS UPPON THE ELEMENTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CALLS UPPON THE ELEMENTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46165</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13499</addrInSeg>
+    <originalText>COLD BEAM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COLD BEAM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46204</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13509</addrInSeg>
+    <originalText>DANCING SWORD</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DANCING SWORD</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46234</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13523</addrInSeg>
+    <originalText>MAGIC DRAIN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC DRAIN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46307</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13535</addrInSeg>
+    <originalText>FINGER OF DEATH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FINGER OF DEATH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46335</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13551</addrInSeg>
+    <originalText>SUN RAY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SUN RAY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46369</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13559</addrInSeg>
+    <originalText>DISINTEGRATION</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DISINTEGRATION</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46394</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13574</addrInSeg>
+    <originalText>COMMANDS ENERGY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COMMANDS ENERGY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81607</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13605</addrInSeg>
+    <originalText>POISON</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POISON</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81609</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13612</addrInSeg>
+    <originalText>LIGHTNING</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>LIGHTNING</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81611</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13622</addrInSeg>
+    <originalText>FROST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FROST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81613</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13628</addrInSeg>
+    <originalText>SPIKES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPIKES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81615</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13635</addrInSeg>
+    <originalText>ACID</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ACID</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81617</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13640</addrInSeg>
+    <originalText>FIRE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIRE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81619</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13645</addrInSeg>
+    <originalText>ENERGY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ENERGY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46517</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13652</addrInSeg>
+    <originalText>SWARM</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SWARM</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46541</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13658</addrInSeg>
+    <originalText>BREATHES </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BREATHES </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46569</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13668</addrInSeg>
+    <originalText>FAILS TO CAST A SPELL</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FAILS TO CAST A SPELL</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46580</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13690</addrInSeg>
+    <originalText>CASTS </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CASTS </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46632</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13699</addrInSeg>
+    <originalText>TAKES </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TAKES </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46654</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13706</addrInSeg>
+    <originalText>POINT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POINT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>46698</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13712</addrInSeg>
+    <originalText>OF DAMAGE!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OF DAMAGE!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81739</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13745</addrInSeg>
+    <originalText>IS SLEPT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS SLEPT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81741</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13754</addrInSeg>
+    <originalText>IS BLINDED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS BLINDED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81743</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13765</addrInSeg>
+    <originalText>IS SILENCED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS SILENCED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81745</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13777</addrInSeg>
+    <originalText>IS DISEASED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS DISEASED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81747</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13789</addrInSeg>
+    <originalText>IS POISONED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS POISONED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81749</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13801</addrInSeg>
+    <originalText>IS PARALYZED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS PARALYZED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81751</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13814</addrInSeg>
+    <originalText>IS RENDERED UNCONSCIOUS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS RENDERED UNCONSCIOUS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>81753</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13106</addrInSeg>
+    <originalText>IS KILLED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS KILLED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47089</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13850</addrInSeg>
+    <originalText>IS NOT AFFECTED!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS NOT AFFECTED!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>56072</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13850</addrInSeg>
+    <originalText>IS NOT AFFECTED!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS NOT AFFECTED!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47325</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13867</addrInSeg>
+    <originalText>COMBAT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>COMBAT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>44859</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13874</addrInSeg>
+    <originalText>ROUND #:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ROUND #:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47345</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13874</addrInSeg>
+    <originalText>ROUND #:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ROUND #:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47368</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13883</addrInSeg>
+    <originalText>D DELAY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>D DELAY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47388</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13891</addrInSeg>
+    <originalText>P PROTECT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>P PROTECT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47408</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13901</addrInSeg>
+    <originalText>Q QUICKREF</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>Q QUICKREF</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47428</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13912</addrInSeg>
+    <originalText># VIEW CH</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText># VIEW CH</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47452</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13922</addrInSeg>
+    <originalText>HANDICAP</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HANDICAP</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47801</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13931</addrInSeg>
+    <originalText>MONSTER +</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MONSTER +</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47813</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13941</addrInSeg>
+    <originalText>PARTY +</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>PARTY +</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47825</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13949</addrInSeg>
+    <originalText>EVEN</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EVEN</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49173</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13954</addrInSeg>
+    <originalText>OPTIONS FOR: </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OPTIONS FOR: </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49432</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13968</addrInSeg>
+    <originalText>'E' EXCHANGE  'U' USE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'E' EXCHANGE  'U' USE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49452</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13990</addrInSeg>
+    <originalText>'R' RETREAT   'B' BLOCK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'R' RETREAT   'B' BLOCK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49476</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14014</addrInSeg>
+    <originalText>'A' ATTACK(A)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'A' ATTACK(A)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49496</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14028</addrInSeg>
+    <originalText>'F' FIGHT(+)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'F' FIGHT(+)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49520</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14041</addrInSeg>
+    <originalText>'S' SHOOT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'S' SHOOT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49544</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14051</addrInSeg>
+    <originalText>'C' CAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'C' CAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>42818</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14060</addrInSeg>
+    <originalText>ATTACKS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ATTACKS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>42827</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14068</addrInSeg>
+    <originalText>SHOOTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SHOOTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49808</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14075</addrInSeg>
+    <originalText>TIMES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TIMES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49907</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14075</addrInSeg>
+    <originalText>TIMES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>TIMES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49786</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14081</addrInSeg>
+    <originalText>ONCE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ONCE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49881</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14081</addrInSeg>
+    <originalText>ONCE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>ONCE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49821</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14086</addrInSeg>
+    <originalText>AND</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AND</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49841</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14090</addrInSeg>
+    <originalText>MISSES</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MISSES</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49851</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14097</addrInSeg>
+    <originalText>HIT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HIT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49920</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14101</addrInSeg>
+    <originalText>FOR</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FOR</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49946</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14105</addrInSeg>
+    <originalText>POINT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>POINT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49993</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14111</addrInSeg>
+    <originalText>OF DAMAGE!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OF DAMAGE!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47246</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14122</addrInSeg>
+    <originalText>SET DELAY (0-9):</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SET DELAY (0-9):</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>47262</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14139</addrInSeg>
+    <originalText>(CURRENTLY= </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(CURRENTLY= </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>50132</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14152</addrInSeg>
+    <originalText>'1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>50150</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14158</addrInSeg>
+    <originalText>' TO VIEW</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>' TO VIEW</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>49574</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14168</addrInSeg>
+    <originalText>'ESC' TO GO BACK</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ESC' TO GO BACK</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>39767</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14185</addrInSeg>
+    <originalText>EXCHANGE PLACES WITH (1-</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>EXCHANGE PLACES WITH (1-</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>39785</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14210</addrInSeg>
+    <originalText>)?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>)?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>42168</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14213</addrInSeg>
+    <originalText>FIGHT WHICH 'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>FIGHT WHICH 'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>42297</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14231</addrInSeg>
+    <originalText>SHOOT WHICH 'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SHOOT WHICH 'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>48180</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14249</addrInSeg>
+    <originalText>(WOUNDED) </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(WOUNDED) </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82276</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14278</addrInSeg>
+    <originalText>(PARALYZE)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(PARALYZE)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82278</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14289</addrInSeg>
+    <originalText>(WEBBED)  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(WEBBED)  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82280</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14300</addrInSeg>
+    <originalText>(HELD)    </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(HELD)    </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82282</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14311</addrInSeg>
+    <originalText>(ASLEEP)  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(ASLEEP)  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82284</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14322</addrInSeg>
+    <originalText>(MINDLESS)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(MINDLESS)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82286</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14333</addrInSeg>
+    <originalText>(SILENCED)</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(SILENCED)</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82288</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14344</addrInSeg>
+    <originalText>(BLINDED) </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(BLINDED) </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82290</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14355</addrInSeg>
+    <originalText>(AFRAID)  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(AFRAID)  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>82292</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14366</addrInSeg>
+    <originalText>(DEAD)    </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>(DEAD)    </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52996</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14377</addrInSeg>
+    <originalText>AND GOES DOWN!!!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AND GOES DOWN!!!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41037</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14381</addrInSeg>
+    <originalText>GOES DOWN!!!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>GOES DOWN!!!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>41096</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14394</addrInSeg>
+    <originalText>DIES!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DIES!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>48377</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14526</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>48354</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14537</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>51141</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14553</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>51987</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14556</addrInSeg>
+    <originalText>NOT ENOUGH SPELL POINTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOT ENOUGH SPELL POINTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52058</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14580</addrInSeg>
+    <originalText>NOT ENOUGH GEMS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOT ENOUGH GEMS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52138</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14596</addrInSeg>
+    <originalText>OUTDOOR ONLY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>OUTDOOR ONLY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52096</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14609</addrInSeg>
+    <originalText>NON COMBAT ONLY</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NON COMBAT ONLY</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52393</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14625</addrInSeg>
+    <originalText>MAGIC DOESN'T WORK HERE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC DOESN'T WORK HERE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51273</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14652</addrInSeg>
+    <originalText>USE WHICH 'A'-'F','1'-'6'?</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>USE WHICH 'A'-'F','1'-'6'?</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51439</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14679</addrInSeg>
+    <originalText>NO SPECIAL POWER</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO SPECIAL POWER</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51499</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14696</addrInSeg>
+    <originalText>NO CHARGES LEFT</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO CHARGES LEFT</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51481</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14712</addrInSeg>
+    <originalText>NOT EQUIPPED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NOT EQUIPPED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51680</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14731</addrInSeg>
+    <originalText>CAST SPELL:  LEVEL= _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAST SPELL:  LEVEL= _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>51742</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14753</addrInSeg>
+    <originalText>NUMBER= _</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NUMBER= _</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52351</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14763</addrInSeg>
+    <originalText>DONE</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>DONE</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52171</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14768</addrInSeg>
+    <originalText>CAST ON: '1'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAST ON: '1'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52227</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14783</addrInSeg>
+    <originalText>'ENTER' TO CAST</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>'ENTER' TO CAST</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52203</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14799</addrInSeg>
+    <originalText>CAST ON: 'A'-'</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CAST ON: 'A'-'</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>52632</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>14814</addrInSeg>
+    <originalText>***</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>***</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>83022</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15024</addrInSeg>
+    <originalText>IS SCARED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS SCARED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>83024</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13754</addrInSeg>
+    <originalText>IS BLINDED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS BLINDED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>83026</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>13765</addrInSeg>
+    <originalText>IS SILENCED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS SILENCED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>83028</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15034</addrInSeg>
+    <originalText>IS MINDLESS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS MINDLESS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>53121</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15065</addrInSeg>
+    <originalText>CASTS A SPELL:</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>CASTS A SPELL:</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>53623</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15085</addrInSeg>
+    <originalText>SOME MONSTERS WERE DESTROYED!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SOME MONSTERS WERE DESTROYED!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>53700</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15115</addrInSeg>
+    <originalText>NO EFFECT!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO EFFECT!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55370</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15130</addrInSeg>
+    <originalText>MAXIMUM DAMAGE = </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAXIMUM DAMAGE = </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55294</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15148</addrInSeg>
+    <originalText># OF ATTACKS = </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText># OF ATTACKS = </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55158</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15164</addrInSeg>
+    <originalText>HP = </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>HP = </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55249</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15170</addrInSeg>
+    <originalText>BONUS ON TOUCH   </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>BONUS ON TOUCH   </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55188</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15188</addrInSeg>
+    <originalText>AC = </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>AC = </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55323</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15194</addrInSeg>
+    <originalText>SPECIAL ABILITY  </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPECIAL ABILITY  </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55220</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15212</addrInSeg>
+    <originalText>SPEED = </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPEED = </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>55399</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15221</addrInSeg>
+    <originalText>MAGIC RESISTANCE </originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>MAGIC RESISTANCE </localizedText>
+  </text>
+  <text>
+    <addrOfAddr>56153</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15239</addrInSeg>
+    <originalText>IS DISINTEGRATED!</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>IS DISINTEGRATED!</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>56378</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15257</addrInSeg>
+    <originalText>NO SPELL POINTS</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>NO SPELL POINTS</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>56325</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15273</addrInSeg>
+    <originalText>SPELL FAILED</originalText>
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText>SPELL FAILED</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>17100</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15374</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>17119</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15374</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>17138</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15374</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>10882</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15578</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>11138</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15578</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>15660</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15578</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>28585</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15578</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+  <text>
+    <addrOfAddr>28624</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>15578</addrInSeg>
+    <originalText />
+    <newAddrInSeg>0</newAddrInSeg>
+    <localizedText />
+  </text>
+</ArrayOfText>

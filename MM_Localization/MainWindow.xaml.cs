@@ -2,31 +2,41 @@
 using System.Collections.ObjectModel;
 using System.Globalization;
 using System.IO;
+using System.Text;
 using System.Windows;
 using System.Windows.Data;
+using System.Windows.Forms;
+using System.Windows.Input;
 using System.Xml.Serialization;
 
 namespace MM_Localization {
 
   public class StringToHex8Converter : IValueConverter {
 
-    public object Convert(object value, Type targetType, object parameter, CultureInfo culture) {
+    public object Convert(object value, Type targetType,
+                          object parameter, CultureInfo culture) {
       return ((int)value).ToString("X8");
     }
 
-    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture) {
+    public object ConvertBack(object value, Type targetType,
+                              object parameter, CultureInfo culture) {
       throw new NotImplementedException();
     }
   }
 
   public class StringToHex4Converter : IValueConverter {
 
-    public object Convert(object value, Type targetType, object parameter, CultureInfo culture) {
+    public object Convert(object value, Type targetType,
+                          object parameter, CultureInfo culture) {
       return ((ushort)value).ToString("X4");
     }
 
-    public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture) {
-      return System.Convert.ToUInt16((string)value, 16);
+    public object ConvertBack(object value, Type targetType,
+                              object parameter, CultureInfo culture) {
+      try {
+        return System.Convert.ToUInt16((string)value, 16);
+      } catch { }
+      return 0;
     }
   }
 
@@ -40,8 +50,10 @@ namespace MM_Localization {
   }
 
   public class textsTextsViewModel {
-    public byte[] bb { get; set; }
-    public string fPath = "c:\\Projects.side\\MM_Localization\\MM_Localization\\bin\\Debug\\MM.exe";
+
+    public textsTextsViewModel() {
+      dt = new ObservableCollection<text>();
+    }
 
     private static ushort BBToShort(byte byte1, byte byte2) {
       return (ushort)((byte2 << 8) + byte1);
@@ -324,7 +336,7 @@ namespace MM_Localization {
       seg000+0x5688,      //:2292;SEX...=
       seg000+0x56D4,      //:229A;NAME:
       seg000+0x53DB,      //:22A9;1) HUMAN
-      seg000+0x54A2,      //:22AC;HUMAN
+      seg000+0x54A6,      //:22AC;HUMAN
       seg000+0x53EC,      //:22B6;2) ELF
       seg000+0x54B3,      //:22B9;ELF
       seg000+0x53FD,      //:22C3;3) DWARF
@@ -805,12 +817,15 @@ namespace MM_Localization {
 
     public ObservableCollection<text> dt { get; set; }
 
-    public void LoadOrig() {
-      dt = new ObservableCollection<text>();
-      bb = File.ReadAllBytes(fPath);
-    }
+    public void FillCollectionFromFile(string origPath) {
+      collectionFile = "";
+      dt.Clear();
 
-    public void FillCollectionFromFile() {
+      byte[] bb;
+      try {
+        bb = File.ReadAllBytes(Path.Combine(origPath, "MM.exe"));
+      } catch { return; }
+
       foreach (int i in textAddresses) {
         text txt = new text();
         txt.addrOfAddr = i;
@@ -819,7 +834,8 @@ namespace MM_Localization {
 
         int strAddr = txt.addrOfSeg + txt.addrInSeg;
         int strAddrL = getStrLen(bb, strAddr);
-        txt.originalText = strAddrL > 0 ? System.Text.Encoding.ASCII.GetString(bb, strAddr, strAddrL) : "";
+        txt.originalText = strAddrL > 0 ?
+          Encoding.ASCII.GetString(bb, strAddr, strAddrL) : "";
 
         // DEBUG
         switch (txt.addrInSeg) {
@@ -832,186 +848,6 @@ namespace MM_Localization {
 
         dt.Add(txt);
       }
-    }
-
-    public void SaveCollectionToFile() {
-      XmlSerializer formatter = new XmlSerializer(typeof(ObservableCollection<text>));
-      using (FileStream fs = new FileStream("texts.xml", FileMode.OpenOrCreate)) {
-        formatter.Serialize(fs, dt);
-        fs.SetLength(fs.Position);
-      }
-    }
-  }
-
-  /// <summary>
-  /// Interaction logic for MainWindow.xaml
-  /// </summary>
-  public partial class MainWindow : Window {
-
-    public class config {
-      public string originalGameFolder;
-      public string saveLocalizedTo;
-    }
-
-    private config cfg = new config();
-    private textsTextsViewModel textsViewModel;
-    public string cfgFileName = "config.xml";
-    public string appPath = "";
-
-    public MainWindow() {
-      InitializeComponent();
-
-      appPath = AppDomain.CurrentDomain.BaseDirectory;
-
-      loadConfig();
-
-      if (string.IsNullOrEmpty(cfg.originalGameFolder) ||
-        string.IsNullOrEmpty(cfg.saveLocalizedTo)) {
-        wdwOptions options = new wdwOptions();
-        bool? res = options.ShowDialog();
-        if (res == true) {
-          cfg.originalGameFolder = options.originalFolderPath;
-          cfg.saveLocalizedTo = options.localizedFolderPath;
-          saveConfig();
-        }
-      }
-
-      textsViewModel = new textsTextsViewModel();
-      textsViewModel.LoadOrig();
-      DataContext = textsViewModel;
-    }
-
-    void loadConfig() {
-      try {
-        var cfgFile = Path.Combine(appPath, cfgFileName);
-        XmlSerializer serializer = new XmlSerializer(typeof(config));
-        using (StreamReader reader = new StreamReader(cfgFile)) {
-          cfg = (config)serializer.Deserialize(reader);
-        }
-      } catch { }
-    }
-
-    void saveConfig() {
-      try {
-        XmlSerializer formatter = new XmlSerializer(typeof(config));
-        using (FileStream fs = new FileStream(Path.Combine(appPath, cfgFileName), FileMode.OpenOrCreate)) {
-          formatter.Serialize(fs, cfg);
-          fs.SetLength(fs.Position);
-        }
-      } catch { }
-    }
-
-    private void Window_Loaded(object sender, RoutedEventArgs e) {
-    }
-
-    private byte convertChar(char c) {
-      byte retC = (byte)' ';
-      c = char.ToUpper(c);
-      switch (c) {
-        case '\n':
-        case ' ':
-        case '!':
-        case '"':
-        case '#':
-        case '$':
-        case '%':
-        case '&':
-        case '\'':
-        case '(':
-        case ')':
-        case '*':
-        case '+':
-        case ',':
-        case '-':
-        case '.':
-        case '/':
-        case '0':
-        case '1':
-        case '2':
-        case '3':
-        case '4':
-        case '5':
-        case '6':
-        case '7':
-        case '8':
-        case '9':
-        case ':':
-        case ';':
-        case '<':
-        case '=':
-        case '>':
-        case '?':
-        case '@':
-        case 'A':
-        case 'B':
-        case 'C':
-        case 'D':
-        case 'E':
-        case 'F':
-        case 'G':
-        case 'H':
-        case 'I':
-        case 'J':
-        case 'K':
-        case 'L':
-        case 'M':
-        case 'N':
-        case 'O':
-        case 'P':
-        case 'Q':
-        case 'R':
-        case 'S':
-        case 'T':
-        case 'U':
-        case 'V':
-        case 'W':
-        case 'X':
-        case 'Y':
-        case 'Z':
-        case '[':
-        case '\\':
-        case ']':
-        case '^':
-        case '_': retC = (byte)c; break;
-        case 'А': retC = 0x40; break;
-        case 'Б': retC = 0x41; break;
-        case 'В': retC = 0x42; break;
-        case 'Г': retC = 0x43; break;
-        case 'Д': retC = 0x44; break;
-        case 'Е': retC = 0x45; break;
-        case 'Ж': retC = 0x46; break;
-        case 'З': retC = 0x47; break;
-        case 'И': retC = 0x48; break;
-        case 'Й': retC = 0x49; break;
-        case 'К': retC = 0x4A; break;
-        case 'Л': retC = 0x4B; break;
-        case 'М': retC = 0x4C; break;
-        case 'Н': retC = 0x4D; break;
-        case 'О': retC = 0x4E; break;
-        case 'П': retC = 0x4F; break;
-        case 'Р': retC = 0x50; break;
-        case 'С': retC = 0x51; break;
-        case 'Т': retC = 0x52; break;
-        case 'У': retC = 0x53; break;
-        case 'Ф': retC = 0x54; break;
-        case 'Х': retC = 0x55; break;
-        case 'Ц': retC = 0x56; break;
-        case 'Ч': retC = 0x57; break;
-        case 'Ш': retC = 0x58; break;
-        case 'Щ': retC = 0x59; break;
-        case 'Ъ': retC = 0x5A; break;
-        case 'Ы': retC = 0x5B; break;
-        case 'Ь': retC = 0x5C; break;
-        case 'Э': retC = 0x5D; break;
-        case 'Ю': retC = 0x5E; break;
-        case 'Я': retC = 0x5F; break;
-        default: retC = (byte)' '; break;
-      }
-      return retC;
-    }
-
-    private static byte[] ShortToBB(ushort sh) {
-      return new byte[] { (byte)(sh % 0x100), (byte)(sh / 0x100) };
     }
 
     private byte[] fontArr = {
@@ -1115,49 +951,337 @@ namespace MM_Localization {
       0x3E,0x66,0x66,0x66,0x3E,0x36,0x66,0x00, // 05F - Я
     };
 
-    private void btnReadFromOrig_Click(object sender, RoutedEventArgs e) {
-      textsViewModel.FillCollectionFromFile();
+    private byte[] ShortToBB(ushort sh) {
+      return new byte[] { (byte)(sh % 0x100), (byte)(sh / 0x100) };
     }
 
-    private void btnReadFromSave_Click(object sender, RoutedEventArgs e) {
+    private byte convertChar(char c) {
+      byte retC = (byte)' ';
+      c = char.ToUpper(c);
+      switch (c) {
+        case '\n':
+        case ' ':
+        case '!':
+        case '"':
+        case '#':
+        case '$':
+        case '%':
+        case '&':
+        case '\'':
+        case '(':
+        case ')':
+        case '*':
+        case '+':
+        case ',':
+        case '-':
+        case '.':
+        case '/':
+        case '0':
+        case '1':
+        case '2':
+        case '3':
+        case '4':
+        case '5':
+        case '6':
+        case '7':
+        case '8':
+        case '9':
+        case ':':
+        case ';':
+        case '<':
+        case '=':
+        case '>':
+        case '?':
+        case '@':
+        case 'A':
+        case 'B':
+        case 'C':
+        case 'D':
+        case 'E':
+        case 'F':
+        case 'G':
+        case 'H':
+        case 'I':
+        case 'J':
+        case 'K':
+        case 'L':
+        case 'M':
+        case 'N':
+        case 'O':
+        case 'P':
+        case 'Q':
+        case 'R':
+        case 'S':
+        case 'T':
+        case 'U':
+        case 'V':
+        case 'W':
+        case 'X':
+        case 'Y':
+        case 'Z':
+        case '[':
+        case '\\':
+        case ']':
+        case '^':
+        case '_': retC = (byte)c; break;
+        case 'А': retC = 0x40 + 0x20; break;
+        case 'Б': retC = 0x41 + 0x20; break;
+        case 'В': retC = 0x42 + 0x20; break;
+        case 'Г': retC = 0x43 + 0x20; break;
+        case 'Д': retC = 0x44 + 0x20; break;
+        case 'Е': retC = 0x45 + 0x20; break;
+        case 'Ж': retC = 0x46 + 0x20; break;
+        case 'З': retC = 0x47 + 0x20; break;
+        case 'И': retC = 0x48 + 0x20; break;
+        case 'Й': retC = 0x49 + 0x20; break;
+        case 'К': retC = 0x4A + 0x20; break;
+        case 'Л': retC = 0x4B + 0x20; break;
+        case 'М': retC = 0x4C + 0x20; break;
+        case 'Н': retC = 0x4D + 0x20; break;
+        case 'О': retC = 0x4E + 0x20; break;
+        case 'П': retC = 0x4F + 0x20; break;
+        case 'Р': retC = 0x50 + 0x20; break;
+        case 'С': retC = 0x51 + 0x20; break;
+        case 'Т': retC = 0x52 + 0x20; break;
+        case 'У': retC = 0x53 + 0x20; break;
+        case 'Ф': retC = 0x54 + 0x20; break;
+        case 'Х': retC = 0x55 + 0x20; break;
+        case 'Ц': retC = 0x56 + 0x20; break;
+        case 'Ч': retC = 0x57 + 0x20; break;
+        case 'Ш': retC = 0x58 + 0x20; break;
+        case 'Щ': retC = 0x59 + 0x20; break;
+        case 'Ъ': retC = 0x5A + 0x20; break;
+        case 'Ы': retC = 0x5B + 0x20; break;
+        case 'Ь': retC = 0x5C + 0x20; break;
+        case 'Э': retC = 0x5D + 0x20; break;
+        case 'Ю': retC = 0x5E + 0x20; break;
+        case 'Я': retC = 0x5F + 0x20; break;
+        default: retC = (byte)' '; break;
+      }
+      return retC;
     }
 
-    private void btnSaveToSave_Click(object sender, RoutedEventArgs e) {
-      textsViewModel.SaveCollectionToFile();
-    }
+    public void SaveLocalizedFiles(string origPath, string savePath) {
+      byte[] bb;
+      try {
+        bb = File.ReadAllBytes(Path.Combine(origPath, "MM.exe"));
+      } catch { return; }
 
-    private void btnSaveToOrig_Click(object sender, RoutedEventArgs e) {
       // Помещаем шрифт в свободное место
-      Array.Copy(fontArr, 0, textsViewModel.bb, 0x0001180F, fontArr.Length);
+      Array.Copy(fontArr, 0, bb, 0x0001180F, fontArr.Length);
       //  и правим ссылку
-      Array.Copy(ShortToBB(0x0E5F), 0, textsViewModel.bb, 0x00000F05, 2);
+      Array.Copy(ShortToBB(0x0E5F), 0, bb, 0x00000F05, 2);
 
-      foreach (text t in textsViewModel.dt)
+      foreach (text t in dt)
         if (t.newAddrInSeg != 0) {
           for (int i = 0; i < t.localizedText.Length; i++) {
-            textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + i] = convertChar(t.localizedText[i]);
+            bb[t.addrOfSeg + t.newAddrInSeg + i] = convertChar(t.localizedText[i]);
           }
-          textsViewModel.bb[t.addrOfSeg + t.newAddrInSeg + t.localizedText.Length] = 0x00;
-          Array.Copy(ShortToBB(t.newAddrInSeg), 0, textsViewModel.bb, t.addrOfAddr, 2);
+          bb[t.addrOfSeg + t.newAddrInSeg + t.localizedText.Length] = 0x00;
+          Array.Copy(ShortToBB(t.newAddrInSeg), 0, bb, t.addrOfAddr, 2);
+        }
+      if (!Directory.Exists(savePath))
+        try { Directory.CreateDirectory(savePath); } catch { return; }
+      File.WriteAllBytes(Path.Combine(savePath, "MM.exe"), bb);
+    }
+
+    public void saveCollectionToFile(string path) {
+      if (string.IsNullOrEmpty(path))
+        using (var dialog = new SaveFileDialog()) {
+          dialog.InitialDirectory = appPath();
+          dialog.Filter = "Localization XML|*.xml";
+          if (DialogResult.OK == dialog.ShowDialog()) path = dialog.FileName;
+          else return;
         }
 
-      File.WriteAllBytes(textsViewModel.fPath + ".L", textsViewModel.bb);
+      collectionFile = path;
+      XmlSerializer formatter =
+        new XmlSerializer(typeof(ObservableCollection<text>));
+      using (FileStream fs =
+        new FileStream(collectionFile, FileMode.OpenOrCreate)) {
+        formatter.Serialize(fs, dt);
+        fs.SetLength(fs.Position);
+      }
     }
 
-    private void OpenCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+    private string collectionFile = "";
+    public string getCollectionFileName { get { return collectionFile; } }
 
+    public void ReadCollectionFromFile() {
+      using (var dialog = new OpenFileDialog()) {
+        dialog.InitialDirectory = appPath();
+        if (DialogResult.OK == dialog.ShowDialog()) {
+          collectionFile = dialog.FileName;
+        }
+      }
+
+      if (!string.IsNullOrEmpty(collectionFile)) {
+        try {
+          var t = typeof(ObservableCollection<text>);
+          XmlSerializer serializer = new XmlSerializer(t);
+          using (StreamReader reader = new StreamReader(collectionFile)) {
+            dt = (ObservableCollection<text>)serializer.Deserialize(reader);
+          }
+          foreach (text txt in dt) 
+            if (txt.newAddrInSeg == 0 &&
+                string.IsNullOrEmpty(txt.localizedText))
+              txt.localizedText = txt.originalText;
+        } catch { collectionFile = ""; }
+      }
     }
 
-    private void SaveCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+    private string appPath() {
+      return AppDomain.CurrentDomain.BaseDirectory;
+    }
+  }
 
+  /// <summary>
+  /// Interaction logic for MainWindow.xaml
+  /// </summary>
+  public partial class MainWindow : Window {
+
+    public class config {
+      public string originalGameFolder;
+      public string saveLocalizedTo;
     }
 
-    private void SaveAsCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
+    private config cfg = new config();
+    private textsTextsViewModel textsViewModel;
+    private string cfgFileName = "config.xml";
+    private string appPath = "";
+    private string wdwTitle = "";
 
+    public MainWindow() {
+      InitializeComponent();
+
+      wdwTitle = Title;
+
+      appPath = AppDomain.CurrentDomain.BaseDirectory;
+
+      loadConfig();
+
+      if (string.IsNullOrEmpty(cfg.originalGameFolder) ||
+        string.IsNullOrEmpty(cfg.saveLocalizedTo)) {
+        wdwOptions options = new wdwOptions(ref cfg);
+        if (options.ShowDialog() == true) saveConfig();
+      }
+
+      textsViewModel = new textsTextsViewModel();
     }
 
-    private void ExitCommandBinding_Executed(object sender, System.Windows.Input.ExecutedRoutedEventArgs e) {
-      Application.Current.Shutdown();
+    private void loadConfig() {
+      try {
+        var cfgFile = Path.Combine(appPath, cfgFileName);
+        XmlSerializer serializer = new XmlSerializer(typeof(config));
+        using (StreamReader reader = new StreamReader(cfgFile)) {
+          cfg = (config)serializer.Deserialize(reader);
+        }
+      } catch { }
     }
+
+    private void saveConfig() {
+      try {
+        XmlSerializer formatter = new XmlSerializer(typeof(config));
+        using (FileStream fs =
+          new FileStream(Path.Combine(appPath, cfgFileName),
+                         FileMode.OpenOrCreate)) {
+          formatter.Serialize(fs, cfg);
+          fs.SetLength(fs.Position);
+        }
+      } catch { }
+    }
+
+    private void OpenCommandBinding_Executed(object sender,
+                                             ExecutedRoutedEventArgs e) {
+      textsViewModel.ReadCollectionFromFile();
+      if (!string.IsNullOrEmpty(textsViewModel.getCollectionFileName)) {
+        DataContext = null;
+        DataContext = textsViewModel;
+        Title = wdwTitle + " - " + textsViewModel.getCollectionFileName;
+      }
+    }
+
+    private void SaveCommandBinding_Executed(object sender,
+                                             ExecutedRoutedEventArgs e) {
+      var t = textsViewModel;
+      t.saveCollectionToFile(t.getCollectionFileName);
+      Title = wdwTitle + " - " + t.getCollectionFileName;
+    }
+
+    private void SaveAsCommandBinding_Executed(object sender,
+                                               ExecutedRoutedEventArgs e) {
+      textsViewModel.saveCollectionToFile("");
+      Title = wdwTitle + " - " + textsViewModel.getCollectionFileName;
+    }
+
+    private void ExitCommandBinding_Executed(object sender,
+                                             ExecutedRoutedEventArgs e) {
+      System.Windows.Application.Current.Shutdown();
+    }
+
+    private void GetDataBinding_Executed(object sender,
+                                         ExecutedRoutedEventArgs e) {
+      Title = wdwTitle;
+      DataContext = null;
+
+      if (string.IsNullOrEmpty(cfg.originalGameFolder)) {
+        wdwOptions options = new wdwOptions(ref cfg);
+        options.Owner = this;
+        if (options.ShowDialog() == true) saveConfig();
+        if (string.IsNullOrEmpty(cfg.originalGameFolder)) return;
+      }
+
+      textsViewModel.FillCollectionFromFile(cfg.originalGameFolder);
+      DataContext = textsViewModel;
+    }
+
+    private void SaveDataBinding_Executed(object sender,
+                                          ExecutedRoutedEventArgs e) {
+      if (string.IsNullOrEmpty(cfg.originalGameFolder) ||
+          string.IsNullOrEmpty(cfg.saveLocalizedTo)) {
+        wdwOptions options = new wdwOptions(ref cfg);
+        options.Owner = this;
+        if (options.ShowDialog() == true) saveConfig();
+        if (string.IsNullOrEmpty(cfg.originalGameFolder) ||
+            string.IsNullOrEmpty(cfg.saveLocalizedTo)) return;
+      }
+
+      textsViewModel.SaveLocalizedFiles(cfg.originalGameFolder,
+                                        cfg.saveLocalizedTo);
+    }
+
+    private void OptionsBinding_Executed(object sender,
+                                         ExecutedRoutedEventArgs e) {
+      wdwOptions options = new wdwOptions(ref cfg);
+      options.Owner = this;
+      if (options.ShowDialog() == true) saveConfig();
+    }
+  }
+}
+
+namespace MM_Localization.Commands {
+
+  public class MM_Localization_Commands {
+
+    public static RoutedUICommand Open =
+      new RoutedUICommand("", "Open", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand Save =
+      new RoutedUICommand("", "Save", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand SaveAs =
+      new RoutedUICommand("", "SaveAs", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand Close =
+      new RoutedUICommand("", "Close", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand GetData =
+      new RoutedUICommand("", "GetData", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand SaveData =
+      new RoutedUICommand("", "SaveData", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand Options =
+      new RoutedUICommand("", "Options", typeof(MM_Localization_Commands));
   }
 }

@@ -4,32 +4,78 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MM_Localization"
+        xmlns:commands="clr-namespace:MM_Localization.Commands"
         mc:Ignorable="d"
-        Loaded="Window_Loaded"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MM Localization Kit" Height="768" Width="1024">
   <Window.CommandBindings>
-    <CommandBinding Command="Open" Executed="OpenCommandBinding_Executed"/>
-    <CommandBinding Command="Save" Executed="SaveCommandBinding_Executed"/>
-    <CommandBinding Command="SaveAs" Executed="SaveAsCommandBinding_Executed"/>
-    <CommandBinding Command="Close" Executed="ExitCommandBinding_Executed"/>
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.Open}"
+      Executed="OpenCommandBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.Save}"
+      Executed="SaveCommandBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.SaveAs}"
+      Executed="SaveAsCommandBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.Close}"
+      Executed="ExitCommandBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.GetData}"
+      Executed="GetDataBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.SaveData}"
+      Executed="SaveDataBinding_Executed" />
+    <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.Options}"
+      Executed="OptionsBinding_Executed" />
   </Window.CommandBindings>
   <Window.InputBindings>
-    <KeyBinding Key="O" Modifiers="Ctrl" Command="Open"/>
-    <KeyBinding Key="S" Modifiers="Ctrl" Command="Save"/>
-    <KeyBinding Key="S" Modifiers="Ctrl+Shift" Command="SaveAs"/>
-    <KeyBinding Key="X" Modifiers="Ctrl" Command="Close"/>
+    <KeyBinding
+      Key="O" Modifiers="Ctrl"
+      Command="{x:Static commands:MM_Localization_Commands.Open}" />
+    <KeyBinding
+      Key="S" Modifiers="Ctrl"
+      Command="{x:Static commands:MM_Localization_Commands.Save}" />
+    <KeyBinding
+      Key="S" Modifiers="Ctrl+Shift"
+      Command="{x:Static commands:MM_Localization_Commands.SaveAs}" />
+    <KeyBinding
+      Key="X" Modifiers="Ctrl"
+      Command="{x:Static commands:MM_Localization_Commands.Close}" />
   </Window.InputBindings>
   <DockPanel>
     <Menu DockPanel.Dock="Top">
       <MenuItem Header="_File">
-        <MenuItem Header="_Open" Command="Open" InputGestureText="Ctrl+O"/>
-        <MenuItem Header="_Save" Command="Save" InputGestureText="Ctrl+S"/>
-        <MenuItem 
-          Header="Save As..." 
-          Command="SaveAs" 
-          InputGestureText="Ctrl+Shift+S"/>
-        <Separator/>
-        <MenuItem Header="E_xit" Command="Close" InputGestureText="Ctrl+X"/>
+        <MenuItem
+          Header="_Open Translation File"
+          Command="{x:Static commands:MM_Localization_Commands.Open}"
+          InputGestureText="Ctrl+O" />
+        <MenuItem
+          Header="_Save Translation File"
+          Command="{x:Static commands:MM_Localization_Commands.Save}"
+          InputGestureText="Ctrl+S" />
+        <MenuItem
+          Header="Save Translation File As"
+          Command="{x:Static commands:MM_Localization_Commands.SaveAs}"
+          InputGestureText="Ctrl+Shift+S" />
+        <Separator />
+        <MenuItem
+          Header="E_xit"
+          Command="{x:Static commands:MM_Localization_Commands.Close}"
+          InputGestureText="Ctrl+X" />
+      </MenuItem>
+      <MenuItem Header="_Tools">
+        <MenuItem
+          Header="_Get data from original"
+          Command="{x:Static commands:MM_Localization_Commands.GetData}" />
+        <MenuItem
+          Header="_Save localized files"
+          Command="{x:Static commands:MM_Localization_Commands.SaveData}" />
+        <Separator />
+        <MenuItem
+          Header="_Options..."
+          Command="{x:Static commands:MM_Localization_Commands.Options}" />
       </MenuItem>
     </Menu>
     <Grid>
@@ -38,42 +84,44 @@
         <!--<RowDefinition Height="20" />-->
       </Grid.RowDefinitions>
       <DataGrid
-      ItemsSource="{Binding dt}"
-      AutoGenerateColumns="False"
-      GridLinesVisibility="None"
-      Grid.Row="0">
+        Name="mGrid"
+        ItemsSource="{Binding dt}"
+        AutoGenerateColumns="False"
+        GridLinesVisibility="None"
+        Grid.Row="0">
         <DataGrid.Resources>
           <local:StringToHex8Converter x:Key="StringToHex8Converter" />
           <local:StringToHex4Converter x:Key="StringToHex4Converter" />
         </DataGrid.Resources>
         <DataGrid.Columns>
           <DataGridTextColumn
-          Binding= "{
-          Binding Path=addrOfSeg,
-          Converter={StaticResource StringToHex8Converter}
-          }"
-          Header="addrOfSeg"
-          IsReadOnly="True" />
+            Binding= "{
+            Binding Path=addrOfSeg,
+            Converter={StaticResource StringToHex8Converter}
+            }"
+            Header="addrOfSeg"
+            IsReadOnly="True" />
           <DataGridTextColumn
-          Binding= "{
-          Binding Path=addrInSeg,
-          Converter={StaticResource StringToHex4Converter}
-          }"
-          Header="addrInSeg"
-          IsReadOnly="True" />
+            Binding= "{
+            Binding Path=addrInSeg,
+            Converter={StaticResource StringToHex4Converter}
+            }"
+            Header="addrInSeg"
+            IsReadOnly="True" />
           <DataGridTextColumn
-          Binding= "{
-          Binding Path=originalText}"
-          Header="originalText"
-          IsReadOnly="True" />
+            Binding= "{
+            Binding Path=originalText}"
+            Header="originalText"
+            IsReadOnly="True" />
           <DataGridTextColumn
-          Binding= "{
-          Binding Path=newAddrInSeg,
-          Converter={StaticResource StringToHex4Converter}
-          }"
-          Header="newAddrInSeg" />
+            Binding= "{
+            Binding Path=newAddrInSeg,
+            Converter={StaticResource StringToHex4Converter}
+            }"
+            Header="newAddrInSeg" />
           <DataGridTextColumn
-          Binding= "{Binding Path=localizedText}" Header="localizedText" />
+            Binding= "{Binding Path=localizedText}"
+            Header="localizedText" />
         </DataGrid.Columns>
       </DataGrid>
       <!--<Grid Grid.Row="1">

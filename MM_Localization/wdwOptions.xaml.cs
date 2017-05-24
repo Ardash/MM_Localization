@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 using System.Windows.Forms;
 using System.Windows.Input;
 
@@ -8,15 +9,21 @@ namespace MM_Localization {
   /// Interaction logic for wdwOption.xaml
   /// </summary>
   public partial class wdwOptions : Window {
-    public string originalFolderPath = "";
-    public string localizedFolderPath = "";
+    private MainWindow.config cfg = null;
 
-    public wdwOptions() {
+    public wdwOptions(ref MainWindow.config cfg) {
       InitializeComponent();
+      this.cfg = cfg;
+      if (cfg != null) {
+        txtOriginalFolder.Text = cfg.originalGameFolder;
+        txtLocalizedFolder.Text = cfg.saveLocalizedTo;
+      }
     }
 
     private void btnBrowseOriginal_Click(object sender, RoutedEventArgs e) {
       using (var dialog = new FolderBrowserDialog()) {
+        dialog.SelectedPath = string.IsNullOrEmpty(txtOriginalFolder.Text) ?
+          AppDomain.CurrentDomain.BaseDirectory : txtOriginalFolder.Text;
         if (System.Windows.Forms.DialogResult.OK == dialog.ShowDialog()) {
           txtOriginalFolder.Text = dialog.SelectedPath;
         }
@@ -25,6 +32,8 @@ namespace MM_Localization {
 
     private void btnBrowseLocalized_Click(object sender, RoutedEventArgs e) {
       using (var dialog = new FolderBrowserDialog()) {
+        dialog.SelectedPath = string.IsNullOrEmpty(txtLocalizedFolder.Text) ?
+          AppDomain.CurrentDomain.BaseDirectory : txtLocalizedFolder.Text;
         if (System.Windows.Forms.DialogResult.OK == dialog.ShowDialog()) {
           txtLocalizedFolder.Text = dialog.SelectedPath;
         }
@@ -32,8 +41,10 @@ namespace MM_Localization {
     }
 
     private void btnOk_Click(object sender, RoutedEventArgs e) {
-      originalFolderPath = txtOriginalFolder.Text;
-      localizedFolderPath = txtLocalizedFolder.Text;
+      if (cfg != null) {
+        cfg.originalGameFolder = txtOriginalFolder.Text;
+        cfg.saveLocalizedTo = txtLocalizedFolder.Text;
+      }
 
       DialogResult = true;
     }

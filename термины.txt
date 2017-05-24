@@ -1,0 +1,28 @@
+INTELLECT - Интеллект
+MIGHT - Сила
+PERSONALITY - Сила духа
+ENDURANCE - Выносливость
+SPEED - Скорость
+ACCURACY - Меткость
+LUCK - Удача
+
+HUMAN - Человек   
+ELF - Эльф      
+DWARF - Дварф    
+GNOME - Гном    
+HALF-ORC - Полуорк  
+
+KNIGHT - Рыцарь
+PALADIN - Паладин
+ARCHER - Лучник
+CLERIC - Клерик
+SORCERER - Чародей
+ROBBER - Вор
+
+Good - добрый
+Neutral - нейтральный
+Evil - злой
+
+Race - раса
+Alignment - мировоззрение
+
