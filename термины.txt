@@ -26,3 +26,19 @@ Evil - злой
 Race - раса
 Alignment - мировоззрение
 
+SP - Очки маны
+HP - очки здоровья
+AC - класс брони
+Gems - Драгоценные камни
+
+Condition - состояние
+
+Equipped - Экипировка
+Backpack - Мешок
+
+Inn - таверна
+Sorpigal - Сорпигал
+Portsmith - Портсмит
+Algary - Алгари
+Dusk - Даск
+Erliquin - Эрликин

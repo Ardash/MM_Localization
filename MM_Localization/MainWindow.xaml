@@ -27,6 +27,9 @@
       Command="{x:Static commands:MM_Localization_Commands.SaveData}"
       Executed="SaveDataBinding_Executed" />
     <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.GetProgress}"
+      Executed="GetProgressBinding_Executed" />
+    <CommandBinding
       Command="{x:Static commands:MM_Localization_Commands.Options}"
       Executed="OptionsBinding_Executed" />
   </Window.CommandBindings>
@@ -72,6 +75,9 @@
         <MenuItem
           Header="_Save localized files"
           Command="{x:Static commands:MM_Localization_Commands.SaveData}" />
+        <MenuItem
+          Header="Check _Progress"
+          Command="{x:Static commands:MM_Localization_Commands.GetProgress}" />
         <Separator />
         <MenuItem
           Header="_Options..."

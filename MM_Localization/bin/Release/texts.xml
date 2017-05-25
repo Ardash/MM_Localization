@@ -37,48 +37,48 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3502</addrInSeg>
     <originalText>NO RUMORS TODAY.</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>NO RUMORS TODAY.</localizedText>
+    <newAddrInSeg>3502</newAddrInSeg>
+    <localizedText>Слухов нет.</localizedText>
   </text>
   <text>
     <addrOfAddr>10283</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3519</addrInSeg>
     <originalText>GREAT STUFF!</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GREAT STUFF!</localizedText>
+    <newAddrInSeg>3514</newAddrInSeg>
+    <localizedText>Отличное пойло!</localizedText>
   </text>
   <text>
     <addrOfAddr>10271</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3532</addrInSeg>
     <originalText>YOU FEEL SICK!!</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>YOU FEEL SICK!!</localizedText>
+    <newAddrInSeg>3530</newAddrInSeg>
+    <localizedText>Вы плохо себя чувствуете!!</localizedText>
   </text>
   <text>
     <addrOfAddr>10362</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3548</addrInSeg>
     <originalText>HAVE A DRINK, THEN WE'LL TALK.</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>HAVE A DRINK, THEN WE'LL TALK.</localizedText>
+    <newAddrInSeg>3557</newAddrInSeg>
+    <localizedText>Выпей, тогда поговорим.</localizedText>
   </text>
   <text>
     <addrOfAddr>10392</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3579</addrInSeg>
     <originalText>THANKS A LOT, HAVE ANOTHER ROUND!</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>THANKS A LOT, HAVE ANOTHER ROUND!</localizedText>
+    <newAddrInSeg>3581</newAddrInSeg>
+    <localizedText>Огромное спасибо, Выпей еще!</localizedText>
   </text>
   <text>
     <addrOfAddr>10585</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3613</addrInSeg>
     <originalText>YOU LOOK TERRIBLE, GO SEE THE CLERICS.</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>YOU LOOK TERRIBLE, GO SEE THE CLERICS.</localizedText>
+    <newAddrInSeg>3610</newAddrInSeg>
+    <localizedText>Ты плохо выглядишь, сходи к клерикам.</localizedText>
   </text>
   <text>
     <addrOfAddr>71679</addrOfAddr>
@@ -395,25 +395,25 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrInSeg>5330</addrInSeg>
     <originalText>'A'-'F' TO BUY
 (- = CANT USE)</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>'A'-'F' TO BUY
-(- = CANT USE)</localizedText>
+    <newAddrInSeg>5330</newAddrInSeg>
+    <localizedText>'A'-'F' купить
+(- = не умею)</localizedText>
   </text>
   <text>
     <addrOfAddr>10015</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>5360</addrInSeg>
     <originalText>'A'-'F' TO SELL</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>'A'-'F' TO SELL</localizedText>
+    <newAddrInSeg>5359</newAddrInSeg>
+    <localizedText>'A'-'F' Продать</localizedText>
   </text>
   <text>
     <addrOfAddr>9913</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>5376</addrInSeg>
     <originalText>GOLD= </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GOLD= </localizedText>
+    <newAddrInSeg>5375</newAddrInSeg>
+    <localizedText>Зол = </localizedText>
   </text>
   <text>
     <addrOfAddr>10027</addrOfAddr>
@@ -421,17 +421,17 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrInSeg>5383</addrInSeg>
     <originalText>'G' GATHER GOLD
 '#' OTHER CHAR</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>'G' GATHER GOLD
-'#' OTHER CHAR</localizedText>
+    <newAddrInSeg>5382</newAddrInSeg>
+    <localizedText>'G' Собрать зол
+'#' Другой перс</localizedText>
   </text>
   <text>
     <addrOfAddr>10046</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>5414</addrInSeg>
     <originalText>'ESC' TO GO BACK</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>'ESC' TO GO BACK</localizedText>
+    <newAddrInSeg>5414</newAddrInSeg>
+    <localizedText>'ESC' на улицу</localizedText>
   </text>
   <text>
     <addrOfAddr>10723</addrOfAddr>
@@ -620,40 +620,40 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>5993</addrInSeg>
     <originalText>--TRAINING--</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>--TRAINING--</localizedText>
+    <newAddrInSeg>5993</newAddrInSeg>
+    <localizedText>--Тренировка--</localizedText>
   </text>
   <text>
     <addrOfAddr>74001</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>6006</addrInSeg>
     <originalText>--MARKET--</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>--MARKET--</localizedText>
+    <newAddrInSeg>6008</newAddrInSeg>
+    <localizedText>--Магазин--</localizedText>
   </text>
   <text>
     <addrOfAddr>74003</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>6017</addrInSeg>
     <originalText>--TEMPLE--</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>--TEMPLE--</localizedText>
+    <newAddrInSeg>6020</newAddrInSeg>
+    <localizedText>--Храм--</localizedText>
   </text>
   <text>
     <addrOfAddr>74005</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>6028</addrInSeg>
     <originalText>--BLACKSMITH--</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>--BLACKSMITH--</localizedText>
+    <newAddrInSeg>6029</newAddrInSeg>
+    <localizedText>--Кузнец--</localizedText>
   </text>
   <text>
     <addrOfAddr>74007</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>6043</addrInSeg>
     <originalText>--TAVERN--</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>--TAVERN--</localizedText>
+    <newAddrInSeg>6040</newAddrInSeg>
+    <localizedText>--Таверна--</localizedText>
   </text>
   <text>
     <addrOfAddr>12645</addrOfAddr>
@@ -661,8 +661,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrInSeg>6054</addrInSeg>
     <originalText>A) HAVE A DRINK
 </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A) HAVE A DRINK
+    <newAddrInSeg>6054</newAddrInSeg>
+    <localizedText>A) Выпить
 </localizedText>
   </text>
   <text>
@@ -671,8 +671,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrInSeg>6071</addrInSeg>
     <originalText>B) TIP BARTENDER
 </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>B) TIP BARTENDER
+    <newAddrInSeg>6071</newAddrInSeg>
+    <localizedText>B) Чаевые
 </localizedText>
   </text>
   <text>
@@ -680,8 +680,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>6089</addrInSeg>
     <originalText>C) LISTEN FOR RUMORS</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>C) LISTEN FOR RUMORS</localizedText>
+    <newAddrInSeg>6089</newAddrInSeg>
+    <localizedText>C) Слухи</localizedText>
   </text>
   <text>
     <addrOfAddr>13519</addrOfAddr>
@@ -970,8 +970,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7666</addrInSeg>
     <originalText>` COMMANDS</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>` COMMANDS</localizedText>
+    <newAddrInSeg>7666</newAddrInSeg>
+    <localizedText>` Команды </localizedText>
   </text>
   <text>
     <addrOfAddr>75652</addrOfAddr>
@@ -986,112 +986,112 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7679</addrInSeg>
     <originalText>`[ FORWARD</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`[ FORWARD</localizedText>
+    <newAddrInSeg>7679</newAddrInSeg>
+    <localizedText>`[ Вперед</localizedText>
   </text>
   <text>
     <addrOfAddr>75656</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7690</addrInSeg>
     <originalText>`\ BACK   </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`\ BACK   </localizedText>
+    <newAddrInSeg>7689</newAddrInSeg>
+    <localizedText>`\ Назад</localizedText>
   </text>
   <text>
     <addrOfAddr>75658</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7701</addrInSeg>
     <originalText>`] TURN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`] TURN</localizedText>
+    <newAddrInSeg>7698</newAddrInSeg>
+    <localizedText>`] Налево</localizedText>
   </text>
   <text>
     <addrOfAddr>75660</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7709</addrInSeg>
     <originalText>`   LEFT</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`   LEFT</localizedText>
+    <newAddrInSeg>7708</newAddrInSeg>
+    <localizedText>`^ направо</localizedText>
   </text>
   <text>
     <addrOfAddr>75662</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7718</addrInSeg>
     <originalText>`^ TURN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`^ TURN</localizedText>
+    <newAddrInSeg>7719</newAddrInSeg>
+    <localizedText>`O Порядок</localizedText>
+  </text>
+  <text>
+    <addrOfAddr>75664</addrOfAddr>
+    <addrOfSeg>68016</addrOfSeg>
+    <addrInSeg>7726</addrInSeg>
+    <originalText>`   RIGHT</originalText>
+    <newAddrInSeg>7730</newAddrInSeg>
+    <localizedText>`P Действ.</localizedText>
   </text>
   <text>
     <addrOfAddr>75666</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7736</addrInSeg>
     <originalText>`O ORDER  </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`O ORDER  </localizedText>
+    <newAddrInSeg>7741</newAddrInSeg>
+    <localizedText>   эффекты</localizedText>
   </text>
   <text>
     <addrOfAddr>75668</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7747</addrInSeg>
     <originalText>`P PROTECT</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`P PROTECT</localizedText>
+    <newAddrInSeg>7752</newAddrInSeg>
+    <localizedText>`R Отдых</localizedText>
   </text>
   <text>
     <addrOfAddr>75670</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7758</addrInSeg>
     <originalText>`R REST   </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`R REST   </localizedText>
+    <newAddrInSeg>7761</newAddrInSeg>
+    <localizedText>`S Искать</localizedText>
   </text>
   <text>
     <addrOfAddr>75672</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7769</addrInSeg>
     <originalText>`S SEARCH </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`S SEARCH </localizedText>
+    <newAddrInSeg>7771</newAddrInSeg>
+    <localizedText>`B Выбить</localizedText>
   </text>
   <text>
     <addrOfAddr>75674</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7780</addrInSeg>
     <originalText>`B BASH   </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`B BASH   </localizedText>
+    <newAddrInSeg>7781</newAddrInSeg>
+    <localizedText>`U Взлом</localizedText>
   </text>
   <text>
     <addrOfAddr>75676</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7791</addrInSeg>
     <originalText>`U UNLOCK </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`U UNLOCK </localizedText>
+    <newAddrInSeg>7790</newAddrInSeg>
+    <localizedText>`Q Реестр</localizedText>
   </text>
   <text>
     <addrOfAddr>75678</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7802</addrInSeg>
     <originalText>`Q QUIKREF</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`Q QUIKREF</localizedText>
+    <newAddrInSeg>7800</newAddrInSeg>
+    <localizedText>`# Осмотр</localizedText>
   </text>
   <text>
     <addrOfAddr>75680</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>7813</addrInSeg>
     <originalText>`# VIEW CH</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>`# VIEW CH</localizedText>
-  </text>
-  <text>
-    <addrOfAddr>75682</addrOfAddr>
-    <addrOfSeg>68016</addrOfSeg>
-    <addrInSeg>8288</addrInSeg>
-    <originalText>GUARD DOG</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GUARD DOG</localizedText>
+    <newAddrInSeg>7810</newAddrInSeg>
+    <localizedText>   перс-жа</localizedText>
   </text>
   <text>
     <addrOfAddr>18439</addrOfAddr>
@@ -2106,32 +2106,32 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9205</addrInSeg>
     <originalText>(CTRL)-'N' RE-NAME CHARACTER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>(CTRL)-'N' RE-NAME CHARACTER</localizedText>
+    <newAddrInSeg>9205</newAddrInSeg>
+    <localizedText>(CTRL)-'N' Переименовать    </localizedText>
   </text>
   <text>
     <addrOfAddr>24816</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9234</addrInSeg>
     <originalText>(CTRL)-'D' DELETE CHARACTER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>(CTRL)-'D' DELETE CHARACTER</localizedText>
+    <newAddrInSeg>9234</newAddrInSeg>
+    <localizedText>(CTRL)-'D' Удалить         </localizedText>
   </text>
   <text>
     <addrOfAddr>25041</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9262</addrInSeg>
     <originalText>    ARE YOU SURE (Y/N)?          </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>    ARE YOU SURE (Y/N)?          </localizedText>
+    <newAddrInSeg>9262</newAddrInSeg>
+    <localizedText>    Вы уверены   (Y/N)?          </localizedText>
   </text>
   <text>
     <addrOfAddr>24868</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9296</addrInSeg>
     <originalText>NAME: _                       </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>NAME: _                       </localizedText>
+    <newAddrInSeg>9296</newAddrInSeg>
+    <localizedText>Имя:  _                       </localizedText>
   </text>
   <text>
     <addrOfAddr>24211</addrOfAddr>
@@ -2266,79 +2266,79 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9713</addrInSeg>
     <originalText>*** PARTY IS FULL ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** PARTY IS FULL ***</localizedText>
+    <newAddrInSeg>9713</newAddrInSeg>
+    <localizedText>*** Полный отряд ***</localizedText>
   </text>
   <text>
     <addrOfAddr>25177</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9735</addrInSeg>
     <originalText>) INN OF </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>) INN OF </localizedText>
+    <newAddrInSeg>9735</newAddrInSeg>
+    <localizedText>)Таверна </localizedText>
   </text>
   <text>
     <addrOfAddr>25200</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9745</addrInSeg>
     <originalText>SORPIGAL</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>SORPIGAL</localizedText>
+    <newAddrInSeg>9745</newAddrInSeg>
+    <localizedText>Сорпигал</localizedText>
   </text>
   <text>
     <addrOfAddr>25213</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9754</addrInSeg>
     <originalText>PORTSMITH</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>PORTSMITH</localizedText>
+    <newAddrInSeg>9754</newAddrInSeg>
+    <localizedText>Портсмит</localizedText>
   </text>
   <text>
     <addrOfAddr>25226</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9764</addrInSeg>
     <originalText>ALGARY</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ALGARY</localizedText>
+    <newAddrInSeg>9763</newAddrInSeg>
+    <localizedText>Алгари</localizedText>
   </text>
   <text>
     <addrOfAddr>25239</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9771</addrInSeg>
     <originalText>DUSK</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>DUSK</localizedText>
+    <newAddrInSeg>9770</newAddrInSeg>
+    <localizedText>Дуск</localizedText>
   </text>
   <text>
     <addrOfAddr>25252</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9776</addrInSeg>
     <originalText>ERLIQUIN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ERLIQUIN</localizedText>
+    <newAddrInSeg>9775</newAddrInSeg>
+    <localizedText>Эрликин</localizedText>
   </text>
   <text>
     <addrOfAddr>25309</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9785</addrInSeg>
     <originalText>AVAILABLE CHARACTERS</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AVAILABLE CHARACTERS</localizedText>
+    <newAddrInSeg>9783</newAddrInSeg>
+    <localizedText>Доступные персонажи</localizedText>
   </text>
   <text>
     <addrOfAddr>25343</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9785</addrInSeg>
     <originalText>AVAILABLE CHARACTERS</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AVAILABLE CHARACTERS</localizedText>
+    <newAddrInSeg>9783</newAddrInSeg>
+    <localizedText>Доступные персонажи</localizedText>
   </text>
   <text>
     <addrOfAddr>25552</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9806</addrInSeg>
     <originalText>'A'-'</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
+    <newAddrInSeg>9803</newAddrInSeg>
     <localizedText>'A'-'</localizedText>
   </text>
   <text>
@@ -2346,15 +2346,15 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9812</addrInSeg>
     <originalText>' TO VIEW</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>' TO VIEW</localizedText>
+    <newAddrInSeg>9809</newAddrInSeg>
+    <localizedText>' смотреть</localizedText>
   </text>
   <text>
     <addrOfAddr>25587</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9822</addrInSeg>
     <originalText>(CTRL)-'A'-'</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
+    <newAddrInSeg>9820</newAddrInSeg>
     <localizedText>(CTRL)-'A'-'</localizedText>
   </text>
   <text>
@@ -2362,16 +2362,16 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9835</addrInSeg>
     <originalText>' ADD/REMOVE</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>' ADD/REMOVE</localizedText>
+    <newAddrInSeg>9833</newAddrInSeg>
+    <localizedText>' Взять/Убрать</localizedText>
   </text>
   <text>
     <addrOfAddr>25657</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9848</addrInSeg>
     <originalText>'X' EXIT INN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>'X' EXIT INN</localizedText>
+    <newAddrInSeg>9848</newAddrInSeg>
+    <localizedText>'X' На улицу</localizedText>
   </text>
   <text>
     <addrOfAddr>27246</addrOfAddr>
@@ -2410,112 +2410,112 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9868</addrInSeg>
     <originalText>GOOD</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GOOD</localizedText>
+    <newAddrInSeg>9868</newAddrInSeg>
+    <localizedText>Добр</localizedText>
   </text>
   <text>
     <addrOfAddr>27224</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9873</addrInSeg>
     <originalText>NEUT</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>NEUT</localizedText>
+    <newAddrInSeg>9873</newAddrInSeg>
+    <localizedText>Нейт</localizedText>
   </text>
   <text>
     <addrOfAddr>27237</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9878</addrInSeg>
     <originalText>EVIL</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>EVIL</localizedText>
+    <newAddrInSeg>9878</newAddrInSeg>
+    <localizedText>Злой</localizedText>
   </text>
   <text>
     <addrOfAddr>27275</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9883</addrInSeg>
     <originalText>HUMAN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>HUMAN</localizedText>
+    <newAddrInSeg>9883</newAddrInSeg>
+    <localizedText>Челов</localizedText>
   </text>
   <text>
     <addrOfAddr>27288</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9889</addrInSeg>
     <originalText>ELF</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ELF</localizedText>
+    <newAddrInSeg>9889</newAddrInSeg>
+    <localizedText>Эльф</localizedText>
   </text>
   <text>
     <addrOfAddr>27301</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9893</addrInSeg>
     <originalText>DWARF</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>DWARF</localizedText>
+    <newAddrInSeg>9894</newAddrInSeg>
+    <localizedText>Дварф</localizedText>
   </text>
   <text>
     <addrOfAddr>27314</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9899</addrInSeg>
     <originalText>GNOME</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GNOME</localizedText>
+    <newAddrInSeg>9900</newAddrInSeg>
+    <localizedText>Гном</localizedText>
   </text>
   <text>
     <addrOfAddr>27327</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9905</addrInSeg>
     <originalText>H-ORC</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>H-ORC</localizedText>
+    <newAddrInSeg>9905</newAddrInSeg>
+    <localizedText>П-орк</localizedText>
   </text>
   <text>
     <addrOfAddr>27365</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9911</addrInSeg>
     <originalText>KNIGHT</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>KNIGHT</localizedText>
+    <newAddrInSeg>9911</newAddrInSeg>
+    <localizedText>Рыцарь</localizedText>
   </text>
   <text>
     <addrOfAddr>27378</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9918</addrInSeg>
     <originalText>PALADIN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>PALADIN</localizedText>
+    <newAddrInSeg>9918</newAddrInSeg>
+    <localizedText>Паладин</localizedText>
   </text>
   <text>
     <addrOfAddr>27391</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9926</addrInSeg>
     <originalText>ARCHER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ARCHER</localizedText>
+    <newAddrInSeg>9926</newAddrInSeg>
+    <localizedText>Лучник</localizedText>
   </text>
   <text>
     <addrOfAddr>27404</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9933</addrInSeg>
     <originalText>CLERIC</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>CLERIC</localizedText>
+    <newAddrInSeg>9933</newAddrInSeg>
+    <localizedText>Клерик</localizedText>
   </text>
   <text>
     <addrOfAddr>27417</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9940</addrInSeg>
     <originalText>SORCERER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>SORCERER</localizedText>
+    <newAddrInSeg>9940</newAddrInSeg>
+    <localizedText>Чародей</localizedText>
   </text>
   <text>
     <addrOfAddr>27430</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>9949</addrInSeg>
     <originalText>ROBBER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ROBBER</localizedText>
+    <newAddrInSeg>9948</newAddrInSeg>
+    <localizedText>Вор</localizedText>
   </text>
   <text>
     <addrOfAddr>27518</addrOfAddr>
@@ -2602,136 +2602,136 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10051</addrInSeg>
     <originalText>COND=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>COND=</localizedText>
+    <newAddrInSeg>10051</newAddrInSeg>
+    <localizedText>Сост=</localizedText>
   </text>
   <text>
     <addrOfAddr>27766</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10057</addrInSeg>
     <originalText>INT=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>INT=</localizedText>
+    <newAddrInSeg>10057</newAddrInSeg>
+    <localizedText>Инт=</localizedText>
   </text>
   <text>
     <addrOfAddr>27795</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10062</addrInSeg>
     <originalText>LEVEL=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>LEVEL=</localizedText>
+    <newAddrInSeg>10062</newAddrInSeg>
+    <localizedText>Уров =</localizedText>
   </text>
   <text>
     <addrOfAddr>27824</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10069</addrInSeg>
     <originalText>AGE=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AGE=</localizedText>
+    <newAddrInSeg>10069</newAddrInSeg>
+    <localizedText>Лет=</localizedText>
   </text>
   <text>
     <addrOfAddr>27853</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10074</addrInSeg>
     <originalText>EXP=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>EXP=</localizedText>
+    <newAddrInSeg>10074</newAddrInSeg>
+    <localizedText>ОП =</localizedText>
   </text>
   <text>
     <addrOfAddr>27908</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10079</addrInSeg>
     <originalText>MGT=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>MGT=</localizedText>
+    <newAddrInSeg>10079</newAddrInSeg>
+    <localizedText>Сил=</localizedText>
   </text>
   <text>
     <addrOfAddr>27940</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10084</addrInSeg>
     <originalText>PER=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>PER=</localizedText>
+    <newAddrInSeg>10084</newAddrInSeg>
+    <localizedText>Дух=</localizedText>
   </text>
   <text>
     <addrOfAddr>27969</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10089</addrInSeg>
     <originalText>SP=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>SP=</localizedText>
+    <newAddrInSeg>10089</newAddrInSeg>
+    <localizedText>ОМ=</localizedText>
   </text>
   <text>
     <addrOfAddr>28070</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10093</addrInSeg>
     <originalText>GEMS=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GEMS=</localizedText>
+    <newAddrInSeg>10093</newAddrInSeg>
+    <localizedText>Драг=</localizedText>
   </text>
   <text>
     <addrOfAddr>28113</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10099</addrInSeg>
     <originalText>END=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>END=</localizedText>
+    <newAddrInSeg>10099</newAddrInSeg>
+    <localizedText>Вын=</localizedText>
   </text>
   <text>
     <addrOfAddr>28145</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10104</addrInSeg>
     <originalText>SPD=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>SPD=</localizedText>
+    <newAddrInSeg>10104</newAddrInSeg>
+    <localizedText>Ско=</localizedText>
   </text>
   <text>
     <addrOfAddr>28174</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10109</addrInSeg>
     <originalText>HP=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>HP=</localizedText>
+    <newAddrInSeg>10109</newAddrInSeg>
+    <localizedText>ОЗ=</localizedText>
   </text>
   <text>
     <addrOfAddr>28240</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10113</addrInSeg>
     <originalText>GOLD=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>GOLD=</localizedText>
+    <newAddrInSeg>10113</newAddrInSeg>
+    <localizedText>Зол =</localizedText>
   </text>
   <text>
     <addrOfAddr>28289</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10119</addrInSeg>
     <originalText>ACY=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ACY=</localizedText>
+    <newAddrInSeg>10119</newAddrInSeg>
+    <localizedText>Мет=</localizedText>
   </text>
   <text>
     <addrOfAddr>28321</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10124</addrInSeg>
     <originalText>LUC=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>LUC=</localizedText>
+    <newAddrInSeg>10124</newAddrInSeg>
+    <localizedText>Удч=</localizedText>
   </text>
   <text>
     <addrOfAddr>28350</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10129</addrInSeg>
     <originalText>AC=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AC=</localizedText>
+    <newAddrInSeg>10129</newAddrInSeg>
+    <localizedText>КБ=</localizedText>
   </text>
   <text>
     <addrOfAddr>27012</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10133</addrInSeg>
     <originalText>FOOD=</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>FOOD=</localizedText>
+    <newAddrInSeg>10133</newAddrInSeg>
+    <localizedText>Еда =</localizedText>
   </text>
   <text>
     <addrOfAddr>28379</addrOfAddr>
@@ -2746,8 +2746,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10139</addrInSeg>
     <originalText>-----&lt;EQUIPPED&gt;----------&lt;BACKPACK&gt;-----</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>-----&lt;EQUIPPED&gt;----------&lt;BACKPACK&gt;-----</localizedText>
+    <newAddrInSeg>10139</newAddrInSeg>
+    <localizedText>----&lt;Экипировано&gt;---------&lt;Мешок&gt;-------</localizedText>
   </text>
   <text>
     <addrOfAddr>26707</addrOfAddr>

@@ -234,15 +234,15 @@ namespace MM_Localization {
       seg001+0x1DD2+0x08, //:1E15;`] TURN
       seg001+0x1DD2+0x0A, //:1E1D;`   LEFT
       seg001+0x1DD2+0x0C, //:1E26;`^ TURN
-      seg001+0x1DD2+0x10, //:1E2E;`   RIGHT
-      seg001+0x1DD2+0x12, //:1E38;`O ORDER
-      seg001+0x1DD2+0x14, //:1E43;`P PROTECT
-      seg001+0x1DD2+0x16, //:1E4E;`R REST
-      seg001+0x1DD2+0x18, //:1E59;`S SEARCH
-      seg001+0x1DD2+0x1A, //:1E64;`B BASH
-      seg001+0x1DD2+0x1C, //:1E6F;`U UNLOCK
-      seg001+0x1DD2+0x1E, //:1E7A;`Q QUIKREF
-      seg001+0x1DD2+0x20, //:1E85;`# VIEW CH
+      seg001+0x1DD2+0x0E, //:1E2E;`   RIGHT
+      seg001+0x1DD2+0x10, //:1E38;`O ORDER
+      seg001+0x1DD2+0x12, //:1E43;`P PROTECT
+      seg001+0x1DD2+0x14, //:1E4E;`R REST
+      seg001+0x1DD2+0x16, //:1E59;`S SEARCH
+      seg001+0x1DD2+0x18, //:1E64;`B BASH
+      seg001+0x1DD2+0x1A, //:1E6F;`U UNLOCK
+      seg001+0x1DD2+0x1C, //:1E7A;`Q QUIKREF
+      seg001+0x1DD2+0x1E, //:1E85;`# VIEW CH
       //...
       seg000+0x4607,      //:1EE0; ENCOUNTER!
       seg000+0x4FB5,      //:1EED;  BARRIER!
@@ -959,7 +959,7 @@ namespace MM_Localization {
       byte retC = (byte)' ';
       c = char.ToUpper(c);
       switch (c) {
-        case '\n':
+        case '\n': retC = 0x0D; break;
         case ' ':
         case '!':
         case '"':
@@ -1083,6 +1083,11 @@ namespace MM_Localization {
       if (!Directory.Exists(savePath))
         try { Directory.CreateDirectory(savePath); } catch { return; }
       File.WriteAllBytes(Path.Combine(savePath, "MM.exe"), bb);
+    }
+    public string CheckProgress() {
+      int i = 0;
+      foreach (text t in dt) if (t.newAddrInSeg != 0) i++;
+      return i + "/" + dt.Count;
     }
 
     public void saveCollectionToFile(string path) {
@@ -1256,6 +1261,11 @@ namespace MM_Localization {
       options.Owner = this;
       if (options.ShowDialog() == true) saveConfig();
     }
+    private void GetProgressBinding_Executed(object sender,
+                                         ExecutedRoutedEventArgs e) {
+      System.Windows.MessageBox.Show(this, textsViewModel.CheckProgress(), 
+        "Progress", MessageBoxButton.OK, MessageBoxImage.Information);
+    }
   }
 }
 
@@ -1280,6 +1290,9 @@ namespace MM_Localization.Commands {
 
     public static RoutedUICommand SaveData =
       new RoutedUICommand("", "SaveData", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand GetProgress =
+      new RoutedUICommand("", "GetProgress", typeof(MM_Localization_Commands));
 
     public static RoutedUICommand Options =
       new RoutedUICommand("", "Options", typeof(MM_Localization_Commands));
