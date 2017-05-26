@@ -37,7 +37,7 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3502</addrInSeg>
     <originalText>NO RUMORS TODAY.</originalText>
-    <newAddrInSeg>3502</newAddrInSeg>
+    <newAddrInSeg>20164</newAddrInSeg>
     <localizedText>Слухов нет.</localizedText>
   </text>
   <text>
@@ -45,7 +45,7 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3519</addrInSeg>
     <originalText>GREAT STUFF!</originalText>
-    <newAddrInSeg>3514</newAddrInSeg>
+    <newAddrInSeg>20176</newAddrInSeg>
     <localizedText>Отличное пойло!</localizedText>
   </text>
   <text>
@@ -53,7 +53,7 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3532</addrInSeg>
     <originalText>YOU FEEL SICK!!</originalText>
-    <newAddrInSeg>3530</newAddrInSeg>
+    <newAddrInSeg>20192</newAddrInSeg>
     <localizedText>Вы плохо себя чувствуете!!</localizedText>
   </text>
   <text>
@@ -61,7 +61,7 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3548</addrInSeg>
     <originalText>HAVE A DRINK, THEN WE'LL TALK.</originalText>
-    <newAddrInSeg>3557</newAddrInSeg>
+    <newAddrInSeg>20219</newAddrInSeg>
     <localizedText>Выпей, тогда поговорим.</localizedText>
   </text>
   <text>
@@ -69,15 +69,15 @@
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3579</addrInSeg>
     <originalText>THANKS A LOT, HAVE ANOTHER ROUND!</originalText>
-    <newAddrInSeg>3581</newAddrInSeg>
-    <localizedText>Огромное спасибо, Выпей еще!</localizedText>
+    <newAddrInSeg>4447</newAddrInSeg>
+    <localizedText>Cпасибо, Выпей еще!</localizedText>
   </text>
   <text>
     <addrOfAddr>10585</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>3613</addrInSeg>
     <originalText>YOU LOOK TERRIBLE, GO SEE THE CLERICS.</originalText>
-    <newAddrInSeg>3610</newAddrInSeg>
+    <newAddrInSeg>0</newAddrInSeg>
     <localizedText>Ты плохо выглядишь, сходи к клерикам.</localizedText>
   </text>
   <text>
@@ -91,7 +91,12 @@ LEAD TO TREASURES UNTOLD
 FIVE TOWNS YOU MUST TRAVEL
 FOR THIS QUEST TO UNRAVEL</originalText>
     <newAddrInSeg>19724</newAddrInSeg>
-    <localizedText>TEST0</localizedText>
+    <localizedText>Окажешь услугу, раскроешь суть
+Братья совместно
+к сокровищу укажут путь
+
+В пяти городах побывай,
+Эту тайну рагадай</localizedText>
   </text>
   <text>
     <addrOfAddr>71681</addrOfAddr>
@@ -104,8 +109,14 @@ BUT DOOM WILL BE QUITE TOUGH!
 CRUELTY AND KINDNESS
 MEASURED THROUGHOUT
 JUDGEMENT DAY IS THEN SOUGHT OUT</originalText>
-    <newAddrInSeg>19732</newAddrInSeg>
-    <localizedText>TEST1</localizedText>
+    <newAddrInSeg>19839</newAddrInSeg>
+    <localizedText>Ищи колдуна Раналу
+в его убежище на утесе газели
+Отправит он тебя в шесть замков
+Но рок будет очень сложным!
+Добро и зло,
+проявленные тобой,
+зачтутся в Судный день</localizedText>
   </text>
   <text>
     <addrOfAddr>71683</addrOfAddr>
@@ -118,8 +129,14 @@ WILL FAVORABLY PAY, THE MORE OF THESE
 MENACING BEASTS YOU SLAY!
 ALTHOUGH WISHES MAY COME TRUE
 ALL THE BEASTS WILL BECOME ANEW</originalText>
-    <newAddrInSeg>19740</newAddrInSeg>
-    <localizedText>TEST2</localizedText>
+    <newAddrInSeg>20003</newAddrInSeg>
+    <localizedText>Одно на земле, одно в воде
+Одно в воздухе, одно на песке
+Чем больше чудищ истреблено,
+тем более благосклонно
+Колесо Удачи!
+Желания сбываются
+Чудища возрождаются</localizedText>
   </text>
   <text>
     <addrOfAddr>71685</addrOfAddr>
@@ -130,8 +147,12 @@ FIND THE RIGHT PAIR
 AND YOU'LL DISCOVER THE KEY
 THE ANCIENT SEER OG HAS LOST HIS SIGHT
 THE IDOLS WILL HELP TO END HIS PLIGHT</originalText>
-    <newAddrInSeg>19748</newAddrInSeg>
-    <localizedText>TEST3</localizedText>
+    <newAddrInSeg>4817</newAddrInSeg>
+    <localizedText>Есть много таких же темниц
+Найди правильную пару
+и ты получишь ключ
+Древний провидец Ог потерял свое зрение
+Идолы помогут снять обет</localizedText>
   </text>
   <text>
     <addrOfAddr>71687</addrOfAddr>
@@ -142,8 +163,12 @@ THE IDOLS WILL HELP TO END HIS PLIGHT</originalText>
 FOR HIS MAPPING EXPEDITION
 OF THE LAND OF VARN AND REDISCOVERY
 OF THE LOST TOWN OF DUSK</originalText>
-    <newAddrInSeg>19756</newAddrInSeg>
-    <localizedText>TEST4</localizedText>
+    <newAddrInSeg>3502</newAddrInSeg>
+    <localizedText>Во славу Корака...
+
+За его картографическую экспедицию
+по земле VARN и открытие
+давно потерянного города Даск</localizedText>
   </text>
   <text>
     <addrOfAddr>71689</addrOfAddr>
@@ -153,11 +178,11 @@ OF THE LOST TOWN OF DUSK</originalText>
 
 FOR HER BRAVE ATTEMPT TO WORK WITH THE
 SAVAGES OF THE VOLCANIC ISLES</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>IN HONOR OF GALA...
+    <newAddrInSeg>4467</newAddrInSeg>
+    <localizedText>Во славу Галы...
 
-FOR HER BRAVE ATTEMPT TO WORK WITH THE
-SAVAGES OF THE VOLCANIC ISLES</localizedText>
+За ее бравую попытку работы с
+дикарями вулканических островов</localizedText>
   </text>
   <text>
     <addrOfAddr>71691</addrOfAddr>
@@ -168,12 +193,11 @@ SAVAGES OF THE VOLCANIC ISLES</localizedText>
 BEFORE THE DAYS WHEN THE TOWNS
 MOVED UNDERGROUND, DRAGONS WERE
 FEW AND FAR BETWEEN</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>IN MEMORY OF A TIME LONG AGO...
+    <newAddrInSeg>4547</newAddrInSeg>
+    <localizedText>В память о давних временах...
 
-BEFORE THE DAYS WHEN THE TOWNS
-MOVED UNDERGROUND, DRAGONS WERE
-FEW AND FAR BETWEEN</localizedText>
+До ухода городов под землю
+редко можно было встретить дракона</localizedText>
   </text>
   <text>
     <addrOfAddr>71693</addrOfAddr>
@@ -182,50 +206,49 @@ FEW AND FAR BETWEEN</localizedText>
     <originalText>THIS BEAST ONCE ROAMED THE
 ENCHANTED FOREST AND NOW RULES
 A GREAT FORTRESS THERE</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>THIS BEAST ONCE ROAMED THE
-ENCHANTED FOREST AND NOW RULES
-A GREAT FORTRESS THERE</localizedText>
+    <newAddrInSeg>4640</newAddrInSeg>
+    <localizedText>Этот зверь сейчас управляет
+крепостью в зачарованом лесу</localizedText>
   </text>
   <text>
     <addrOfAddr>10624</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4758</addrInSeg>
     <originalText>ON THIS STONE STATUE OF </originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>ON THIS STONE STATUE OF </localizedText>
+    <newAddrInSeg>4697</newAddrInSeg>
+    <localizedText>Статуя </localizedText>
   </text>
   <text>
     <addrOfAddr>10655</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4783</addrInSeg>
     <originalText>A PLAQUE READS...</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A PLAQUE READS...</localizedText>
+    <newAddrInSeg>4705</newAddrInSeg>
+    <localizedText>Под ней табличка..</localizedText>
   </text>
   <text>
     <addrOfAddr>72817</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4817</addrInSeg>
     <originalText>A HUMAN KNIGHT</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A HUMAN KNIGHT</localizedText>
+    <newAddrInSeg>4950</newAddrInSeg>
+    <localizedText>Рыцаря</localizedText>
   </text>
   <text>
     <addrOfAddr>72819</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4832</addrInSeg>
     <originalText>AN ELVEN WIZARD</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AN ELVEN WIZARD</localizedText>
+    <newAddrInSeg>4957</newAddrInSeg>
+    <localizedText>Эльфа-мага</localizedText>
   </text>
   <text>
     <addrOfAddr>72821</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4848</addrInSeg>
     <originalText>A GNOME ROBBER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A GNOME ROBBER</localizedText>
+    <newAddrInSeg>4724</newAddrInSeg>
+    <localizedText>Гнома-вора</localizedText>
   </text>
   <text>
     <addrOfAddr>72823</addrOfAddr>
@@ -233,41 +256,41 @@ A GREAT FORTRESS THERE</localizedText>
     <addrInSeg>4863</addrInSeg>
     <originalText>A DWARF PALADIN
 PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A DWARF PALADIN
-PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</localizedText>
+    <newAddrInSeg>4735</newAddrInSeg>
+    <localizedText>Дварфа-паладина
+в черно-белую клетку</localizedText>
   </text>
   <text>
     <addrOfAddr>72825</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4919</addrInSeg>
     <originalText>AN H-ORC ARCHER</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>AN H-ORC ARCHER</localizedText>
+    <newAddrInSeg>4772</newAddrInSeg>
+    <localizedText>орка-лучника</localizedText>
   </text>
   <text>
     <addrOfAddr>72827</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4935</addrInSeg>
     <originalText>A HUMAN CLERIC</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A HUMAN CLERIC</localizedText>
+    <newAddrInSeg>4785</newAddrInSeg>
+    <localizedText>клерика</localizedText>
   </text>
   <text>
     <addrOfAddr>72829</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4950</addrInSeg>
     <originalText>A BLUE DRAGON</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A BLUE DRAGON</localizedText>
+    <newAddrInSeg>4793</newAddrInSeg>
+    <localizedText>дракона</localizedText>
   </text>
   <text>
     <addrOfAddr>72831</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>4964</addrInSeg>
     <originalText>A GRAY MINOTAUR</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>A GRAY MINOTAUR</localizedText>
+    <newAddrInSeg>4968</newAddrInSeg>
+    <localizedText>минотавра</localizedText>
   </text>
   <text>
     <addrOfAddr>8032</addrOfAddr>

@@ -18,6 +18,7 @@ ARCHER - Лучник
 CLERIC - Клерик
 SORCERER - Чародей
 ROBBER - Вор
+Wizard - Колдун
 
 Good - добрый
 Neutral - нейтральный
@@ -36,9 +37,24 @@ Condition - состояние
 Equipped - Экипировка
 Backpack - Мешок
 
-Inn - таверна
+Inn - отель
+
+Города:
 Sorpigal - Сорпигал
 Portsmith - Портсмит
 Algary - Алгари
 Dusk - Даск
 Erliquin - Эрликин
+
+Имена:
+Ranalou - Раналу
+
+Местность:
+Korin Bluffs - Утес газели
+Brisbane Bay - Залив Брисбен
+Blithes Peak - Пик радости
+VOLCANIC ISLES - вулканические острова
+ENCHANTED FOREST - зачарованый лес
+
+Замки:
+Doom - Рок
