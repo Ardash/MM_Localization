@@ -25,7 +25,7 @@ Neutral - нейтральный
 Evil - злой
 
 Race - раса
-Alignment - мировоззрение
+Alignment - характер
 
 SP - Очки маны
 HP - очки здоровья
@@ -37,7 +37,7 @@ Condition - состояние
 Equipped - Экипировка
 Backpack - Мешок
 
-Inn - отель
+Inn - номера
 
 Города:
 Sorpigal - Сорпигал
@@ -58,3 +58,5 @@ ENCHANTED FOREST - зачарованый лес
 
 Замки:
 Doom - Рок
+
+curse - порча

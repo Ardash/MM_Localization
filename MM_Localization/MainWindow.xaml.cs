@@ -131,9 +131,9 @@ namespace MM_Localization {
       seg000+0x253E,      //:1526;'ESC' TO GO BACK
       //...
       seg000+0x27E3,      //:15E6;A) BUY WEAPONS\n
-      seg000+0x27F1,      //:15F6; B) BUY ARMOR\n
+      seg000+0x27F1,      //:15F6;B) BUY ARMOR\n
       seg000+0x27FF,      //:1604;C) BUY MISC\n
-      seg000+0x280D,      //:1611; D) SELL ITEM
+      seg000+0x280D,      //:1611;D) SELL ITEM
       seg000+0x2837,      //:161E;WEAPONS     PRICE
       seg000+0x28D0,      //:1630;ARMOR      PRICE
       seg000+0x28EC,      //:1641;MISC       PRICE
@@ -148,7 +148,7 @@ namespace MM_Localization {
       seg000+0x2CC0,      //:16AC;EXPERIENCE POINTS
       seg000+0x2CD9,      //:16BE;SERVICE        COST
       seg000+0x2DBF,      //:16D2;A) RESTORE HEALTH
-      seg000+0x2DF5,      //:16E4;B) UNCURSE ITEMS
+      seg000+0x2DF9,      //:16E4;B) UNCURSE ITEMS
       seg000+0x2E33,      //:16F5;C) RESTORE ALIGN
       seg000+0x2E81,      //:1706;D) MAKE DONATION
       //...
@@ -252,9 +252,9 @@ namespace MM_Localization {
       seg001+0x1F27+0x00, //:1F33;   SOLID!
       seg001+0x1F27+0x02, //:1F40;   LOCKED!
       seg001+0x1F27+0x04, //:1F4D; TOO DENSE!
-      seg001+0x1F27+0x08, //:1F5A; IMPASSABLE
-      seg001+0x1F27+0x0A, //:1F67; ROUGH SEAS
-      seg001+0x1F27+0x0C, //:1F74; TOO WINDY!
+      seg001+0x1F27+0x06, //:1F5A; IMPASSABLE
+      seg001+0x1F27+0x08, //:1F67; ROUGH SEAS
+      seg001+0x1F27+0x0A, //:1F74; TOO WINDY!
       //...
       seg000+0x48CA,      //:1F82;PROTECT:  SPELLS CURRENTLY ACTIVE
       seg000+0x499E,      //:1FA4;PROTECTION FROM:
@@ -434,8 +434,8 @@ namespace MM_Localization {
       seg000+0x6919,      //:26D4; SORCERER
       seg000+0x6926,      //:26DD;ROBBER
       seg000+0x697E,      //:26E4; ERADICATED
-      seg000+0x6993,      //:26EF; DEAD,
-      seg000+0x66A2,      //:26F5;STONE,
+      seg000+0x6993,      //:26EF;DEAD,
+      seg000+0x69A2,      //:26F5;STONE,
       seg000+0x69C0,      //:26FC;UNCONSCIOUS,
       seg000+0x69CF,      //:2709;PARALYZED,
       seg000+0x69DE,      //:2714;POISONED,
