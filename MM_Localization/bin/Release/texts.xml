@@ -2841,7 +2841,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10415</addrInSeg>
     <originalText>*** TOO DANGEROUS TO REST HERE!</originalText>
-    <newAddrInSeg>10415</newAddrInSeg>
+    <newAddrInSeg>10418</newAddrInSeg>
     <localizedText>*** Здесь опасно отдыхать!</localizedText>
   </text>
   <text>
@@ -2849,7 +2849,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10447</addrInSeg>
     <originalText>REST HERE (Y/N)?</originalText>
-    <newAddrInSeg>10442</newAddrInSeg>
+    <newAddrInSeg>10445</newAddrInSeg>
     <localizedText>сделать привал (Y/N)?</localizedText>
   </text>
   <text>
@@ -2865,72 +2865,72 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10530</addrInSeg>
     <originalText>DISCARD WHICH ITEM: 'A'-'F'?</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>DISCARD WHICH ITEM: 'A'-'F'?</localizedText>
+    <newAddrInSeg>10530</newAddrInSeg>
+    <localizedText>что выкинуть: 'A'-'F'?</localizedText>
   </text>
   <text>
     <addrOfAddr>30569</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10559</addrInSeg>
     <originalText>*** 40 FOOD MAX ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** 40 FOOD MAX ***</localizedText>
+    <newAddrInSeg>10553</newAddrInSeg>
+    <localizedText>*** 40 еды максимум ***</localizedText>
   </text>
   <text>
     <addrOfAddr>31092</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10579</addrInSeg>
     <originalText>SHARE ALL:</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>SHARE ALL:</localizedText>
+    <newAddrInSeg>10577</newAddrInSeg>
+    <localizedText>разделить:</localizedText>
   </text>
   <text>
     <addrOfAddr>32745</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10602</addrInSeg>
     <originalText>*** ALREADY HAVE WEAPON ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** ALREADY HAVE WEAPON ***</localizedText>
+    <newAddrInSeg>10602</newAddrInSeg>
+    <localizedText>*** Уже есть оружие ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32759</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10630</addrInSeg>
     <originalText>*** AREADY HAVE MISSILE WEAPON ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** AREADY HAVE MISSILE WEAPON ***</localizedText>
+    <newAddrInSeg>10626</newAddrInSeg>
+    <localizedText>*** Уже есть стрелковое оружие ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32773</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10665</addrInSeg>
     <originalText>*** CANNOT WITH SHIELD ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** CANNOT WITH SHIELD ***</localizedText>
+    <newAddrInSeg>10661</newAddrInSeg>
+    <localizedText>*** Мешает щит ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32787</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10692</addrInSeg>
     <originalText>*** ALREADY WEARING ARMOR ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** ALREADY WEARING ARMOR ***</localizedText>
+    <newAddrInSeg>10680</newAddrInSeg>
+    <localizedText>*** Уже есть броня ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32801</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10722</addrInSeg>
     <originalText>*** CANNOT WITH TWO-HANDED WEAPON ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** CANNOT WITH TWO-HANDED WEAPON ***</localizedText>
+    <newAddrInSeg>10703</newAddrInSeg>
+    <localizedText>*** Экипировано двуручное оружие ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32815</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10760</addrInSeg>
     <originalText>*** ALREADY HAVE ONE ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** ALREADY HAVE ONE ***</localizedText>
+    <newAddrInSeg>10740</newAddrInSeg>
+    <localizedText>*** Уже есть ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32829</addrOfAddr>
@@ -2961,8 +2961,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10798</addrInSeg>
     <originalText>*** NOT EQUIPPED ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** NOT EQUIPPED ***</localizedText>
+    <newAddrInSeg>10798</newAddrInSeg>
+    <localizedText>*** надо надеть ***</localizedText>
   </text>
   <text>
     <addrOfAddr>35058</addrOfAddr>
@@ -2977,24 +2977,24 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10819</addrInSeg>
     <originalText>*** WRONG ALIGNMENT ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** WRONG ALIGNMENT ***</localizedText>
+    <newAddrInSeg>10818</newAddrInSeg>
+    <localizedText>*** не тот характер ***</localizedText>
   </text>
   <text>
     <addrOfAddr>32731</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10843</addrInSeg>
     <originalText>*** WRONG CLASS ***</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>*** WRONG CLASS ***</localizedText>
+    <newAddrInSeg>10842</newAddrInSeg>
+    <localizedText>*** не тот класс ***</localizedText>
   </text>
   <text>
     <addrOfAddr>31892</addrOfAddr>
     <addrOfSeg>68016</addrOfSeg>
     <addrInSeg>10863</addrInSeg>
     <originalText>EQUIP WHICH ITEM: 'A'-'F'?</originalText>
-    <newAddrInSeg>0</newAddrInSeg>
-    <localizedText>EQUIP WHICH ITEM: 'A'-'F'?</localizedText>
+    <newAddrInSeg>10863</newAddrInSeg>
+    <localizedText>      какую вещь: 'A'-'F'?</localizedText>
   </text>
   <text>
     <addrOfAddr>33467</addrOfAddr>
