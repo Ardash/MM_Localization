@@ -89,10 +89,10 @@
         <RowDefinition />
       </Grid.RowDefinitions>
       <Grid.ColumnDefinitions>
-        <ColumnDefinition Width="auto"/>
-        <ColumnDefinition/>
+        <ColumnDefinition Width="auto" />
+        <ColumnDefinition />
       </Grid.ColumnDefinitions>
-      <ListView Name="lstGrid" Grid.Column="0"/>
+      <ListView Name="lstGrid" Grid.Column="0" />
       <DataGrid
         Name="mGrid"
         ItemsSource="{Binding dt}"

@@ -58,5 +58,29 @@ ENCHANTED FOREST - зачарованый лес
 
 Замки:
 Doom - Рок
+Dragadune - Драгадун
 
 curse - порча
+
+
+
+TSTST,E1,D-DS15A1DRH dragadune 10,3
+OEI/:1-33-1EK5;D-ET, alamar 7,13
+//SV/21;-22R,;DU1RS0 doom 1,1
+RSTIA-,E1,;/11RN;/M- white wolf 0,1
+ATIS-19-31UD54AEUPI1 Blackridge N 2,2
+IACI1;-2;0NU--G,NOT2 Blackridge S 15,8
+
+TO/RAISE/STATISTICS/VISIT:/A-1,12-1;E-1,9-13;E-2,3-13;D-2,10-12;UNDER/DUSK,15-15;14-5;DRAGADUNE,1-1;UNDER/PORTSMITH,0-12
+
+Улучшение/характеристик:/A-1,12-1;E-1,9-13;E-2,3-13;D-2,10-12;подземелье/Даск,15-15;14-5;драгадун,1-1;подземелье/Портсмит,0-12
+
+Унри/21;-22е/11рнпеот dragadune 10,3
+лиасA-,E1,;мД54а,олр, alamar 7,13
+уект-19-31пеа--г1дьт0 doom 1,1
+ч/ти1;-2;0олс15а-зес- white wolf 0,1
+шхек,E1,D-дьк5;д1е/м1 Blackridge N 2,2
+еар:1-33-1зе,;ду;мПи2 Blackridge S 15,8
+
+
+

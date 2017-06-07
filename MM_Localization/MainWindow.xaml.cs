@@ -11,9 +11,7 @@ using System.Windows.Input;
 using System.Xml.Serialization;
 
 namespace MM_Localization {
-
   //public class StringToHex8Converter : IValueConverter {
-
   //  public object Convert(object value, Type targetType,
   //                        object parameter, CultureInfo culture) {
   //    return ((int)value).ToString("X8");
@@ -51,26 +49,43 @@ namespace MM_Localization {
   }
 
   public class locText {
-    public locText() { }
+
+    public locText() {
+    }
+
     public locText(string name) {
       fName = name;
       dt = new ObservableCollection<text>();
     }
+
     public string fName;
     public ObservableCollection<text> dt;
   }
+
   public class addrPair {
-    public addrPair() { }
-    public addrPair(int addr) { h = addr + 1; l = addr; }
-    public addrPair(int h, int l) { this.h = h; this.l = l; }
+
+    public addrPair() {
+    }
+
+    public addrPair(int addr) {
+      h = addr + 1; l = addr;
+    }
+
+    public addrPair(int h, int l) {
+      this.h = h; this.l = l;
+    }
+
     public int h;
     public int l;
   }
+
   public class txtAddresses {
+
     public txtAddresses(string name, addrPair[] addr) {
       fName = name;
       addresses = addr;
     }
+
     public string fName;
     public addrPair[] addresses;
   }
@@ -79,10 +94,6 @@ namespace MM_Localization {
 
     public textsTextsViewModel() {
       dt = new ObservableCollection<text>();
-    }
-
-    private static ushort BBToShort(byte byte1, byte byte2) {
-      return (ushort)((byte2 << 8) + byte1);
     }
 
     private static int getStrLen(byte[] bArr, int index) {
@@ -95,7 +106,7 @@ namespace MM_Localization {
     private const int seg000 = 0x00000200;
     private const int seg001 = 0x000109B0;
 
-    List<txtAddresses> textAddresses = new List<txtAddresses> {
+    private List<txtAddresses> textAddresses = new List<txtAddresses> {
       new txtAddresses("mm.exe", new addrPair[] {
         new addrPair(seg000+0x03F2),      //0062; INSERT MIGHT & MAGIC DISK
         new addrPair(seg000+0x0405),      //007D;IN DRIVE A AND PRESS 'ENTER'
@@ -865,6 +876,28 @@ namespace MM_Localization {
         new addrPair(0x02EC), //:C5EC+0807=CDF3;TRAP DOOR!
         new addrPair(0x02FC), //:C5EC+0812=CDFE;, LEVITATION SAVES YOU!
       }),
+      new txtAddresses("alamar.ovr", new addrPair[] {
+        new addrPair(0x0061), //:C4EB+04E4=C9CF:A CHUTE...
+        new addrPair(0x01F6), //:C4EB+04F0=C9DB:A CATAPULT EJECTS YOU FROM T...
+        new addrPair(0x0289), //:C4EB+0516=CA01:OPTIONS:  1) SET THE PRISONE...
+        new addrPair(0x0297), //:C4EB+053B=CA26:2) TORMENT THE PRISONER.\n
+        new addrPair(0x02A5), //:C4EB+0555=CA40:3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x02C1), //:C4EB+0572=CA5D:THE PRISONER FLEES!
+        new addrPair(0x02D6), //:C4EB+0586=CA71:THE PRISONER COWERS!
+        new addrPair(0x0280), //:C4EB+059B=CA86:INSIDE A STEEL CAGE,A FAIR M...
+        new addrPair(0x024E), //:C4EB+05C6=CAB1:A PASSAGE LEADS OUTSIDE, TAK...
+        new addrPair(0x0083), //:C4EB+05EE=CAD9:ETCHED IN SILVER, MESSAGE E ...
+        new addrPair(0x01CC), //:C4EB+0626=CB11:"YOU'VE DISCOVERED MY TRUE I...
+        new addrPair(0x00E3), //:C4EB+0669=CB54:"MY SAVIORS, YOU'RE ALWAYS W...
+        new addrPair(0x0168), //:C4EB+06CE=CBB9:"VARNLINGS, I QUEST THEE TO ...
+        new addrPair(0x00FF), //:C4EB+0718=CC03:THE OMNIPOTENT KING ALAMAR S...
+        new addrPair(0x00CC), //:C4EB+073D=CC28:KINGS GUARDS APPROACH.\n"NO ...
+        new addrPair(0x0385), //:C4EB+0775=CC60:CASTLE GUARDS EXCLAIM,\n"NO ...
+        new addrPair(0x023E), //:C4EB+07B2=CC9D:A LOUD SCREAM FROM BEHIND TH...
+        new addrPair(0x0219), //:C4EB+07D6=CCC1:SINGE! ACID TRAP.
+        new addrPair(0x0236), //:C4EB+07E8=CCD3:BOOM! A FIERY EXPLOSION.
+        new addrPair(0x0412), //:C4EB+0801=CCEC:THRONE ROOM
+      }),
     };
 
     public string[] lstFNames = {
@@ -955,8 +988,9 @@ namespace MM_Localization {
           text txt = new text();
           txt.addrOfAddr = i;
           txt.addrOfSeg = mmexe ? seg001 : 0;
+          var tmpOffset = 0xC940 - BBToShort(bb, 4) - 0x0E;
           txt.addrInSeg = (ushort)
-            (BBToShort(bb[i.l], bb[i.h]) - (mmexe ? 0 : 0xC5EC));
+            (BBToShort(bb[i.l], bb[i.h]) - (mmexe ? 0 : tmpOffset));
 
           int strAddr = txt.addrOfSeg + txt.addrInSeg;
           int strAddrL = getStrLen(bb, strAddr);
@@ -1083,6 +1117,14 @@ namespace MM_Localization {
       return new byte[] { (byte)(sh % 0x100), (byte)(sh / 0x100) };
     }
 
+    private ushort BBToShort(byte[] bArr, int offset) {
+      return BBToShort(bArr[offset], bArr[offset + 1]);
+    }
+
+    private static ushort BBToShort(byte byteL, byte byteH) {
+      return (ushort)((byteH << 8) + byteL);
+    }
+
     private byte convertChar(char c) {
       byte retC = (byte)' ';
       c = char.ToUpper(c);
@@ -1205,21 +1247,22 @@ namespace MM_Localization {
 
         foreach (text t in lt.dt)
           if (t.newAddrInSeg != 0) {
-            for (int i = 0; i < t.localizedText.Length; i++) 
-              bb[t.addrOfSeg + t.newAddrInSeg + i] = 
+            for (int i = 0; i < t.localizedText.Length; i++)
+              bb[t.addrOfSeg + t.newAddrInSeg + i] =
                 convertChar(t.localizedText[i]);
             bb[t.addrOfSeg + t.newAddrInSeg + t.localizedText.Length] = 0x00;
-            byte[] tmpBB = 
-              ShortToBB((ushort)(t.newAddrInSeg + (mmexe ? 0 : 0xC5EC)));
+            var tmpOffset = 0xC940 - BBToShort(bb, 4) - 0x0E;
+            byte[] tmpBB =
+              ShortToBB((ushort)(t.newAddrInSeg + (mmexe ? 0 : tmpOffset)));
             bb[t.addrOfAddr.l] = tmpBB[0];
             bb[t.addrOfAddr.h] = tmpBB[1];
-            //Array.Copy(ShortToBB(t.newAddrInSeg), 0, bb, t.addrOfAddr, 2);
           }
         if (!Directory.Exists(savePath))
           try { Directory.CreateDirectory(savePath); } catch { return; }
         File.WriteAllBytes(Path.Combine(savePath, lt.fName), bb);
       }
     }
+
     public string CheckProgress() {
       int i = 0;
       foreach (text t in dt) if (t.newAddrInSeg != 0) i++;
@@ -1252,7 +1295,7 @@ namespace MM_Localization {
     public void ReadCollectionFromFile() {
       using (var dialog = new System.Windows.Forms.OpenFileDialog()) {
         dialog.InitialDirectory = appPath();
-        if (System.Windows.Forms.DialogResult.OK == dialog.ShowDialog()) 
+        if (System.Windows.Forms.DialogResult.OK == dialog.ShowDialog())
           collectionFile = dialog.FileName;
       }
 
@@ -1264,7 +1307,7 @@ namespace MM_Localization {
             locTexts = (List<locText>)serializer.Deserialize(reader);
           }
           foreach (locText lt in locTexts)
-            foreach (text txt in lt.dt) 
+            foreach (text txt in lt.dt)
               if (txt.newAddrInSeg == 0 &&
                   string.IsNullOrEmpty(txt.localizedText))
                 txt.localizedText = txt.originalText;
@@ -1293,7 +1336,7 @@ namespace MM_Localization {
     private string appPath = "";
     private string wdwTitle = "";
 
-    List<RadioButton> rbFiles = new List<RadioButton>();
+    private List<RadioButton> rbFiles = new List<RadioButton>();
 
     public MainWindow() {
       InitializeComponent();
@@ -1316,7 +1359,6 @@ namespace MM_Localization {
         wdwOptions options = new wdwOptions(ref cfg);
         if (options.ShowDialog() == true) saveConfig();
       }
-
     }
 
     private void Rb_Click(object sender, RoutedEventArgs e) {
@@ -1413,9 +1455,10 @@ namespace MM_Localization {
       options.Owner = this;
       if (options.ShowDialog() == true) saveConfig();
     }
+
     private void GetProgressBinding_Executed(object sender,
                                          ExecutedRoutedEventArgs e) {
-      System.Windows.MessageBox.Show(this, textsViewModel.CheckProgress(), 
+      System.Windows.MessageBox.Show(this, textsViewModel.CheckProgress(),
         "Progress", MessageBoxButton.OK, MessageBoxImage.Information);
     }
   }

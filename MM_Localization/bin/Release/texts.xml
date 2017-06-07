@@ -2,7 +2,252 @@
 <ArrayOfLocText xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <locText>
     <fName>alamar.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>98</h>
+          <l>97</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1252</addrInSeg>
+        <originalText>A CHUTE...</originalText>
+        <newAddrInSeg>1252</newAddrInSeg>
+        <localizedText>парашют...</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>503</h>
+          <l>502</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1264</addrInSeg>
+        <originalText>A CATAPULT EJECTS YOU FROM THE TOWER!</originalText>
+        <newAddrInSeg>1264</newAddrInSeg>
+        <localizedText>Катапульта метнула вас с башни!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>650</h>
+          <l>649</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1302</addrInSeg>
+        <originalText>OPTIONS:  1) SET THE PRISONER FREE.
+</originalText>
+        <newAddrInSeg>1296</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключенную.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>664</h>
+          <l>663</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1339</addrInSeg>
+        <originalText>2) TORMENT THE PRISONER.
+</originalText>
+        <newAddrInSeg>1334</newAddrInSeg>
+        <localizedText>2) пытать заключенную.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>678</h>
+          <l>677</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1365</addrInSeg>
+        <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
+        <newAddrInSeg>1358</newAddrInSeg>
+        <localizedText>3) не беспокоить и уйти.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>706</h>
+          <l>705</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1394</addrInSeg>
+        <originalText>THE PRISONER FLEES!</originalText>
+        <newAddrInSeg>1383</newAddrInSeg>
+        <localizedText>заключенная убегает!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>727</h>
+          <l>726</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1414</addrInSeg>
+        <originalText>THE PRISONER COWERS!</originalText>
+        <newAddrInSeg>1404</newAddrInSeg>
+        <localizedText>заключенная съеживается!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>641</h>
+          <l>640</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1435</addrInSeg>
+        <originalText>INSIDE A STEEL CAGE,A FAIR MAIDEN WEEPS.
+
+</originalText>
+        <newAddrInSeg>1429</newAddrInSeg>
+        <localizedText>В стальной клетке связанная красивая девушка.
+
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>591</h>
+          <l>590</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1478</addrInSeg>
+        <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
+        <newAddrInSeg>1477</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>132</h>
+          <l>131</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1518</addrInSeg>
+        <originalText>ETCHED IN SILVER, MESSAGE E READS:
+OEI/:1-33-1EK5;D-ET,</originalText>
+        <newAddrInSeg>1515</newAddrInSeg>
+        <localizedText>На серебряной табличке E гравировка:
+лиасA-,E1,;мД54а,олр,</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>461</h>
+          <l>460</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1574</addrInSeg>
+        <originalText>"YOU'VE DISCOVERED MY TRUE IDENTITY!
+INTO THE SOUL MAZE YOU GO..."</originalText>
+        <newAddrInSeg>1574</newAddrInSeg>
+        <localizedText>"Вы раскрыли мою истинную сущность!
+В лабиринт души..."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>228</h>
+          <l>227</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1641</addrInSeg>
+        <originalText>"MY SAVIORS, YOU'RE ALWAYS WELCOME HERE!YOU SHOULD FIND THE INNER SANCTUM...
+LIVE LONG AND PROSPER."</originalText>
+        <newAddrInSeg>1630</newAddrInSeg>
+        <localizedText>"Мои спасители, вам тут всегда рады! Вы должны найти внутреннее святилище...
+Живите долго и процветайте."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>361</h>
+          <l>360</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1742</addrInSeg>
+        <originalText>"VARNLINGS, I QUEST THEE TO FIND THE
+CRYPT OF CARMENCA. AWAY WITH YOU..."</originalText>
+        <newAddrInSeg>1736</newAddrInSeg>
+        <localizedText>"Жители VARN, я поручаю вам найти
+склеп Карменка. Ушли..."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>256</h>
+          <l>255</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1816</addrInSeg>
+        <originalText>THE OMNIPOTENT KING ALAMAR SPEAKS,
+
+</originalText>
+        <newAddrInSeg>1795</newAddrInSeg>
+        <localizedText>Всемогущий король Аламар говорит,
+
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>205</h>
+          <l>204</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1853</addrInSeg>
+        <originalText>KINGS GUARDS APPROACH.
+"NO KING'S PASS, NO ADMITTANCE!"</originalText>
+        <newAddrInSeg>1831</newAddrInSeg>
+        <localizedText>Вас окружила королевская стража.
+"Без королевского пропуска нельзя!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>902</h>
+          <l>901</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1909</addrInSeg>
+        <originalText>CASTLE GUARDS EXCLAIM,
+"NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
+        <newAddrInSeg>1900</newAddrInSeg>
+        <localizedText>Охранник говорит,
+"Покажите пропуск торговца или уходите."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>575</h>
+          <l>574</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1970</addrInSeg>
+        <originalText>A LOUD SCREAM FROM BEHIND THE DOOR!</originalText>
+        <newAddrInSeg>1959</newAddrInSeg>
+        <localizedText>За дверью слышен громкий крик!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>538</h>
+          <l>537</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2006</addrInSeg>
+        <originalText>SINGE! ACID TRAP.</originalText>
+        <newAddrInSeg>1990</newAddrInSeg>
+        <localizedText>жжется! Кислотная ловушка.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>567</h>
+          <l>566</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2024</addrInSeg>
+        <originalText>BOOM! A FIERY EXPLOSION.</originalText>
+        <newAddrInSeg>2017</newAddrInSeg>
+        <localizedText>Бум! Огненный взрыв.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1043</h>
+          <l>1042</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2049</addrInSeg>
+        <originalText>THRONE ROOM</originalText>
+        <newAddrInSeg>2038</newAddrInSeg>
+        <localizedText>Тронный зал</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>algary.ovr</fName>
@@ -6860,7 +7105,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <originalText>A SIGN ABOVE THE DOOR READS:
 </originalText>
         <newAddrInSeg>1053</newAddrInSeg>
-        <localizedText>Табличка на дверью гласит:
+        <localizedText>Табличка над дверью гласит:
 </localizedText>
       </text>
       <text>
@@ -6871,7 +7116,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1084</addrInSeg>
         <originalText>"EULARDS FINE FOODS"</originalText>
-        <newAddrInSeg>1081</newAddrInSeg>
+        <newAddrInSeg>1082</newAddrInSeg>
         <localizedText>"Закусочная у Эуларда"</localizedText>
       </text>
       <text>
@@ -6882,7 +7127,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1105</addrInSeg>
         <originalText>"B AND B BLACKSMITHS"</originalText>
-        <newAddrInSeg>1104</newAddrInSeg>
+        <newAddrInSeg>1105</newAddrInSeg>
         <localizedText>"Кузница Б и сын"</localizedText>
       </text>
       <text>
@@ -6893,7 +7138,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1127</addrInSeg>
         <originalText>"THE INN OF SORPIGAL"</originalText>
-        <newAddrInSeg>1122</newAddrInSeg>
+        <newAddrInSeg>1123</newAddrInSeg>
         <localizedText>"Отель Сорпигал"</localizedText>
       </text>
       <text>
@@ -6905,7 +7150,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>1149</addrInSeg>
         <originalText>A MAN WEARING A LEATHER APRON SPEAKS:
 "DISTINGUISHED TRAVELERS, YOU'VE COME TOTHE RIGHT PLACE.CAN I HELP YOU (Y/N)?"</originalText>
-        <newAddrInSeg>1139</newAddrInSeg>
+        <newAddrInSeg>1140</newAddrInSeg>
         <localizedText>Мужчина в кожаном фартуке говорит:
 "Дорогие путешественники, хорошо, что выпришли. Могу я вам помочь (Y/N)?"</localizedText>
       </text>
@@ -6918,7 +7163,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>1266</addrInSeg>
         <originalText>BEHIND THE COUNTER, AN OVERWEIGHT DWARF
 EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"</originalText>
-        <newAddrInSeg>1248</newAddrInSeg>
+        <newAddrInSeg>1249</newAddrInSeg>
         <localizedText>За стойкой вы видите толстого дварфа
 Он восклицает: "Вы выглядите голодными! Хотите купить еды (Y/N)?"</localizedText>
       </text>
@@ -6930,7 +7175,7 @@ EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"<
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1386</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
-        <newAddrInSeg>1351</newAddrInSeg>
+        <newAddrInSeg>1352</newAddrInSeg>
         <localizedText>Подойти к стойке (Y/N)?</localizedText>
       </text>
       <text>
@@ -6942,7 +7187,7 @@ EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"<
         <addrInSeg>1412</addrInSeg>
         <originalText>SEVERAL ORNATELY ROBED CLERICS APPROACH
 THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
-        <newAddrInSeg>1375</newAddrInSeg>
+        <newAddrInSeg>1376</newAddrInSeg>
         <localizedText>К вам подошли несколько клериков в
 красивых робах. Они спрашивают "Мы можемвам помочь (Y/N)?"</localizedText>
       </text>
@@ -6954,7 +7199,7 @@ THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1500</addrInSeg>
         <originalText>BEFORE YOU ARE VARIOUS GROUPS ENGAGED INTRAINING EXERCISES. WORG,THE GUILDMASTERASKS, "DO YOU REQUIRE TRAINING(Y/N)?"</originalText>
-        <newAddrInSeg>1470</newAddrInSeg>
+        <newAddrInSeg>1471</newAddrInSeg>
         <localizedText>Вы видите несколько групп, делающих
 упражнения. Ворг, тренер, спрашивает:
 "Хотите потренироваться (Y/N)?"</localizedText>
@@ -6973,14 +7218,14 @@ ONLY 1 GEM YOU LOSE AND I'LL SEND YOU
 TO THE TOWN YOU CHOOSE."
 
 'ESC' TO GO BACK      WHICH TOWN (1-5)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TENACIOUS LEPRECHAUN APPEARS SAYING,
-"TRAVELING THE ROADS IS QUITE DANGEROUS
-SAVE FOR THE STRONG AND COURAGEOUS,
-ONLY 1 GEM YOU LOSE AND I'LL SEND YOU
-TO THE TOWN YOU CHOOSE."
+        <newAddrInSeg>1639</newAddrInSeg>
+        <localizedText>К вам пристает назойливый лепрекон:
+"Путешествия по дорогам опасны и больше
+подходят для сильных и храбрых.
+За 1 драгоценный камень я переправлю
+вас в любой город."
 
-'ESC' TO GO BACK      WHICH TOWN (1-5)?</localizedText>
+'ESC' отказаться    Выберите город (1-5)</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6990,8 +7235,9 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1858</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1846</newAddrInSeg>
+        <localizedText>Ступени уходят в темноту!
+Рискнем спуститься (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7001,8 +7247,9 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1895</addrInSeg>
         <originalText>THERE IS A STATUE HERE, SEARCH IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THERE IS A STATUE HERE, SEARCH IT (Y/N)?</localizedText>
+        <newAddrInSeg>1895</newAddrInSeg>
+        <localizedText>Вы видите статую.
+Хотите осмотреть (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7012,8 +7259,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1936</addrInSeg>
         <originalText>"YE OLDE HOGGE TAVERN"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YE OLDE HOGGE TAVERN"</localizedText>
+        <newAddrInSeg>1937</newAddrInSeg>
+        <localizedText>"Таверна старый горбун"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7023,8 +7270,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1959</addrInSeg>
         <originalText>"TEMPLE MOONSHADOW"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"TEMPLE MOONSHADOW"</localizedText>
+        <newAddrInSeg>1961</newAddrInSeg>
+        <localizedText>"Храм Тень Луны"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7034,8 +7281,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1979</addrInSeg>
         <originalText>"OTTO'S TRAINING"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"OTTO'S TRAINING"</localizedText>
+        <newAddrInSeg>1978</newAddrInSeg>
+        <localizedText>"Тренер Отто"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7045,8 +7292,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1997</addrInSeg>
         <originalText>"JAIL, KEEP OUT!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"JAIL, KEEP OUT!"</localizedText>
+        <newAddrInSeg>1992</newAddrInSeg>
+        <localizedText>"Тюрьма. Не входить!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7056,8 +7303,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2015</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>2014</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7067,8 +7314,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2055</addrInSeg>
         <originalText>TRAP DOOR!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TRAP DOOR!</localizedText>
+        <newAddrInSeg>2052</newAddrInSeg>
+        <localizedText>Ловушка!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7078,8 +7325,8 @@ TO THE TOWN YOU CHOOSE."
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2066</addrInSeg>
         <originalText>, LEVITATION SAVES YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>, LEVITATION SAVES YOU!</localizedText>
+        <newAddrInSeg>2061</newAddrInSeg>
+        <localizedText>, левитация вас спасла!</localizedText>
       </text>
     </dt>
   </locText>

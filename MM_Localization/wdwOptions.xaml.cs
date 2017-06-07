@@ -53,7 +53,8 @@ namespace MM_Localization {
       DialogResult = false;
     }
 
-    private void Window_KeyDown(object sender, System.Windows.Input.KeyEventArgs e) {
+    private void Window_KeyDown(object sender, 
+                                System.Windows.Input.KeyEventArgs e) {
       switch (e.Key) {
         case Key.Escape: btnCancel_Click(sender, new RoutedEventArgs()); break;
         default: break;
