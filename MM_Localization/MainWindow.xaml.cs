@@ -107,7 +107,7 @@ namespace MM_Localization {
     private const int seg001 = 0x000109B0;
 
     private List<txtAddresses> textAddresses = new List<txtAddresses> {
-      new txtAddresses("mm.exe", new addrPair[] {
+      new txtAddresses("mm.exe",       new addrPair[] {
         new addrPair(seg000+0x03F2),      //0062; INSERT MIGHT & MAGIC DISK
         new addrPair(seg000+0x0405),      //007D;IN DRIVE A AND PRESS 'ENTER'
         //...
@@ -876,7 +876,7 @@ namespace MM_Localization {
         new addrPair(0x02EC), //:C5EC+0807=CDF3;TRAP DOOR!
         new addrPair(0x02FC), //:C5EC+0812=CDFE;, LEVITATION SAVES YOU!
       }),
-      new txtAddresses("alamar.ovr", new addrPair[] {
+      new txtAddresses("alamar.ovr",   new addrPair[] {
         new addrPair(0x0061), //:C4EB+04E4=C9CF:A CHUTE...
         new addrPair(0x01F6), //:C4EB+04F0=C9DB:A CATAPULT EJECTS YOU FROM T...
         new addrPair(0x0289), //:C4EB+0516=CA01:OPTIONS:  1) SET THE PRISONE...
@@ -898,6 +898,154 @@ namespace MM_Localization {
         new addrPair(0x0236), //:C4EB+07E8=CCD3:BOOM! A FIERY EXPLOSION.
         new addrPair(0x0412), //:C4EB+0801=CCEC:THRONE ROOM
       }),
+      new txtAddresses("algary.ovr",   new addrPair[] {
+        new addrPair(0x010C       ), // A SIGN ABOVE THE DOOR READS:\n         
+        new addrPair(0x0186       ), // STEP UP TO THE BAR (Y/N)?
+        new addrPair(0x02E2,0x02E0), // "YE OLD DOCKS"
+        new addrPair(0x0158       ), // PASSAGE OUTSIDE, EXIT (Y/N)?
+        new addrPair(0x0063       ), // STANDING BEHIND A LARGE DESK, A TALL...
+        new addrPair(0x0120       ), // A MAN ENCLOSED IN A STEEL CAGE SAYS,...                                        
+        new addrPair(0x02EA,0x02E8), // "ARCON'S SLOP"
+        new addrPair(0x02F2,0x02F0), // "SWAMPSIDE SUPPLIES"
+        new addrPair(0x02FA,0x02F8), // "THE INN OF ALGARY"
+        new addrPair(0x013C       ), // A PUTRID SMELL PERVADES THE ROOM...\...
+        new addrPair(0x01A2       ), // AN ANCIENT LOOKING CLERIC STAGGERS U...
+        new addrPair(0x01BE       ), // SEVERAL ADVENTURERS ARMORED IN DRAGO...               
+        new addrPair(0x030A,0x0308), // "JOLLY JESTER TAVERN"
+        new addrPair(0x0302,0x0300), // "TEMPLE HALF-DEAD"
+        new addrPair(0x0312,0x0310), // "DRAGONS CLAW TRAINING"
+        new addrPair(0x0094       ), // "I AM ZOM, ASTRAL BROTHER OF ZAM.\n
+        new addrPair(0x00D3       ), // MY CLUE IS 1-15."
+        new addrPair(0x00C6       ), // YOU'RE NOT THE COURIERS!"
+        new addrPair(0x01DB       ), // MORANGO THE MYSTIC ASKS,\n"WHO SHALL...
+        new addrPair(0x020C       ), // % RESISTANCE FOR 
+        new addrPair(0x0227       ), // MAGIC     FIRE     COLD       ELEC\n...
+        new addrPair(0x033A       ), // NOTE: ZOM 1,1
+        new addrPair(0x0347       ), // SWAZE PIT! JUMP IN (Y/N)?
+        new addrPair(0x0364       ), // A MAGIC PORTAL! ENTER (Y/N)?
+      }),
+      new txtAddresses("areaa1.ovr",   new addrPair[] {
+        new addrPair(0x011E), // CARVED ON A BLOCK OF ICE ARE THE WORDS:\nST...
+        new addrPair(0x0135), // A SECRET PASSAGE TO DOOM, TAKE IT (Y/N)?
+        new addrPair(0x0151), // THE POOL OF HEALTH GRANTS THOSE WHO ARE\nWO...
+        new addrPair(0x00B9), // YOU'VE BEEN SURROUNDED BY THE DARK RIDERAND...
+        new addrPair(0x01C7), // THE FABELED CASTLE DOOM!\nWILL YOU ENTER (Y...                                               
+      }),
+      new txtAddresses("areaa2.ovr",   new addrPair[] {
+        new addrPair(0x005D), // LAVA FILLS THE VALLEY OF FIRE!
+        new addrPair(0x0098), // THE DRAGONS BODY DISAPPEARS, EXCEPT\nFOR A ...
+        new addrPair(0x00F3), // A PIRATES SECRET COVE, SEARCH (Y/N)?
+        new addrPair(0x01A7), // I AM PERCELLA THE DRUID AND I HAVE WHAT\nYO...
+        new addrPair(0x01BE), // THEN MEET MY PETS!
+        new addrPair(0x0229), // IT'S HOT!
+      }),
+      new txtAddresses("areaa3.ovr",   new addrPair[] {
+        new addrPair(0x01C0), // LOSER!\n
+        new addrPair(0x021F), // GEMS!\n
+        new addrPair(0x02BA), // GOLD!\n
+        new addrPair(0x0270), // EXP!\n
+        new addrPair(0x00D0), // THE WATER ERUPTS VIOLENTLY,\nREVEALING A TR...
+        new addrPair(0x011D), // EMBEDDED IN THE SIDE OF THE MOUNTAIN IS\nA ...
+      }),
+      new txtAddresses("areaa4.ovr",   new addrPair[] {
+        new addrPair(0x00F5), // 1) RED THORAC       2) BLUE OGRAM\n3) GREEN...
+        new addrPair(0x006D), // A WOODEN BRIDGE EXTENDES ACROSS THE\nOCEAN ...
+        new addrPair(0x00E2), // ,WHAT IS YOUR COLOR(1-8)?
+        new addrPair(0x0133), // WRONG!
+        new addrPair(0x0147), // CORRECT!
+        new addrPair(0x005D), // ATOP THIS PEAK 5 ISLANDS CAN BE SEEN\nTO TH...
+        new addrPair(0x01C6), // A TIDAL WAVE SWEEPS THE PARTY AWAY!
+      }),
+      new txtAddresses("areab1.ovr",   new addrPair[] {
+        new addrPair(0x0060       ), // CAVERNOUS PASSAGE TO ERLIQUIN,\nTAKE...
+        new addrPair(0x0118       ), // A CAVE, ENTER (Y/N)?
+        new addrPair(0x0178       ), // CASTLE BLACKRIDGE NORTH, ENTER (Y/N)?
+        new addrPair(0x01CD       ), // CASTLE BLACKRIDGE SOUTH, ENTER (Y/N)?
+        new addrPair(0x01F4       ), // ANCIENT RUINS OF A DESERTED WIZARDS ...
+        new addrPair(0x00B4       ), // THE GATES TO ANOTHER WORLD!\n
+        new addrPair(0x00F9       ), // CONGRATULATIONS DISTINGUISHED \nTRAV...
+        new addrPair(0x0092,0x0090), // A SIGN POINTING S. READS: BLACKRIDGE N.
+        new addrPair(0x009B,0x0099), // A SIGN POINTING E. READS: BLACKRIDGE S.
+        new addrPair(0x00A4,0x00A2), // A SIGN POINTING E. READS: ERLIQUIN.      
+      }),
+      new txtAddresses("areab2.ovr",   new addrPair[] {
+        new addrPair(0x0146), // WRONG, YOU'RE TOO YOUNG TO UNDERSTAND.
+        new addrPair(0x00D4), // CORRECT!
+        new addrPair(0x0161), // CARVED ON A TREE: "9-9 RAVEN'S LAIR"
+        new addrPair(0x01F9), // THERE'S A CAVE HERE, ENTER (Y/N)?
+        new addrPair(0x022C), // A DESCENDING STAIRCASE IS THE ENTRANCE\nTO ...
+        new addrPair(0x0068), // ON A THRONE ADORNED WITH PRECIOUS GEMS\nTHE...
+      }),
+      new txtAddresses("areab3.ovr",   new addrPair[] {
+        new addrPair(0x0073), // PASSAGE TO PORTSMITH, TAKE IT (Y/N)?
+        new addrPair(0x011C), // A CAVE, ENTER (Y/N)?
+        new addrPair(0x017B), // CASTLE WHITE WOLF, ENTER (Y/N)?
+        new addrPair(0x01EE), // YOUR RUBY WHISTLE BEGINS TO GLOW,\nBLOW IT ...
+        new addrPair(0x0224), // STAIRS GOING DOWN, ENTER (Y/N)?
+        new addrPair(0x019F), // AN ANCIENT TEMPLE CONVERTED TO A\nSTRONGHOL...
+        new addrPair(0x00BC), // ATOP THIS PEAK LOOKING:\n\nN= A CAVE BEYOND...
+        new addrPair(0x00A1), // A SIGN POINTING N. READS: WHITE WOLF
+        new addrPair(0x00A7), // A SIGN POINTING S. READS: PORTSMITH
+      }),
+      new txtAddresses("areab4.ovr",   new addrPair[] {
+        new addrPair(0x012E), // TRIVIA ISLAND! 500 GOLD, ENTER (Y/N)?
+        new addrPair(0x019A), // NOT ENOUGH GOLD!
+        new addrPair(0x0076), // PIRATE GHOSTSHIP ANARCHIST!
+        new addrPair(0x04A9), // WHO RULES CASTLE W.W.?
+        new addrPair(0x04AB), // WHO IS THE VOLUPTUOUS ONE?
+        new addrPair(0x04AD), // WHO'S LOST SIGHT?
+        new addrPair(0x04AF), // WHERE'S THE VERY LATEST?
+        new addrPair(0x04B1), // WHO BE YE?
+        new addrPair(0x010A), // FREE TRIVIA CHANCE, PULL BRANCH (Y/N)?
+        new addrPair(0x02C7), // CORRECT!+50 GEMS
+        new addrPair(0x02EE), // WRONG!
+      }),
+      new txtAddresses("areac1.ovr",   new addrPair[] {}),
+      new txtAddresses("areac2.ovr",   new addrPair[] {}),
+      new txtAddresses("areac3.ovr",   new addrPair[] {}),
+      new txtAddresses("areac4.ovr",   new addrPair[] {}),
+      new txtAddresses("aread1.ovr",   new addrPair[] {}),
+      new txtAddresses("aread2.ovr",   new addrPair[] {}),
+      new txtAddresses("aread3.ovr",   new addrPair[] {}),
+      new txtAddresses("aread4.ovr",   new addrPair[] {}),
+      new txtAddresses("areae1.ovr",   new addrPair[] {}),
+      new txtAddresses("areae2.ovr",   new addrPair[] {}),
+      new txtAddresses("areae3.ovr",   new addrPair[] {}),
+      new txtAddresses("areae4.ovr",   new addrPair[] {}),
+      new txtAddresses("astral.ovr",   new addrPair[] {}),
+      new txtAddresses("blackrn.ovr",  new addrPair[] {}),
+      new txtAddresses("blackrs.ovr",  new addrPair[] {}),
+      new txtAddresses("cave1.ovr",    new addrPair[] {}),
+      new txtAddresses("cave2.ovr",    new addrPair[] {}),
+      new txtAddresses("cave3.ovr",    new addrPair[] {}),
+      new txtAddresses("cave4.ovr",    new addrPair[] {}),
+      new txtAddresses("cave5.ovr",    new addrPair[] {}),
+      new txtAddresses("cave6.ovr",    new addrPair[] {}),
+      new txtAddresses("cave7.ovr",    new addrPair[] {}),
+      new txtAddresses("cave8.ovr",    new addrPair[] {}),
+      new txtAddresses("cave9.ovr",    new addrPair[] {}),
+      new txtAddresses("demon.ovr",    new addrPair[] {}),
+      new txtAddresses("doom.ovr",     new addrPair[] {}),
+      new txtAddresses("dragad.ovr",   new addrPair[] {}),
+      new txtAddresses("dusk.ovr",     new addrPair[] {}),
+      new txtAddresses("enf1.ovr",     new addrPair[] {}),
+      new txtAddresses("enf2.ovr",     new addrPair[] {}),
+      new txtAddresses("erliquin.ovr", new addrPair[] {}),
+      new txtAddresses("mm.exe",       new addrPair[] {}),
+      new txtAddresses("portsmit.ovr", new addrPair[] {}),
+      new txtAddresses("pp1.ovr",      new addrPair[] {}),
+      new txtAddresses("pp2.ovr",      new addrPair[] {}),
+      new txtAddresses("pp3.ovr",      new addrPair[] {}),
+      new txtAddresses("pp4.ovr",      new addrPair[] {}),
+      new txtAddresses("qvl1.ovr",     new addrPair[] {}),
+      new txtAddresses("qvl2.ovr",     new addrPair[] {}),
+      new txtAddresses("rwl1.ovr",     new addrPair[] {}),
+      new txtAddresses("rwl2.ovr",     new addrPair[] {}),
+      new txtAddresses("sorpigal.ovr", new addrPair[] {}),
+      new txtAddresses("udrag1.ovr",   new addrPair[] {}),
+      new txtAddresses("udrag2.ovr",   new addrPair[] {}),
+      new txtAddresses("udrag3.ovr",   new addrPair[] {}),
+      new txtAddresses("whitew.ovr",   new addrPair[] {}),
     };
 
     public string[] lstFNames = {
