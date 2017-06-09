@@ -55,13 +55,18 @@ Brisbane Bay - Залив Брисбен
 Blithes Peak - Пик радости
 VOLCANIC ISLES - вулканические острова
 ENCHANTED FOREST - зачарованый лес
+valley of fire - долина огня
+GATES TO ANOTHER WORLD - ворота в иной мир
 
 Замки:
 Doom - Рок
 Dragadune - Драгадун
+blackridge - блэкридж
 
 curse - порча
 
+
+Dark Rider - Черный всадник
 
 
 TSTST,E1,D-DS15A1DRH dragadune 10,3

@@ -11,18 +11,6 @@ using System.Windows.Input;
 using System.Xml.Serialization;
 
 namespace MM_Localization {
-  //public class StringToHex8Converter : IValueConverter {
-  //  public object Convert(object value, Type targetType,
-  //                        object parameter, CultureInfo culture) {
-  //    return ((int)value).ToString("X8");
-  //  }
-
-  //  public object ConvertBack(object value, Type targetType,
-  //                            object parameter, CultureInfo culture) {
-  //    throw new NotImplementedException();
-  //  }
-  //}
-
   public class StringToHex4Converter : IValueConverter {
 
     public object Convert(object value, Type targetType,
@@ -32,9 +20,7 @@ namespace MM_Localization {
 
     public object ConvertBack(object value, Type targetType,
                               object parameter, CultureInfo culture) {
-      try {
-        return System.Convert.ToUInt16((string)value, 16);
-      } catch { }
+      try { return System.Convert.ToUInt16((string)value, 16); } catch { }
       return 0;
     }
   }
@@ -50,8 +36,7 @@ namespace MM_Localization {
 
   public class locText {
 
-    public locText() {
-    }
+    public locText() {}
 
     public locText(string name) {
       fName = name;
@@ -64,16 +49,11 @@ namespace MM_Localization {
 
   public class addrPair {
 
-    public addrPair() {
-    }
+    public addrPair() { }
 
-    public addrPair(int addr) {
-      h = addr + 1; l = addr;
-    }
+    public addrPair(int addr) { h = addr + 1; l = addr; }
 
-    public addrPair(int h, int l) {
-      this.h = h; this.l = l;
-    }
+    public addrPair(int h, int l) { this.h = h; this.l = l; }
 
     public int h;
     public int l;
@@ -92,9 +72,7 @@ namespace MM_Localization {
 
   public class textsTextsViewModel {
 
-    public textsTextsViewModel() {
-      dt = new ObservableCollection<text>();
-    }
+    public textsTextsViewModel() { }
 
     private static int getStrLen(byte[] bArr, int index) {
       int j = 0;
@@ -1000,10 +978,60 @@ namespace MM_Localization {
         new addrPair(0x02C7), // CORRECT!+50 GEMS
         new addrPair(0x02EE), // WRONG!
       }),
-      new txtAddresses("areac1.ovr",   new addrPair[] {}),
-      new txtAddresses("areac2.ovr",   new addrPair[] {}),
-      new txtAddresses("areac3.ovr",   new addrPair[] {}),
-      new txtAddresses("areac4.ovr",   new addrPair[] {}),
+      new txtAddresses("areac1.ovr",   new addrPair[] {
+        new addrPair(0x01DA), // AMBUSH!
+        new addrPair(0x016B), // DESERTED MERCHANT WAGONS, SEARCH (Y/N)?
+        new addrPair(0x02B3), // TODAY SPELLS!
+        new addrPair(0x024B), // ARGHHH... POISON!
+        new addrPair(0x027F), // TODAY MIGHT!
+        new addrPair(0x01F1), // A FOUNTAIN SPEAKS:\n"WILL THE PARTY DRINK (...
+        new addrPair(0x009D), // YOU FOUND A CHEST UPON WHICH AN\nINSCRIPTIO...
+        new addrPair(0x015E), // ROADSIGN: SORPIGAL S.17, W.1, N.2
+      }),
+      new txtAddresses("areac2.ovr",   new addrPair[] {
+        new addrPair(0x0076), // A CAVERNOUS PASSAGE LEADS TO SORPIGAL,\nTAK...
+        new addrPair(0x0128), // A PIT!....
+        new addrPair(0x0138), // YOUR LEVITATION SAVED YOU!
+        new addrPair(0x0145), // AN AMBUSH!
+        new addrPair(0x0189), // A GLOWING WHITE COLUMN, TOUCH IT (Y/N)?
+        new addrPair(0x01B5), // STATUES BLOCK THE PATH,SMASH THEM (Y/N)?
+        new addrPair(0x022B), // A STRANGE FOUNTAIN, DRINK (Y/N)?
+        new addrPair(0x027E), // CHEERS!
+        new addrPair(0x0295), // AVALANCHE!
+        new addrPair(0x02D5), // THERE'S A CAVE HERE, ENTER (Y/N)?
+        new addrPair(0x00A7), // A TOOTHLESS GYPSY SEER ASKS,"WHO WOULD\nLIK...
+        new addrPair(0x00FC), // "YOUR SIGN IS THE 
+        new addrPair(0x05AC), // RED THORAC"
+        new addrPair(0x05AE), // BLUE OGRAM"
+        new addrPair(0x05B0), // GREEN BAGAR"
+        new addrPair(0x05B2), // YELLOW LIMRA"
+        new addrPair(0x05B4), // PURPLE SAGRAN"
+        new addrPair(0x05B6), // ORANGE OOLAK"
+        new addrPair(0x05B8), // BLACK DRESIDION"
+        new addrPair(0x05BA), // WHITE DILITHIUM"
+        new addrPair(0x003B), // LOOK OUT!
+      }),
+      new txtAddresses("areac3.ovr",   new addrPair[] {
+        new addrPair(0x0135), // WYVERNS ATTACK FROM ABOVE!
+        new addrPair(0x00B0), // ONE OF THE WYVERN'S EYES BEGINS TO GLOW!TAK...
+        new addrPair(0x0060), // ROADSIGN: SORPIGAL N.22, W.2, N.2
+        new addrPair(0x0075), // THE EXILED LORD KILBURN SPEAKS:\n"TAKE THIS...
+        new addrPair(0x01A0), // *** BACKPACKS FULL!
+        new addrPair(0x00D3), // A WYVERN'S LAIR, INVESTIGATE (Y/N)?
+        new addrPair(0x0151), // PAINTED IN A BLACK AND WHITE PATTERN,\nA SI...
+        new addrPair(0x01CA), // THE HERMIT SAYS: "TRADE WARES (Y/N)?"
+      }),
+      new txtAddresses("areac4.ovr",   new addrPair[] {
+        new addrPair(0x008F), // A LARGE SLAB OF CORAL BLOCKS A PASSAGE!\n
+        new addrPair(0x00D8), // YOUR CORAL KEY FITS PERFECTLY\nIN THE LOCK,...
+        new addrPair(0x018B), // AT THE WATERS EDGE ARE THE DECAYING\nREMAIN...
+        new addrPair(0x0226), // CRAZED NATIVES ATTACK!
+        new addrPair(0x02AF), // THE VOLCANO ERUPTS!
+        new addrPair(0x0275), // PIRATES ATTACK!
+        new addrPair(0x020E), // MYSTERIOUS WEEPING ECHOES THROUGHOUT!
+        new addrPair(0x01BC), // THE JOLLY RAVEN!
+        new addrPair(0x005D), // PORTAL OF POWER, ENTER (Y/N)?
+      }),
       new txtAddresses("aread1.ovr",   new addrPair[] {}),
       new txtAddresses("aread2.ovr",   new addrPair[] {}),
       new txtAddresses("aread3.ovr",   new addrPair[] {}),
@@ -1041,7 +1069,6 @@ namespace MM_Localization {
       new txtAddresses("qvl2.ovr",     new addrPair[] {}),
       new txtAddresses("rwl1.ovr",     new addrPair[] {}),
       new txtAddresses("rwl2.ovr",     new addrPair[] {}),
-      new txtAddresses("sorpigal.ovr", new addrPair[] {}),
       new txtAddresses("udrag1.ovr",   new addrPair[] {}),
       new txtAddresses("udrag2.ovr",   new addrPair[] {}),
       new txtAddresses("udrag3.ovr",   new addrPair[] {}),
@@ -1107,9 +1134,8 @@ namespace MM_Localization {
       "whitew.ovr"
     };
 
-    public ObservableCollection<text> dt { get; set; }
+    public ObservableCollection<text> dt = new ObservableCollection<text>();
     public List<locText> locTexts = new List<locText>();
-    //public ObservableCollection<text>[] dts;
 
     public void changeFile(string fName) {
       locText lt = locTexts.Find(x => x.fName == fName);
@@ -1428,10 +1454,8 @@ namespace MM_Localization {
         }
 
       collectionFile = path;
-      XmlSerializer formatter =
-        new XmlSerializer(typeof(List<locText>));
-      using (FileStream fs =
-        new FileStream(collectionFile, FileMode.OpenOrCreate)) {
+      XmlSerializer formatter = new XmlSerializer(typeof(List<locText>));
+      using (var fs = new FileStream(collectionFile, FileMode.OpenOrCreate)) {
         formatter.Serialize(fs, locTexts);
         fs.SetLength(fs.Position);
       }
