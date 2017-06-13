@@ -72,7 +72,9 @@ namespace MM_Localization {
 
   public class textsTextsViewModel {
 
-    public textsTextsViewModel() { }
+    public textsTextsViewModel() {
+      dt = new ObservableCollection<text>();
+    }
 
     private static int getStrLen(byte[] bArr, int index) {
       int j = 0;
@@ -1032,7 +1034,16 @@ namespace MM_Localization {
         new addrPair(0x01BC), // THE JOLLY RAVEN!
         new addrPair(0x005D), // PORTAL OF POWER, ENTER (Y/N)?
       }),
-      new txtAddresses("aread1.ovr",   new addrPair[] {}),
+      new txtAddresses("aread1.ovr",   new addrPair[] {
+        new addrPair(0x00CA), // SUDDENLY, A GARGANTUAN SCORPION ATTACKS!
+        new addrPair(0x0121), // A SMALL TRIBE OF DESERT NOMADS HAVE\nESTABL...
+        new addrPair(0x0152), // YOUR LEADER HAS NOTHING TO TRADE!
+        new addrPair(0x0177), // KILBURN,C-3 6-14
+        new addrPair(0x0184), // IT'S HOT... 
+        new addrPair(0x0242), // YOU'RE LOST!!!
+        new addrPair(0x02EE), // A WHIRLWIND SWOOPS THE PARTY AWAY!
+        new addrPair(0x0315), // A VIOLENT SANDSTORM BLASTS THE PARTY!
+      }),
       new txtAddresses("aread2.ovr",   new addrPair[] {}),
       new txtAddresses("aread3.ovr",   new addrPair[] {}),
       new txtAddresses("aread4.ovr",   new addrPair[] {}),
@@ -1134,7 +1145,7 @@ namespace MM_Localization {
       "whitew.ovr"
     };
 
-    public ObservableCollection<text> dt = new ObservableCollection<text>();
+    public ObservableCollection<text> dt { get; set; }
     public List<locText> locTexts = new List<locText>();
 
     public void changeFile(string fName) {

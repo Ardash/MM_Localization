@@ -57,17 +57,22 @@ VOLCANIC ISLES - вулканические острова
 ENCHANTED FOREST - зачарованый лес
 valley of fire - долина огня
 GATES TO ANOTHER WORLD - ворота в иной мир
+WARRIORS STRONGHOLD - оплот воителей
+WYVERN PEAKS - Горы Виверн
+TRIVIA ISLAND - остров Пустяк
 
 Замки:
 Doom - Рок
 Dragadune - Драгадун
 blackridge - блэкридж
+WHITE WOLF - Белый волк
 
 curse - порча
 
 
 Dark Rider - Черный всадник
-
+Raven - ворон
+LORD KILBURN - лорд Килбурн
 
 TSTST,E1,D-DS15A1DRH dragadune 10,3
 OEI/:1-33-1EK5;D-ET, alamar 7,13

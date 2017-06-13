@@ -24,3 +24,7 @@ seg000:00C7 75 79                                   jnz     short loc_142
 seg000:00C9 FE C3                                   inc     bl
 seg000:00CB 80 FB 04                                cmp     bl, 4
 seg000:00CE 72 EA                                   jb      short loc_BA
+
+areab4.ovr
+найти ответы
+(15,15) Play trivia games at....

@@ -1001,8 +1001,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>740</addrInSeg>
         <originalText>WRONG, YOU'RE TOO YOUNG TO UNDERSTAND.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WRONG, YOU'RE TOO YOUNG TO UNDERSTAND.</localizedText>
+        <newAddrInSeg>740</newAddrInSeg>
+        <localizedText>неверно, вы еще слишком молоды.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1012,8 +1012,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>779</addrInSeg>
         <originalText>CORRECT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CORRECT!</localizedText>
+        <newAddrInSeg>772</newAddrInSeg>
+        <localizedText>Верно!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1023,8 +1023,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>789</addrInSeg>
         <originalText>CARVED ON A TREE: "9-9 RAVEN'S LAIR"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CARVED ON A TREE: "9-9 RAVEN'S LAIR"</localizedText>
+        <newAddrInSeg>789</newAddrInSeg>
+        <localizedText>На дереве вырезано:"9-9 нора ворона"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1034,8 +1034,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>836</addrInSeg>
         <originalText>THERE'S A CAVE HERE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THERE'S A CAVE HERE, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>836</newAddrInSeg>
+        <localizedText>Здесь пещера. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1046,9 +1046,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrInSeg>870</addrInSeg>
         <originalText>A DESCENDING STAIRCASE IS THE ENTRANCE
 TO A WARRIORS STRONGHOLD, GO IN (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A DESCENDING STAIRCASE IS THE ENTRANCE
-TO A WARRIORS STRONGHOLD, GO IN (Y/N)?</localizedText>
+        <newAddrInSeg>863</newAddrInSeg>
+        <localizedText>Лестница вниз, ведущая в оплот воителей.Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1064,14 +1063,12 @@ THE GREATEST FORCE OF ALL, YET ELUSIVE
 IT SEEMS."
 
 ANSWER:&gt; ..........</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ON A THRONE ADORNED WITH PRECIOUS GEMS
-THE ICE PRINCESS SPEAKS,
-"CONQUEROR OF WORLDS, MAKER OF DREAMS
-THE GREATEST FORCE OF ALL, YET ELUSIVE
-IT SEEMS."
+        <newAddrInSeg>916</newAddrInSeg>
+        <localizedText>На троне, украшенном драгоценными
+камнями, восседает ледяная принцесса.
+Она говорит: "Она покоряет миры, рождаетмечты, Она самая величайшая сила, хотя икажется иллюзорной."
 
-ANSWER:&gt; ..........</localizedText>
+Ответ: &gt; ..........</localizedText>
       </text>
     </dt>
   </locText>
@@ -1086,8 +1083,8 @@ ANSWER:&gt; ..........</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>861</addrInSeg>
         <originalText>PASSAGE TO PORTSMITH, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PASSAGE TO PORTSMITH, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>861</newAddrInSeg>
+        <localizedText>Тоннель в Портсмит. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1097,8 +1094,8 @@ ANSWER:&gt; ..........</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>898</addrInSeg>
         <originalText>A CAVE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A CAVE, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>894</newAddrInSeg>
+        <localizedText>Пещера. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1108,8 +1105,8 @@ ANSWER:&gt; ..........</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>919</addrInSeg>
         <originalText>CASTLE WHITE WOLF, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CASTLE WHITE WOLF, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>915</newAddrInSeg>
+        <localizedText>Замок Белый волк. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1120,9 +1117,9 @@ ANSWER:&gt; ..........</localizedText>
         <addrInSeg>952</addrInSeg>
         <originalText>YOUR RUBY WHISTLE BEGINS TO GLOW,
 BLOW IT (0-9 TIMES)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR RUBY WHISTLE BEGINS TO GLOW,
-BLOW IT (0-9 TIMES)?</localizedText>
+        <newAddrInSeg>952</newAddrInSeg>
+        <localizedText>Рубиновый свисток засветился.
+Свистнуть (0-9 раз)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1132,8 +1129,8 @@ BLOW IT (0-9 TIMES)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1007</addrInSeg>
         <originalText>STAIRS GOING DOWN, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1003</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1144,9 +1141,9 @@ BLOW IT (0-9 TIMES)?</localizedText>
         <addrInSeg>1039</addrInSeg>
         <originalText>AN ANCIENT TEMPLE CONVERTED TO A
 STRONGHOLD HAS NO APPARENT ENTRANCE.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN ANCIENT TEMPLE CONVERTED TO A
-STRONGHOLD HAS NO APPARENT ENTRANCE.</localizedText>
+        <newAddrInSeg>1037</newAddrInSeg>
+        <localizedText>Древний храм, переделанный в крепость.
+Входа нигде не видно.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1161,13 +1158,13 @@ N= A CAVE BEYOND WHITE WOLF.
 E= LARGE BEASTS ABOVE WYVERN PEAKS!
 S= DISTANT UNCHARTED ISLES.
 W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ATOP THIS PEAK LOOKING:
+        <newAddrInSeg>1098</newAddrInSeg>
+        <localizedText>Вы осматриваетесь с вершины горы.
 
-N= A CAVE BEYOND WHITE WOLF.
-E= LARGE BEASTS ABOVE WYVERN PEAKS!
-S= DISTANT UNCHARTED ISLES.
-W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
+С= Пещера за Белым волком.
+В= Чудовища над горами Виверн!
+Ю= Вдали неизведанные острова.
+З= Пиратский корабль за Утесом газели.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1177,8 +1174,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1265</addrInSeg>
         <originalText>A SIGN POINTING N. READS: WHITE WOLF</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN POINTING N. READS: WHITE WOLF</localizedText>
+        <newAddrInSeg>1261</newAddrInSeg>
+        <localizedText>Указатель на север. Белый волк</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1188,8 +1185,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1302</addrInSeg>
         <originalText>A SIGN POINTING S. READS: PORTSMITH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN POINTING S. READS: PORTSMITH</localizedText>
+        <newAddrInSeg>1292</newAddrInSeg>
+        <localizedText>Указатель на юг. Портсмит</localizedText>
       </text>
     </dt>
   </locText>
@@ -1204,8 +1201,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>943</addrInSeg>
         <originalText>TRIVIA ISLAND! 500 GOLD, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TRIVIA ISLAND! 500 GOLD, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>943</newAddrInSeg>
+        <localizedText>Остров Пустяк! 500 золота. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1215,8 +1212,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>981</addrInSeg>
         <originalText>NOT ENOUGH GOLD!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>NOT ENOUGH GOLD!</localizedText>
+        <newAddrInSeg>983</newAddrInSeg>
+        <localizedText>Мало золота!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1226,8 +1223,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>998</addrInSeg>
         <originalText>PIRATE GHOSTSHIP ANARCHIST!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PIRATE GHOSTSHIP ANARCHIST!</localizedText>
+        <newAddrInSeg>996</newAddrInSeg>
+        <localizedText>пиратский корабль-призрак Анархист!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1237,8 +1234,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1026</addrInSeg>
         <originalText>WHO RULES CASTLE W.W.?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHO RULES CASTLE W.W.?</localizedText>
+        <newAddrInSeg>1032</newAddrInSeg>
+        <localizedText>Кто правит в замке Б.В.?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1248,8 +1245,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1049</addrInSeg>
         <originalText>WHO IS THE VOLUPTUOUS ONE?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHO IS THE VOLUPTUOUS ONE?</localizedText>
+        <newAddrInSeg>1057</newAddrInSeg>
+        <localizedText>Как зовут пышную деву?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1259,8 +1256,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1076</addrInSeg>
         <originalText>WHO'S LOST SIGHT?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHO'S LOST SIGHT?</localizedText>
+        <newAddrInSeg>1080</newAddrInSeg>
+        <localizedText>Кто ослеп?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1270,8 +1267,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1094</addrInSeg>
         <originalText>WHERE'S THE VERY LATEST?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHERE'S THE VERY LATEST?</localizedText>
+        <newAddrInSeg>1091</newAddrInSeg>
+        <localizedText>Где самое лучшее?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1281,8 +1278,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1119</addrInSeg>
         <originalText>WHO BE YE?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHO BE YE?</localizedText>
+        <newAddrInSeg>1109</newAddrInSeg>
+        <localizedText>Кто есть ты?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1292,8 +1289,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1130</addrInSeg>
         <originalText>FREE TRIVIA CHANCE, PULL BRANCH (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FREE TRIVIA CHANCE, PULL BRANCH (Y/N)?</localizedText>
+        <newAddrInSeg>1122</newAddrInSeg>
+        <localizedText>Бесплатный шанс. Дернуть ветку (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1303,8 +1300,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1169</addrInSeg>
         <originalText>CORRECT!+50 GEMS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CORRECT!+50 GEMS</localizedText>
+        <newAddrInSeg>1160</newAddrInSeg>
+        <localizedText>Верно!+50 камней</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1314,8 +1311,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1186</addrInSeg>
         <originalText>WRONG!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WRONG!</localizedText>
+        <newAddrInSeg>1177</newAddrInSeg>
+        <localizedText>неверно!</localizedText>
       </text>
     </dt>
   </locText>
@@ -1330,8 +1327,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>881</addrInSeg>
         <originalText>AMBUSH!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AMBUSH!</localizedText>
+        <newAddrInSeg>881</newAddrInSeg>
+        <localizedText>Засада!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1341,8 +1338,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>889</addrInSeg>
         <originalText>DESERTED MERCHANT WAGONS, SEARCH (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DESERTED MERCHANT WAGONS, SEARCH (Y/N)?</localizedText>
+        <newAddrInSeg>889</newAddrInSeg>
+        <localizedText>Брошенная повозка купца. Обыскать(Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1352,8 +1349,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>939</addrInSeg>
         <originalText>TODAY SPELLS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TODAY SPELLS!</localizedText>
+        <newAddrInSeg>939</newAddrInSeg>
+        <localizedText>Сегодня зклинания!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1363,8 +1360,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>953</addrInSeg>
         <originalText>ARGHHH... POISON!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ARGHHH... POISON!</localizedText>
+        <newAddrInSeg>958</newAddrInSeg>
+        <localizedText>Проклятие... Яд!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1374,8 +1371,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>971</addrInSeg>
         <originalText>TODAY MIGHT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TODAY MIGHT!</localizedText>
+        <newAddrInSeg>975</newAddrInSeg>
+        <localizedText>Сегодня сила!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1386,9 +1383,9 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</localizedText>
         <addrInSeg>984</addrInSeg>
         <originalText>A FOUNTAIN SPEAKS:
 "WILL THE PARTY DRINK (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A FOUNTAIN SPEAKS:
-"WILL THE PARTY DRINK (Y/N)?"</localizedText>
+        <newAddrInSeg>989</newAddrInSeg>
+        <localizedText>Фонтан спрашивает:
+"Хотите напиться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1403,13 +1400,13 @@ INSIDE YOU FOUND A RUBY WHISTLE, 2000
 GOLD AND A NOTE:
 THE STRONGHOLD LIES AT B-3,14-2
 BLOW TWICE TO ENTER.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU FOUND A CHEST UPON WHICH AN
-INSCRIPTION READS: PROPERTY OF XX!XX!
-INSIDE YOU FOUND A RUBY WHISTLE, 2000
-GOLD AND A NOTE:
-THE STRONGHOLD LIES AT B-3,14-2
-BLOW TWICE TO ENTER.</localizedText>
+        <newAddrInSeg>1033</newAddrInSeg>
+        <localizedText>Вы нашли сундук. На нем надпись:
+Собственность XX!XX!
+Внутри вы нашли рубиновый свисток,
+2000 золота и записку:
+крепость B-3,14-2, свистни два раза,
+чтобы войти.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1419,8 +1416,8 @@ BLOW TWICE TO ENTER.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1211</addrInSeg>
         <originalText>ROADSIGN: SORPIGAL S.17, W.1, N.2</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ROADSIGN: SORPIGAL S.17, W.1, N.2</localizedText>
+        <newAddrInSeg>1195</newAddrInSeg>
+        <localizedText>Указатель. Сорпигал Ю.17, З.1, С.2</localizedText>
       </text>
     </dt>
   </locText>
@@ -1436,9 +1433,8 @@ BLOW TWICE TO ENTER.</localizedText>
         <addrInSeg>978</addrInSeg>
         <originalText>A CAVERNOUS PASSAGE LEADS TO SORPIGAL,
 TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A CAVERNOUS PASSAGE LEADS TO SORPIGAL,
-TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>978</newAddrInSeg>
+        <localizedText>Тоннель в Сорпигал. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1448,8 +1444,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1032</addrInSeg>
         <originalText>A PIT!....</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PIT!....</localizedText>
+        <newAddrInSeg>1011</newAddrInSeg>
+        <localizedText>Яма!....</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1459,8 +1455,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1043</addrInSeg>
         <originalText>YOUR LEVITATION SAVED YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR LEVITATION SAVED YOU!</localizedText>
+        <newAddrInSeg>1020</newAddrInSeg>
+        <localizedText>левитация вас спасла!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1470,8 +1466,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1070</addrInSeg>
         <originalText>AN AMBUSH!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN AMBUSH!</localizedText>
+        <newAddrInSeg>1042</newAddrInSeg>
+        <localizedText>Засада!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1481,8 +1477,9 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1081</addrInSeg>
         <originalText>A GLOWING WHITE COLUMN, TOUCH IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A GLOWING WHITE COLUMN, TOUCH IT (Y/N)?</localizedText>
+        <newAddrInSeg>1050</newAddrInSeg>
+        <localizedText>Белая светящаяся колонна.
+Прикоснуться (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1492,8 +1489,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1121</addrInSeg>
         <originalText>STATUES BLOCK THE PATH,SMASH THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STATUES BLOCK THE PATH,SMASH THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1096</newAddrInSeg>
+        <localizedText>Статуи перегородили путь. Разбить (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1503,8 +1500,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1162</addrInSeg>
         <originalText>A STRANGE FOUNTAIN, DRINK (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A STRANGE FOUNTAIN, DRINK (Y/N)?</localizedText>
+        <newAddrInSeg>1137</newAddrInSeg>
+        <localizedText>Странный фонтан. Выпить (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1514,8 +1511,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1195</addrInSeg>
         <originalText>CHEERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CHEERS!</localizedText>
+        <newAddrInSeg>1168</newAddrInSeg>
+        <localizedText>Ура!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1525,8 +1522,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1203</addrInSeg>
         <originalText>AVALANCHE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AVALANCHE!</localizedText>
+        <newAddrInSeg>1173</newAddrInSeg>
+        <localizedText>Лавина!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1536,8 +1533,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1214</addrInSeg>
         <originalText>THERE'S A CAVE HERE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THERE'S A CAVE HERE, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1181</newAddrInSeg>
+        <localizedText>Пещера. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1548,9 +1545,8 @@ TAKE IT (Y/N)?</localizedText>
         <addrInSeg>1248</addrInSeg>
         <originalText>A TOOTHLESS GYPSY SEER ASKS,"WHO WOULD
 LIKE TO HEAR THEIR SIGN (1-6)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TOOTHLESS GYPSY SEER ASKS,"WHO WOULD
-LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
+        <newAddrInSeg>1202</newAddrInSeg>
+        <localizedText>Беззубый цыган-провидец спрашивает: "Ктохочет узнать свой знак (1-6)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1560,8 +1556,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1319</addrInSeg>
         <originalText>"YOUR SIGN IS THE </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YOUR SIGN IS THE </localizedText>
+        <newAddrInSeg>1273</newAddrInSeg>
+        <localizedText>"Ваш знак - </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1571,8 +1567,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1338</addrInSeg>
         <originalText>RED THORAC"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>RED THORAC"</localizedText>
+        <newAddrInSeg>1286</newAddrInSeg>
+        <localizedText>красный торак"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1582,8 +1578,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1350</addrInSeg>
         <originalText>BLUE OGRAM"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BLUE OGRAM"</localizedText>
+        <newAddrInSeg>1301</newAddrInSeg>
+        <localizedText>синий ограм"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1593,8 +1589,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1362</addrInSeg>
         <originalText>GREEN BAGAR"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GREEN BAGAR"</localizedText>
+        <newAddrInSeg>1314</newAddrInSeg>
+        <localizedText>зеленый багар"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1604,8 +1600,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1375</addrInSeg>
         <originalText>YELLOW LIMRA"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YELLOW LIMRA"</localizedText>
+        <newAddrInSeg>1329</newAddrInSeg>
+        <localizedText>желтая лимра"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1615,8 +1611,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1389</addrInSeg>
         <originalText>PURPLE SAGRAN"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PURPLE SAGRAN"</localizedText>
+        <newAddrInSeg>1343</newAddrInSeg>
+        <localizedText>пурпурный сагран"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1626,8 +1622,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1404</addrInSeg>
         <originalText>ORANGE OOLAK"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ORANGE OOLAK"</localizedText>
+        <newAddrInSeg>1361</newAddrInSeg>
+        <localizedText>оранжевый улак"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1637,8 +1633,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1418</addrInSeg>
         <originalText>BLACK DRESIDION"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BLACK DRESIDION"</localizedText>
+        <newAddrInSeg>1377</newAddrInSeg>
+        <localizedText>черный дресидион"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1648,8 +1644,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1435</addrInSeg>
         <originalText>WHITE DILITHIUM"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHITE DILITHIUM"</localizedText>
+        <newAddrInSeg>1395</newAddrInSeg>
+        <localizedText>белый дилитиум"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1659,8 +1655,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1468</addrInSeg>
         <originalText>LOOK OUT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LOOK OUT!</localizedText>
+        <newAddrInSeg>1468</newAddrInSeg>
+        <localizedText>Берегись!</localizedText>
       </text>
     </dt>
   </locText>
@@ -1675,8 +1671,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>751</addrInSeg>
         <originalText>WYVERNS ATTACK FROM ABOVE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WYVERNS ATTACK FROM ABOVE!</localizedText>
+        <newAddrInSeg>751</newAddrInSeg>
+        <localizedText>Виверны атакуют с воздуха!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1686,8 +1682,9 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>778</addrInSeg>
         <originalText>ONE OF THE WYVERN'S EYES BEGINS TO GLOW!TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ONE OF THE WYVERN'S EYES BEGINS TO GLOW!TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>778</newAddrInSeg>
+        <localizedText>Один из глаз Виверна мерцает!
+Взять (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1697,8 +1694,8 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>833</addrInSeg>
         <originalText>ROADSIGN: SORPIGAL N.22, W.2, N.2</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ROADSIGN: SORPIGAL N.22, W.2, N.2</localizedText>
+        <newAddrInSeg>821</newAddrInSeg>
+        <localizedText>Указатель. Сорпигал С.22, З.2, С.2</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1710,10 +1707,10 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</localizedText>
         <originalText>THE EXILED LORD KILBURN SPEAKS:
 "TAKE THIS MAP AND EXPLORE THE DESERT.
 REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE EXILED LORD KILBURN SPEAKS:
-"TAKE THIS MAP AND EXPLORE THE DESERT.
-REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?</localizedText>
+        <newAddrInSeg>856</newAddrInSeg>
+        <localizedText>Лорд Килбурн-изгнанник говорит: "Бери
+эту карту и разведай пустыню. Расскажи освоих находках остальным лордам. Тогда
+они поймут!" Согласен (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1723,8 +1720,8 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1019</addrInSeg>
         <originalText>*** BACKPACKS FULL!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** BACKPACKS FULL!</localizedText>
+        <newAddrInSeg>1002</newAddrInSeg>
+        <localizedText>*** Нет места! ***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1734,8 +1731,8 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1039</addrInSeg>
         <originalText>A WYVERN'S LAIR, INVESTIGATE (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A WYVERN'S LAIR, INVESTIGATE (Y/N)?</localizedText>
+        <newAddrInSeg>1021</newAddrInSeg>
+        <localizedText>Нора виверн. Обследовать (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1746,9 +1743,9 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <addrInSeg>1075</addrInSeg>
         <originalText>PAINTED IN A BLACK AND WHITE PATTERN,
 A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PAINTED IN A BLACK AND WHITE PATTERN,
-A SIGN READS: THE FIRST PART IS FEMALE.</localizedText>
+        <newAddrInSeg>1053</newAddrInSeg>
+        <localizedText>Табличка в черно-белую клетку:
+Первая часть - женщина.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1758,8 +1755,9 @@ A SIGN READS: THE FIRST PART IS FEMALE.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1153</addrInSeg>
         <originalText>THE HERMIT SAYS: "TRADE WARES (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE HERMIT SAYS: "TRADE WARES (Y/N)?"</localizedText>
+        <newAddrInSeg>1108</newAddrInSeg>
+        <localizedText>Отшельник спрашивает:
+"Поменяемся (Y/N)?"</localizedText>
       </text>
     </dt>
   </locText>
@@ -1875,7 +1873,100 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
   </locText>
   <locText>
     <fName>aread1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>203</h>
+          <l>202</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1017</addrInSeg>
+        <originalText>SUDDENLY, A GARGANTUAN SCORPION ATTACKS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SUDDENLY, A GARGANTUAN SCORPION ATTACKS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>290</h>
+          <l>289</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1058</addrInSeg>
+        <originalText>A SMALL TRIBE OF DESERT NOMADS HAVE
+ESTABLISHED A TRADING POST HERE.
+TRADE ITEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SMALL TRIBE OF DESERT NOMADS HAVE
+ESTABLISHED A TRADING POST HERE.
+TRADE ITEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>339</h>
+          <l>338</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1145</addrInSeg>
+        <originalText>YOUR LEADER HAS NOTHING TO TRADE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOUR LEADER HAS NOTHING TO TRADE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>376</h>
+          <l>375</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1179</addrInSeg>
+        <originalText>KILBURN,C-3 6-14</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>KILBURN,C-3 6-14</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>389</h>
+          <l>388</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1197</addrInSeg>
+        <originalText>IT'S HOT... </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IT'S HOT... </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>579</h>
+          <l>578</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1210</addrInSeg>
+        <originalText>YOU'RE LOST!!!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU'RE LOST!!!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>751</h>
+          <l>750</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1225</addrInSeg>
+        <originalText>A WHIRLWIND SWOOPS THE PARTY AWAY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A WHIRLWIND SWOOPS THE PARTY AWAY!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>790</h>
+          <l>789</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1260</addrInSeg>
+        <originalText>A VIOLENT SANDSTORM BLASTS THE PARTY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A VIOLENT SANDSTORM BLASTS THE PARTY!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>aread2.ovr</fName>
