@@ -1044,16 +1044,169 @@ namespace MM_Localization {
         new addrPair(0x02EE), // A WHIRLWIND SWOOPS THE PARTY AWAY!
         new addrPair(0x0315), // A VIOLENT SANDSTORM BLASTS THE PARTY!
       }),
-      new txtAddresses("aread2.ovr",   new addrPair[] {}),
-      new txtAddresses("aread3.ovr",   new addrPair[] {}),
-      new txtAddresses("aread4.ovr",   new addrPair[] {}),
-      new txtAddresses("areae1.ovr",   new addrPair[] {}),
-      new txtAddresses("areae2.ovr",   new addrPair[] {}),
-      new txtAddresses("areae3.ovr",   new addrPair[] {}),
-      new txtAddresses("areae4.ovr",   new addrPair[] {}),
-      new txtAddresses("astral.ovr",   new addrPair[] {}),
-      new txtAddresses("blackrn.ovr",  new addrPair[] {}),
-      new txtAddresses("blackrs.ovr",  new addrPair[] {}),
+      new txtAddresses("aread2.ovr",   new addrPair[] {
+        new addrPair(0x0073), // THE POOL OF WISDOM GRANTS THOSE WHO ARE\nWO...
+        new addrPair(0x00D0), // CLERICAL RETREAT
+        new addrPair(0x0212), // WE ARE THE CLERICS OF THE 
+        new addrPair(0x00E2), // YOUR PARTY IS CURED!
+        new addrPair(0x014C), // YOUR ALIGNMENT IS RESTORED!
+        new addrPair(0x018F), // ALL CURSES ARE REMOVED!
+        new addrPair(0x0202), // THE CLERICS OF THE S. SHALL DEEM YOU\nWORTH...
+        new addrPair(0x022C), // IT'S HOT... 
+        new addrPair(0x0301), // YOU'RE LOST!!!
+      }),
+      new txtAddresses("aread3.ovr",   new addrPair[] {
+        new addrPair(0x00DA), // A CAVE, ENTER (Y/N)?
+        new addrPair(0x013B), // CLIMB TREE (Y/N)?
+        new addrPair(0x0071), // I AM ARENKO GUIRE AND THIS IS MY GROVE.\nCL...
+        new addrPair(0x0095), // WELL DONE! WHAT IS YOUR PLEASURE?\nA) GOLD ...
+        new addrPair(0x024C), // +5 FOOD
+        new addrPair(0x0126), // POISON THORNS
+        new addrPair(0x0118), // YOU FELL
+        new addrPair(0x0211), // LIGHTNING
+        new addrPair(0x0205), // INFECTIOUS SAP
+        new addrPair(0x01F7), // FLASH
+        new addrPair(0x019A), // POOF
+        new addrPair(0x012C), // NOTHING HERE.
+        new addrPair(0x0191), // CURSED
+        new addrPair(0x008A), // KEEP CLIMBING.
+        new addrPair(0x02E8), // ROADSIGN: ALGARY S.9
+      }),
+      new txtAddresses("aread4.ovr",   new addrPair[] {
+        new addrPair(0x005D), // ALGARY, ENTER (Y/N)?
+        new addrPair(0x0156), // PAUL PEAD AND HIS MEN ATTACK!
+        new addrPair(0x00FF), // A HUGE WINGED BEAST EXCLAIMS,\n"THIS SWAMP ...
+        new addrPair(0x0204), // OG SAYS, "BEGONE!"
+        new addrPair(0x0248), // PAINTED ON THESE GROUNDS IS A BLACK &\nWHIT... 
+        new addrPair(0x02AF), // YOU HAVE RESTORED MY SIGHT! (+25000 EXP)I S...                                              
+      }),
+      new txtAddresses("areae1.ovr",   new addrPair[] {
+        new addrPair(0x005D), // PASSAGE TO DUSK, ENTER (Y/N)?
+        new addrPair(0x008D), // RUINS OF CASTLE DRAGADUNE, ENTER (Y/N)?
+        new addrPair(0x00D0), // IT'S HOT... 
+        new addrPair(0x018E), // YOU'RE LOST!!!
+        new addrPair(0x023A), // A WHIRLWIND SWOOPS THE PARTY AWAY!
+        new addrPair(0x0261), // A VIOLENT SANDSTORM BLASTS THE PARTY!
+        new addrPair(0x02C4), // AT THE CENTER OF THE LAND THAT TIME\nFORGOT...
+        new addrPair(0x0369), // NOT WORTHY!
+        new addrPair(0x0376), // YOUR ACTIONS REFLECT YOUR VIEWS   OF 6\n+
+        new addrPair(0x0323), // STATUE OF A GIANT HOLDING THE SCALE OF\nJUD...
+        new addrPair(0x0636), // INTELLECT
+        new addrPair(0x0638), // MIGHT
+        new addrPair(0x063A), // PERSONALITY
+        new addrPair(0x063C), // ENDURANCE
+        new addrPair(0x063E), // SPEED
+        new addrPair(0x0640), // ACCURACY
+        new addrPair(0x0642), // LUCK
+        new addrPair(0x03C8), // EXPERIENCE
+      }),
+      new txtAddresses("areae2.ovr",   new addrPair[] {
+        new addrPair(0x01B5), // IT'S HOT... 
+        new addrPair(0x0282), // YOU'RE LOST!!!
+        new addrPair(0x005D), // STRANGE ALIEN DEVICE GRANTS THOSE WHO\nARE ...
+        new addrPair(0x00F4), // SCATTERED REMAINS OF A METALLIC CRAFT!\nAN ...
+        new addrPair(0x00E5), // A BRIGHT FLASH!
+        new addrPair(0x010F), // "VARNLINGS TAKE HEED! OUR PRISONER HAS\nESC...
+        new addrPair(0x018D), // POOF!
+      }),
+      new txtAddresses("areae3.ovr",   new addrPair[] {
+        new addrPair(0x01F7), // KING ALAMAR'S CASTLE, ENTER (Y/N)?
+        new addrPair(0x008E), // A DIAMOND DOOR!
+        new addrPair(0x00C4), //  USE YOUR KEY (Y/N)?
+        new addrPair(0x00F2), // STATUE OF A LION GROWLS,"PASSWORD?"\nRESPON...
+        new addrPair(0x01AE), // IS THE PASSWORD FOR TODAY,\nLEAVE THE AREA ...
+        new addrPair(0x017E), // HERATIO HARPER SINGS:\n"
+        new addrPair(0x004F), // DISTANT HARP MUSIC...
+        new addrPair(0x03C2), // MUSICAL
+        new addrPair(0x03C4), // TONES
+        new addrPair(0x03C6), // TOGETHER
+        new addrPair(0x03C8), // CLERICS
+        new addrPair(0x03CA), // SOUTH
+        new addrPair(0x03CC), // DEEM
+        new addrPair(0x03CE), // WORTHY
+        new addrPair(0x0060), // TRESPASSING!
+        new addrPair(0x015F), // CORRECT! YOU MAY PASS.
+      }),
+      new txtAddresses("areae4.ovr",   new addrPair[] {
+        new addrPair(0x0159), // THE FABLED BUILDING OF GOLD,\nENTER (Y/N)?
+        new addrPair(0x0218), // ECTOPLASMIC SLIME SLUSHES BENEATH YOU!\n
+        new addrPair(0x01E4), // TOPPLED TOMBSTONES ABOUND!
+        new addrPair(0x00A8), // UNEARTHED COFFIN! EXAMINE (Y/N)?
+        new addrPair(0x0114), // OPEN CRYPT! EXAMINE (Y/N)?
+        new addrPair(0x012A), // HALF BURIED CORPSE ASKS FOR HELP!\nASSIST (...
+        new addrPair(0x005D), // DRAGON CITY, TOWN MEETING...\nDISRUPT (Y/N)?
+        new addrPair(0x0273), // QUICKSAND!
+        new addrPair(0x0142), // THANKS! IT AIN'T EASY BEING A CORPSE!\nTAKE...
+      }),
+      new txtAddresses("astral.ovr",   new addrPair[] {
+        new addrPair(0x0097), // ASTRAL PROJECTOR # 
+        new addrPair(0x00A8), //  , ZAP!
+        new addrPair(0x0062), // THERE'S A SMALL SLOT IN THE DOOR.\n
+        new addrPair(0x0127), // NO ADMITTANCE!
+        new addrPair(0x0165), // KEY CARD IS REJECTED!
+        new addrPair(0x006E), // KEY CARD IS ACCEPTED!
+        new addrPair(0x007B), // THE METALLIC ROOM IS DIMLY LIT BY\nA PULSAT...
+        new addrPair(0x019A), // IN A SERENE VOICE, THE DATA KEEPER SAYS,"WE...
+        new addrPair(0x0275), // "YOU ARE NOT YET WORTHY FOR TRANSFER.   RET...
+        new addrPair(0x01A6), // EXCELLENT RATING! THIS IS A RARE        OCC...
+        new addrPair(0x0173), // A METALLIC PANEL SLIDES OPEN, REVEALING\nA ...
+        new addrPair(0x0187), // :::INNER SANCTUM:::
+      }),
+      new txtAddresses("blackrn.ovr",  new addrPair[] {
+        new addrPair(0x0063), // EXIT CASTLE, (Y/N)?
+        new addrPair(0x01A7), // CASTLE GUARDS EXCLAIM,\n"NO MERCHANTS PASS!...
+        new addrPair(0x023B), // WELL DONE, QUEST COMPLETE! +
+        new addrPair(0x0259), //  EXP
+        new addrPair(0x05AF), // FIND THE ANCIENT RUINS IN THE\nQUIVERING FO...
+        new addrPair(0x05B1), // VISIT BLITHES PEAK, AND REPORT
+        new addrPair(0x05B3), // THE PEOPLE OF THE DESERT HAVE MUCH TO\nTRAD...
+        new addrPair(0x05B5), // FIND THE SHRINE OF OKZAR IN THE\nCAVES BELO...                           
+        new addrPair(0x05B7), // FIND THE FABLED FOUNTAIN IN DRAGADUNE
+        new addrPair(0x05B9), // SOLVE THE RIDDLE OF THE RUBY
+        new addrPair(0x05BB), // DEFEAT THE STRONGHOLD\nIN THE ENCHANTED FOR...
+        new addrPair(0x029C), // LORD INSPECTRON SPEAKS:\n
+        new addrPair(0x02E1), // "YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?
+        new addrPair(0x0287), // "RETURN NOT UNTIL THY QUEST IS COMPLETE"
+        new addrPair(0x02CA), // "SORRY, BUT SINCE YOU ARE CURRENTLY\nQUESTE...
+        new addrPair(0x00AB), // OPTIONS:  1) SET THE PRISONER FREE.\n
+        new addrPair(0x00B9), // 2) TORMENT THE PRISONER.\n
+        new addrPair(0x00C7), // 3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x00EA), // THE PRISONER FLEES!
+        new addrPair(0x00F8), // THE PRISONER COWERS!
+        new addrPair(0x00A2), // MAN IN SHACKLES MOANS IN AGONY!\n\n
+        new addrPair(0x0088), // ETCHED IN SILVER, MESSAGE A READS:\nATIS-19...
+        new addrPair(0x0446), // A SLIDE!
+        new addrPair(0x0465), // EMPTY VAULT, ALARM!
+      }),
+      new txtAddresses("blackrs.ovr",  new addrPair[] {
+        new addrPair(0x0063), // EXIT CASTLE, (Y/N)?
+        new addrPair(0x01B5), // CASTLE GUARDS EXCLAIM,"BEGONE PEASANTS!"
+        new addrPair(0x0243), // WELL DONE, QUEST COMPLETE! +
+        new addrPair(0x0261), //  EXP
+        new addrPair(0x045B), // MY BREW IS COMPLETE, GUARDS TAKE THEIR\nITE...
+        new addrPair(0x02E9), // "YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?
+        new addrPair(0x028F), // "RETURN NOT UNTIL THY QUEST IS COMPLETE"(LE...
+        new addrPair(0x02D2), // "SORRY, YOU'RE ALREADY QUESTED.
+        new addrPair(0x00B9), // OPTIONS:  1) SET THE PRISONER FREE.\n
+        new addrPair(0x00C7), // 2) TORMENT THE PRISONER.\n
+        new addrPair(0x00D5), // 3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x00F8), // THE PRISONER FLEES!
+        new addrPair(0x0106), // THE PRISONER COWERS!
+        new addrPair(0x0481), // A SLIDE!
+        new addrPair(0x0495), // THE PIT OF PERIL...
+        new addrPair(0x04BF), // EMPTY VAULT, ALARM!
+        new addrPair(0x034D), // BRING ME 
+        new addrPair(0x0608), // GARLIC
+        new addrPair(0x060A), // WOLFSBANE
+        new addrPair(0x060C), // BELLADONNA
+        new addrPair(0x060E), // THE HEAD OF A MEDUSA
+        new addrPair(0x0610), // AN EYE OF A WYVERN
+        new addrPair(0x0612), // A DRAGONS TOOTH
+        new addrPair(0x0614), // THE RING OF OKIRM
+        new addrPair(0x02A4), // LORD HACKER SPEAKS:\n
+        new addrPair(0x00B0), // A MYSTERIOUS CLOAKED FIGURE, BOUND AND\nGAG...
+        new addrPair(0x0088), // ETCHED IN SILVER, MESSAGE C READS:\nIACI1;-...
+      }),
       new txtAddresses("cave1.ovr",    new addrPair[] {}),
       new txtAddresses("cave2.ovr",    new addrPair[] {}),
       new txtAddresses("cave3.ovr",    new addrPair[] {}),

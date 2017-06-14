@@ -28,3 +28,9 @@ seg000:00CE 72 EA                                   jb      short loc_BA
 areab4.ovr
 найти ответы
 (15,15) Play trivia games at....
+
+aread2.ovr
+«аменить стороны света:
+00DD - N
+0147 - E
+018A - W

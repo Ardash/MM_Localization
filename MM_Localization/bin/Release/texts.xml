@@ -1773,8 +1773,9 @@ A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
         <addrInSeg>901</addrInSeg>
         <originalText>A LARGE SLAB OF CORAL BLOCKS A PASSAGE!
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A LARGE SLAB OF CORAL BLOCKS A PASSAGE!
+        <newAddrInSeg>901</newAddrInSeg>
+        <localizedText>Большая коралловая плита блокирует
+проход!
 </localizedText>
       </text>
       <text>
@@ -1786,9 +1787,9 @@ A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
         <addrInSeg>942</addrInSeg>
         <originalText>YOUR CORAL KEY FITS PERFECTLY
 IN THE LOCK, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR CORAL KEY FITS PERFECTLY
-IN THE LOCK, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>945</newAddrInSeg>
+        <localizedText>Ваш коралловый ключ подошел к замку.
+Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1799,9 +1800,8 @@ IN THE LOCK, ENTER (Y/N)?</localizedText>
         <addrInSeg>998</addrInSeg>
         <originalText>AT THE WATERS EDGE ARE THE DECAYING
 REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AT THE WATERS EDGE ARE THE DECAYING
-REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
+        <newAddrInSeg>995</newAddrInSeg>
+        <localizedText>На берегу гниющий остов большого корабляОбыскать (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1811,8 +1811,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1072</addrInSeg>
         <originalText>CRAZED NATIVES ATTACK!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CRAZED NATIVES ATTACK!</localizedText>
+        <newAddrInSeg>1051</newAddrInSeg>
+        <localizedText>Аборигены-фанатики атакуют!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1822,8 +1822,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1095</addrInSeg>
         <originalText>THE VOLCANO ERUPTS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE VOLCANO ERUPTS!</localizedText>
+        <newAddrInSeg>1079</newAddrInSeg>
+        <localizedText>Извержение вулкана!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1833,8 +1833,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1115</addrInSeg>
         <originalText>PIRATES ATTACK!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PIRATES ATTACK!</localizedText>
+        <newAddrInSeg>1099</newAddrInSeg>
+        <localizedText>Пираты атакуют!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1844,8 +1844,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1131</addrInSeg>
         <originalText>MYSTERIOUS WEEPING ECHOES THROUGHOUT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MYSTERIOUS WEEPING ECHOES THROUGHOUT!</localizedText>
+        <newAddrInSeg>1115</newAddrInSeg>
+        <localizedText>Загадочный плач разносится эхом!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1855,8 +1855,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1169</addrInSeg>
         <originalText>THE JOLLY RAVEN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE JOLLY RAVEN!</localizedText>
+        <newAddrInSeg>1148</newAddrInSeg>
+        <localizedText>Веселый ворон!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1866,8 +1866,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1186</addrInSeg>
         <originalText>PORTAL OF POWER, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PORTAL OF POWER, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1163</newAddrInSeg>
+        <localizedText>Портал силы. Войти (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -1882,8 +1882,8 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1017</addrInSeg>
         <originalText>SUDDENLY, A GARGANTUAN SCORPION ATTACKS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SUDDENLY, A GARGANTUAN SCORPION ATTACKS!</localizedText>
+        <newAddrInSeg>1017</newAddrInSeg>
+        <localizedText>Внезапно нападает огромный скорпион!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1895,10 +1895,10 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</localizedText>
         <originalText>A SMALL TRIBE OF DESERT NOMADS HAVE
 ESTABLISHED A TRADING POST HERE.
 TRADE ITEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SMALL TRIBE OF DESERT NOMADS HAVE
-ESTABLISHED A TRADING POST HERE.
-TRADE ITEM (Y/N)?</localizedText>
+        <newAddrInSeg>1054</newAddrInSeg>
+        <localizedText>Небольшое племя песчаных кочевников
+поставило тут торговый пост.
+Торговать (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1908,8 +1908,8 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1145</addrInSeg>
         <originalText>YOUR LEADER HAS NOTHING TO TRADE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR LEADER HAS NOTHING TO TRADE!</localizedText>
+        <newAddrInSeg>1136</newAddrInSeg>
+        <localizedText>У лидера нет ничего на обмен!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1919,8 +1919,8 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1179</addrInSeg>
         <originalText>KILBURN,C-3 6-14</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>KILBURN,C-3 6-14</localizedText>
+        <newAddrInSeg>1166</newAddrInSeg>
+        <localizedText>Килбурн,C-3 6-14</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1930,8 +1930,8 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1197</addrInSeg>
         <originalText>IT'S HOT... </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IT'S HOT... </localizedText>
+        <newAddrInSeg>1197</newAddrInSeg>
+        <localizedText>очень жарко... </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1941,8 +1941,8 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1210</addrInSeg>
         <originalText>YOU'RE LOST!!!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU'RE LOST!!!</localizedText>
+        <newAddrInSeg>1213</newAddrInSeg>
+        <localizedText>вы заблудились!!!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1952,8 +1952,8 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1225</addrInSeg>
         <originalText>A WHIRLWIND SWOOPS THE PARTY AWAY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A WHIRLWIND SWOOPS THE PARTY AWAY!</localizedText>
+        <newAddrInSeg>1231</newAddrInSeg>
+        <localizedText>Вихрь уносит вас прочь!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1963,50 +1963,1747 @@ TRADE ITEM (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1260</addrInSeg>
         <originalText>A VIOLENT SANDSTORM BLASTS THE PARTY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A VIOLENT SANDSTORM BLASTS THE PARTY!</localizedText>
+        <newAddrInSeg>1255</newAddrInSeg>
+        <localizedText>Налетела сильная песчаная буря!</localizedText>
       </text>
     </dt>
   </locText>
   <locText>
     <fName>aread2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>116</h>
+          <l>115</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1045</addrInSeg>
+        <originalText>THE POOL OF WISDOM GRANTS THOSE WHO ARE
+WORTHY +4 PERSONALITY.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE POOL OF WISDOM GRANTS THOSE WHO ARE
+WORTHY +4 PERSONALITY.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>209</h>
+          <l>208</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1108</addrInSeg>
+        <originalText>CLERICAL RETREAT</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CLERICAL RETREAT</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>531</h>
+          <l>530</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1125</addrInSeg>
+        <originalText>WE ARE THE CLERICS OF THE </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WE ARE THE CLERICS OF THE </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>227</h>
+          <l>226</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1152</addrInSeg>
+        <originalText>YOUR PARTY IS CURED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOUR PARTY IS CURED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>333</h>
+          <l>332</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1173</addrInSeg>
+        <originalText>YOUR ALIGNMENT IS RESTORED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOUR ALIGNMENT IS RESTORED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>400</h>
+          <l>399</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1201</addrInSeg>
+        <originalText>ALL CURSES ARE REMOVED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ALL CURSES ARE REMOVED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>515</h>
+          <l>514</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1225</addrInSeg>
+        <originalText>THE CLERICS OF THE S. SHALL DEEM YOU
+WORTHY, IF YOU CAN FIND THEM!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE CLERICS OF THE S. SHALL DEEM YOU
+WORTHY, IF YOU CAN FIND THEM!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>557</h>
+          <l>556</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1293</addrInSeg>
+        <originalText>IT'S HOT... </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IT'S HOT... </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>770</h>
+          <l>769</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1306</addrInSeg>
+        <originalText>YOU'RE LOST!!!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU'RE LOST!!!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>aread3.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>219</h>
+          <l>218</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>882</addrInSeg>
+        <originalText>A CAVE, ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A CAVE, ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>316</h>
+          <l>315</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>903</addrInSeg>
+        <originalText>CLIMB TREE (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CLIMB TREE (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>114</h>
+          <l>113</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>921</addrInSeg>
+        <originalText>I AM ARENKO GUIRE AND THIS IS MY GROVE.
+CLIMB ALL THE TREES, WITHOUT LEAVING
+THE AREA, AND RETURN.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>I AM ARENKO GUIRE AND THIS IS MY GROVE.
+CLIMB ALL THE TREES, WITHOUT LEAVING
+THE AREA, AND RETURN.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>150</h>
+          <l>149</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1020</addrInSeg>
+        <originalText>WELL DONE! WHAT IS YOUR PLEASURE?
+A) GOLD  B) GEMS  C) ITEM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WELL DONE! WHAT IS YOUR PLEASURE?
+A) GOLD  B) GEMS  C) ITEM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>589</h>
+          <l>588</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1080</addrInSeg>
+        <originalText>+5 FOOD</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>+5 FOOD</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>295</h>
+          <l>294</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1088</addrInSeg>
+        <originalText>POISON THORNS</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>POISON THORNS</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>281</h>
+          <l>280</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1102</addrInSeg>
+        <originalText>YOU FELL</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU FELL</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>530</h>
+          <l>529</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1111</addrInSeg>
+        <originalText>LIGHTNING</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>LIGHTNING</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>518</h>
+          <l>517</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1121</addrInSeg>
+        <originalText>INFECTIOUS SAP</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INFECTIOUS SAP</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>504</h>
+          <l>503</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1136</addrInSeg>
+        <originalText>FLASH</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>FLASH</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>411</h>
+          <l>410</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1142</addrInSeg>
+        <originalText>POOF</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>POOF</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>301</h>
+          <l>300</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1147</addrInSeg>
+        <originalText>NOTHING HERE.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>NOTHING HERE.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>402</h>
+          <l>401</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1161</addrInSeg>
+        <originalText>CURSED</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CURSED</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>139</h>
+          <l>138</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1168</addrInSeg>
+        <originalText>KEEP CLIMBING.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>KEEP CLIMBING.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>745</h>
+          <l>744</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1183</addrInSeg>
+        <originalText>ROADSIGN: ALGARY S.9</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ROADSIGN: ALGARY S.9</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>aread4.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1055</addrInSeg>
+        <originalText>ALGARY, ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ALGARY, ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>343</h>
+          <l>342</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1077</addrInSeg>
+        <originalText>PAUL PEAD AND HIS MEN ATTACK!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PAUL PEAD AND HIS MEN ATTACK!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>256</h>
+          <l>255</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1107</addrInSeg>
+        <originalText>A HUGE WINGED BEAST EXCLAIMS,
+"THIS SWAMP IS QUITE DANGEROUS. FLY YOU
+TO SAFETY (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A HUGE WINGED BEAST EXCLAIMS,
+"THIS SWAMP IS QUITE DANGEROUS. FLY YOU
+TO SAFETY (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>517</h>
+          <l>516</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1195</addrInSeg>
+        <originalText>OG SAYS, "BEGONE!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>OG SAYS, "BEGONE!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>585</h>
+          <l>584</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1214</addrInSeg>
+        <originalText>PAINTED ON THESE GROUNDS IS A BLACK &amp;
+WHITE CHECKERED MOTIF COVERED WITH
+IDOLS SIMILAR TO THE ONES YOU CARRY.
+A LARGE BEING APPROACHES...
+OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
+
+RESPONSE: </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PAINTED ON THESE GROUNDS IS A BLACK &amp;
+WHITE CHECKERED MOTIF COVERED WITH
+IDOLS SIMILAR TO THE ONES YOU CARRY.
+A LARGE BEING APPROACHES...
+OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
+
+RESPONSE: </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>688</h>
+          <l>687</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1401</addrInSeg>
+        <originalText>YOU HAVE RESTORED MY SIGHT! (+25000 EXP)I SEE AN IMPORTANT PRISONER IN A CASTLE
+ON MT. DOOM! HE HAS YOUR SIGHT.
+
+OG CURSES AS THE IDOLS VANISH!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU HAVE RESTORED MY SIGHT! (+25000 EXP)I SEE AN IMPORTANT PRISONER IN A CASTLE
+ON MT. DOOM! HE HAS YOUR SIGHT.
+
+OG CURSES AS THE IDOLS VANISH!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>areae1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1341</addrInSeg>
+        <originalText>PASSAGE TO DUSK, ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PASSAGE TO DUSK, ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>142</h>
+          <l>141</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1371</addrInSeg>
+        <originalText>RUINS OF CASTLE DRAGADUNE, ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>RUINS OF CASTLE DRAGADUNE, ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>209</h>
+          <l>208</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1412</addrInSeg>
+        <originalText>IT'S HOT... </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IT'S HOT... </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>399</h>
+          <l>398</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1425</addrInSeg>
+        <originalText>YOU'RE LOST!!!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU'RE LOST!!!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>571</h>
+          <l>570</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1440</addrInSeg>
+        <originalText>A WHIRLWIND SWOOPS THE PARTY AWAY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A WHIRLWIND SWOOPS THE PARTY AWAY!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>610</h>
+          <l>609</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1475</addrInSeg>
+        <originalText>A VIOLENT SANDSTORM BLASTS THE PARTY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A VIOLENT SANDSTORM BLASTS THE PARTY!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>709</h>
+          <l>708</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1513</addrInSeg>
+        <originalText>AT THE CENTER OF THE LAND THAT TIME
+FORGOT STANDS AN HOURGLASS,TURN IT(Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>AT THE CENTER OF THE LAND THAT TIME
+FORGOT STANDS AN HOURGLASS,TURN IT(Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>874</h>
+          <l>873</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1604</addrInSeg>
+        <originalText>NOT WORTHY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>NOT WORTHY!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>887</h>
+          <l>886</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1616</addrInSeg>
+        <originalText>YOUR ACTIONS REFLECT YOUR VIEWS   OF 6
++</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOUR ACTIONS REFLECT YOUR VIEWS   OF 6
++</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>804</h>
+          <l>803</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1684</addrInSeg>
+        <originalText>STATUE OF A GIANT HOLDING THE SCALE OF
+JUDGEMENT. WHO WILL CLIMB ON (1-6)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STATUE OF A GIANT HOLDING THE SCALE OF
+JUDGEMENT. WHO WILL CLIMB ON (1-6)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1591</h>
+          <l>1590</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1759</addrInSeg>
+        <originalText>INTELLECT</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INTELLECT</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1593</h>
+          <l>1592</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1769</addrInSeg>
+        <originalText>MIGHT</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MIGHT</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1595</h>
+          <l>1594</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1775</addrInSeg>
+        <originalText>PERSONALITY</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PERSONALITY</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1597</h>
+          <l>1596</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1787</addrInSeg>
+        <originalText>ENDURANCE</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ENDURANCE</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1599</h>
+          <l>1598</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1797</addrInSeg>
+        <originalText>SPEED</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SPEED</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1601</h>
+          <l>1600</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1803</addrInSeg>
+        <originalText>ACCURACY</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ACCURACY</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1603</h>
+          <l>1602</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1812</addrInSeg>
+        <originalText>LUCK</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>LUCK</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>969</h>
+          <l>968</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1817</addrInSeg>
+        <originalText>EXPERIENCE</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EXPERIENCE</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>areae2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>438</h>
+          <l>437</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>924</addrInSeg>
+        <originalText>IT'S HOT... </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IT'S HOT... </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>643</h>
+          <l>642</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>937</addrInSeg>
+        <originalText>YOU'RE LOST!!!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU'RE LOST!!!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>952</addrInSeg>
+        <originalText>STRANGE ALIEN DEVICE GRANTS THOSE WHO
+ARE WORTHY +4 INTELLECT!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STRANGE ALIEN DEVICE GRANTS THOSE WHO
+ARE WORTHY +4 INTELLECT!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>245</h>
+          <l>244</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1015</addrInSeg>
+        <originalText>SCATTERED REMAINS OF A METALLIC CRAFT!
+AN ALIEN GRUNTS, "EEP OP OOP!"
+REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SCATTERED REMAINS OF A METALLIC CRAFT!
+AN ALIEN GRUNTS, "EEP OP OOP!"
+REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>230</h>
+          <l>229</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1126</addrInSeg>
+        <originalText>A BRIGHT FLASH!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BRIGHT FLASH!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>272</h>
+          <l>271</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1142</addrInSeg>
+        <originalText>"VARNLINGS TAKE HEED! OUR PRISONER HAS
+ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"VARNLINGS TAKE HEED! OUR PRISONER HAS
+ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>398</h>
+          <l>397</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1258</addrInSeg>
+        <originalText>POOF!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>POOF!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>areae3.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>504</h>
+          <l>503</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>672</addrInSeg>
+        <originalText>KING ALAMAR'S CASTLE, ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>KING ALAMAR'S CASTLE, ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>143</h>
+          <l>142</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>708</addrInSeg>
+        <originalText>A DIAMOND DOOR!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A DIAMOND DOOR!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>197</h>
+          <l>196</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>724</addrInSeg>
+        <originalText> USE YOUR KEY (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText> USE YOUR KEY (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>243</h>
+          <l>242</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>745</addrInSeg>
+        <originalText>STATUE OF A LION GROWLS,"PASSWORD?"
+RESPONSE:&gt; ..........</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STATUE OF A LION GROWLS,"PASSWORD?"
+RESPONSE:&gt; ..........</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>431</h>
+          <l>430</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>803</addrInSeg>
+        <originalText>IS THE PASSWORD FOR TODAY,
+LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IS THE PASSWORD FOR TODAY,
+LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>383</h>
+          <l>382</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>867</addrInSeg>
+        <originalText>HERATIO HARPER SINGS:
+"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>HERATIO HARPER SINGS:
+"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>80</h>
+          <l>79</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>891</addrInSeg>
+        <originalText>DISTANT HARP MUSIC...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DISTANT HARP MUSIC...</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>963</h>
+          <l>962</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>913</addrInSeg>
+        <originalText>MUSICAL</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MUSICAL</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>965</h>
+          <l>964</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>921</addrInSeg>
+        <originalText>TONES</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TONES</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>967</h>
+          <l>966</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>927</addrInSeg>
+        <originalText>TOGETHER</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TOGETHER</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>969</h>
+          <l>968</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>936</addrInSeg>
+        <originalText>CLERICS</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CLERICS</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>971</h>
+          <l>970</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>944</addrInSeg>
+        <originalText>SOUTH</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SOUTH</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>973</h>
+          <l>972</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>950</addrInSeg>
+        <originalText>DEEM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DEEM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>975</h>
+          <l>974</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>955</addrInSeg>
+        <originalText>WORTHY</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WORTHY</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>976</addrInSeg>
+        <originalText>TRESPASSING!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TRESPASSING!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>352</h>
+          <l>351</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>990</addrInSeg>
+        <originalText>CORRECT! YOU MAY PASS.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CORRECT! YOU MAY PASS.</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>areae4.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>346</h>
+          <l>345</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>860</addrInSeg>
+        <originalText>THE FABLED BUILDING OF GOLD,
+ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE FABLED BUILDING OF GOLD,
+ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>537</h>
+          <l>536</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>902</addrInSeg>
+        <originalText>ECTOPLASMIC SLIME SLUSHES BENEATH YOU!
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ECTOPLASMIC SLIME SLUSHES BENEATH YOU!
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>485</h>
+          <l>484</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>942</addrInSeg>
+        <originalText>TOPPLED TOMBSTONES ABOUND!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TOPPLED TOMBSTONES ABOUND!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>169</h>
+          <l>168</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>969</addrInSeg>
+        <originalText>UNEARTHED COFFIN! EXAMINE (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>UNEARTHED COFFIN! EXAMINE (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>277</h>
+          <l>276</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1002</addrInSeg>
+        <originalText>OPEN CRYPT! EXAMINE (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>OPEN CRYPT! EXAMINE (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>299</h>
+          <l>298</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1029</addrInSeg>
+        <originalText>HALF BURIED CORPSE ASKS FOR HELP!
+ASSIST (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>HALF BURIED CORPSE ASKS FOR HELP!
+ASSIST (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1077</addrInSeg>
+        <originalText>DRAGON CITY, TOWN MEETING...
+DISRUPT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DRAGON CITY, TOWN MEETING...
+DISRUPT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>628</h>
+          <l>627</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1121</addrInSeg>
+        <originalText>QUICKSAND!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>QUICKSAND!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>323</h>
+          <l>322</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1176</addrInSeg>
+        <originalText>THANKS! IT AIN'T EASY BEING A CORPSE!
+TAKE THESE...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THANKS! IT AIN'T EASY BEING A CORPSE!
+TAKE THESE...</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>astral.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>152</h>
+          <l>151</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>790</addrInSeg>
+        <originalText>ASTRAL PROJECTOR # </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ASTRAL PROJECTOR # </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>169</h>
+          <l>168</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>810</addrInSeg>
+        <originalText> , ZAP!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText> , ZAP!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>99</h>
+          <l>98</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>818</addrInSeg>
+        <originalText>THERE'S A SMALL SLOT IN THE DOOR.
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THERE'S A SMALL SLOT IN THE DOOR.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>296</h>
+          <l>295</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>853</addrInSeg>
+        <originalText>NO ADMITTANCE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>NO ADMITTANCE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>358</h>
+          <l>357</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>868</addrInSeg>
+        <originalText>KEY CARD IS REJECTED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>KEY CARD IS REJECTED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>111</h>
+          <l>110</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>890</addrInSeg>
+        <originalText>KEY CARD IS ACCEPTED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>KEY CARD IS ACCEPTED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>124</h>
+          <l>123</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>912</addrInSeg>
+        <originalText>THE METALLIC ROOM IS DIMLY LIT BY
+A PULSATING WHITE GLOW!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE METALLIC ROOM IS DIMLY LIT BY
+A PULSATING WHITE GLOW!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>411</h>
+          <l>410</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>970</addrInSeg>
+        <originalText>IN A SERENE VOICE, THE DATA KEEPER SAYS,"WELCOME TO YOUR INNER SANCTUM          VARNLINGS! I AM VERY PLEASED THAT YOU'VEMADE IT THIS FAR. YOU ARE TO BE
+COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       MECHANICAL DEVICE, HE INSERTS A FLAT    OBJECT INTO A SLOT. YOUR PARTY'S CURRENTPERFORMANCE TOTAL=</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IN A SERENE VOICE, THE DATA KEEPER SAYS,"WELCOME TO YOUR INNER SANCTUM          VARNLINGS! I AM VERY PLEASED THAT YOU'VEMADE IT THIS FAR. YOU ARE TO BE
+COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       MECHANICAL DEVICE, HE INSERTS A FLAT    OBJECT INTO A SLOT. YOUR PARTY'S CURRENTPERFORMANCE TOTAL=</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>630</h>
+          <l>629</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1301</addrInSeg>
+        <originalText>"YOU ARE NOT YET WORTHY FOR TRANSFER.   RETURN AFTER DEFEATING THE IMPOSTER."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"YOU ARE NOT YET WORTHY FOR TRANSFER.   RETURN AFTER DEFEATING THE IMPOSTER."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>423</h>
+          <l>422</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1379</addrInSeg>
+        <originalText>EXCELLENT RATING! THIS IS A RARE        OCCASION, FOR ONLY A PRIVILEGED FEW ARE GIVEN THE OPPORTUNITY FOR TRANSFER TO   ANOTHER V.A.R.N. (VEHICULAR ASTROPOD    RESEARCH NACELLE). RETURN NOW TO THE    INN OF SORPIGAL FOR REST AND CELEBRATIONTHEN CONTINUE ON TO YOUR NEW ASSIGNMENT AT THE GATES TO ANOTHER WORLD..."       (+500,000 EXP FOR YOUR ACCOMPLISHMENT!) ----------------------------------------PLEASE SEND YOUR PERFORMANCE TOTAL TO          NEW WORLD COMPUTING, INC.
+  P. O. BOX 2068  VAN NUYS, CA  91404</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EXCELLENT RATING! THIS IS A RARE        OCCASION, FOR ONLY A PRIVILEGED FEW ARE GIVEN THE OPPORTUNITY FOR TRANSFER TO   ANOTHER V.A.R.N. (VEHICULAR ASTROPOD    RESEARCH NACELLE). RETURN NOW TO THE    INN OF SORPIGAL FOR REST AND CELEBRATIONTHEN CONTINUE ON TO YOUR NEW ASSIGNMENT AT THE GATES TO ANOTHER WORLD..."       (+500,000 EXP FOR YOUR ACCOMPLISHMENT!) ----------------------------------------PLEASE SEND YOUR PERFORMANCE TOTAL TO          NEW WORLD COMPUTING, INC.
+  P. O. BOX 2068  VAN NUYS, CA  91404</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>372</h>
+          <l>371</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1895</addrInSeg>
+        <originalText>A METALLIC PANEL SLIDES OPEN, REVEALING
+A MYSTERIOUS MAN IN A WHITE COAT...
+(PRESS SPACE TO COMMUNICATE)</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A METALLIC PANEL SLIDES OPEN, REVEALING
+A MYSTERIOUS MAN IN A WHITE COAT...
+(PRESS SPACE TO COMMUNICATE)</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>392</h>
+          <l>391</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2004</addrInSeg>
+        <originalText>:::INNER SANCTUM:::</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>:::INNER SANCTUM:::</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>blackrn.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>100</h>
+          <l>99</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1311</addrInSeg>
+        <originalText>EXIT CASTLE, (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EXIT CASTLE, (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>424</h>
+          <l>423</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1331</addrInSeg>
+        <originalText>CASTLE GUARDS EXCLAIM,
+"NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CASTLE GUARDS EXCLAIM,
+"NO MERCHANTS PASS! BEGONE PEASANTS."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>572</h>
+          <l>571</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1414</addrInSeg>
+        <originalText>WELL DONE, QUEST COMPLETE! +</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WELL DONE, QUEST COMPLETE! +</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>602</h>
+          <l>601</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1443</addrInSeg>
+        <originalText> EXP</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText> EXP</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1456</h>
+          <l>1455</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1469</addrInSeg>
+        <originalText>FIND THE ANCIENT RUINS IN THE
+QUIVERING FOREST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>FIND THE ANCIENT RUINS IN THE
+QUIVERING FOREST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1458</h>
+          <l>1457</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1516</addrInSeg>
+        <originalText>VISIT BLITHES PEAK, AND REPORT</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>VISIT BLITHES PEAK, AND REPORT</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1460</h>
+          <l>1459</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1547</addrInSeg>
+        <originalText>THE PEOPLE OF THE DESERT HAVE MUCH TO
+TRADE,BRING ME A SAMPLE OF THEIR GOODS</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PEOPLE OF THE DESERT HAVE MUCH TO
+TRADE,BRING ME A SAMPLE OF THEIR GOODS</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1462</h>
+          <l>1461</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1624</addrInSeg>
+        <originalText>FIND THE SHRINE OF OKZAR IN THE
+CAVES BELOW DUSK</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>FIND THE SHRINE OF OKZAR IN THE
+CAVES BELOW DUSK</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1464</h>
+          <l>1463</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1673</addrInSeg>
+        <originalText>FIND THE FABLED FOUNTAIN IN DRAGADUNE</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>FIND THE FABLED FOUNTAIN IN DRAGADUNE</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1466</h>
+          <l>1465</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1711</addrInSeg>
+        <originalText>SOLVE THE RIDDLE OF THE RUBY</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SOLVE THE RIDDLE OF THE RUBY</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1468</h>
+          <l>1467</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1740</addrInSeg>
+        <originalText>DEFEAT THE STRONGHOLD
+IN THE ENCHANTED FOREST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DEFEAT THE STRONGHOLD
+IN THE ENCHANTED FOREST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>669</h>
+          <l>668</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1786</addrInSeg>
+        <originalText>LORD INSPECTRON SPEAKS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>LORD INSPECTRON SPEAKS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>738</h>
+          <l>737</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1811</addrInSeg>
+        <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>648</h>
+          <l>647</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1852</addrInSeg>
+        <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>715</h>
+          <l>714</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1893</addrInSeg>
+        <originalText>"SORRY, BUT SINCE YOU ARE CURRENTLY
+QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"SORRY, BUT SINCE YOU ARE CURRENTLY
+QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>172</h>
+          <l>171</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1969</addrInSeg>
+        <originalText>OPTIONS:  1) SET THE PRISONER FREE.
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>186</h>
+          <l>185</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2006</addrInSeg>
+        <originalText>2) TORMENT THE PRISONER.
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>2) TORMENT THE PRISONER.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>200</h>
+          <l>199</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2032</addrInSeg>
+        <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>235</h>
+          <l>234</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2061</addrInSeg>
+        <originalText>THE PRISONER FLEES!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PRISONER FLEES!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>249</h>
+          <l>248</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2081</addrInSeg>
+        <originalText>THE PRISONER COWERS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PRISONER COWERS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>163</h>
+          <l>162</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2102</addrInSeg>
+        <originalText>MAN IN SHACKLES MOANS IN AGONY!
+
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MAN IN SHACKLES MOANS IN AGONY!
+
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>137</h>
+          <l>136</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2136</addrInSeg>
+        <originalText>ETCHED IN SILVER, MESSAGE A READS:
+ATIS-19-31UD54AEUPI1</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN SILVER, MESSAGE A READS:
+ATIS-19-31UD54AEUPI1</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1095</h>
+          <l>1094</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2192</addrInSeg>
+        <originalText>A SLIDE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SLIDE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1126</h>
+          <l>1125</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2201</addrInSeg>
+        <originalText>EMPTY VAULT, ALARM!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EMPTY VAULT, ALARM!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>blackrs.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>100</h>
+          <l>99</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1420</addrInSeg>
+        <originalText>EXIT CASTLE, (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EXIT CASTLE, (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>438</h>
+          <l>437</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1440</addrInSeg>
+        <originalText>CASTLE GUARDS EXCLAIM,"BEGONE PEASANTS!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CASTLE GUARDS EXCLAIM,"BEGONE PEASANTS!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>580</h>
+          <l>579</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1503</addrInSeg>
+        <originalText>WELL DONE, QUEST COMPLETE! +</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WELL DONE, QUEST COMPLETE! +</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>610</h>
+          <l>609</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1532</addrInSeg>
+        <originalText> EXP</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText> EXP</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1116</h>
+          <l>1115</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1558</addrInSeg>
+        <originalText>MY BREW IS COMPLETE, GUARDS TAKE THEIR
+ITEMS AND SEND THEM TO THE PIT!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MY BREW IS COMPLETE, GUARDS TAKE THEIR
+ITEMS AND SEND THEM TO THE PIT!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>746</h>
+          <l>745</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1629</addrInSeg>
+        <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>656</h>
+          <l>655</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1670</addrInSeg>
+        <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"(LEADER SHOULD PRESENT ITEMS)</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"(LEADER SHOULD PRESENT ITEMS)</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>723</h>
+          <l>722</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1740</addrInSeg>
+        <originalText>"SORRY, YOU'RE ALREADY QUESTED.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"SORRY, YOU'RE ALREADY QUESTED.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>186</h>
+          <l>185</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1772</addrInSeg>
+        <originalText>OPTIONS:  1) SET THE PRISONER FREE.
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>200</h>
+          <l>199</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1809</addrInSeg>
+        <originalText>2) TORMENT THE PRISONER.
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>2) TORMENT THE PRISONER.
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>214</h>
+          <l>213</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1835</addrInSeg>
+        <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>249</h>
+          <l>248</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1864</addrInSeg>
+        <originalText>THE PRISONER FLEES!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PRISONER FLEES!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>263</h>
+          <l>262</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1884</addrInSeg>
+        <originalText>THE PRISONER COWERS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PRISONER COWERS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1154</h>
+          <l>1153</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1905</addrInSeg>
+        <originalText>A SLIDE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SLIDE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1174</h>
+          <l>1173</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1914</addrInSeg>
+        <originalText>THE PIT OF PERIL...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE PIT OF PERIL...</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1216</h>
+          <l>1215</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1934</addrInSeg>
+        <originalText>EMPTY VAULT, ALARM!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>EMPTY VAULT, ALARM!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>846</h>
+          <l>845</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1954</addrInSeg>
+        <originalText>BRING ME </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>BRING ME </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1545</h>
+          <l>1544</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1964</addrInSeg>
+        <originalText>GARLIC</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>GARLIC</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1547</h>
+          <l>1546</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1971</addrInSeg>
+        <originalText>WOLFSBANE</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WOLFSBANE</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1549</h>
+          <l>1548</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1981</addrInSeg>
+        <originalText>BELLADONNA</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>BELLADONNA</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1551</h>
+          <l>1550</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1992</addrInSeg>
+        <originalText>THE HEAD OF A MEDUSA</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE HEAD OF A MEDUSA</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1553</h>
+          <l>1552</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2013</addrInSeg>
+        <originalText>AN EYE OF A WYVERN</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>AN EYE OF A WYVERN</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1555</h>
+          <l>1554</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2032</addrInSeg>
+        <originalText>A DRAGONS TOOTH</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A DRAGONS TOOTH</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>1557</h>
+          <l>1556</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2048</addrInSeg>
+        <originalText>THE RING OF OKIRM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE RING OF OKIRM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>677</h>
+          <l>676</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2066</addrInSeg>
+        <originalText>LORD HACKER SPEAKS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>LORD HACKER SPEAKS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>177</h>
+          <l>176</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2087</addrInSeg>
+        <originalText>A MYSTERIOUS CLOAKED FIGURE, BOUND AND
+GAGGED, LIES MOTIONLESS IN THE CORNER.
+
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A MYSTERIOUS CLOAKED FIGURE, BOUND AND
+GAGGED, LIES MOTIONLESS IN THE CORNER.
+
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>137</h>
+          <l>136</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2167</addrInSeg>
+        <originalText>ETCHED IN SILVER, MESSAGE C READS:
+IACI1;-2;0NU--G,NOT2</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN SILVER, MESSAGE C READS:
+IACI1;-2;0NU--G,NOT2</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>cave1.ovr</fName>
