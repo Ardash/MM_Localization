@@ -1980,9 +1980,9 @@ TRADE ITEM (Y/N)?</originalText>
         <addrInSeg>1045</addrInSeg>
         <originalText>THE POOL OF WISDOM GRANTS THOSE WHO ARE
 WORTHY +4 PERSONALITY.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE POOL OF WISDOM GRANTS THOSE WHO ARE
-WORTHY +4 PERSONALITY.</localizedText>
+        <newAddrInSeg>1045</newAddrInSeg>
+        <localizedText>Озеро мудрости. Тот, кто достоин,
+получает +4 Силы духа!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1992,8 +1992,8 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1108</addrInSeg>
         <originalText>CLERICAL RETREAT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CLERICAL RETREAT</localizedText>
+        <newAddrInSeg>1102</newAddrInSeg>
+        <localizedText>убежище клериков</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2003,8 +2003,8 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1125</addrInSeg>
         <originalText>WE ARE THE CLERICS OF THE </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WE ARE THE CLERICS OF THE </localizedText>
+        <newAddrInSeg>1119</newAddrInSeg>
+        <localizedText>Мы клерики </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2014,8 +2014,8 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1152</addrInSeg>
         <originalText>YOUR PARTY IS CURED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR PARTY IS CURED!</localizedText>
+        <newAddrInSeg>1131</newAddrInSeg>
+        <localizedText>Группа здорова!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2025,8 +2025,8 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1173</addrInSeg>
         <originalText>YOUR ALIGNMENT IS RESTORED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR ALIGNMENT IS RESTORED!</localizedText>
+        <newAddrInSeg>1147</newAddrInSeg>
+        <localizedText>Характер восстановлен!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2036,8 +2036,8 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1201</addrInSeg>
         <originalText>ALL CURSES ARE REMOVED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ALL CURSES ARE REMOVED!</localizedText>
+        <newAddrInSeg>1170</newAddrInSeg>
+        <localizedText>Все проклятия сняты!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2048,9 +2048,9 @@ WORTHY +4 PERSONALITY.</localizedText>
         <addrInSeg>1225</addrInSeg>
         <originalText>THE CLERICS OF THE S. SHALL DEEM YOU
 WORTHY, IF YOU CAN FIND THEM!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE CLERICS OF THE S. SHALL DEEM YOU
-WORTHY, IF YOU CAN FIND THEM!</localizedText>
+        <newAddrInSeg>1191</newAddrInSeg>
+        <localizedText>Клерики ю. посчитают вас достойными,
+если вы их найдете!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2060,8 +2060,8 @@ WORTHY, IF YOU CAN FIND THEM!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1293</addrInSeg>
         <originalText>IT'S HOT... </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IT'S HOT... </localizedText>
+        <newAddrInSeg>1293</newAddrInSeg>
+        <localizedText>жарко... </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2071,8 +2071,8 @@ WORTHY, IF YOU CAN FIND THEM!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1306</addrInSeg>
         <originalText>YOU'RE LOST!!!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU'RE LOST!!!</localizedText>
+        <newAddrInSeg>1303</newAddrInSeg>
+        <localizedText>вы заблудились!!!</localizedText>
       </text>
     </dt>
   </locText>
@@ -2087,8 +2087,8 @@ WORTHY, IF YOU CAN FIND THEM!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>882</addrInSeg>
         <originalText>A CAVE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A CAVE, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>882</newAddrInSeg>
+        <localizedText>Пещера. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2098,8 +2098,8 @@ WORTHY, IF YOU CAN FIND THEM!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>903</addrInSeg>
         <originalText>CLIMB TREE (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CLIMB TREE (Y/N)?</localizedText>
+        <newAddrInSeg>903</newAddrInSeg>
+        <localizedText>Залезть на дерево (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2111,10 +2111,10 @@ WORTHY, IF YOU CAN FIND THEM!</localizedText>
         <originalText>I AM ARENKO GUIRE AND THIS IS MY GROVE.
 CLIMB ALL THE TREES, WITHOUT LEAVING
 THE AREA, AND RETURN.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>I AM ARENKO GUIRE AND THIS IS MY GROVE.
-CLIMB ALL THE TREES, WITHOUT LEAVING
-THE AREA, AND RETURN.</localizedText>
+        <newAddrInSeg>928</newAddrInSeg>
+        <localizedText>Я Аренко Гайр и это моя роща.
+Залезьте на все деревья, не уходя,
+и возвращайтесь.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2125,9 +2125,9 @@ THE AREA, AND RETURN.</localizedText>
         <addrInSeg>1020</addrInSeg>
         <originalText>WELL DONE! WHAT IS YOUR PLEASURE?
 A) GOLD  B) GEMS  C) ITEM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WELL DONE! WHAT IS YOUR PLEASURE?
-A) GOLD  B) GEMS  C) ITEM</localizedText>
+        <newAddrInSeg>1010</newAddrInSeg>
+        <localizedText>Отлично! Чего вы хотите?
+A) золото B) камни  C) вещи</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2137,8 +2137,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1080</addrInSeg>
         <originalText>+5 FOOD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>+5 FOOD</localizedText>
+        <newAddrInSeg>1063</newAddrInSeg>
+        <localizedText>+5 еды</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2148,8 +2148,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1088</addrInSeg>
         <originalText>POISON THORNS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POISON THORNS</localizedText>
+        <newAddrInSeg>1070</newAddrInSeg>
+        <localizedText>ядовитые шипы</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2159,8 +2159,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1102</addrInSeg>
         <originalText>YOU FELL</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU FELL</localizedText>
+        <newAddrInSeg>1084</newAddrInSeg>
+        <localizedText>Вы упали</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2170,8 +2170,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1111</addrInSeg>
         <originalText>LIGHTNING</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LIGHTNING</localizedText>
+        <newAddrInSeg>1093</newAddrInSeg>
+        <localizedText>молния</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2181,8 +2181,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1121</addrInSeg>
         <originalText>INFECTIOUS SAP</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>INFECTIOUS SAP</localizedText>
+        <newAddrInSeg>1100</newAddrInSeg>
+        <localizedText>Инфекция</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2192,8 +2192,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1136</addrInSeg>
         <originalText>FLASH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FLASH</localizedText>
+        <newAddrInSeg>1109</newAddrInSeg>
+        <localizedText>вспышка</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2203,8 +2203,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1142</addrInSeg>
         <originalText>POOF</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POOF</localizedText>
+        <newAddrInSeg>1117</newAddrInSeg>
+        <localizedText>Вжух</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2214,8 +2214,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1147</addrInSeg>
         <originalText>NOTHING HERE.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>NOTHING HERE.</localizedText>
+        <newAddrInSeg>1122</newAddrInSeg>
+        <localizedText>тут ничего нет.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2225,8 +2225,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1161</addrInSeg>
         <originalText>CURSED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CURSED</localizedText>
+        <newAddrInSeg>1138</newAddrInSeg>
+        <localizedText>Проклятие</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2236,8 +2236,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1168</addrInSeg>
         <originalText>KEEP CLIMBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>KEEP CLIMBING.</localizedText>
+        <newAddrInSeg>1148</newAddrInSeg>
+        <localizedText>продолжайте лезть.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2247,8 +2247,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1183</addrInSeg>
         <originalText>ROADSIGN: ALGARY S.9</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ROADSIGN: ALGARY S.9</localizedText>
+        <newAddrInSeg>1167</newAddrInSeg>
+        <localizedText>Указатель. Алгари Ю.9</localizedText>
       </text>
     </dt>
   </locText>
@@ -2263,8 +2263,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1055</addrInSeg>
         <originalText>ALGARY, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ALGARY, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1055</newAddrInSeg>
+        <localizedText>Алгари. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2274,8 +2274,8 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1077</addrInSeg>
         <originalText>PAUL PEAD AND HIS MEN ATTACK!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PAUL PEAD AND HIS MEN ATTACK!</localizedText>
+        <newAddrInSeg>1077</newAddrInSeg>
+        <localizedText>Пол Пэд и его люди нападают!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2287,10 +2287,10 @@ A) GOLD  B) GEMS  C) ITEM</localizedText>
         <originalText>A HUGE WINGED BEAST EXCLAIMS,
 "THIS SWAMP IS QUITE DANGEROUS. FLY YOU
 TO SAFETY (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A HUGE WINGED BEAST EXCLAIMS,
-"THIS SWAMP IS QUITE DANGEROUS. FLY YOU
-TO SAFETY (Y/N)?"</localizedText>
+        <newAddrInSeg>1106</newAddrInSeg>
+        <localizedText>Огромное крылатое чудище восклицает:
+"Это болото опасно. Перенести вас в
+безопасное место (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2300,8 +2300,8 @@ TO SAFETY (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1195</addrInSeg>
         <originalText>OG SAYS, "BEGONE!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OG SAYS, "BEGONE!"</localizedText>
+        <newAddrInSeg>1204</newAddrInSeg>
+        <localizedText>Ог говорит: "Уходите!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2317,14 +2317,14 @@ A LARGE BEING APPROACHES...
 OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
 
 RESPONSE: </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PAINTED ON THESE GROUNDS IS A BLACK &amp;
-WHITE CHECKERED MOTIF COVERED WITH
-IDOLS SIMILAR TO THE ONES YOU CARRY.
-A LARGE BEING APPROACHES...
-OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
+        <newAddrInSeg>1227</newAddrInSeg>
+        <localizedText>На земле нарисован узор из черных и
+белых клеток. На нем стоят идолы,
+подобные вашим. К вам идет большое
+существо... Ог говорит:
+"Королева на линию королевы 3"
 
-RESPONSE: </localizedText>
+Ответ:    </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2337,11 +2337,11 @@ RESPONSE: </localizedText>
 ON MT. DOOM! HE HAS YOUR SIGHT.
 
 OG CURSES AS THE IDOLS VANISH!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU HAVE RESTORED MY SIGHT! (+25000 EXP)I SEE AN IMPORTANT PRISONER IN A CASTLE
-ON MT. DOOM! HE HAS YOUR SIGHT.
+        <newAddrInSeg>1399</newAddrInSeg>
+        <localizedText>Вы восстановили мое зрение! (+25000 EXP)Я вижу важного пленника в замке на горе
+Рок! Ваши глаза у него.
 
-OG CURSES AS THE IDOLS VANISH!</localizedText>
+Ог ругнулся когда идолы исчезли!</localizedText>
       </text>
     </dt>
   </locText>
@@ -3707,11 +3707,257 @@ IACI1;-2;0NU--G,NOT2</localizedText>
   </locText>
   <locText>
     <fName>cave1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1138</addrInSeg>
+        <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>296</h>
+          <l>295</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1173</addrInSeg>
+        <originalText>AN ELDERLY MAN BEHIND A DESK SPEAKS:
+"I AM IN NEED OF COURIER SERVICE,
+ARE YOU INTERESTED (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>AN ELDERLY MAN BEHIND A DESK SPEAKS:
+"I AM IN NEED OF COURIER SERVICE,
+ARE YOU INTERESTED (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>322</h>
+          <l>321</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1271</addrInSeg>
+        <originalText>"I SEE YOU HAVEN'T DELIVERED MY MESSAGE,
+CARE TO TRY AGAIN (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"I SEE YOU HAVEN'T DELIVERED MY MESSAGE,
+CARE TO TRY AGAIN (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>364</h>
+          <l>363</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1338</addrInSeg>
+        <originalText>"GOOD! TAKE THIS SCROLL TO THE
+WIZARD AGAR IN ERLIQUIN AND YOU SHALL
+BE REWARDED."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"GOOD! TAKE THIS SCROLL TO THE
+WIZARD AGAR IN ERLIQUIN AND YOU SHALL
+BE REWARDED."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>425</h>
+          <l>424</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1421</addrInSeg>
+        <originalText>"THE ARENA"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"THE ARENA"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>448</h>
+          <l>447</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1433</addrInSeg>
+        <originalText>AROUND THE ROOM THERE ARE SEVERAL
+BALCONIES FILLED WITH CHEERING PEASANTS
+A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>AROUND THE ROOM THERE ARE SEVERAL
+BALCONIES FILLED WITH CHEERING PEASANTS
+A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>599</h>
+          <l>598</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1548</addrInSeg>
+        <originalText>A SIGN ABOVE THE DOOR READS:</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SIGN ABOVE THE DOOR READS:</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>804</h>
+          <l>803</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1579</addrInSeg>
+        <originalText>*** BACK PACKS FULL ***</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>*** BACK PACKS FULL ***</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>376</h>
+          <l>375</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1603</addrInSeg>
+        <originalText>A SHIMMERING BLUE AND WHITE PORTAL
+APPEARS! ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SHIMMERING BLUE AND WHITE PORTAL
+APPEARS! ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>933</h>
+          <l>932</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1660</addrInSeg>
+        <originalText>SCRAWLED ON THE WALL, A MESSAGE READS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SCRAWLED ON THE WALL, A MESSAGE READS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>553</h>
+          <l>552</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1700</addrInSeg>
+        <originalText>DON'T TURN AROUND!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DON'T TURN AROUND!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>532</h>
+          <l>531</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1719</addrInSeg>
+        <originalText>THE JAIL ABOVE HAS MANY CELLS.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE JAIL ABOVE HAS MANY CELLS.</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>cave2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>891</addrInSeg>
+        <originalText>SHIMMERING BLUE AND WHITE PORTAL,
+ENTER (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SHIMMERING BLUE AND WHITE PORTAL,
+ENTER (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>145</h>
+          <l>144</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>938</addrInSeg>
+        <originalText>A SLIDE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SLIDE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>201</h>
+          <l>200</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>947</addrInSeg>
+        <originalText>SPLASH! A POOL OF ACID!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SPLASH! A POOL OF ACID!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>311</h>
+          <l>310</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>971</addrInSeg>
+        <originalText>BUTTON ON THE WALL, PRESS IT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>BUTTON ON THE WALL, PRESS IT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>343</h>
+          <l>342</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1007</addrInSeg>
+        <originalText>POOF!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>POOF!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>374</h>
+          <l>373</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1013</addrInSeg>
+        <originalText>A BANNER READS:
+CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BANNER READS:
+CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>472</h>
+          <l>471</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1088</addrInSeg>
+        <originalText>A CRAZED WIZARD EXCLAIMS,
+"ENCOUNTER THE 13, WIN THE PRIZE!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A CRAZED WIZARD EXCLAIMS,
+"ENCOUNTER THE 13, WIN THE PRIZE!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>517</h>
+          <l>516</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1149</addrInSeg>
+        <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>cave3.ovr</fName>

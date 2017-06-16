@@ -1207,8 +1207,30 @@ namespace MM_Localization {
         new addrPair(0x00B0), // A MYSTERIOUS CLOAKED FIGURE, BOUND AND\nGAG...
         new addrPair(0x0088), // ETCHED IN SILVER, MESSAGE C READS:\nIACI1;-...
       }),
-      new txtAddresses("cave1.ovr",    new addrPair[] {}),
-      new txtAddresses("cave2.ovr",    new addrPair[] {}),
+      new txtAddresses("cave1.ovr",    new addrPair[] {
+        new addrPair(0x0060), // STAIRS GOING UP! TAKE THEM (Y/N)?
+        new addrPair(0x0127), // AN ELDERLY MAN BEHIND A DESK SPEAKS:\"I AM ...
+        new addrPair(0x0141), // "I SEE YOU HAVEN'T DELIVERED MY MESSAGE,\CA...
+        new addrPair(0x016B), // "GOOD! TAKE THIS SCROLL TO THE\WIZARD AGAR ...
+        new addrPair(0x01A8), // "THE ARENA"
+        new addrPair(0x01BF), // AROUND THE ROOM THERE ARE SEVERAL\BALCONIES...
+        new addrPair(0x0256), // A SIGN ABOVE THE DOOR READS:
+        new addrPair(0x0323), // *** BACK PACKS FULL ***
+        new addrPair(0x0177), // A SHIMMERING BLUE AND WHITE PORTAL\APPEARS!...
+        new addrPair(0x03A4), // SCRAWLED ON THE WALL, A MESSAGE READS:\
+        new addrPair(0x0228), // DON'T TURN AROUND!
+        new addrPair(0x0213), // THE JAIL ABOVE HAS MANY CELLS.
+      }),
+      new txtAddresses("cave2.ovr",    new addrPair[] {
+        new addrPair(0x005D), // SHIMMERING BLUE AND WHITE PORTAL,\ENTER (Y/N)?
+        new addrPair(0x0090), // A SLIDE!
+        new addrPair(0x00C8), // SPLASH! A POOL OF ACID!
+        new addrPair(0x0136), // BUTTON ON THE WALL, PRESS IT (Y/N)?
+        new addrPair(0x0156), // POOF!
+        new addrPair(0x0175), // A BANNER READS:\CORRIDOR OF ENDLESS ENCOUNT...
+        new addrPair(0x01D7), // A CRAZED WIZARD EXCLAIMS,\"ENCOUNTER THE 13...
+        new addrPair(0x0204), // PASSAGE OUTSIDE, EXIT (Y/N)?
+      }),
       new txtAddresses("cave3.ovr",    new addrPair[] {}),
       new txtAddresses("cave4.ovr",    new addrPair[] {}),
       new txtAddresses("cave5.ovr",    new addrPair[] {}),
