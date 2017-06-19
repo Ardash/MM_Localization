@@ -1231,21 +1231,157 @@ namespace MM_Localization {
         new addrPair(0x01D7), // A CRAZED WIZARD EXCLAIMS,\"ENCOUNTER THE 13...
         new addrPair(0x0204), // PASSAGE OUTSIDE, EXIT (Y/N)?
       }),
-      new txtAddresses("cave3.ovr",    new addrPair[] {}),
-      new txtAddresses("cave4.ovr",    new addrPair[] {}),
-      new txtAddresses("cave5.ovr",    new addrPair[] {}),
-      new txtAddresses("cave6.ovr",    new addrPair[] {}),
-      new txtAddresses("cave7.ovr",    new addrPair[] {}),
-      new txtAddresses("cave8.ovr",    new addrPair[] {}),
-      new txtAddresses("cave9.ovr",    new addrPair[] {}),
-      new txtAddresses("demon.ovr",    new addrPair[] {}),
-      new txtAddresses("doom.ovr",     new addrPair[] {}),
-      new txtAddresses("dragad.ovr",   new addrPair[] {}),
-      new txtAddresses("dusk.ovr",     new addrPair[] {}),
+      new txtAddresses("cave3.ovr",    new addrPair[] {
+        new addrPair(0x005D), // BLUE AND WHITE PORTAL, ENTER (Y/N)?
+        new addrPair(0x00BF), // BRONZE GRATE REPELS YOU!
+        new addrPair(0x00D9), // \"DEMONS IN CONFERENCE, DO NOT DISTURB!"
+        new addrPair(0x01EF), // REVERSAL!
+        new addrPair(0x0245), // TOXIC!
+        new addrPair(0x0294), // THOSE WHO ARE WORTHY +4 MIGHT!
+        new addrPair(0x02B5), // STAIRS GOING UP! TAKE THEM (Y/N)?
+        new addrPair(0x0335), // GLOWING POOL, STEP IN (Y/N)?
+      }),
+      new txtAddresses("cave4.ovr",    new addrPair[] {
+        new addrPair(0x01A4), // ALARM!
+        new addrPair(0x009E), // COVERED WITH FLASHING LIGHTS THE WALL\SPEAK...
+        new addrPair(0x010F), // "IMPROPER ACCESS CODE!"
+        new addrPair(0x0138), // "THANK YOU, FIELDS DEACTIVATED."
+        new addrPair(0x01E0), // ZAP!
+        new addrPair(0x023B), // DANCING LIGHTS FLICKER AND CRACKEL IN\THE A...
+        new addrPair(0x006E), // STAIRS GOING UP! TAKE THEM (Y/N)?
+        new addrPair(0x0248), // STAIRS GOING UP! TAKE THEM (Y/N)?
+      }),
+      new txtAddresses("cave5.ovr",    new addrPair[] {
+        new addrPair(0x0069), // BLUE AND WHITE PORTAL, ENTER (Y/N)?
+        new addrPair(0x00B2), // THE PRISM OF PRECISION GRANTS THOSE\WHO ARE...
+        new addrPair(0x0106), // THE FLAME OF AGILITY GRANTS THOSE WHO\ARE W...
+        new addrPair(0x015A), // THE SHRINE OF OKZAR, PRAY (Y/N)?
+        new addrPair(0x01AE), // YOUR LEADER IS OF CLEAR MIND.
+        new addrPair(0x01CD), // YOUR LEADER IS INCONSISTENT. BEGONE!
+        new addrPair(0x01F5), // STALACTITES SHOWER THE PARTY!
+        new addrPair(0x023C), // A PIT OF POISONOUS SPIKES!\
+        new addrPair(0x024C), // LEVITATION SAVED YOU.
+        new addrPair(0x02AF), // PSYCHIC BLAST!\
+        new addrPair(0x02BF), // PROTECTION SAVED YOU.
+        new addrPair(0x033B), // STAIRS GOING UP! TAKE THEM (Y/N)?
+        new addrPair(0x0359), // A CAVERNOUS PASSAGE, TAKE IT (Y/N)?
+        new addrPair(0x038B), // SCRAWLED IN STONE:\CHARACTER #1 LEADS THE W...
+        new addrPair(0x0398), // CORAK WAS HERE
+        new addrPair(0x03A5), // BEHIND AN OLD TAPESTRY, A MESSAGE\ETCHED IN...
+      }),
+      new txtAddresses("cave6.ovr",    new addrPair[] {
+        new addrPair(0x00EE), // POOF! YOU'VE BEEN TELEPORTED...
+        new addrPair(0x0157), // JAGGED SLIME PIT! 
+        new addrPair(0x016F), // LEVITATION SAVED YOU.
+        new addrPair(0x018C), // A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?
+        new addrPair(0x0060), // "I'M THE WIZARD RANALOU. ARE YOU HERE TOUSE...
+        new addrPair(0x0077), // "THEN BEGONE!"
+        new addrPair(0x0096), // "GOOD! INSIDE THIS ROOM ARE 6 PORTALS,\EACH...
+        new addrPair(0x01F8), // A SIGN:\\EXPERIMENT IN PROGRESS, DO NOT ENTER!
+        new addrPair(0x0223), // A SIGN:\\AUTHORIZED PERSONNEL ONLY! KEEP OUT.
+      }),
+      new txtAddresses("cave7.ovr",    new addrPair[] {
+        new addrPair(0x0240), // A LADDER GOING UP, TAKE IT (Y/N)?
+        new addrPair(0x0069), // THE VOLCANO GOD BELLOWS,\"WHAT DO YOU SEEK ...
+        new addrPair(0x00EB), // WHO WAS BRAVE YET FAILED?\\ANSWER:> ..........
+        new addrPair(0x01BA), // PAINTED IN A BLACK AND WHITE PATTERN,\A SIG...
+        new addrPair(0x0156), // PIT OF BUBBLING LAVA!\
+        new addrPair(0x016B), // LEVITATION SAVES YOU.
+        new addrPair(0x01C7), // A LUSCIOUS VIRGIN SHACKLED TO THE WALL!\A) ...
+        new addrPair(0x01E6), // TRY SETTING 1B,2J
+        new addrPair(0x01F6), // THIS CAVERN IS RANDOM UNTIL THE DIALS\ARE SET.
+        new addrPair(0x020C), // STABILIZATION DIAL #  SET (A-Z)?
+        new addrPair(0x02B6), // POOF! YOU'VE BEEN TELEPORTED...
+      }),
+      new txtAddresses("cave8.ovr",    new addrPair[] {
+        new addrPair(0x023E), // LADDER UP, CLIMB (Y/N)?
+        new addrPair(0x021B), // ATOP A CRYSTAL PYRAMID SPINS A GLOWING\POLY...
+        new addrPair(0x01E4), // THE POLYHEDRON IS SET ON\SPIN IT (Y/N)?
+        new addrPair(0x017C), // A GLOWING POLYHEDRON IS SET ON SIDE
+        new addrPair(0x0063), // PLATINUM LEVER PROTRUDES FROM THE WALL.\
+        new addrPair(0x0081), // IT WON'T BUDGE!
+        new addrPair(0x008E), // PULL IT (Y/N)?
+        new addrPair(0x00B4), // INCORRECT SETTINGS!
+        new addrPair(0x00C2), // YOU HAVE MASTERED THE MAGIC SQUARE!\+2 INT,...
+      }),
+      new txtAddresses("cave9.ovr",    new addrPair[] {
+        new addrPair(0x0180), // A PASSAGE LEADS OUTDOORS, EXIT (Y/N)?
+        new addrPair(0x00AB), // A TRAP! A PIT FULL OF POISONOUS SPIKES\    ...
+        new addrPair(0x00C0), // LUCKILY,YOUR LEVITATION SPELL SAVED YOU!
+        new addrPair(0x011E), // SNAKE PIT! 
+        new addrPair(0x0133), // LEVITATION SAVED YOU.
+        new addrPair(0x0110), // SMASHED REMAINS OF STONE STATUES\SEEM SUSPI...
+      }),
+      new txtAddresses("demon.ovr",    new addrPair[] {
+        new addrPair(0x0024), // A STRANGE ALIEN BEING IN A SHIMMERING\SILVE...
+        new addrPair(0x0097), // KEEP LOOKING!
+        new addrPair(0x00BF), // AGENT ORANGO SEVENTEEN REPORTING:\IMPOSTER ...
+      }),
+      new txtAddresses("doom.ovr",     new addrPair[] {
+        new addrPair(0x0166), // A GRUESOME STATUE SAYS:\"START AT 15-7 AND ...
+        new addrPair(0x0173), // A BANNER READS:\THE ENDLESS SPIRAL!!!
+        new addrPair(0x0198), // A SIGN ABOVE THE DOOR READS:\MONSTER BREEDI...
+        new addrPair(0x01A5), // A LOUD MACHINE PULSATES RHYTHMICALLY.
+        new addrPair(0x01B2), // A METALIC BOX ECHOES:\"INTRUDER ALERT!"
+        new addrPair(0x01C9), // SCRATCHED ON THE WALL:\SEARCH AFTER THE CAN...
+        new addrPair(0x01D6), // SCRAWLED ON THE WALL:\FOR THE WORLD IS HOLL...
+        new addrPair(0x0220), // A SMALL CHILD SHIVERS FEARFULLY AS YOU\APPR...
+        new addrPair(0x0229), // OPTIONS:  1) SET THE PRISONER FREE.\
+        new addrPair(0x0237), // 2) TORMENT THE PRISONER.\
+        new addrPair(0x0245), // 3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x0268), // THE PRISONER FLEES!
+        new addrPair(0x0276), // THE PRISONER COWERS!
+        new addrPair(0x01EE), // A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?
+        new addrPair(0x00E2), // ETCHED IN SILVER, MESSAGE D READS:\//SV/21;...
+        new addrPair(0x014B), // A GOLDEN DOOR REPELS YOU!
+        new addrPair(0x00EF), // WRITTEN IN BLUE BLOOD:\THE CANINE HAS THE KEY!
+        new addrPair(0x00B2), // SUSPENDED IN A FORCEFIELD IS THE BODY\OF A ...
+        new addrPair(0x00CB), // THE FATE OF THE REALM IS AT STAKE."
+        new addrPair(0x00FC), // ETCHED IN SILVER:\MESSAGE INTERLEAVE 'FEDBAC'
+        new addrPair(0x0109), // ETCHED IN GOLD:\MESSAGE INTERLEAVE '8,5,3,9...
+        new addrPair(0x030C), // WRITTEN ON THE WALL:\JUMP THREE TIMES TO RE...
+      }),
+      new txtAddresses("dragad.ovr",   new addrPair[] {
+        new addrPair(0x0076), // OPTIONS:  1) SET THE PRISONER FREE.\
+        new addrPair(0x0084), // 2) TORMENT THE PRISONER.\
+        new addrPair(0x0092), // 3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x00B5), // THE PRISONER FLEES!
+        new addrPair(0x00C3), // THE PRISONER COWERS!
+        new addrPair(0x006D), // A MUTATED CREATURE CHAINED TO THE FLOOR\GRU...
+        new addrPair(0x0140), // A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?
+        new addrPair(0x0168), // STAIRS GOING DOWN, TAKE THEM (Y/N)?
+        new addrPair(0x0192), // ETCHED IN SILVER, MESSAGE F READS:\TSTST,E1...
+        new addrPair(0x019F), // THE GREEN CLOVER GRANTS THOSE WHO\ARE WORTH...
+        new addrPair(0x01F3), // THE FABULOUS FABLED FOUNTAIN OF\DRAGADUNE C...
+        new addrPair(0x02A6), // CARVED IN STONE, A TRIVIAL MESSAGE\READS: I...
+        new addrPair(0x02B3), // DECAYED BONES CRUNCH BENEATH YOU!
+      }),
+      new txtAddresses("dusk.ovr",     new addrPair[] {
+        new addrPair(0x01BE),         // A SIGN ABOVE THE DOOR READS:\
+        new addrPair(0x021D),         // STEP UP TO THE BAR (Y/N)?
+        new addrPair(0x026B),         // STAIRS GOING DOWN! TAKE THEM (Y/N)?
+        new addrPair(0x01F8),         // A PASSAGE LEADS OUTSIDE, TAKE IT (Y...
+        new addrPair(0x0063),         // AN EERIE SILENCE PERVADES THE DESER...
+        new addrPair(0x028F,0x028D),  // "FEWLERD'S FEED"
+        new addrPair(0x0297,0x0295),  // "MYSTICAL METAL WORKS"
+        new addrPair(0x029F,0x029D),  // "THE INN OF DUSK"
+        new addrPair(0x01D2),         // A YOUNG GNOME MATERIALIZES, ASKING,...
+        new addrPair(0x01E5),         // A FAINT OUTLINE OF A MAN APPEARS,\S...
+        new addrPair(0x0230),         // BRIGHT LIGHTS SWIRL THROUGHOUT THE ...
+        new addrPair(0x0243),         // SEVERAL EMPTY SUITS OF ARMOR APPROA...                  
+        new addrPair(0x02CF,0x02CD),  // "CASPER'S FINE SPIRITS"
+        new addrPair(0x02C7,0x02C5),  // "TEMPLE GEIST"
+        new addrPair(0x02D7,0x02D5),  // "CLEARMAN'S TRAINING"
+        new addrPair(0x009D),         // AN ELF DRESSED IN ROBES APPROACHES....
+        new addrPair(0x00CF),         // "YOU'RE NOT THE COURIERS!
+        new addrPair(0x0118),         // "FRIENDS, I AM TELGORAN. THIS SCROL...
+        new addrPair(0x01AD),         // "THE BROTHERS YOU MUST FIND...\PORT...                                                                                                                   
+        new addrPair(0x035B,0x0359),  // "FORBIDDEN CRYPT"
+        new addrPair(0x0363,0x0361),  // "ETERNAL REST CHAMBER"
+      }),
       new txtAddresses("enf1.ovr",     new addrPair[] {}),
       new txtAddresses("enf2.ovr",     new addrPair[] {}),
       new txtAddresses("erliquin.ovr", new addrPair[] {}),
-      new txtAddresses("mm.exe",       new addrPair[] {}),
       new txtAddresses("portsmit.ovr", new addrPair[] {}),
       new txtAddresses("pp1.ovr",      new addrPair[] {}),
       new txtAddresses("pp2.ovr",      new addrPair[] {}),
