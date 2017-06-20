@@ -2564,8 +2564,8 @@ JUDGEMENT. WHO WILL CLIMB ON (1-6)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>924</addrInSeg>
         <originalText>IT'S HOT... </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IT'S HOT... </localizedText>
+        <newAddrInSeg>924</newAddrInSeg>
+        <localizedText>жарко... </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2575,8 +2575,8 @@ JUDGEMENT. WHO WILL CLIMB ON (1-6)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>937</addrInSeg>
         <originalText>YOU'RE LOST!!!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU'RE LOST!!!</localizedText>
+        <newAddrInSeg>934</newAddrInSeg>
+        <localizedText>вы заблудились!!!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2587,9 +2587,9 @@ JUDGEMENT. WHO WILL CLIMB ON (1-6)?</originalText>
         <addrInSeg>952</addrInSeg>
         <originalText>STRANGE ALIEN DEVICE GRANTS THOSE WHO
 ARE WORTHY +4 INTELLECT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STRANGE ALIEN DEVICE GRANTS THOSE WHO
-ARE WORTHY +4 INTELLECT!</localizedText>
+        <newAddrInSeg>952</newAddrInSeg>
+        <localizedText>Странная машина пришельцев. Тот, кто
+достоин, +4 Интеллект!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2601,10 +2601,9 @@ ARE WORTHY +4 INTELLECT!</localizedText>
         <originalText>SCATTERED REMAINS OF A METALLIC CRAFT!
 AN ALIEN GRUNTS, "EEP OP OOP!"
 REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SCATTERED REMAINS OF A METALLIC CRAFT!
-AN ALIEN GRUNTS, "EEP OP OOP!"
-REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</localizedText>
+        <newAddrInSeg>1012</newAddrInSeg>
+        <localizedText>Обломки летательного аппарата! Пришелец бормочет: "Йип оп уоп!" Вы реагируете:
+A)Враждебно B)нейтрально C)Дружественно</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2614,8 +2613,8 @@ REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1126</addrInSeg>
         <originalText>A BRIGHT FLASH!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A BRIGHT FLASH!</localizedText>
+        <newAddrInSeg>1131</newAddrInSeg>
+        <localizedText>Яркая вспышка!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2626,9 +2625,10 @@ REACTION: A)HOSTILE B)NEUTRAL C)FRIENDLY</localizedText>
         <addrInSeg>1142</addrInSeg>
         <originalText>"VARNLINGS TAKE HEED! OUR PRISONER HAS
 ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"VARNLINGS TAKE HEED! OUR PRISONER HAS
-ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</localizedText>
+        <newAddrInSeg>1146</newAddrInSeg>
+        <localizedText>"Жители VARN, осторожно! Наш пленник
+бежал и может подменить собой знатную
+особу. Найдите, кого он подменил!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2638,8 +2638,8 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</lo
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1258</addrInSeg>
         <originalText>POOF!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POOF!</localizedText>
+        <newAddrInSeg>1256</newAddrInSeg>
+        <localizedText>Вжух!</localizedText>
       </text>
     </dt>
   </locText>
@@ -2654,8 +2654,8 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</lo
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>672</addrInSeg>
         <originalText>KING ALAMAR'S CASTLE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>KING ALAMAR'S CASTLE, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>672</newAddrInSeg>
+        <localizedText>Замок короля Аламара. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2665,8 +2665,8 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</lo
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>708</addrInSeg>
         <originalText>A DIAMOND DOOR!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A DIAMOND DOOR!</localizedText>
+        <newAddrInSeg>708</newAddrInSeg>
+        <localizedText>Алмазная дверь!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2676,8 +2676,8 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</lo
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>724</addrInSeg>
         <originalText> USE YOUR KEY (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText> USE YOUR KEY (Y/N)?</localizedText>
+        <newAddrInSeg>724</newAddrInSeg>
+        <localizedText> Использовать ключ (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2688,9 +2688,9 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</lo
         <addrInSeg>745</addrInSeg>
         <originalText>STATUE OF A LION GROWLS,"PASSWORD?"
 RESPONSE:&gt; ..........</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STATUE OF A LION GROWLS,"PASSWORD?"
-RESPONSE:&gt; ..........</localizedText>
+        <newAddrInSeg>750</newAddrInSeg>
+        <localizedText>Статуя льва рычит: "Пароль!"
+Ответ  :&gt; ..........</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2701,9 +2701,9 @@ RESPONSE:&gt; ..........</localizedText>
         <addrInSeg>803</addrInSeg>
         <originalText>IS THE PASSWORD FOR TODAY,
 LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS THE PASSWORD FOR TODAY,
-LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
+        <newAddrInSeg>800</newAddrInSeg>
+        <localizedText>пароль на сегодня.
+Уйдешь далеко и его сменю я!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2714,8 +2714,8 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
         <addrInSeg>867</addrInSeg>
         <originalText>HERATIO HARPER SINGS:
 "</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>HERATIO HARPER SINGS:
+        <newAddrInSeg>849</newAddrInSeg>
+        <localizedText>Арфист Горацио поет:
 "</localizedText>
       </text>
       <text>
@@ -2726,8 +2726,8 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>891</addrInSeg>
         <originalText>DISTANT HARP MUSIC...</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DISTANT HARP MUSIC...</localizedText>
+        <newAddrInSeg>872</newAddrInSeg>
+        <localizedText>Слышна музыка арфы...</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2814,8 +2814,8 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>976</addrInSeg>
         <originalText>TRESPASSING!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TRESPASSING!</localizedText>
+        <newAddrInSeg>976</newAddrInSeg>
+        <localizedText>Нарушитель!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2825,8 +2825,8 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>990</addrInSeg>
         <originalText>CORRECT! YOU MAY PASS.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CORRECT! YOU MAY PASS.</localizedText>
+        <newAddrInSeg>990</newAddrInSeg>
+        <localizedText>Верно! Проходите.</localizedText>
       </text>
     </dt>
   </locText>
@@ -5583,15 +5583,538 @@ PORTSMITH AND ALGARY ARE COMBINED."</localizedText>
   </locText>
   <locText>
     <fName>enf1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>93</h>
+          <l>92</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>727</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 3 READS:
+FOR-TASKS-AND-RATING.-BE-FROM-6TH-
+FRUSTRATIONS!-THE-TO-IN</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 3 READS:
+FOR-TASKS-AND-RATING.-BE-FROM-6TH-
+FRUSTRATIONS!-THE-TO-IN</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>106</h>
+          <l>105</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>819</addrInSeg>
+        <originalText>MINOTAUR DUNG SLUSHES BENEATH YOU!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MINOTAUR DUNG SLUSHES BENEATH YOU!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>122</h>
+          <l>121</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>854</addrInSeg>
+        <originalText>THE ENCHANTED CHAMBER</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ENCHANTED CHAMBER</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>138</h>
+          <l>137</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>876</addrInSeg>
+        <originalText>CLEPTOMIAN GUILD, DO NOT DISTURB!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CLEPTOMIAN GUILD, DO NOT DISTURB!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>154</h>
+          <l>153</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>910</addrInSeg>
+        <originalText>THE COUNCIL OF STRENGTH IS IN SESSION</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE COUNCIL OF STRENGTH IS IN SESSION</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>170</h>
+          <l>169</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>948</addrInSeg>
+        <originalText>THE UGLIES CLUB - MEMBERS ONLY!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE UGLIES CLUB - MEMBERS ONLY!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>186</h>
+          <l>185</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>980</addrInSeg>
+        <originalText>SPECIMEN TANK - KEEP CLOSED</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SPECIMEN TANK - KEEP CLOSED</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>202</h>
+          <l>201</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1008</addrInSeg>
+        <originalText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>253</h>
+          <l>252</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1049</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>467</h>
+          <l>466</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1297</addrInSeg>
+        <originalText>A SIGN ON THE DOOR READS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SIGN ON THE DOOR READS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>477</h>
+          <l>476</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1324</addrInSeg>
+        <originalText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>490</h>
+          <l>489</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1406</addrInSeg>
+        <originalText>A TAPESTRY ON THE WALL DEPICTS A GRAY
+MINOTAUR STOMPING ON A GROUP OF KNIGHTS.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A TAPESTRY ON THE WALL DEPICTS A GRAY
+MINOTAUR STOMPING ON A GROUP OF KNIGHTS.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>503</h>
+          <l>502</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1485</addrInSeg>
+        <originalText>A TAPESTRY ON THE WALL DEPICTS
+A KINGDOM RULED BY MINOTAURS.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A TAPESTRY ON THE WALL DEPICTS
+A KINGDOM RULED BY MINOTAURS.</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>enf2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>364</h>
+          <l>363</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1005</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 9 READS:
+SUCCESSFUL-THAT-TRAINING,-THE-WORTHY-
+THE-VISIT-YET-INNER-REALITY,-ORDER,</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 9 READS:
+SUCCESSFUL-THAT-TRAINING,-THE-WORTHY-
+THE-VISIT-YET-INNER-REALITY,-ORDER,</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>377</h>
+          <l>376</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1113</addrInSeg>
+        <originalText>THE MASTER OF THIS STRONGHOLD
+HAS BEEN DEFEATED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE MASTER OF THIS STRONGHOLD
+HAS BEEN DEFEATED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>510</h>
+          <l>509</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1162</addrInSeg>
+        <originalText>ENTER THE MAZE OF THE MINOTAUR...
+IF YOU DARE!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ENTER THE MAZE OF THE MINOTAUR...
+IF YOU DARE!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>556</h>
+          <l>555</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1209</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1243</addrInSeg>
+        <originalText>STANDING ATOP A PEDESTAL IN THE CENTER
+OF THE ROOM IS A STATUE OF A SMALL SABLEAND WHITE DOG. </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STANDING ATOP A PEDESTAL IN THE CENTER
+OF THE ROOM IS A STATUE OF A SMALL SABLEAND WHITE DOG. </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>262</h>
+          <l>261</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1338</addrInSeg>
+        <originalText>IT COMES TO LIFE AND
+SPEAKS,"CONGRATULATIONS, YOU'VE
+COMPLETED A MAJOR QUEST (+10000 EXP)
+REMEMBER B.J.!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IT COMES TO LIFE AND
+SPEAKS,"CONGRATULATIONS, YOU'VE
+COMPLETED A MAJOR QUEST (+10000 EXP)
+REMEMBER B.J.!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>171</h>
+          <l>170</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1444</addrInSeg>
+        <originalText>DESECRATE IT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DESECRATE IT (Y/N)?</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>erliquin.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>428</h>
+          <l>427</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1250</addrInSeg>
+        <originalText>A SIGN ABOVE THE DOOR READS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SIGN ABOVE THE DOOR READS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>544</h>
+          <l>543</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1281</addrInSeg>
+        <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STEP UP TO THE BAR (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>622</h>
+          <l>621</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1308</addrInSeg>
+        <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>507</h>
+          <l>506</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1344</addrInSeg>
+        <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>144</h>
+          <l>143</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1373</addrInSeg>
+        <originalText>ADJUSTING HIS SPECTACLES, AN ELDERLY
+GNOME EYES THE PARTY AND ASKS,
+"SIGNING IN (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ADJUSTING HIS SPECTACLES, AN ELDERLY
+GNOME EYES THE PARTY AND ASKS,
+"SIGNING IN (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>657</h>
+          <l>655</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1461</addrInSeg>
+        <originalText>"FOUR STAR FOODS"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"FOUR STAR FOODS"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>665</h>
+          <l>663</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1479</addrInSeg>
+        <originalText>"CURRENT TRENDS IRONWORKS"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"CURRENT TRENDS IRONWORKS"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>673</h>
+          <l>671</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1506</addrInSeg>
+        <originalText>"THE INN OF ERLIQUIN"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"THE INN OF ERLIQUIN"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>448</h>
+          <l>447</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1528</addrInSeg>
+        <originalText>A BOISTROUS HALF-ORC PROCLAIMS,
+"WE CARRY THE VERY LATEST,
+BROWSE (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BOISTROUS HALF-ORC PROCLAIMS,
+"WE CARRY THE VERY LATEST,
+BROWSE (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>467</h>
+          <l>466</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1602</addrInSeg>
+        <originalText>THE CHEF SAYS,"I ONLY SERVE THE BEST!
+HUNGRY (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE CHEF SAYS,"I ONLY SERVE THE BEST!
+HUNGRY (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>563</h>
+          <l>562</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1655</addrInSeg>
+        <originalText>SEVERAL FAT CLERICS WELCOME YOU.
+NEED HELP (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SEVERAL FAT CLERICS WELCOME YOU.
+NEED HELP (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>582</h>
+          <l>581</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1705</addrInSeg>
+        <originalText>THREE HUGE ARMOR CLAD KNIGHTS BARK IN
+UNISON, "WANT A GOOD WORKOUT (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THREE HUGE ARMOR CLAD KNIGHTS BARK IN
+UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>689</h>
+          <l>687</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1780</addrInSeg>
+        <originalText>"TAVERN OF TALL TALES"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"TAVERN OF TALL TALES"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>681</h>
+          <l>679</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1803</addrInSeg>
+        <originalText>"TEMPLE GAUCHE"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"TEMPLE GAUCHE"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>697</h>
+          <l>695</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1819</addrInSeg>
+        <originalText>"SUPERIOR TRAINING"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"SUPERIOR TRAINING"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>252</h>
+          <l>251</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1839</addrInSeg>
+        <originalText>"I HAVE NO BUSINESS WITH YOU. BEGONE!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"I HAVE NO BUSINESS WITH YOU. BEGONE!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>334</h>
+          <l>333</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1878</addrInSeg>
+        <originalText>"YOU HAVE DONE WELL TO BRING ME THIS
+SCROLL. (+1000 EXP) NOW TAKE IT TO MY
+PROTEGE TELGORAN IN DUSK."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"YOU HAVE DONE WELL TO BRING ME THIS
+SCROLL. (+1000 EXP) NOW TAKE IT TO MY
+PROTEGE TELGORAN IN DUSK."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>202</h>
+          <l>201</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1980</addrInSeg>
+        <originalText>THE WIZARD AGAR SPEAKS:
+
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE WIZARD AGAR SPEAKS:
+
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>753</h>
+          <l>752</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2006</addrInSeg>
+        <originalText>POOF!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>POOF!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>858</h>
+          <l>857</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2012</addrInSeg>
+        <originalText>TOWN GUARDS: YOU'RE UNDER ARREST!
+
+A)ATTACK B)BRIBE C)RUN D)SURRENDER</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TOWN GUARDS: YOU'RE UNDER ARREST!
+
+A)ATTACK B)BRIBE C)RUN D)SURRENDER</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>916</h>
+          <l>915</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2083</addrInSeg>
+        <originalText>HIGH COURT SENTENCE: YEARS= </originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>HIGH COURT SENTENCE: YEARS= </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>57</h>
+          <l>56</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2112</addrInSeg>
+        <originalText>TOWN TREASURE, STEAL (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TOWN TREASURE, STEAL (Y/N)?</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>mm.exe</fName>
@@ -12229,39 +12752,1074 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
   </locText>
   <locText>
     <fName>portsmit.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1111</addrInSeg>
+        <originalText>LARA, THE INKEEPERS VOLUPTUOUS
+DAUGHTER, ASKS IF YOU WILL BE SPENDING
+THE NIGHT... SIGN IN (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>LARA, THE INKEEPERS VOLUPTUOUS
+DAUGHTER, ASKS IF YOU WILL BE SPENDING
+THE NIGHT... SIGN IN (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>266</h>
+          <l>265</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1209</addrInSeg>
+        <originalText>A SIGN ABOVE THE DOOR READS:
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SIGN ABOVE THE DOOR READS:
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>667</h>
+          <l>665</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1239</addrInSeg>
+        <originalText>"MAID MARION'S MARKET"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"MAID MARION'S MARKET"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>675</h>
+          <l>673</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1262</addrInSeg>
+        <originalText>"B. SMITH'S WORKSHOP"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"B. SMITH'S WORKSHOP"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>683</h>
+          <l>681</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1284</addrInSeg>
+        <originalText>"INN OF PORTSMITH"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"INN OF PORTSMITH"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>286</h>
+          <l>285</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1303</addrInSeg>
+        <originalText>BUSILY FORGING A LONG SWORD,AN EXTREMELYBEAUTIFUL YOUNG GIRL SAYS WITH A
+SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>BUSILY FORGING A LONG SWORD,AN EXTREMELYBEAUTIFUL YOUNG GIRL SAYS WITH A
+SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>314</h>
+          <l>313</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1417</addrInSeg>
+        <originalText>FROM BEHIND THE FRUIT STAND
+A SULTRY VOICE ASKS, "SEE ANYTHING
+YOU LIKE (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>FROM BEHIND THE FRUIT STAND
+A SULTRY VOICE ASKS, "SEE ANYTHING
+YOU LIKE (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>388</h>
+          <l>387</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1497</addrInSeg>
+        <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STEP UP TO THE BAR (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>416</h>
+          <l>415</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1523</addrInSeg>
+        <originalText>THE ONCE MAGNIFICENT TEMPLE SHOWS
+SIGNS OF NEGLECT AND DECAY. THE HIGH
+PRIESTESS ASKS,"NEED HELP (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ONCE MAGNIFICENT TEMPLE SHOWS
+SIGNS OF NEGLECT AND DECAY. THE HIGH
+PRIESTESS ASKS,"NEED HELP (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>444</h>
+          <l>443</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1628</addrInSeg>
+        <originalText>A TALL, MUSCULAR FEMALE CLAD IN LEATHER
+ARMOR APPROACHES ASKING, "STRANGERS,
+ARE YOU HERE FOR TRAINING (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A TALL, MUSCULAR FEMALE CLAD IN LEATHER
+ARMOR APPROACHES ASKING, "STRANGERS,
+ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>623</h>
+          <l>622</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1739</addrInSeg>
+        <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>699</h>
+          <l>697</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1775</addrInSeg>
+        <originalText>"ZORELDA'S WATERING HOLE"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"ZORELDA'S WATERING HOLE"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>691</h>
+          <l>689</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1801</addrInSeg>
+        <originalText>"TEMPLE SUCCUBON"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"TEMPLE SUCCUBON"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>707</h>
+          <l>705</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1819</addrInSeg>
+        <originalText>"AMAZONIA'S TRAINING"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"AMAZONIA'S TRAINING"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>342</h>
+          <l>341</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1841</addrInSeg>
+        <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>146</h>
+          <l>145</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1870</addrInSeg>
+        <originalText>"I AM ZAM, ASTRAL BROTHER OF ZOM AND
+ONLY LIVING MALE RESIDING IN PORTSMITH
+</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"I AM ZAM, ASTRAL BROTHER OF ZOM AND
+ONLY LIVING MALE RESIDING IN PORTSMITH
+</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>209</h>
+          <l>208</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1947</addrInSeg>
+        <originalText>MY CLUE IS C-15"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MY CLUE IS C-15"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>196</h>
+          <l>195</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1964</addrInSeg>
+        <originalText>YOU'RE NOT THE COURIERS!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU'RE NOT THE COURIERS!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>472</h>
+          <l>471</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1990</addrInSeg>
+        <originalText>A SENSUOUS FEMALE VOICE SPEAKS FROM
+WITHIN AN INTOXICATING MIST,
+"YOU'VE DISCOVERED MY SECRET!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SENSUOUS FEMALE VOICE SPEAKS FROM
+WITHIN AN INTOXICATING MIST,
+"YOU'VE DISCOVERED MY SECRET!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>748</h>
+          <l>747</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2086</addrInSeg>
+        <originalText>NOTE: ZAM 12,2</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>NOTE: ZAM 12,2</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>920</h>
+          <l>919</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>2101</addrInSeg>
+        <originalText>MALES ARE DRAINED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>MALES ARE DRAINED!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>pp1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>844</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 7 READS:
+THESE-AND-THAT-MUST-CAN-DIFFERENT-
+SHALL-HAVE-FROM-A-JVC</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 7 READS:
+THESE-AND-THAT-MUST-CAN-DIFFERENT-
+SHALL-HAVE-FROM-A-JVC</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>111</h>
+          <l>109</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>934</addrInSeg>
+        <originalText>CLUB DEAD...
+THE ANTIDOTE TO HUMANIZATION!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CLUB DEAD...
+THE ANTIDOTE TO HUMANIZATION!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>119</h>
+          <l>117</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>977</addrInSeg>
+        <originalText>TEMPLE OF THE OLD ORDER</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TEMPLE OF THE OLD ORDER</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>127</h>
+          <l>125</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1001</addrInSeg>
+        <originalText>GLASS ROOM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>GLASS ROOM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>135</h>
+          <l>133</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1012</addrInSeg>
+        <originalText>RUBY ROOM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>RUBY ROOM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>143</h>
+          <l>141</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1022</addrInSeg>
+        <originalText>TWINKLE ROOM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>TWINKLE ROOM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>151</h>
+          <l>149</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1035</addrInSeg>
+        <originalText>RAINBOW ROOM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>RAINBOW ROOM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>180</h>
+          <l>179</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1048</addrInSeg>
+        <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>231</h>
+          <l>230</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1088</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>272</h>
+          <l>271</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1088</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>313</h>
+          <l>312</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1088</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>537</h>
+          <l>536</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1372</addrInSeg>
+        <originalText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>610</h>
+          <l>609</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1454</addrInSeg>
+        <originalText>THE CRYSTAL GRATE REPELS YOU!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE CRYSTAL GRATE REPELS YOU!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>pp2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>185</h>
+          <l>184</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>740</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>226</h>
+          <l>225</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>776</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>438</h>
+          <l>437</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1094</addrInSeg>
+        <originalText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>514</h>
+          <l>513</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1176</addrInSeg>
+        <originalText>WITHOUT EXPERIMENTAL SUBSTANCE
+THERE IS NO HOPE...POOF!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WITHOUT EXPERIMENTAL SUBSTANCE
+THERE IS NO HOPE...POOF!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>pp3.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>387</addrInSeg>
+        <originalText>YOU HAVE BEEN SUMMONED...POOF!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>YOU HAVE BEEN SUMMONED...POOF!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>156</h>
+          <l>155</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>418</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>197</h>
+          <l>196</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>418</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>235</h>
+          <l>234</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>452</addrInSeg>
+        <originalText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>pp4.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>529</addrInSeg>
+        <originalText>DANGER! DUNGEON UNDER CONSTRUCTION.</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>DANGER! DUNGEON UNDER CONSTRUCTION.</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>113</h>
+          <l>112</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>565</addrInSeg>
+        <originalText>A LADDER GOING UP, CLIMB IT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A LADDER GOING UP, CLIMB IT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>325</h>
+          <l>324</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>734</addrInSeg>
+        <originalText>THE WALL IS PAINTED IN A BLACK AND
+WHITE CHECKERED PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE WALL IS PAINTED IN A BLACK AND
+WHITE CHECKERED PATTERN!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>qvl1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>89</h>
+          <l>88</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>920</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 1 READS:
+COMPLETION-MUST-EACH-KINGS-OF-ASTRAL-
+WITH-9TH-SANCTUM-AND-WONDROUS</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 1 READS:
+COMPLETION-MUST-EACH-KINGS-OF-ASTRAL-
+WITH-9TH-SANCTUM-AND-WONDROUS</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>105</h>
+          <l>104</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1022</addrInSeg>
+        <originalText>A GHOSTLIKE FIGURE RISES FROM THE BODY
+OF OKRIM AND SPEAKS,"IN EXCHANGE FOR
+MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A GHOSTLIKE FIGURE RISES FROM THE BODY
+OF OKRIM AND SPEAKS,"IN EXCHANGE FOR
+MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>128</h>
+          <l>127</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1138</addrInSeg>
+        <originalText>"MAY THE SHADOW OF DEATH GREET YOU
+WITH OPEN ARMS!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"MAY THE SHADOW OF DEATH GREET YOU
+WITH OPEN ARMS!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>279</h>
+          <l>278</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1190</addrInSeg>
+        <originalText>A GEM ENCRUSTED ARCHWAY READS:
+LAIR OF THE OMNIPOTENT WIZARD OKRIM</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A GEM ENCRUSTED ARCHWAY READS:
+LAIR OF THE OMNIPOTENT WIZARD OKRIM</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>307</h>
+          <l>306</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1257</addrInSeg>
+        <originalText>AN OPENING ABOVE LEADS OUTSIDE,
+CLIMB OUT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>AN OPENING ABOVE LEADS OUTSIDE,
+CLIMB OUT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>395</h>
+          <l>394</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1306</addrInSeg>
+        <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>610</h>
+          <l>609</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1554</addrInSeg>
+        <originalText>THE FLOOR SPINS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE FLOOR SPINS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>636</h>
+          <l>635</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1571</addrInSeg>
+        <originalText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>qvl2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>636</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 4 READS:
+OF-BE-HAS-TRUE-KNOWLEDGE-PLANE-A-LEVEL-
+TO-REALITY-IT</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 4 READS:
+OF-BE-HAS-TRUE-KNOWLEDGE-PLANE-A-LEVEL-
+TO-REALITY-IT</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>107</h>
+          <l>106</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>723</addrInSeg>
+        <originalText>A BANNER READS:
+THE LABYRINTH OF LAZZERUTH...
+FEW HAVE ENTERED, NONE HAVE RETURNED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BANNER READS:
+THE LABYRINTH OF LAZZERUTH...
+FEW HAVE ENTERED, NONE HAVE RETURNED!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>120</h>
+          <l>119</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>807</addrInSeg>
+        <originalText>INSET IN THE WALL, A STONE FACE
+YELLS: "MY BRAIN HURTS!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INSET IN THE WALL, A STONE FACE
+YELLS: "MY BRAIN HURTS!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>133</h>
+          <l>132</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>864</addrInSeg>
+        <originalText>INSET IN THE WALL, A STONE FACE
+SPEAKS: "I WOULD PAY HIGHLY FOR A GREEN
+HANDLED, PEARL ENCRUSTED ABELNUSKI."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INSET IN THE WALL, A STONE FACE
+SPEAKS: "I WOULD PAY HIGHLY FOR A GREEN
+HANDLED, PEARL ENCRUSTED ABELNUSKI."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>146</h>
+          <l>145</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>973</addrInSeg>
+        <originalText>INSET IN THE WALL, A STONE FACE
+SPEAKS: "I SEE ALL, HEAR ALL,
+KNOW NOTHING..."</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INSET IN THE WALL, A STONE FACE
+SPEAKS: "I SEE ALL, HEAR ALL,
+KNOW NOTHING..."</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>159</h>
+          <l>158</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1052</addrInSeg>
+        <originalText>INSET IN THE WALL, A STONE FACE
+PROCLAIMS: "OKRIM IS WATCHING.
+HE STUDIES YOUR WEAKNESSES!"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>INSET IN THE WALL, A STONE FACE
+PROCLAIMS: "OKRIM IS WATCHING.
+HE STUDIES YOUR WEAKNESSES!"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>175</h>
+          <l>174</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1144</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>394</h>
+          <l>393</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1414</addrInSeg>
+        <originalText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE WALL IS PAINTED FROM CEILING TO
+FLOOR IN A BLACK AND WHITE CHECKERED
+PATTERN!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>407</h>
+          <l>406</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1496</addrInSeg>
+        <originalText>A STRANGE RINGING SOUND STARTLES
+THE PARTY. YOU ARE TELEPORTED!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A STRANGE RINGING SOUND STARTLES
+THE PARTY. YOU ARE TELEPORTED!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>rwl1.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>97</h>
+          <l>96</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>923</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 6 READS:
+BOOK-DONE.-A-SELF-THAT-FROM-KEY-YOU-
+BE-TO-SEEMS</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 6 READS:
+BOOK-DONE.-A-SELF-THAT-FROM-KEY-YOU-
+BE-TO-SEEMS</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>113</h>
+          <l>112</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1005</addrInSeg>
+        <originalText>IN THE CENTER OF THE ROOM, A HUGE RUBY
+STANDS ATOP A PEDESTAL. HEXAGONALLY
+SHAPED, IT GLOWS RHYTHMICALLY!
+MESMERIZED BY ITS LIGHT, YOU HEAR:
+GLASS THAT GLITTERS, RUBIES THAT GLOW
+WHEN I TWINKLE, I CAST A RAINBOW
+WHAT AM I? :&gt; ...............</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>IN THE CENTER OF THE ROOM, A HUGE RUBY
+STANDS ATOP A PEDESTAL. HEXAGONALLY
+SHAPED, IT GLOWS RHYTHMICALLY!
+MESMERIZED BY ITS LIGHT, YOU HEAR:
+GLASS THAT GLITTERS, RUBIES THAT GLOW
+WHEN I TWINKLE, I CAST A RAINBOW
+WHAT AM I? :&gt; ...............</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>235</h>
+          <l>234</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1247</addrInSeg>
+        <originalText>WRONG!  A BRIGHT FLASH...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>WRONG!  A BRIGHT FLASH...</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>386</h>
+          <l>385</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1281</addrInSeg>
+        <originalText>A SILVER DOOR REPELS YOU!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SILVER DOOR REPELS YOU!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>409</h>
+          <l>408</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1307</addrInSeg>
+        <originalText>A SILVER DOOR, YOUR SILVER KEY GLOWS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A SILVER DOOR, YOUR SILVER KEY GLOWS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>422</h>
+          <l>421</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1345</addrInSeg>
+        <originalText>STAIRS TO SURFACE, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS TO SURFACE, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>507</h>
+          <l>506</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1381</addrInSeg>
+        <originalText>STAIRS DOWN, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS DOWN, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>723</h>
+          <l>722</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1615</addrInSeg>
+        <originalText>THE ROOM IS PAINTED IN A BLACK AND
+WHITE CHECKERED PATTERN!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE ROOM IS PAINTED IN A BLACK AND
+WHITE CHECKERED PATTERN!</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>rwl2.ovr</fName>
-    <dt />
+    <dt>
+      <text>
+        <addrOfAddr>
+          <h>94</h>
+          <l>93</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1045</addrInSeg>
+        <originalText>ETCHED IN GOLD, MESSAGE 2 READS:
+ONE,-RIDDLES-VALUE-YOU-YOU-5-CARD-MUST-
+CLAIMED.-DREAMS,-...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>ETCHED IN GOLD, MESSAGE 2 READS:
+ONE,-RIDDLES-VALUE-YOU-YOU-5-CARD-MUST-
+CLAIMED.-DREAMS,-...</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>113</h>
+          <l>112</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1139</addrInSeg>
+        <originalText>"I AM LORD ARCHER, THE RAVEN,
+I TAKE FROM THOSE WHO HAVE AND GIVE TO
+THOSE WHO HAVE NOT! SUBMIT (Y/N)?"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>"I AM LORD ARCHER, THE RAVEN,
+I TAKE FROM THOSE WHO HAVE AND GIVE TO
+THOSE WHO HAVE NOT! SUBMIT (Y/N)?"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>431</h>
+          <l>429</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1243</addrInSeg>
+        <originalText>GIANTS HURL BOULDERS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>GIANTS HURL BOULDERS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>438</h>
+          <l>437</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1266</addrInSeg>
+        <originalText>A BUTTON ON THE WALL, PUSH IT (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BUTTON ON THE WALL, PUSH IT (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>479</h>
+          <l>477</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1303</addrInSeg>
+        <originalText>SQUISH! THE PARTY IS IMPALED ON A WALL
+OF SPEARS!</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>SQUISH! THE PARTY IS IMPALED ON A WALL
+OF SPEARS!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>487</h>
+          <l>485</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1353</addrInSeg>
+        <originalText>A BOULDER SAYS:"THERE SHOULD BE 5 TESTS"</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>A BOULDER SAYS:"THERE SHOULD BE 5 TESTS"</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>495</h>
+          <l>493</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1394</addrInSeg>
+        <originalText>THE FIRST TEST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE FIRST TEST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>503</h>
+          <l>501</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1409</addrInSeg>
+        <originalText>THE SECOND TEST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE SECOND TEST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>511</h>
+          <l>509</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1425</addrInSeg>
+        <originalText>THE THIRD TEST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE THIRD TEST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>519</h>
+          <l>517</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1440</addrInSeg>
+        <originalText>THE FOURTH TEST</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>THE FOURTH TEST</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>540</h>
+          <l>539</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1456</addrInSeg>
+        <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>751</h>
+          <l>750</l>
+        </addrOfAddr>
+        <addrOfSeg>0</addrOfSeg>
+        <addrInSeg>1716</addrInSeg>
+        <originalText>CONVEYOR BELT...</originalText>
+        <newAddrInSeg>0</newAddrInSeg>
+        <localizedText>CONVEYOR BELT...</localizedText>
+      </text>
+    </dt>
   </locText>
   <locText>
     <fName>sorpigal.ovr</fName>
