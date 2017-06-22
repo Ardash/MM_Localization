@@ -1527,10 +1527,67 @@ namespace MM_Localization {
         new addrPair(0x021B),         // STAIRS GOING UP, TAKE THEM (Y/N)?
         new addrPair(0x02EE),         // CONVEYOR BELT...
       }),
-      new txtAddresses("udrag1.ovr",   new addrPair[] {}),
-      new txtAddresses("udrag2.ovr",   new addrPair[] {}),
-      new txtAddresses("udrag3.ovr",   new addrPair[] {}),
-      new txtAddresses("whitew.ovr",   new addrPair[] {}),
+      new txtAddresses("udrag1.ovr",   new addrPair[] {
+        new addrPair(0x0060), // ETCHED IN GOLD, MESSAGE 8 READS:\THE-ARE-QU...
+        new addrPair(0x006D), // PAINTED IN A BLACK AND WHITE PATTERN,\A SIG...
+        new addrPair(0x007D), // "TEMPLE WOLF PASS"
+        new addrPair(0x008D), // "CULT OF THE NEW ORDER"
+        new addrPair(0x009A), // THE WALLS GLOW OMINOUSLY
+        new addrPair(0x00A7), // ETCHED IN STONE:\"28 DAYS OUT. NO FOOD, LOW...
+        new addrPair(0x00B7), // STAIRS GOING DOWN, TAKE THEM (Y/N)?
+        new addrPair(0x00E2), // STAIRS GOING UP, TAKE THEM (Y/N)?
+        new addrPair(0x010B), // A CAVERNOUS PASSAGE, TAKE IT (Y/N)?
+        new addrPair(0x01E9), // A SIGN ON THE DOOR READS:\
+        new addrPair(0x01F3), // THE WALL IS PAINTED FROM CEILING TO\FLOOR I...
+      }),
+      new txtAddresses("udrag2.ovr",   new addrPair[] {
+        new addrPair(0x0060), // THE ROOM IS PAINTED FROM CEILING TO\FLOOR I...
+        new addrPair(0x006D), // THE GROUND SHAKES!
+        new addrPair(0x0082), // STAIRS GOING DOWN, TAKE THEM (Y/N)?
+        new addrPair(0x00A8), // STAIRS GOING UP, TAKE THEM (Y/N)?
+        new addrPair(0x00D0), // CLERICS OF THE SOUTH JUST BELOW-CORAK
+      }),
+      new txtAddresses("udrag3.ovr",   new addrPair[] {
+        new addrPair(0x005D), // ETCHED IN GOLD, MESSAGE 5 READS:\SCOOP:-THE...
+        new addrPair(0x006A), // COVERED WITH CRYPTIC SYMBOLS, A LARGE\BRASS...
+        new addrPair(0x03A0), // A LOUD TONE RESOUNDS\THROUGHOUT THE ROOM!
+        new addrPair(0x03A2), // A SHARP TONE ASSAULTS YOUR SENSES!
+        new addrPair(0x03A4), // A MELLOW TONE RELAXES YOU.
+        new addrPair(0x00B1), // THE CLERICS OF THE SOUTH SPEAK:\"
+        new addrPair(0x00CF), // WE DEEM YOU WORTHY OF ADVANCEMENT!"
+        new addrPair(0x00A4), // HEAR THE 3 TONES AND RETURN!"
+        new addrPair(0x010D), // STAIRS GOING UP, TAKE THEM (Y/N)?
+        new addrPair(0x022D), // POOF!
+        new addrPair(0x023F), // ON THE RIGHT WALL IS A PAINTING OF A\BOX,ON...
+        new addrPair(0x024C), // DOOR NUMBER 
+      }),
+      new txtAddresses("whitew.ovr",   new addrPair[] {
+        new addrPair(0x0072), // EXIT CASTLE, (Y/N)?
+        new addrPair(0x0096), // BUTTON ON THE WALL, PUSH IT (Y/N)?
+        new addrPair(0x0898), // FIND THE STRONGHOLD IN RAVENS WOOD
+        new addrPair(0x089A), // FIND LORD KILBURN
+        new addrPair(0x089C), // DISCOVER THE SECRET OF PORTSMITH
+        new addrPair(0x089E), // FIND THE PIRATES SECRET COVE
+        new addrPair(0x08A0), // FIND THE SHIPWRECK OF THE JOLLY RAVEN
+        new addrPair(0x08A2), // DEFEAT THE PIRATE GHOST SHIP ANARCHIST
+        new addrPair(0x08A4), // DEFEAT THE STRONGHOLD IN RAVENS WOOD
+        new addrPair(0x02F3), // LORD IRONFIST SPEAKS:\
+        new addrPair(0x0334), // "YOUR SERVICES ARE NEEDED!" ACCEPT(Y/N)?
+        new addrPair(0x02DE), // "RETURN NOT UNTIL THY QUEST IS COMPLETE"
+        new addrPair(0x031D), // "SORRY, BUT SINCE YOU ARE CURRENTLY\QUESTED...
+        new addrPair(0x0112), // OPTIONS:  1) SET THE PRISONER FREE.\
+        new addrPair(0x0120), // 2) TORMENT THE PRISONER.\
+        new addrPair(0x012E), // 3) LEAVE WITHOUT DISTURBING.
+        new addrPair(0x0151), // THE PRISONER FLEES!
+        new addrPair(0x015F), // THE PRISONER COWERS!
+        new addrPair(0x0109), // A VICIOUS DEMON LUNGES AT THE PARTY,\RESTRA...
+        new addrPair(0x00AA), // ETCHED IN SILVER, MESSAGE B READS:\RSTIA-,E...
+        new addrPair(0x020E), // CASTLE GUARDS EXCLAIM,\"NO MERCHANTS PASS! ...
+        new addrPair(0x0294), // WELL DONE, QUEST COMPLETE! +
+        new addrPair(0x02B2), //  EXP
+        new addrPair(0x0494), // THE TOWER
+        new addrPair(0x04A1), // THRONE ROOM
+      }),
     };
 
     public string[] lstFNames = {
