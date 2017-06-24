@@ -999,9 +999,9 @@ MIGHT AND MAGIC!!!            </localizedText>
           <l>326</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>740</addrInSeg>
+        <addrInSeg>827</addrInSeg>
         <originalText>WRONG, YOU'RE TOO YOUNG TO UNDERSTAND.</originalText>
-        <newAddrInSeg>740</newAddrInSeg>
+        <newAddrInSeg>827</newAddrInSeg>
         <localizedText>неверно, вы еще слишком молоды.</localizedText>
       </text>
       <text>
@@ -1010,9 +1010,9 @@ MIGHT AND MAGIC!!!            </localizedText>
           <l>212</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>779</addrInSeg>
+        <addrInSeg>866</addrInSeg>
         <originalText>CORRECT!</originalText>
-        <newAddrInSeg>772</newAddrInSeg>
+        <newAddrInSeg>859</newAddrInSeg>
         <localizedText>Верно!</localizedText>
       </text>
       <text>
@@ -1021,9 +1021,9 @@ MIGHT AND MAGIC!!!            </localizedText>
           <l>353</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>789</addrInSeg>
+        <addrInSeg>876</addrInSeg>
         <originalText>CARVED ON A TREE: "9-9 RAVEN'S LAIR"</originalText>
-        <newAddrInSeg>789</newAddrInSeg>
+        <newAddrInSeg>876</newAddrInSeg>
         <localizedText>На дереве вырезано:"9-9 нора ворона"</localizedText>
       </text>
       <text>
@@ -1032,9 +1032,9 @@ MIGHT AND MAGIC!!!            </localizedText>
           <l>505</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>836</addrInSeg>
+        <addrInSeg>923</addrInSeg>
         <originalText>THERE'S A CAVE HERE, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>836</newAddrInSeg>
+        <newAddrInSeg>925</newAddrInSeg>
         <localizedText>Здесь пещера. Войти (Y/N)?</localizedText>
       </text>
       <text>
@@ -1043,10 +1043,10 @@ MIGHT AND MAGIC!!!            </localizedText>
           <l>556</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>870</addrInSeg>
+        <addrInSeg>957</addrInSeg>
         <originalText>A DESCENDING STAIRCASE IS THE ENTRANCE
 TO A WARRIORS STRONGHOLD, GO IN (Y/N)?</originalText>
-        <newAddrInSeg>863</newAddrInSeg>
+        <newAddrInSeg>950</newAddrInSeg>
         <localizedText>Лестница вниз, ведущая в оплот воителей.Войти (Y/N)?</localizedText>
       </text>
       <text>
@@ -1055,7 +1055,7 @@ TO A WARRIORS STRONGHOLD, GO IN (Y/N)?</originalText>
           <l>104</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>948</addrInSeg>
+        <addrInSeg>1035</addrInSeg>
         <originalText>ON A THRONE ADORNED WITH PRECIOUS GEMS
 THE ICE PRINCESS SPEAKS,
 "CONQUEROR OF WORLDS, MAKER OF DREAMS
@@ -1063,7 +1063,7 @@ THE GREATEST FORCE OF ALL, YET ELUSIVE
 IT SEEMS."
 
 ANSWER:&gt; ..........</originalText>
-        <newAddrInSeg>916</newAddrInSeg>
+        <newAddrInSeg>1003</newAddrInSeg>
         <localizedText>На троне, украшенном драгоценными
 камнями, восседает ледяная принцесса.
 Она говорит: "Она покоряет миры, рождаетмечты, Она самая величайшая сила, хотя икажется иллюзорной."

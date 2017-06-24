@@ -2027,7 +2027,6 @@ namespace MM_Localization {
 
     public MainWindow() {
       InitializeComponent();
-      int i = 0;
       foreach (string s in textsViewModel.lstFNames) {
         RadioButton rb = new RadioButton() { Content = s };
         rb.Checked += Rb_Click;

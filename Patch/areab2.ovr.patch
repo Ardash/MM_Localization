@@ -1,0 +1,104 @@
+Заменить
+0004   E2 02
+
+Заменить
+0008   26 02
+
+Заменить
+000C   33 F7
+
+Заменить
+0086   E8 FC 01          call  sub_286
+0089   E9 CF 01          jmp   near F71A
+008C   90                nop
+008D   90                nop
+008E   90                nop
+008F   90                nop
+0090   90                nop
+0091   90                nop
+0092   90                nop
+0093   90                nop
+0094   90                nop
+0095   90                nop
+0096   90                nop
+0097   90                nop
+0098   90                nop
+
+Заменить
+00CB   80 FB 06          cmp   bl, 06h
+
+Вставить
+025B   3C 0D             cmp   al, 0Dh
+025D   0F 84 56 FE       jz    near checkAnswer (F538)
+0261   3C 20             cmp   al, 020h
+0263   0F 84 32 FE       jz    near showSym (F51A)
+0267   3C 27             cmp   al, 027h
+0269   0F 82 19 FE       jb    near getSym (F507)
+026D   3C 7A             cmp   al, 07Ah
+026F   0F 87 13 FE       ja    near getSym (F507)
+0273   2C 27             sub   al, 027h
+0275   BB 12 CB          mov   bx, CB12h
+0278   03 D8             add   bx, ax
+027A   8A 07             mov   al, [bx]
+027C   22 C0             and   al, al
+027E   0F 84 04 FE       jz    near getSym (F507)
+0282   E9 14 FE          jmp   showSym (F51A)
+
+Вставить
+0285   FE 06 06 3C       inc     byte ptr ds:3C06h
+028B   E8 F9 0B          call    sub_0306
+028C   0A C0             or      al, al
+028E   78 0A             js      short loc_029C
+0290   A0 07 3C          mov     al, ds:3C07h
+0293   14 03             adc     al, 3
+0295   A2 07 3C          mov     ds:3C07h, al
+0298   EB EB             jmp     short sub_286
+
+Вставить
+029A   FE 06 07 3C       inc     byte ptr ds:3C07h
+029E   E8 97 4E          call    sub_45B9
+02A1   B0 00             mov     al, 0
+02A3   E8 22 0C          call    sub_0349
+02A6   50                push    ax
+02A7   E8 50 22          call    sub_197B
+02AC   2E C6 06 78 18 00 mov     byte ptr cs:word_11878, 0
+02B0   58                pop     ax
+02B1   C3                retn
+
+Заменить
+02B2   8F 06 10 CB       pop     word ptr ds:0CB10h
+02B6   59                pop     cx
+02B7   89 26 0C CB       mov     ds:0CB0Ch, sp
+02BB   89 2E 0E CB       mov     ds:0CB0Eh, bp
+02BF   89 36 08 CB       mov     ds:0CB08h, si
+02C3   89 3E 0A CB       mov     ds:0CB0Ah, di
+02C7   FC                cld
+02C8   BF 12 CB          mov     di, 0CB12h
+02CB   B9 12 CB          mov     cx, 0CB12h
+02CE   2B CF             sub     cx, di
+02D0   D1 E9             shr     cx, 1
+02D2   74 04             jz      short loc_2D8
+02D4   2B C0             sub     ax, ax
+02D6   F3 AB             rep stosw
+       
+Заменить
+02D8   E8 33 FD          call    near ptr loc_E
+02DB   8B 2E 0E CB       mov     bp, ds:0CB0Eh
+02DF   8B 26 0C CB       mov     sp, ds:0CB0Ch
+02E3   8B 36 08 CB       mov     si, ds:0CB08h
+02E7   8B 3E 0A CB       mov     di, ds:0CB0Ah
+02EB   51                push    cx
+02EC   FF 26 10 CB       jmp     word ptr ds:0CB10h
+
+Заменить
+0397   AB BE A1 AE A2 BC
+
+вставить
+04C2   7D 00 00 00 00 61 00 7E 00 30 31 32 33 34 35 36 37 38 39 00 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 75 00 7A 00 00 00 74 68 71 62 73 60 6F 70 78 6E 6B 64 7C 72 79 67 69 6A 7B 65 63 6c 76 77 6D 7F
+
+;7D 00 00 00 00 61 00 7E 00 30 31 32 33 34 35 36 37 38 39 00 66 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 75 00 7A 00 00 00 74 68 71 62 73 60 6F 70 78 6E 6B 64 7C 72 79 67 69 6A 7B 65 63 6c 76 77 6D 7F
+;'  (  )  *  +  ,  -  .  /  0  1  2  3  4  5  6  7  8  9  :  ;  <  =  >  ?  @  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  [  \  ]  ^  _  `  a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z
+;Э              Б     Ю     0  1  2  3  4  5  6  7  8  9     Ж                                                                                               Х     Ъ           Ф  И  С  В  У  А  П  Р  Ш  О  Л  Д  Ь  Т  Щ  З  Й  К  Ы  Е  Г  М  Ц  Ч  Н  Я
+
+
+
