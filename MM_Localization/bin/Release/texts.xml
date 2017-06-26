@@ -3121,8 +3121,8 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1311</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EXIT CASTLE, (Y/N)?</localizedText>
+        <newAddrInSeg>1311</newAddrInSeg>
+        <localizedText>Покинуть замок (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3133,9 +3133,9 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrInSeg>1331</addrInSeg>
         <originalText>CASTLE GUARDS EXCLAIM,
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CASTLE GUARDS EXCLAIM,
-"NO MERCHANTS PASS! BEGONE PEASANTS."</localizedText>
+        <newAddrInSeg>1333</newAddrInSeg>
+        <localizedText>Стражник кричит:
+"Где грамота купца? Прочь, крестьяне!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3145,8 +3145,8 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1414</addrInSeg>
         <originalText>WELL DONE, QUEST COMPLETE! +</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WELL DONE, QUEST COMPLETE! +</localizedText>
+        <newAddrInSeg>1414</newAddrInSeg>
+        <localizedText>Отлично, задача выполнена! +</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3156,8 +3156,8 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1443</addrInSeg>
         <originalText> EXP</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText> EXP</localizedText>
+        <newAddrInSeg>1443</newAddrInSeg>
+        <localizedText> оп</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3168,9 +3168,8 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrInSeg>1469</addrInSeg>
         <originalText>FIND THE ANCIENT RUINS IN THE
 QUIVERING FOREST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FIND THE ANCIENT RUINS IN THE
-QUIVERING FOREST</localizedText>
+        <newAddrInSeg>1469</newAddrInSeg>
+        <localizedText>Найдите древние руины в Дрожащем лесу</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3180,8 +3179,8 @@ QUIVERING FOREST</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1516</addrInSeg>
         <originalText>VISIT BLITHES PEAK, AND REPORT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>VISIT BLITHES PEAK, AND REPORT</localizedText>
+        <newAddrInSeg>1507</newAddrInSeg>
+        <localizedText>Посетите пик радости и доложите об этом</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3192,9 +3191,9 @@ QUIVERING FOREST</localizedText>
         <addrInSeg>1547</addrInSeg>
         <originalText>THE PEOPLE OF THE DESERT HAVE MUCH TO
 TRADE,BRING ME A SAMPLE OF THEIR GOODS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PEOPLE OF THE DESERT HAVE MUCH TO
-TRADE,BRING ME A SAMPLE OF THEIR GOODS</localizedText>
+        <newAddrInSeg>1547</newAddrInSeg>
+        <localizedText>Люди пустыни торгуют разными вещами.
+Принесите мне образец их товаров</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3205,9 +3204,9 @@ TRADE,BRING ME A SAMPLE OF THEIR GOODS</localizedText>
         <addrInSeg>1624</addrInSeg>
         <originalText>FIND THE SHRINE OF OKZAR IN THE
 CAVES BELOW DUSK</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FIND THE SHRINE OF OKZAR IN THE
-CAVES BELOW DUSK</localizedText>
+        <newAddrInSeg>1617</newAddrInSeg>
+        <localizedText>Найдите склеп Окзара
+в пещерах под Даском</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3217,8 +3216,8 @@ CAVES BELOW DUSK</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1673</addrInSeg>
         <originalText>FIND THE FABLED FOUNTAIN IN DRAGADUNE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FIND THE FABLED FOUNTAIN IN DRAGADUNE</localizedText>
+        <newAddrInSeg>1659</newAddrInSeg>
+        <localizedText>Найдите сказочный фонтан в Драгадуне</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3228,8 +3227,8 @@ CAVES BELOW DUSK</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1711</addrInSeg>
         <originalText>SOLVE THE RIDDLE OF THE RUBY</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SOLVE THE RIDDLE OF THE RUBY</localizedText>
+        <newAddrInSeg>1696</newAddrInSeg>
+        <localizedText>Разгадайте загадку рубина</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3240,9 +3239,8 @@ CAVES BELOW DUSK</localizedText>
         <addrInSeg>1740</addrInSeg>
         <originalText>DEFEAT THE STRONGHOLD
 IN THE ENCHANTED FOREST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DEFEAT THE STRONGHOLD
-IN THE ENCHANTED FOREST</localizedText>
+        <newAddrInSeg>1722</newAddrInSeg>
+        <localizedText>Завоюйте крепость в Зачарованном Лесу</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3253,8 +3251,8 @@ IN THE ENCHANTED FOREST</localizedText>
         <addrInSeg>1786</addrInSeg>
         <originalText>LORD INSPECTRON SPEAKS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LORD INSPECTRON SPEAKS:
+        <newAddrInSeg>1760</newAddrInSeg>
+        <localizedText>Лорд Инспектрон говорит:
 </localizedText>
       </text>
       <text>
@@ -3265,8 +3263,8 @@ IN THE ENCHANTED FOREST</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1811</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</localizedText>
+        <newAddrInSeg>1786</newAddrInSeg>
+        <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3276,8 +3274,9 @@ IN THE ENCHANTED FOREST</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1852</addrInSeg>
         <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</localizedText>
+        <newAddrInSeg>1827</newAddrInSeg>
+        <localizedText>"Не возвращайтесь, пока не выполните
+задание"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3288,9 +3287,8 @@ IN THE ENCHANTED FOREST</localizedText>
         <addrInSeg>1893</addrInSeg>
         <originalText>"SORRY, BUT SINCE YOU ARE CURRENTLY
 QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"SORRY, BUT SINCE YOU ARE CURRENTLY
-QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
+        <newAddrInSeg>1873</newAddrInSeg>
+        <localizedText>"Простите, но я не найму вас, пока у васесть другое задание."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3301,8 +3299,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrInSeg>1969</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+        <newAddrInSeg>1935</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключенного.
 </localizedText>
       </text>
       <text>
@@ -3314,8 +3312,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrInSeg>2006</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>2) TORMENT THE PRISONER.
+        <newAddrInSeg>1974</newAddrInSeg>
+        <localizedText>2) пытать заключенного.
 </localizedText>
       </text>
       <text>
@@ -3326,8 +3324,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2032</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+        <newAddrInSeg>1999</newAddrInSeg>
+        <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3337,8 +3335,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2061</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER FLEES!</localizedText>
+        <newAddrInSeg>2024</newAddrInSeg>
+        <localizedText>заключенный убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3348,8 +3346,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2081</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER COWERS!</localizedText>
+        <newAddrInSeg>2045</newAddrInSeg>
+        <localizedText>заключенный съеживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3361,8 +3359,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <originalText>MAN IN SHACKLES MOANS IN AGONY!
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MAN IN SHACKLES MOANS IN AGONY!
+        <newAddrInSeg>2070</newAddrInSeg>
+        <localizedText>Закованный человек стонет в агонии!
 
 </localizedText>
       </text>
@@ -3375,9 +3373,9 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</localizedText>
         <addrInSeg>2136</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE A READS:
 ATIS-19-31UD54AEUPI1</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN SILVER, MESSAGE A READS:
-ATIS-19-31UD54AEUPI1</localizedText>
+        <newAddrInSeg>2108</newAddrInSeg>
+        <localizedText>На серебряной табличке A гравировка:
+шхек,E1,D-дьк5;д1е/м1</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3387,8 +3385,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2192</addrInSeg>
         <originalText>A SLIDE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SLIDE!</localizedText>
+        <newAddrInSeg>2167</newAddrInSeg>
+        <localizedText>Скользко!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3398,8 +3396,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2201</addrInSeg>
         <originalText>EMPTY VAULT, ALARM!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EMPTY VAULT, ALARM!</localizedText>
+        <newAddrInSeg>2177</newAddrInSeg>
+        <localizedText>Хранилище пусто, тревога!</localizedText>
       </text>
     </dt>
   </locText>
@@ -3414,8 +3412,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1420</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EXIT CASTLE, (Y/N)?</localizedText>
+        <newAddrInSeg>1420</newAddrInSeg>
+        <localizedText>Покинуть замок (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3425,8 +3423,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1440</addrInSeg>
         <originalText>CASTLE GUARDS EXCLAIM,"BEGONE PEASANTS!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CASTLE GUARDS EXCLAIM,"BEGONE PEASANTS!"</localizedText>
+        <newAddrInSeg>1442</newAddrInSeg>
+        <localizedText>Стражник кричит: "Прочь, крестьяне!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3436,8 +3434,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1503</addrInSeg>
         <originalText>WELL DONE, QUEST COMPLETE! +</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WELL DONE, QUEST COMPLETE! +</localizedText>
+        <newAddrInSeg>1503</newAddrInSeg>
+        <localizedText>Отлично, задача выполнена! +</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3447,8 +3445,8 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1532</addrInSeg>
         <originalText> EXP</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText> EXP</localizedText>
+        <newAddrInSeg>1532</newAddrInSeg>
+        <localizedText> оп</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3459,9 +3457,9 @@ ATIS-19-31UD54AEUPI1</localizedText>
         <addrInSeg>1558</addrInSeg>
         <originalText>MY BREW IS COMPLETE, GUARDS TAKE THEIR
 ITEMS AND SEND THEM TO THE PIT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MY BREW IS COMPLETE, GUARDS TAKE THEIR
-ITEMS AND SEND THEM TO THE PIT!</localizedText>
+        <newAddrInSeg>1558</newAddrInSeg>
+        <localizedText>Мое варево готово. Стража, заберите их
+вещи и бросьте их в яму!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3471,8 +3469,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1629</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</localizedText>
+        <newAddrInSeg>1622</newAddrInSeg>
+        <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3482,8 +3480,9 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1670</addrInSeg>
         <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"(LEADER SHOULD PRESENT ITEMS)</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"(LEADER SHOULD PRESENT ITEMS)</localizedText>
+        <newAddrInSeg>1663</newAddrInSeg>
+        <localizedText>"Не возвращайтесь, пока не выполните
+задание" (предмет должен быть у лидера)</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3493,8 +3492,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1740</addrInSeg>
         <originalText>"SORRY, YOU'RE ALREADY QUESTED.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"SORRY, YOU'RE ALREADY QUESTED.</localizedText>
+        <newAddrInSeg>1740</newAddrInSeg>
+        <localizedText>"Простите, у вас уже есть задание"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3505,8 +3504,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrInSeg>1772</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+        <newAddrInSeg>1775</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключенного.
 </localizedText>
       </text>
       <text>
@@ -3518,8 +3517,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrInSeg>1809</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>2) TORMENT THE PRISONER.
+        <newAddrInSeg>1814</newAddrInSeg>
+        <localizedText>2) пытать заключенного.
 </localizedText>
       </text>
       <text>
@@ -3530,8 +3529,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1835</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+        <newAddrInSeg>1839</newAddrInSeg>
+        <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3541,8 +3540,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1864</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER FLEES!</localizedText>
+        <newAddrInSeg>1864</newAddrInSeg>
+        <localizedText>заключенный убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3552,8 +3551,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1884</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER COWERS!</localizedText>
+        <newAddrInSeg>1885</newAddrInSeg>
+        <localizedText>заключенный съеживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3563,8 +3562,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1905</addrInSeg>
         <originalText>A SLIDE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SLIDE!</localizedText>
+        <newAddrInSeg>1910</newAddrInSeg>
+        <localizedText>Скользко!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3574,8 +3573,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1914</addrInSeg>
         <originalText>THE PIT OF PERIL...</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PIT OF PERIL...</localizedText>
+        <newAddrInSeg>1920</newAddrInSeg>
+        <localizedText>Яма опасности...</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3585,8 +3584,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1934</addrInSeg>
         <originalText>EMPTY VAULT, ALARM!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EMPTY VAULT, ALARM!</localizedText>
+        <newAddrInSeg>1937</newAddrInSeg>
+        <localizedText>Хранилище пусто, тревога!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3596,8 +3595,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1954</addrInSeg>
         <originalText>BRING ME </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BRING ME </localizedText>
+        <newAddrInSeg>1963</newAddrInSeg>
+        <localizedText>Принесите мне </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3607,8 +3606,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1964</addrInSeg>
         <originalText>GARLIC</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GARLIC</localizedText>
+        <newAddrInSeg>1978</newAddrInSeg>
+        <localizedText>Чеснок</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3618,8 +3617,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1971</addrInSeg>
         <originalText>WOLFSBANE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WOLFSBANE</localizedText>
+        <newAddrInSeg>1985</newAddrInSeg>
+        <localizedText>Волчий аконит</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3629,8 +3628,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1981</addrInSeg>
         <originalText>BELLADONNA</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BELLADONNA</localizedText>
+        <newAddrInSeg>1999</newAddrInSeg>
+        <localizedText>белладонну</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3640,8 +3639,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1992</addrInSeg>
         <originalText>THE HEAD OF A MEDUSA</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE HEAD OF A MEDUSA</localizedText>
+        <newAddrInSeg>2010</newAddrInSeg>
+        <localizedText>голову Медузы</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3651,8 +3650,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2013</addrInSeg>
         <originalText>AN EYE OF A WYVERN</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN EYE OF A WYVERN</localizedText>
+        <newAddrInSeg>2024</newAddrInSeg>
+        <localizedText>глаз Виверна</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3662,8 +3661,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2032</addrInSeg>
         <originalText>A DRAGONS TOOTH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A DRAGONS TOOTH</localizedText>
+        <newAddrInSeg>2037</newAddrInSeg>
+        <localizedText>зуб дракона</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3673,8 +3672,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2048</addrInSeg>
         <originalText>THE RING OF OKIRM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE RING OF OKIRM</localizedText>
+        <newAddrInSeg>2049</newAddrInSeg>
+        <localizedText>кольцо Окрима</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3685,8 +3684,8 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
         <addrInSeg>2066</addrInSeg>
         <originalText>LORD HACKER SPEAKS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LORD HACKER SPEAKS:
+        <newAddrInSeg>2063</newAddrInSeg>
+        <localizedText>Лорд Хакер говорит:
 </localizedText>
       </text>
       <text>
@@ -3700,9 +3699,9 @@ ITEMS AND SEND THEM TO THE PIT!</localizedText>
 GAGGED, LIES MOTIONLESS IN THE CORNER.
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A MYSTERIOUS CLOAKED FIGURE, BOUND AND
-GAGGED, LIES MOTIONLESS IN THE CORNER.
+        <newAddrInSeg>2084</newAddrInSeg>
+        <localizedText>В углу, связанная и закутанная в плащ,
+неподвижно лежит загадочная личность.
 
 </localizedText>
       </text>
@@ -3715,9 +3714,9 @@ GAGGED, LIES MOTIONLESS IN THE CORNER.
         <addrInSeg>2167</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE C READS:
 IACI1;-2;0NU--G,NOT2</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN SILVER, MESSAGE C READS:
-IACI1;-2;0NU--G,NOT2</localizedText>
+        <newAddrInSeg>2163</newAddrInSeg>
+        <localizedText>На серебряной табличке C гравировка:
+еар:1-33-1зе,;ду;мПи2</localizedText>
       </text>
     </dt>
   </locText>
@@ -3732,8 +3731,8 @@ IACI1;-2;0NU--G,NOT2</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1138</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1138</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3745,10 +3744,10 @@ IACI1;-2;0NU--G,NOT2</localizedText>
         <originalText>AN ELDERLY MAN BEHIND A DESK SPEAKS:
 "I AM IN NEED OF COURIER SERVICE,
 ARE YOU INTERESTED (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN ELDERLY MAN BEHIND A DESK SPEAKS:
-"I AM IN NEED OF COURIER SERVICE,
-ARE YOU INTERESTED (Y/N)?"</localizedText>
+        <newAddrInSeg>1173</newAddrInSeg>
+        <localizedText>За столом сидит пожилой человек.
+"Мне нужно доставить кое-что.
+Вам это интересно (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3759,9 +3758,9 @@ ARE YOU INTERESTED (Y/N)?"</localizedText>
         <addrInSeg>1271</addrInSeg>
         <originalText>"I SEE YOU HAVEN'T DELIVERED MY MESSAGE,
 CARE TO TRY AGAIN (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"I SEE YOU HAVEN'T DELIVERED MY MESSAGE,
-CARE TO TRY AGAIN (Y/N)?"</localizedText>
+        <newAddrInSeg>1262</newAddrInSeg>
+        <localizedText>"Я вижу, вы не доставили мое послание.
+Хотите попробовать еще раз (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3773,10 +3772,10 @@ CARE TO TRY AGAIN (Y/N)?"</localizedText>
         <originalText>"GOOD! TAKE THIS SCROLL TO THE
 WIZARD AGAR IN ERLIQUIN AND YOU SHALL
 BE REWARDED."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"GOOD! TAKE THIS SCROLL TO THE
-WIZARD AGAR IN ERLIQUIN AND YOU SHALL
-BE REWARDED."</localizedText>
+        <newAddrInSeg>1336</newAddrInSeg>
+        <localizedText>"Хорошо! Доставьте этот свиток Агару
+волшебнику в Эрликин и получите
+награду."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3786,8 +3785,8 @@ BE REWARDED."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1421</addrInSeg>
         <originalText>"THE ARENA"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"THE ARENA"</localizedText>
+        <newAddrInSeg>1415</newAddrInSeg>
+        <localizedText>"Арена"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3799,10 +3798,9 @@ BE REWARDED."</localizedText>
         <originalText>AROUND THE ROOM THERE ARE SEVERAL
 BALCONIES FILLED WITH CHEERING PEASANTS
 A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AROUND THE ROOM THERE ARE SEVERAL
-BALCONIES FILLED WITH CHEERING PEASANTS
-A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</localizedText>
+        <newAddrInSeg>1423</newAddrInSeg>
+        <localizedText>По периметру комнаты расположены балконыс ликующей толпой. Человек спрашивает:
+"вы будете участвовать (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3812,8 +3810,8 @@ A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1548</addrInSeg>
         <originalText>A SIGN ABOVE THE DOOR READS:</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ABOVE THE DOOR READS:</localizedText>
+        <newAddrInSeg>1533</newAddrInSeg>
+        <localizedText>Табличка над дверью гласит:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3823,8 +3821,8 @@ A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1579</addrInSeg>
         <originalText>*** BACK PACKS FULL ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** BACK PACKS FULL ***</localizedText>
+        <newAddrInSeg>1579</newAddrInSeg>
+        <localizedText>*** Нет места! ***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3835,9 +3833,9 @@ A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</localizedText>
         <addrInSeg>1603</addrInSeg>
         <originalText>A SHIMMERING BLUE AND WHITE PORTAL
 APPEARS! ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SHIMMERING BLUE AND WHITE PORTAL
-APPEARS! ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1598</newAddrInSeg>
+        <localizedText>Мерцающий бело-синий портал.
+Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3848,8 +3846,8 @@ APPEARS! ENTER (Y/N)?</localizedText>
         <addrInSeg>1660</addrInSeg>
         <originalText>SCRAWLED ON THE WALL, A MESSAGE READS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SCRAWLED ON THE WALL, A MESSAGE READS:
+        <newAddrInSeg>1640</newAddrInSeg>
+        <localizedText>На стене небрежно написано:
 </localizedText>
       </text>
       <text>
@@ -3860,8 +3858,8 @@ APPEARS! ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1700</addrInSeg>
         <originalText>DON'T TURN AROUND!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DON'T TURN AROUND!</localizedText>
+        <newAddrInSeg>1669</newAddrInSeg>
+        <localizedText>Не оборачивайся!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3871,8 +3869,8 @@ APPEARS! ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1719</addrInSeg>
         <originalText>THE JAIL ABOVE HAS MANY CELLS.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE JAIL ABOVE HAS MANY CELLS.</localizedText>
+        <newAddrInSeg>1686</newAddrInSeg>
+        <localizedText>В тюрьме выше - много камер.</localizedText>
       </text>
     </dt>
   </locText>
@@ -3888,9 +3886,9 @@ APPEARS! ENTER (Y/N)?</localizedText>
         <addrInSeg>891</addrInSeg>
         <originalText>SHIMMERING BLUE AND WHITE PORTAL,
 ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SHIMMERING BLUE AND WHITE PORTAL,
-ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>891</newAddrInSeg>
+        <localizedText>Мерцающий бело-синий портал.
+Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3900,8 +3898,8 @@ ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>938</addrInSeg>
         <originalText>A SLIDE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SLIDE!</localizedText>
+        <newAddrInSeg>933</newAddrInSeg>
+        <localizedText>Скользко!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3911,8 +3909,8 @@ ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>947</addrInSeg>
         <originalText>SPLASH! A POOL OF ACID!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SPLASH! A POOL OF ACID!</localizedText>
+        <newAddrInSeg>943</newAddrInSeg>
+        <localizedText>Плюх! Лужа кислоты!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3922,8 +3920,8 @@ ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>971</addrInSeg>
         <originalText>BUTTON ON THE WALL, PRESS IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BUTTON ON THE WALL, PRESS IT (Y/N)?</localizedText>
+        <newAddrInSeg>963</newAddrInSeg>
+        <localizedText>Кнопка на стене. Нажать (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3933,8 +3931,8 @@ ENTER (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1007</addrInSeg>
         <originalText>POOF!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POOF!</localizedText>
+        <newAddrInSeg>994</newAddrInSeg>
+        <localizedText>Пуфф!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3945,9 +3943,9 @@ ENTER (Y/N)?</localizedText>
         <addrInSeg>1013</addrInSeg>
         <originalText>A BANNER READS:
 CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A BANNER READS:
-CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
+        <newAddrInSeg>1000</newAddrInSeg>
+        <localizedText>Надпись на стяге:
+Коридор вечных схваток!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3958,9 +3956,9 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrInSeg>1088</addrInSeg>
         <originalText>A CRAZED WIZARD EXCLAIMS,
 "ENCOUNTER THE 13, WIN THE PRIZE!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A CRAZED WIZARD EXCLAIMS,
-"ENCOUNTER THE 13, WIN THE PRIZE!"</localizedText>
+        <newAddrInSeg>1088</newAddrInSeg>
+        <localizedText>Сумасшедший волшебник восклицает:
+"Срази 13, выиграй приз!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3970,8 +3968,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1149</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+        <newAddrInSeg>1148</newAddrInSeg>
+        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -3986,8 +3984,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1021</addrInSeg>
         <originalText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1021</newAddrInSeg>
+        <localizedText>бело-синий портал. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3997,8 +3995,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1057</addrInSeg>
         <originalText>BRONZE GRATE REPELS YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BRONZE GRATE REPELS YOU!</localizedText>
+        <newAddrInSeg>1053</newAddrInSeg>
+        <localizedText>Бронзовая решетка оттолкнула вас!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4009,9 +4007,9 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrInSeg>1082</addrInSeg>
         <originalText>
 "DEMONS IN CONFERENCE, DO NOT DISTURB!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1087</newAddrInSeg>
         <localizedText>
-"DEMONS IN CONFERENCE, DO NOT DISTURB!"</localizedText>
+"Собрание демонов. Не беспокоить!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4021,8 +4019,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1135</addrInSeg>
         <originalText>REVERSAL!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>REVERSAL!</localizedText>
+        <newAddrInSeg>1135</newAddrInSeg>
+        <localizedText>Изменись!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4032,8 +4030,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1145</addrInSeg>
         <originalText>TOXIC!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TOXIC!</localizedText>
+        <newAddrInSeg>1145</newAddrInSeg>
+        <localizedText>Яд!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4043,8 +4041,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1152</addrInSeg>
         <originalText>THOSE WHO ARE WORTHY +4 MIGHT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THOSE WHO ARE WORTHY +4 MIGHT!</localizedText>
+        <newAddrInSeg>1227</newAddrInSeg>
+        <localizedText>Достойные получают +4 Силы! </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4054,8 +4052,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1183</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1182</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4065,8 +4063,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1227</addrInSeg>
         <originalText>GLOWING POOL, STEP IN (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GLOWING POOL, STEP IN (Y/N)?</localizedText>
+        <newAddrInSeg>1149</newAddrInSeg>
+        <localizedText>Мерцающее озеро. Вступить (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -4081,8 +4079,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>899</addrInSeg>
         <originalText>ALARM!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ALARM!</localizedText>
+        <newAddrInSeg>991</newAddrInSeg>
+        <localizedText>Тревога!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4094,9 +4092,9 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</localizedText>
         <originalText>COVERED WITH FLASHING LIGHTS THE WALL
 SPEAKS: "PLEASE ENTER ACCESS CODE:"
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>COVERED WITH FLASHING LIGHTS THE WALL
-SPEAKS: "PLEASE ENTER ACCESS CODE:"
+        <newAddrInSeg>907</newAddrInSeg>
+        <localizedText>Стена покрыта мигающими огнями говорит:
+"Введите код доступа:"
 </localizedText>
       </text>
       <text>
@@ -4107,8 +4105,8 @@ SPEAKS: "PLEASE ENTER ACCESS CODE:"
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>991</addrInSeg>
         <originalText>"IMPROPER ACCESS CODE!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"IMPROPER ACCESS CODE!"</localizedText>
+        <newAddrInSeg>1000</newAddrInSeg>
+        <localizedText>"Неверный код доступа!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4118,8 +4116,8 @@ SPEAKS: "PLEASE ENTER ACCESS CODE:"
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1015</addrInSeg>
         <originalText>"THANK YOU, FIELDS DEACTIVATED."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"THANK YOU, FIELDS DEACTIVATED."</localizedText>
+        <newAddrInSeg>1024</newAddrInSeg>
+        <localizedText>"Спасибо, поля деактивированы."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4129,8 +4127,8 @@ SPEAKS: "PLEASE ENTER ACCESS CODE:"
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1048</addrInSeg>
         <originalText>ZAP!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ZAP!</localizedText>
+        <newAddrInSeg>1056</newAddrInSeg>
+        <localizedText>Бзз!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4141,9 +4139,9 @@ SPEAKS: "PLEASE ENTER ACCESS CODE:"
         <addrInSeg>1053</addrInSeg>
         <originalText>DANCING LIGHTS FLICKER AND CRACKEL IN
 THE AREA IN FRONT OF YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DANCING LIGHTS FLICKER AND CRACKEL IN
-THE AREA IN FRONT OF YOU!</localizedText>
+        <newAddrInSeg>1061</newAddrInSeg>
+        <localizedText>Пляшущие огни мерцают и трещат перед
+вами!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4153,8 +4151,8 @@ THE AREA IN FRONT OF YOU!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1104</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4164,8 +4162,8 @@ THE AREA IN FRONT OF YOU!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1104</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -4180,8 +4178,8 @@ THE AREA IN FRONT OF YOU!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1186</addrInSeg>
         <originalText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</localizedText>
+        <newAddrInSeg>1186</newAddrInSeg>
+        <localizedText>бело-синий портал. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4192,9 +4190,8 @@ THE AREA IN FRONT OF YOU!</localizedText>
         <addrInSeg>1222</addrInSeg>
         <originalText>THE PRISM OF PRECISION GRANTS THOSE
 WHO ARE WORTHY +4 ACCURACY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISM OF PRECISION GRANTS THOSE
-WHO ARE WORTHY +4 ACCURACY!</localizedText>
+        <newAddrInSeg>1218</newAddrInSeg>
+        <localizedText>Призма точности тем, кто достоин, дарует+4 Меткости!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4205,9 +4202,9 @@ WHO ARE WORTHY +4 ACCURACY!</localizedText>
         <addrInSeg>1286</addrInSeg>
         <originalText>THE FLAME OF AGILITY GRANTS THOSE WHO
 ARE WORTHY +4 SPEED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE FLAME OF AGILITY GRANTS THOSE WHO
-ARE WORTHY +4 SPEED!</localizedText>
+        <newAddrInSeg>1271</newAddrInSeg>
+        <localizedText>Пламя ловкости тем, кто достоин, дарует
++4 Скорости!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4217,8 +4214,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1345</addrInSeg>
         <originalText>THE SHRINE OF OKZAR, PRAY (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE SHRINE OF OKZAR, PRAY (Y/N)?</localizedText>
+        <newAddrInSeg>1324</newAddrInSeg>
+        <localizedText>склеп Окзара. помолиться (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4228,8 +4225,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1378</addrInSeg>
         <originalText>YOUR LEADER IS OF CLEAR MIND.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR LEADER IS OF CLEAR MIND.</localizedText>
+        <newAddrInSeg>1356</newAddrInSeg>
+        <localizedText>Разум лидера чист.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4239,8 +4236,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1408</addrInSeg>
         <originalText>YOUR LEADER IS INCONSISTENT. BEGONE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOUR LEADER IS INCONSISTENT. BEGONE!</localizedText>
+        <newAddrInSeg>1375</newAddrInSeg>
+        <localizedText>Непостоянство живет в лидере. Уходите!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4250,8 +4247,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1445</addrInSeg>
         <originalText>STALACTITES SHOWER THE PARTY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STALACTITES SHOWER THE PARTY!</localizedText>
+        <newAddrInSeg>1414</newAddrInSeg>
+        <localizedText>Сталактиты обрушиваются на группу!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4262,8 +4259,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrInSeg>1475</addrInSeg>
         <originalText>A PIT OF POISONOUS SPIKES!
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PIT OF POISONOUS SPIKES!
+        <newAddrInSeg>1449</newAddrInSeg>
+        <localizedText>Яма ядовитых шипов!
 </localizedText>
       </text>
       <text>
@@ -4274,8 +4271,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1503</addrInSeg>
         <originalText>LEVITATION SAVED YOU.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LEVITATION SAVED YOU.</localizedText>
+        <newAddrInSeg>1470</newAddrInSeg>
+        <localizedText>левитация вас спасла.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4286,8 +4283,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrInSeg>1525</addrInSeg>
         <originalText>PSYCHIC BLAST!
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PSYCHIC BLAST!
+        <newAddrInSeg>1492</newAddrInSeg>
+        <localizedText>Психический удар!
 </localizedText>
       </text>
       <text>
@@ -4298,8 +4295,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1541</addrInSeg>
         <originalText>PROTECTION SAVED YOU.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PROTECTION SAVED YOU.</localizedText>
+        <newAddrInSeg>1511</newAddrInSeg>
+        <localizedText>Защита вас спасла.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4309,8 +4306,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1563</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1530</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4320,8 +4317,8 @@ ARE WORTHY +4 SPEED!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1597</addrInSeg>
         <originalText>A CAVERNOUS PASSAGE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A CAVERNOUS PASSAGE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1563</newAddrInSeg>
+        <localizedText>Тоннель вглубь. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4333,10 +4330,10 @@ ARE WORTHY +4 SPEED!</localizedText>
         <originalText>SCRAWLED IN STONE:
 CHARACTER #1 LEADS THE WAY.
 BEWARE, TRAPS ABOUND!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SCRAWLED IN STONE:
-CHARACTER #1 LEADS THE WAY.
-BEWARE, TRAPS ABOUND!</localizedText>
+        <newAddrInSeg>1592</newAddrInSeg>
+        <localizedText>На камне небрежно написано:
+Персонаж #1 ведет.
+Опасайтесь ловушек!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4346,8 +4343,8 @@ BEWARE, TRAPS ABOUND!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1702</addrInSeg>
         <originalText>CORAK WAS HERE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CORAK WAS HERE</localizedText>
+        <newAddrInSeg>1659</newAddrInSeg>
+        <localizedText>Здесь был Корак</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4358,9 +4355,9 @@ BEWARE, TRAPS ABOUND!</localizedText>
         <addrInSeg>1717</addrInSeg>
         <originalText>BEHIND AN OLD TAPESTRY, A MESSAGE
 ETCHED IN GOLD READS: YICU2ME3</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BEHIND AN OLD TAPESTRY, A MESSAGE
-ETCHED IN GOLD READS: YICU2ME3</localizedText>
+        <newAddrInSeg>1675</newAddrInSeg>
+        <localizedText>Позади старого гобелена
+золотая гравировка: YICU2ME3</localizedText>
       </text>
     </dt>
   </locText>
