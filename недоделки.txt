@@ -10,21 +10,6 @@
 
 Сост=добр - заменить адрес 696C на 16FC и перевести GOOD
 
-areab2.ovr
-Ответ на загадку содержится в 0340 (C9E7 в общем пространстве)
-К каждому байту прибавляется 0x40
-LOVE (4C 4F 56 45) становится 8С 8А 96 85
-Функция проверки:
-seg000:00BA 8A 87 B8 3C                             mov     al, [bx+3CB8h]
-seg000:00BE 24 7F                                   and     al, 7Fh
-seg000:00C0 F8                                      clc
-seg000:00C1 14 40                                   adc     al, 40h ; '@'
-seg000:00C3 3A 87 E7 C9                             cmp     al, [bx-3619h]
-seg000:00C7 75 79                                   jnz     short loc_142
-seg000:00C9 FE C3                                   inc     bl
-seg000:00CB 80 FB 04                                cmp     bl, 4
-seg000:00CE 72 EA                                   jb      short loc_BA
-
 areab4.ovr
 найти ответы
 (15,15) Play trivia games at....
@@ -34,3 +19,6 @@ aread2.ovr
 00DD - N
 0147 - E
 018A - W
+
+cave7.ovr (volcano)
+Ответ на загадку

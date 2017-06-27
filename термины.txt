@@ -63,6 +63,8 @@ GATES TO ANOTHER WORLD - ворота в иной мир
 WARRIORS STRONGHOLD - оплот воителей
 WYVERN PEAKS - Горы Виверн
 TRIVIA ISLAND - остров Пустяк
+quivering forest - дрожащий лес
+SHRINE OF OKZAR - склеп Окзара
 
 Замки:
 Doom - Рок
