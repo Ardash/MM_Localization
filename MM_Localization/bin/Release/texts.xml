@@ -4742,8 +4742,8 @@ SPIN IT (Y/N)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>831</addrInSeg>
         <originalText>A PASSAGE LEADS OUTDOORS, EXIT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTDOORS, EXIT (Y/N)?</localizedText>
+        <newAddrInSeg>831</newAddrInSeg>
+        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4755,9 +4755,9 @@ SPIN IT (Y/N)?</originalText>
         <originalText>A TRAP! A PIT FULL OF POISONOUS SPIKES
         OPENS BELOW THE PARTY!
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TRAP! A PIT FULL OF POISONOUS SPIKES
-        OPENS BELOW THE PARTY!
+        <newAddrInSeg>859</newAddrInSeg>
+        <localizedText>Ловушка! Яма с ядовитыми шипами
+    Открылась под группой!
 </localizedText>
       </text>
       <text>
@@ -4768,8 +4768,8 @@ SPIN IT (Y/N)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>940</addrInSeg>
         <originalText>LUCKILY,YOUR LEVITATION SPELL SAVED YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LUCKILY,YOUR LEVITATION SPELL SAVED YOU!</localizedText>
+        <newAddrInSeg>919</newAddrInSeg>
+        <localizedText>Как удачно, левитация вас спасла!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4779,8 +4779,8 @@ SPIN IT (Y/N)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>981</addrInSeg>
         <originalText>SNAKE PIT! </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SNAKE PIT! </localizedText>
+        <newAddrInSeg>953</newAddrInSeg>
+        <localizedText>Яма со змеями! </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4790,8 +4790,8 @@ SPIN IT (Y/N)?</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>993</addrInSeg>
         <originalText>LEVITATION SAVED YOU.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LEVITATION SAVED YOU.</localizedText>
+        <newAddrInSeg>969</newAddrInSeg>
+        <localizedText>левитация вас спасла.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4802,9 +4802,9 @@ SPIN IT (Y/N)?</originalText>
         <addrInSeg>1015</addrInSeg>
         <originalText>SMASHED REMAINS OF STONE STATUES
 SEEM SUSPICIOUSLY LIFELIKE.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SMASHED REMAINS OF STONE STATUES
-SEEM SUSPICIOUSLY LIFELIKE.</localizedText>
+        <newAddrInSeg>991</newAddrInSeg>
+        <localizedText>Разбитые остатки каменных статуй
+выглядят как живые.</localizedText>
       </text>
     </dt>
   </locText>
@@ -4825,14 +4825,14 @@ TO ESCAPE, YOU MUST FIND YOUR CAPTOR'S
 NAME HIDDEN WITHIN THESE WALLS."
 
 ANSWER:&gt; ...............</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A STRANGE ALIEN BEING IN A SHIMMERING
-SILVER JUMPSUIT PROCLAIMS, "THIS IS A
-SOUL MAZE AND YOU ARE ITS PRISONER!
-TO ESCAPE, YOU MUST FIND YOUR CAPTOR'S
-NAME HIDDEN WITHIN THESE WALLS."
+        <newAddrInSeg>409</newAddrInSeg>
+        <localizedText>Странный пришелец, одетый в мерцающий
+серебрянный комбинезон, объясняет: "это
+лабиринт душ и вы здесь пленники! Чтобы
+уйти, вам надо узнать имя пленителя,
+скрытое в этих стенах."
 
-ANSWER:&gt; ...............</localizedText>
+Ответ :&gt; ...............</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4842,8 +4842,8 @@ ANSWER:&gt; ...............</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>619</addrInSeg>
         <originalText>KEEP LOOKING!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>KEEP LOOKING!</localizedText>
+        <newAddrInSeg>614</newAddrInSeg>
+        <localizedText>Ищите дальше!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4858,13 +4858,12 @@ STARPHASE 5281.6 AT 120-VARN-161 POD #41YOU ARE NOW RANK 1 AND ELIGIBLE FOR
 TRANSFER. FIND INNER SANCTUM FOR NEW
 ASSIGNMENT. THE WALLS BEGIN TO FADE...
 (PRESS SPACE)</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AGENT ORANGO SEVENTEEN REPORTING:
-IMPOSTER XX21A7-3 VOIDED!
-STARPHASE 5281.6 AT 120-VARN-161 POD #41YOU ARE NOW RANK 1 AND ELIGIBLE FOR
-TRANSFER. FIND INNER SANCTUM FOR NEW
-ASSIGNMENT. THE WALLS BEGIN TO FADE...
-(PRESS SPACE)</localizedText>
+        <newAddrInSeg>917</newAddrInSeg>
+        <localizedText>Агент Оранго семнадцать докладывает:
+Самозванец XX21A7-3 устранен!
+Фаза 5281.6 борт 120-VARN-161 капсула#41Вам присвоен ранг 1 и выдано разрешение
+на перемещение. Обратитесь во внутреннеесвятилище За новым назначением. Стены
+начали пропадать... (нажмите пробел)</localizedText>
       </text>
     </dt>
   </locText>
