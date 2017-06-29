@@ -75,7 +75,7 @@ WHITE WOLF - Белый волк
 curse - порча
 
 
-
+FEDBAC
 
 TSTST,E1,D-DS15A1DRH dragadune 10,3
 OEI/:1-33-1EK5;D-ET, alamar 7,13

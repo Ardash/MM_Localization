@@ -4879,9 +4879,9 @@ ASSIGNMENT. THE WALLS BEGIN TO FADE...
         <addrInSeg>994</addrInSeg>
         <originalText>A GRUESOME STATUE SAYS:
 "START AT 15-7 AND WALK TO DOOM!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A GRUESOME STATUE SAYS:
-"START AT 15-7 AND WALK TO DOOM!"</localizedText>
+        <newAddrInSeg>994</newAddrInSeg>
+        <localizedText>Ужасная статуя говорит:
+"Начинай с 15-7 и иди к Року!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4892,9 +4892,9 @@ ASSIGNMENT. THE WALLS BEGIN TO FADE...
         <addrInSeg>1052</addrInSeg>
         <originalText>A BANNER READS:
 THE ENDLESS SPIRAL!!!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A BANNER READS:
-THE ENDLESS SPIRAL!!!</localizedText>
+        <newAddrInSeg>1049</newAddrInSeg>
+        <localizedText>На стяге надпись:
+бесконечная спираль!!!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4905,9 +4905,9 @@ THE ENDLESS SPIRAL!!!</localizedText>
         <addrInSeg>1090</addrInSeg>
         <originalText>A SIGN ABOVE THE DOOR READS:
 MONSTER BREEDING GROUNDS, KEEP OUT!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ABOVE THE DOOR READS:
-MONSTER BREEDING GROUNDS, KEEP OUT!</localizedText>
+        <newAddrInSeg>1090</newAddrInSeg>
+        <localizedText>Табличка над дверью гласит:
+Осторожно, инкубатор монстров!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4917,8 +4917,8 @@ MONSTER BREEDING GROUNDS, KEEP OUT!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1155</addrInSeg>
         <originalText>A LOUD MACHINE PULSATES RHYTHMICALLY.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A LOUD MACHINE PULSATES RHYTHMICALLY.</localizedText>
+        <newAddrInSeg>1149</newAddrInSeg>
+        <localizedText>Шумная машина ритмично вибрирует.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4929,9 +4929,9 @@ MONSTER BREEDING GROUNDS, KEEP OUT!</localizedText>
         <addrInSeg>1193</addrInSeg>
         <originalText>A METALIC BOX ECHOES:
 "INTRUDER ALERT!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A METALIC BOX ECHOES:
-"INTRUDER ALERT!"</localizedText>
+        <newAddrInSeg>1183</newAddrInSeg>
+        <localizedText>Металлический ящик голосит:
+"вторжение!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4942,9 +4942,9 @@ MONSTER BREEDING GROUNDS, KEEP OUT!</localizedText>
         <addrInSeg>1233</addrInSeg>
         <originalText>SCRATCHED ON THE WALL:
 SEARCH AFTER THE CANINE REWARDS YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SCRATCHED ON THE WALL:
-SEARCH AFTER THE CANINE REWARDS YOU!</localizedText>
+        <newAddrInSeg>1224</newAddrInSeg>
+        <localizedText>На стене нацарапано: Когда пес наградит
+вас, не забудьте награду!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4956,10 +4956,9 @@ SEARCH AFTER THE CANINE REWARDS YOU!</localizedText>
         <originalText>SCRAWLED ON THE WALL:
 FOR THE WORLD IS HOLLOW AND I HAVE
 TOUCHED THE SKY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SCRAWLED ON THE WALL:
-FOR THE WORLD IS HOLLOW AND I HAVE
-TOUCHED THE SKY!</localizedText>
+        <newAddrInSeg>1290</newAddrInSeg>
+        <localizedText>На стене небрежно написано:
+Ибо мир полый, и я коснулся неба!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4972,9 +4971,9 @@ TOUCHED THE SKY!</localizedText>
 APPROACH.
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SMALL CHILD SHIVERS FEARFULLY AS YOU
-APPROACH.
+        <newAddrInSeg>1352</newAddrInSeg>
+        <localizedText>Маленький мальчик дрожит от страха при
+вашем приближении.
 
 </localizedText>
       </text>
@@ -4987,8 +4986,8 @@ APPROACH.
         <addrInSeg>1418</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+        <newAddrInSeg>1412</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключенного.
 </localizedText>
       </text>
       <text>
@@ -5000,8 +4999,8 @@ APPROACH.
         <addrInSeg>1455</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>2) TORMENT THE PRISONER.
+        <newAddrInSeg>1451</newAddrInSeg>
+        <localizedText>2) пытать заключенного.
 </localizedText>
       </text>
       <text>
@@ -5012,8 +5011,8 @@ APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1481</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+        <newAddrInSeg>1476</newAddrInSeg>
+        <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5023,8 +5022,8 @@ APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1510</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER FLEES!</localizedText>
+        <newAddrInSeg>1501</newAddrInSeg>
+        <localizedText>заключенный убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5034,8 +5033,8 @@ APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1530</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER COWERS!</localizedText>
+        <newAddrInSeg>1522</newAddrInSeg>
+        <localizedText>заключенный съеживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5045,8 +5044,8 @@ APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1551</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1547</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5057,9 +5056,9 @@ APPROACH.
         <addrInSeg>1591</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE D READS:
 //SV/21;-22R,;DU1RS0</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN SILVER, MESSAGE D READS:
-//SV/21;-22R,;DU1RS0</localizedText>
+        <newAddrInSeg>1585</newAddrInSeg>
+        <localizedText>На серебряной табличке D гравировка:
+уект-19-31пеа--г1дьт0</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5069,8 +5068,8 @@ APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1647</addrInSeg>
         <originalText>A GOLDEN DOOR REPELS YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A GOLDEN DOOR REPELS YOU!</localizedText>
+        <newAddrInSeg>1644</newAddrInSeg>
+        <localizedText>Золотая дверь оттолкнула вас!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5081,9 +5080,9 @@ APPROACH.
         <addrInSeg>1673</addrInSeg>
         <originalText>WRITTEN IN BLUE BLOOD:
 THE CANINE HAS THE KEY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WRITTEN IN BLUE BLOOD:
-THE CANINE HAS THE KEY!</localizedText>
+        <newAddrInSeg>1674</newAddrInSeg>
+        <localizedText>Надпись синей кровью:
+Ключ у пса!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5099,14 +5098,12 @@ KING ALAMAR, IMPRISONED BY A DEMONIC
 ALIEN BEING! CONFRONT HIM WITH THIS EYE
 OF GOROS AND YOU SHALL SEE HIS TRUE
 SELF.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SUSPENDED IN A FORCEFIELD IS THE BODY
-OF A MAN ENCLOSED IN AN IRON SUIT.
-TELEPATHIC COMMUNICATION:"I AM THE TRUE
-KING ALAMAR, IMPRISONED BY A DEMONIC
-ALIEN BEING! CONFRONT HIM WITH THIS EYE
-OF GOROS AND YOU SHALL SEE HIS TRUE
-SELF.</localizedText>
+        <newAddrInSeg>1708</newAddrInSeg>
+        <localizedText>В железной клетке тело человека,
+подвешенное в силовом поле.
+Телепатическая связь: "Я настоящий
+король Аламар, захваченный пришельцем-
+демоном! Воспользуйся этим глазом горосаи ты увидишь его истинную природу.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5116,8 +5113,9 @@ SELF.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1952</addrInSeg>
         <originalText>THE FATE OF THE REALM IS AT STAKE."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE FATE OF THE REALM IS AT STAKE."</localizedText>
+        <newAddrInSeg>1918</newAddrInSeg>
+        <localizedText>
+На кону судьба всего королевства."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5128,9 +5126,9 @@ SELF.</localizedText>
         <addrInSeg>1988</addrInSeg>
         <originalText>ETCHED IN SILVER:
 MESSAGE INTERLEAVE 'FEDBAC'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN SILVER:
-MESSAGE INTERLEAVE 'FEDBAC'</localizedText>
+        <newAddrInSeg>1954</newAddrInSeg>
+        <localizedText>На серебряной табличке гравировка:
+Очередность сообщений 'FEDBAC'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5141,9 +5139,10 @@ MESSAGE INTERLEAVE 'FEDBAC'</localizedText>
         <addrInSeg>2034</addrInSeg>
         <originalText>ETCHED IN GOLD:
 MESSAGE INTERLEAVE '8,5,3,9,1,4,6,2,7'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD:
-MESSAGE INTERLEAVE '8,5,3,9,1,4,6,2,7'</localizedText>
+        <newAddrInSeg>1999</newAddrInSeg>
+        <localizedText>На золотой табличке гравировка:
+Очередность сообщений
+'8,5,3,9,1,4,6,2,7'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5154,9 +5153,9 @@ MESSAGE INTERLEAVE '8,5,3,9,1,4,6,2,7'</localizedText>
         <addrInSeg>2090</addrInSeg>
         <originalText>WRITTEN ON THE WALL:
 JUMP THREE TIMES TO REACH CENTER.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WRITTEN ON THE WALL:
-JUMP THREE TIMES TO REACH CENTER.</localizedText>
+        <newAddrInSeg>2090</newAddrInSeg>
+        <localizedText>Надпись на стене:
+три прыжка, чтобы достичь центра.</localizedText>
       </text>
     </dt>
   </locText>
@@ -5172,8 +5171,8 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
         <addrInSeg>860</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OPTIONS:  1) SET THE PRISONER FREE.
+        <newAddrInSeg>860</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключенного.
 </localizedText>
       </text>
       <text>
@@ -5185,8 +5184,8 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
         <addrInSeg>897</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>2) TORMENT THE PRISONER.
+        <newAddrInSeg>899</newAddrInSeg>
+        <localizedText>2) пытать заключенного.
 </localizedText>
       </text>
       <text>
@@ -5197,8 +5196,8 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>923</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>3) LEAVE WITHOUT DISTURBING.</localizedText>
+        <newAddrInSeg>924</newAddrInSeg>
+        <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5208,8 +5207,8 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>952</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER FLEES!</localizedText>
+        <newAddrInSeg>949</newAddrInSeg>
+        <localizedText>заключенный убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5219,8 +5218,8 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>972</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE PRISONER COWERS!</localizedText>
+        <newAddrInSeg>970</newAddrInSeg>
+        <localizedText>заключенный съеживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5233,9 +5232,9 @@ JUMP THREE TIMES TO REACH CENTER.</localizedText>
 GRUNTS AS YOU APPROACH.
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A MUTATED CREATURE CHAINED TO THE FLOOR
-GRUNTS AS YOU APPROACH.
+        <newAddrInSeg>995</newAddrInSeg>
+        <localizedText>животное-мутант, прикованное к полу,
+рычит при вашем приближении.
 
 </localizedText>
       </text>
@@ -5247,8 +5246,8 @@ GRUNTS AS YOU APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1059</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1063</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5258,8 +5257,8 @@ GRUNTS AS YOU APPROACH.
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1099</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1101</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5270,9 +5269,9 @@ GRUNTS AS YOU APPROACH.
         <addrInSeg>1135</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE F READS:
 TSTST,E1,D-DS15A1DRH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN SILVER, MESSAGE F READS:
-TSTST,E1,D-DS15A1DRH</localizedText>
+        <newAddrInSeg>1135</newAddrInSeg>
+        <localizedText>На серебряной табличке F гравировка:
+Унри/21;-22е/11рнпеот</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5283,9 +5282,9 @@ TSTST,E1,D-DS15A1DRH</localizedText>
         <addrInSeg>1191</addrInSeg>
         <originalText>THE GREEN CLOVER GRANTS THOSE WHO
 ARE WORTHY +4 LUCK!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE GREEN CLOVER GRANTS THOSE WHO
-ARE WORTHY +4 LUCK!</localizedText>
+        <newAddrInSeg>1194</newAddrInSeg>
+        <localizedText>Зеленый клевер, тем кто достоин,
+дарует +4 удачи!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5297,10 +5296,10 @@ ARE WORTHY +4 LUCK!</localizedText>
         <originalText>THE FABULOUS FABLED FOUNTAIN OF
 DRAGADUNE CONVERTS ALL GOLD INTO
 EXPERIENCE, ACCEPT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE FABULOUS FABLED FOUNTAIN OF
-DRAGADUNE CONVERTS ALL GOLD INTO
-EXPERIENCE, ACCEPT (Y/N)?</localizedText>
+        <newAddrInSeg>1248</newAddrInSeg>
+        <localizedText>Изумительный легендарный фонтан
+Драгадуна превращает все золото в опыт.
+Согласны (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5311,9 +5310,9 @@ EXPERIENCE, ACCEPT (Y/N)?</localizedText>
         <addrInSeg>1339</addrInSeg>
         <originalText>CARVED IN STONE, A TRIVIAL MESSAGE
 READS: I BE ME</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CARVED IN STONE, A TRIVIAL MESSAGE
-READS: I BE ME</localizedText>
+        <newAddrInSeg>1336</newAddrInSeg>
+        <localizedText>На камне нацарапано пустяковое
+сообщение: Я есть Я</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5323,8 +5322,8 @@ READS: I BE ME</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1389</addrInSeg>
         <originalText>DECAYED BONES CRUNCH BENEATH YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DECAYED BONES CRUNCH BENEATH YOU!</localizedText>
+        <newAddrInSeg>1387</newAddrInSeg>
+        <localizedText>Высохшие кости хрустят под ногами!</localizedText>
       </text>
     </dt>
   </locText>
