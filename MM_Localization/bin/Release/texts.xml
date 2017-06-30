@@ -5339,8 +5339,8 @@ READS: I BE ME</originalText>
         <addrInSeg>1101</addrInSeg>
         <originalText>A SIGN ABOVE THE DOOR READS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ABOVE THE DOOR READS:
+        <newAddrInSeg>1101</newAddrInSeg>
+        <localizedText>Табличка над дверью гласит:
 </localizedText>
       </text>
       <text>
@@ -5351,8 +5351,8 @@ READS: I BE ME</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1131</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STEP UP TO THE BAR (Y/N)?</localizedText>
+        <newAddrInSeg>1130</newAddrInSeg>
+        <localizedText>Подойти к стойке (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5362,8 +5362,8 @@ READS: I BE ME</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1157</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1154</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5373,8 +5373,8 @@ READS: I BE ME</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1193</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1188</newAddrInSeg>
+        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5386,10 +5386,10 @@ READS: I BE ME</originalText>
         <originalText>AN EERIE SILENCE PERVADES THE DESERTED
 INN. SUDDENLY, A GHOSTLY APPARITION
 APPEARS, ASKING, "SIGN IN (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN EERIE SILENCE PERVADES THE DESERTED
-INN. SUDDENLY, A GHOSTLY APPARITION
-APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
+        <newAddrInSeg>1216</newAddrInSeg>
+        <localizedText>В этой гостинице жутко тихо. Внезапно
+появляется призрачное видение и
+спрашивает: "хотите остановиться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5399,8 +5399,8 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1342</addrInSeg>
         <originalText>"FEWLERD'S FEED"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"FEWLERD'S FEED"</localizedText>
+        <newAddrInSeg>1327</newAddrInSeg>
+        <localizedText>"Еда Фьюлера"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5410,8 +5410,8 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1359</addrInSeg>
         <originalText>"MYSTICAL METAL WORKS"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"MYSTICAL METAL WORKS"</localizedText>
+        <newAddrInSeg>1341</newAddrInSeg>
+        <localizedText>"Мистическая кузня"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5421,8 +5421,8 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1382</addrInSeg>
         <originalText>"THE INN OF DUSK"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"THE INN OF DUSK"</localizedText>
+        <newAddrInSeg>1361</newAddrInSeg>
+        <localizedText>"Гостиница Даск"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5433,9 +5433,9 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
         <addrInSeg>1400</addrInSeg>
         <originalText>A YOUNG GNOME MATERIALIZES, ASKING,
 "WOULD YOU BE WANTING MY SERVICES(Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A YOUNG GNOME MATERIALIZES, ASKING,
-"WOULD YOU BE WANTING MY SERVICES(Y/N)?"</localizedText>
+        <newAddrInSeg>1378</newAddrInSeg>
+        <localizedText>Появился молодой гном.
+"Могу я вам помочь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5446,9 +5446,9 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</localizedText>
         <addrInSeg>1477</addrInSeg>
         <originalText>A FAINT OUTLINE OF A MAN APPEARS,
 SAYING, "NEED SOME FEED (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A FAINT OUTLINE OF A MAN APPEARS,
-SAYING, "NEED SOME FEED (Y/N)?"</localizedText>
+        <newAddrInSeg>1428</newAddrInSeg>
+        <localizedText>Вы видите слабое подобие человека.
+"Хотите купить еды (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5459,9 +5459,10 @@ SAYING, "NEED SOME FEED (Y/N)?"</localizedText>
         <addrInSeg>1543</addrInSeg>
         <originalText>BRIGHT LIGHTS SWIRL THROUGHOUT THE ROOM.A HORRIFYING VOICE SHRIEKS,
 "NEED HELP (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BRIGHT LIGHTS SWIRL THROUGHOUT THE ROOM.A HORRIFYING VOICE SHRIEKS,
-"NEED HELP (Y/N)?"</localizedText>
+        <newAddrInSeg>1490</newAddrInSeg>
+        <localizedText>Яркие огоньки мечутся по комнате.
+Ужасный голос визгливо интересуется:
+"Нужна помощь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5472,9 +5473,9 @@ SAYING, "NEED SOME FEED (Y/N)?"</localizedText>
         <addrInSeg>1630</addrInSeg>
         <originalText>SEVERAL EMPTY SUITS OF ARMOR APPROACH
 ASKING, "NEED TRAINING (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SEVERAL EMPTY SUITS OF ARMOR APPROACH
-ASKING, "NEED TRAINING (Y/N)?"</localizedText>
+        <newAddrInSeg>1583</newAddrInSeg>
+        <localizedText>Несколько пустых доспехов интересуются:
+"Хотите потренироваться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5484,8 +5485,8 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1699</addrInSeg>
         <originalText>"CASPER'S FINE SPIRITS"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"CASPER'S FINE SPIRITS"</localizedText>
+        <newAddrInSeg>1655</newAddrInSeg>
+        <localizedText>"Спиртное Каспера"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5495,8 +5496,8 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1723</addrInSeg>
         <originalText>"TEMPLE GEIST"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"TEMPLE GEIST"</localizedText>
+        <newAddrInSeg>1674</newAddrInSeg>
+        <localizedText>"Храм Гейст"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5506,8 +5507,8 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1738</addrInSeg>
         <originalText>"CLEARMAN'S TRAINING"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"CLEARMAN'S TRAINING"</localizedText>
+        <newAddrInSeg>1687</newAddrInSeg>
+        <localizedText>"Тренер Невидимка"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5519,8 +5520,8 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
         <originalText>AN ELF DRESSED IN ROBES APPROACHES...
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN ELF DRESSED IN ROBES APPROACHES...
+        <newAddrInSeg>1706</newAddrInSeg>
+        <localizedText>Приближается эльф одетый в робу...
 
 </localizedText>
       </text>
@@ -5532,8 +5533,8 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1800</addrInSeg>
         <originalText>"YOU'RE NOT THE COURIERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YOU'RE NOT THE COURIERS!</localizedText>
+        <newAddrInSeg>1743</newAddrInSeg>
+        <localizedText>"Вы не курьеры!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5546,11 +5547,12 @@ ASKING, "NEED TRAINING (Y/N)?"</localizedText>
 (+2500 EXP) HERE'S 1500 GOLD FOR YOUR
 SERVICES. I'LL TELL YOU A SECRET, IF
 TREASURE IS WHAT YOU WANT..."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"FRIENDS, I AM TELGORAN. THIS SCROLL YOUHAVE BROUGHT ME WILL BE VERY HELPFUL
-(+2500 EXP) HERE'S 1500 GOLD FOR YOUR
-SERVICES. I'LL TELL YOU A SECRET, IF
-TREASURE IS WHAT YOU WANT..."</localizedText>
+        <newAddrInSeg>1759</newAddrInSeg>
+        <localizedText>"Друзья, я Телгоран. Свиток, что вы
+принесли, мне очень поможет.
+(+2500 опыта) Вот 1500 золота за ваш
+труд. Я расскажу вам один секрет, если
+сокровища это все, что вы ищете..."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5561,9 +5563,9 @@ TREASURE IS WHAT YOU WANT..."</localizedText>
         <addrInSeg>2008</addrInSeg>
         <originalText>"THE BROTHERS YOU MUST FIND...
 PORTSMITH AND ALGARY ARE COMBINED."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"THE BROTHERS YOU MUST FIND...
-PORTSMITH AND ALGARY ARE COMBINED."</localizedText>
+        <newAddrInSeg>1936</newAddrInSeg>
+        <localizedText>"Братьев найди...
+В Портсмит из Алгари ты попади."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5573,8 +5575,8 @@ PORTSMITH AND ALGARY ARE COMBINED."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2091</addrInSeg>
         <originalText>"FORBIDDEN CRYPT"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"FORBIDDEN CRYPT"</localizedText>
+        <newAddrInSeg>2091</newAddrInSeg>
+        <localizedText>"Забытый склеп"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5584,8 +5586,8 @@ PORTSMITH AND ALGARY ARE COMBINED."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2109</addrInSeg>
         <originalText>"ETERNAL REST CHAMBER"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"ETERNAL REST CHAMBER"</localizedText>
+        <newAddrInSeg>2107</newAddrInSeg>
+        <localizedText>"Зал вечного покоя"</localizedText>
       </text>
     </dt>
   </locText>
