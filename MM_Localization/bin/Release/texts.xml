@@ -5604,10 +5604,10 @@ PORTSMITH AND ALGARY ARE COMBINED."</originalText>
         <originalText>ETCHED IN GOLD, MESSAGE 3 READS:
 FOR-TASKS-AND-RATING.-BE-FROM-6TH-
 FRUSTRATIONS!-THE-TO-IN</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD, MESSAGE 3 READS:
-FOR-TASKS-AND-RATING.-BE-FROM-6TH-
-FRUSTRATIONS!-THE-TO-IN</localizedText>
+        <newAddrInSeg>727</newAddrInSeg>
+        <localizedText>На золотой табличке 3 гравировка:
+вот-к-и-рейтинг.-достойными-с-шестой-
+разочаруешься!-вы-реальности,-и</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5617,8 +5617,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>819</addrInSeg>
         <originalText>MINOTAUR DUNG SLUSHES BENEATH YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MINOTAUR DUNG SLUSHES BENEATH YOU!</localizedText>
+        <newAddrInSeg>831</newAddrInSeg>
+        <localizedText>перед вами куча навоза минотавра!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5628,8 +5628,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>854</addrInSeg>
         <originalText>THE ENCHANTED CHAMBER</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE ENCHANTED CHAMBER</localizedText>
+        <newAddrInSeg>865</newAddrInSeg>
+        <localizedText>Волшебная комната</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5639,8 +5639,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>876</addrInSeg>
         <originalText>CLEPTOMIAN GUILD, DO NOT DISTURB!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CLEPTOMIAN GUILD, DO NOT DISTURB!</localizedText>
+        <newAddrInSeg>883</newAddrInSeg>
+        <localizedText>гильдия клептомианов, не беспокоить!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5650,8 +5650,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>910</addrInSeg>
         <originalText>THE COUNCIL OF STRENGTH IS IN SESSION</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE COUNCIL OF STRENGTH IS IN SESSION</localizedText>
+        <newAddrInSeg>920</newAddrInSeg>
+        <localizedText>Тихо, идет совет сильных</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5661,8 +5661,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>948</addrInSeg>
         <originalText>THE UGLIES CLUB - MEMBERS ONLY!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE UGLIES CLUB - MEMBERS ONLY!</localizedText>
+        <newAddrInSeg>945</newAddrInSeg>
+        <localizedText>только для членов клуба уродов!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5672,8 +5672,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>980</addrInSeg>
         <originalText>SPECIMEN TANK - KEEP CLOSED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SPECIMEN TANK - KEEP CLOSED</localizedText>
+        <newAddrInSeg>977</newAddrInSeg>
+        <localizedText>Хранилище образцов - не открывать</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5683,8 +5683,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1008</addrInSeg>
         <originalText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1011</newAddrInSeg>
+        <localizedText>Спиральная лестница вверх, войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5694,8 +5694,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1049</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1051</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5706,8 +5706,8 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <addrInSeg>1297</addrInSeg>
         <originalText>A SIGN ON THE DOOR READS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ON THE DOOR READS:
+        <newAddrInSeg>1297</newAddrInSeg>
+        <localizedText>Табличка на двери гласит:
 </localizedText>
       </text>
       <text>
@@ -5720,10 +5720,9 @@ FRUSTRATIONS!-THE-TO-IN</localizedText>
         <originalText>THE ROOM IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>1324</newAddrInSeg>
+        <localizedText>От пола до потолка комната покрыта
+черно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5734,9 +5733,9 @@ PATTERN!</localizedText>
         <addrInSeg>1406</addrInSeg>
         <originalText>A TAPESTRY ON THE WALL DEPICTS A GRAY
 MINOTAUR STOMPING ON A GROUP OF KNIGHTS.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TAPESTRY ON THE WALL DEPICTS A GRAY
-MINOTAUR STOMPING ON A GROUP OF KNIGHTS.</localizedText>
+        <newAddrInSeg>1379</newAddrInSeg>
+        <localizedText>На стене гобелен, изображающий
+минотавра, топчущего группу рыцарей.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5747,9 +5746,9 @@ MINOTAUR STOMPING ON A GROUP OF KNIGHTS.</localizedText>
         <addrInSeg>1485</addrInSeg>
         <originalText>A TAPESTRY ON THE WALL DEPICTS
 A KINGDOM RULED BY MINOTAURS.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TAPESTRY ON THE WALL DEPICTS
-A KINGDOM RULED BY MINOTAURS.</localizedText>
+        <newAddrInSeg>1447</newAddrInSeg>
+        <localizedText>На стене гобелен, изображающий
+королевство под властью минотавров.</localizedText>
       </text>
     </dt>
   </locText>
@@ -5766,10 +5765,10 @@ A KINGDOM RULED BY MINOTAURS.</localizedText>
         <originalText>ETCHED IN GOLD, MESSAGE 9 READS:
 SUCCESSFUL-THAT-TRAINING,-THE-WORTHY-
 THE-VISIT-YET-INNER-REALITY,-ORDER,</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD, MESSAGE 9 READS:
-SUCCESSFUL-THAT-TRAINING,-THE-WORTHY-
-THE-VISIT-YET-INNER-REALITY,-ORDER,</localizedText>
+        <newAddrInSeg>1113</newAddrInSeg>
+        <localizedText>На золотой табличке 9 гравировка:
+здесь-успешному-тренировки;-Вам-знаний-
+астрального-раз-Еще,-должны-от-оно,</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5780,9 +5779,8 @@ THE-VISIT-YET-INNER-REALITY,-ORDER,</localizedText>
         <addrInSeg>1113</addrInSeg>
         <originalText>THE MASTER OF THIS STRONGHOLD
 HAS BEEN DEFEATED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE MASTER OF THIS STRONGHOLD
-HAS BEEN DEFEATED!</localizedText>
+        <newAddrInSeg>1005</newAddrInSeg>
+        <localizedText>Хозяин крепости повержен!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5793,9 +5791,9 @@ HAS BEEN DEFEATED!</localizedText>
         <addrInSeg>1162</addrInSeg>
         <originalText>ENTER THE MAZE OF THE MINOTAUR...
 IF YOU DARE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ENTER THE MAZE OF THE MINOTAUR...
-IF YOU DARE!</localizedText>
+        <newAddrInSeg>1031</newAddrInSeg>
+        <localizedText>Вход в лабиринт минотавра...
+Если не боишься!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5805,8 +5803,8 @@ IF YOU DARE!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1209</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1077</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5817,9 +5815,8 @@ IF YOU DARE!</localizedText>
         <addrInSeg>1243</addrInSeg>
         <originalText>STANDING ATOP A PEDESTAL IN THE CENTER
 OF THE ROOM IS A STATUE OF A SMALL SABLEAND WHITE DOG. </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STANDING ATOP A PEDESTAL IN THE CENTER
-OF THE ROOM IS A STATUE OF A SMALL SABLEAND WHITE DOG. </localizedText>
+        <newAddrInSeg>1223</newAddrInSeg>
+        <localizedText>Посреди комнаты статуя маленького соболяи белого пса. </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5832,11 +5829,9 @@ OF THE ROOM IS A STATUE OF A SMALL SABLEAND WHITE DOG. </localizedText>
 SPEAKS,"CONGRATULATIONS, YOU'VE
 COMPLETED A MAJOR QUEST (+10000 EXP)
 REMEMBER B.J.!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IT COMES TO LIFE AND
-SPEAKS,"CONGRATULATIONS, YOU'VE
-COMPLETED A MAJOR QUEST (+10000 EXP)
-REMEMBER B.J.!"</localizedText>
+        <newAddrInSeg>1278</newAddrInSeg>
+        <localizedText>Она ожила и говорит:
+"Поздравляю, вы выполнили важное задание(+10000 опыта) Запомни B.J."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5846,8 +5841,8 @@ REMEMBER B.J.!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1444</addrInSeg>
         <originalText>DESECRATE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DESECRATE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1368</newAddrInSeg>
+        <localizedText>Осквернить (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -5863,8 +5858,8 @@ REMEMBER B.J.!"</localizedText>
         <addrInSeg>1250</addrInSeg>
         <originalText>A SIGN ABOVE THE DOOR READS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ABOVE THE DOOR READS:
+        <newAddrInSeg>1250</newAddrInSeg>
+        <localizedText>Табличка над дверью гласит:
 </localizedText>
       </text>
       <text>
@@ -5875,8 +5870,8 @@ REMEMBER B.J.!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1281</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STEP UP TO THE BAR (Y/N)?</localizedText>
+        <newAddrInSeg>1281</newAddrInSeg>
+        <localizedText>Подойти к стойке (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5886,8 +5881,8 @@ REMEMBER B.J.!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1308</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1308</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5897,8 +5892,8 @@ REMEMBER B.J.!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1344</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+        <newAddrInSeg>1342</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5910,10 +5905,9 @@ REMEMBER B.J.!"</localizedText>
         <originalText>ADJUSTING HIS SPECTACLES, AN ELDERLY
 GNOME EYES THE PARTY AND ASKS,
 "SIGNING IN (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ADJUSTING HIS SPECTACLES, AN ELDERLY
-GNOME EYES THE PARTY AND ASKS,
-"SIGNING IN (Y/N)?"</localizedText>
+        <newAddrInSeg>1380</newAddrInSeg>
+        <localizedText>Старый гном поправил очки и спрашивает:
+"Хотите остановиться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5923,8 +5917,8 @@ GNOME EYES THE PARTY AND ASKS,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1461</addrInSeg>
         <originalText>"FOUR STAR FOODS"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"FOUR STAR FOODS"</localizedText>
+        <newAddrInSeg>1449</newAddrInSeg>
+        <localizedText>"Закусочная четыре звезды"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5934,8 +5928,8 @@ GNOME EYES THE PARTY AND ASKS,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1479</addrInSeg>
         <originalText>"CURRENT TRENDS IRONWORKS"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"CURRENT TRENDS IRONWORKS"</localizedText>
+        <newAddrInSeg>1476</newAddrInSeg>
+        <localizedText>"Кузня современные веяния"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5945,8 +5939,8 @@ GNOME EYES THE PARTY AND ASKS,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1506</addrInSeg>
         <originalText>"THE INN OF ERLIQUIN"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"THE INN OF ERLIQUIN"</localizedText>
+        <newAddrInSeg>1503</newAddrInSeg>
+        <localizedText>"Отель Эрликин"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5958,10 +5952,10 @@ GNOME EYES THE PARTY AND ASKS,
         <originalText>A BOISTROUS HALF-ORC PROCLAIMS,
 "WE CARRY THE VERY LATEST,
 BROWSE (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A BOISTROUS HALF-ORC PROCLAIMS,
-"WE CARRY THE VERY LATEST,
-BROWSE (Y/N)?"</localizedText>
+        <newAddrInSeg>1519</newAddrInSeg>
+        <localizedText>Громогласный полуорк заявляет:
+"Все по последней моде"
+Осмотреть (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5972,9 +5966,9 @@ BROWSE (Y/N)?"</localizedText>
         <addrInSeg>1602</addrInSeg>
         <originalText>THE CHEF SAYS,"I ONLY SERVE THE BEST!
 HUNGRY (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE CHEF SAYS,"I ONLY SERVE THE BEST!
-HUNGRY (Y/N)?"</localizedText>
+        <newAddrInSeg>1591</newAddrInSeg>
+        <localizedText>Повар говорит: "У нас самая лучшая еда!
+Голодны (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5985,9 +5979,9 @@ HUNGRY (Y/N)?"</localizedText>
         <addrInSeg>1655</addrInSeg>
         <originalText>SEVERAL FAT CLERICS WELCOME YOU.
 NEED HELP (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SEVERAL FAT CLERICS WELCOME YOU.
-NEED HELP (Y/N)?</localizedText>
+        <newAddrInSeg>1647</newAddrInSeg>
+        <localizedText>Несколько толстых клериков приветствуют
+вас. Помочь (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5998,9 +5992,10 @@ NEED HELP (Y/N)?</localizedText>
         <addrInSeg>1705</addrInSeg>
         <originalText>THREE HUGE ARMOR CLAD KNIGHTS BARK IN
 UNISON, "WANT A GOOD WORKOUT (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THREE HUGE ARMOR CLAD KNIGHTS BARK IN
-UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
+        <newAddrInSeg>1706</newAddrInSeg>
+        <localizedText>Три бронированных рыцаря
+рявкнули в унисон:
+"Хотите потренироваться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6010,8 +6005,8 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1780</addrInSeg>
         <originalText>"TAVERN OF TALL TALES"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"TAVERN OF TALL TALES"</localizedText>
+        <newAddrInSeg>1782</newAddrInSeg>
+        <localizedText>"Таверна хвастунов"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6021,8 +6016,8 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1803</addrInSeg>
         <originalText>"TEMPLE GAUCHE"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"TEMPLE GAUCHE"</localizedText>
+        <newAddrInSeg>1802</newAddrInSeg>
+        <localizedText>"Нескладный храм"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6032,8 +6027,8 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1819</addrInSeg>
         <originalText>"SUPERIOR TRAINING"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"SUPERIOR TRAINING"</localizedText>
+        <newAddrInSeg>1820</newAddrInSeg>
+        <localizedText>"Лучшая тренировка"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6043,8 +6038,8 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1839</addrInSeg>
         <originalText>"I HAVE NO BUSINESS WITH YOU. BEGONE!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"I HAVE NO BUSINESS WITH YOU. BEGONE!"</localizedText>
+        <newAddrInSeg>1840</newAddrInSeg>
+        <localizedText>"Мне нет дела до вас. Уходите"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6056,10 +6051,10 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</localizedText>
         <originalText>"YOU HAVE DONE WELL TO BRING ME THIS
 SCROLL. (+1000 EXP) NOW TAKE IT TO MY
 PROTEGE TELGORAN IN DUSK."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"YOU HAVE DONE WELL TO BRING ME THIS
-SCROLL. (+1000 EXP) NOW TAKE IT TO MY
-PROTEGE TELGORAN IN DUSK."</localizedText>
+        <newAddrInSeg>1871</newAddrInSeg>
+        <localizedText>"Вы молодцы, что принесли мне этот
+свиток. (+1000 опыта) Теперь отнесите
+его моему протеже Телгорану в Даск."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6071,8 +6066,8 @@ PROTEGE TELGORAN IN DUSK."</localizedText>
         <originalText>THE WIZARD AGAR SPEAKS:
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE WIZARD AGAR SPEAKS:
+        <newAddrInSeg>1981</newAddrInSeg>
+        <localizedText>Волшебник Агар говорит:
 
 </localizedText>
       </text>
@@ -6084,8 +6079,8 @@ PROTEGE TELGORAN IN DUSK."</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2006</addrInSeg>
         <originalText>POOF!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POOF!</localizedText>
+        <newAddrInSeg>2007</newAddrInSeg>
+        <localizedText>Пуфф!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6097,10 +6092,10 @@ PROTEGE TELGORAN IN DUSK."</localizedText>
         <originalText>TOWN GUARDS: YOU'RE UNDER ARREST!
 
 A)ATTACK B)BRIBE C)RUN D)SURRENDER</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TOWN GUARDS: YOU'RE UNDER ARREST!
+        <newAddrInSeg>2013</newAddrInSeg>
+        <localizedText>Стража: Вы арестованы!
 
-A)ATTACK B)BRIBE C)RUN D)SURRENDER</localizedText>
+A)Напасть B)Взятка  C)Убежать D)Сдаться</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6110,8 +6105,8 @@ A)ATTACK B)BRIBE C)RUN D)SURRENDER</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2083</addrInSeg>
         <originalText>HIGH COURT SENTENCE: YEARS= </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>HIGH COURT SENTENCE: YEARS= </localizedText>
+        <newAddrInSeg>2083</newAddrInSeg>
+        <localizedText>суд постановил: лет ареста= </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6121,8 +6116,8 @@ A)ATTACK B)BRIBE C)RUN D)SURRENDER</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2112</addrInSeg>
         <originalText>TOWN TREASURE, STEAL (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TOWN TREASURE, STEAL (Y/N)?</localizedText>
+        <newAddrInSeg>2112</newAddrInSeg>
+        <localizedText>Сокровище, украсть (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
