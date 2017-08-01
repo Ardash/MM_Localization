@@ -12768,10 +12768,9 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <originalText>LARA, THE INKEEPERS VOLUPTUOUS
 DAUGHTER, ASKS IF YOU WILL BE SPENDING
 THE NIGHT... SIGN IN (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LARA, THE INKEEPERS VOLUPTUOUS
-DAUGHTER, ASKS IF YOU WILL BE SPENDING
-THE NIGHT... SIGN IN (Y/N)?</localizedText>
+        <newAddrInSeg>1111</newAddrInSeg>
+        <localizedText>Лара, пышная дочка владельца гостиницы,
+спрашивает: "Хотите переночевать (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12782,8 +12781,8 @@ THE NIGHT... SIGN IN (Y/N)?</localizedText>
         <addrInSeg>1209</addrInSeg>
         <originalText>A SIGN ABOVE THE DOOR READS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SIGN ABOVE THE DOOR READS:
+        <newAddrInSeg>1192</newAddrInSeg>
+        <localizedText>Табличка над дверью гласит:
 </localizedText>
       </text>
       <text>
@@ -12794,8 +12793,8 @@ THE NIGHT... SIGN IN (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1239</addrInSeg>
         <originalText>"MAID MARION'S MARKET"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"MAID MARION'S MARKET"</localizedText>
+        <newAddrInSeg>1221</newAddrInSeg>
+        <localizedText>"Рынок молодой Марионы"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12805,8 +12804,8 @@ THE NIGHT... SIGN IN (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1262</addrInSeg>
         <originalText>"B. SMITH'S WORKSHOP"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"B. SMITH'S WORKSHOP"</localizedText>
+        <newAddrInSeg>1245</newAddrInSeg>
+        <localizedText>"Кузница Б."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12816,8 +12815,8 @@ THE NIGHT... SIGN IN (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1284</addrInSeg>
         <originalText>"INN OF PORTSMITH"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"INN OF PORTSMITH"</localizedText>
+        <newAddrInSeg>1258</newAddrInSeg>
+        <localizedText>"Отель Портсмит"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12828,9 +12827,10 @@ THE NIGHT... SIGN IN (Y/N)?</localizedText>
         <addrInSeg>1303</addrInSeg>
         <originalText>BUSILY FORGING A LONG SWORD,AN EXTREMELYBEAUTIFUL YOUNG GIRL SAYS WITH A
 SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BUSILY FORGING A LONG SWORD,AN EXTREMELYBEAUTIFUL YOUNG GIRL SAYS WITH A
-SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</localizedText>
+        <newAddrInSeg>1275</newAddrInSeg>
+        <localizedText>Прекрасная молодая дева соблазнительно
+улыбается и усердно кует длинный меч.
+"Могу я вам помочь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12842,10 +12842,9 @@ SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</localizedText>
         <originalText>FROM BEHIND THE FRUIT STAND
 A SULTRY VOICE ASKS, "SEE ANYTHING
 YOU LIKE (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FROM BEHIND THE FRUIT STAND
-A SULTRY VOICE ASKS, "SEE ANYTHING
-YOU LIKE (Y/N)?"</localizedText>
+        <newAddrInSeg>1379</newAddrInSeg>
+        <localizedText>Страстный голос из-за стойки с фруктами
+спрашивает: "Выбрали что-то (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12855,8 +12854,8 @@ YOU LIKE (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1497</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STEP UP TO THE BAR (Y/N)?</localizedText>
+        <newAddrInSeg>1455</newAddrInSeg>
+        <localizedText>Подойти к стойке (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12868,10 +12867,10 @@ YOU LIKE (Y/N)?"</localizedText>
         <originalText>THE ONCE MAGNIFICENT TEMPLE SHOWS
 SIGNS OF NEGLECT AND DECAY. THE HIGH
 PRIESTESS ASKS,"NEED HELP (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE ONCE MAGNIFICENT TEMPLE SHOWS
-SIGNS OF NEGLECT AND DECAY. THE HIGH
-PRIESTESS ASKS,"NEED HELP (Y/N)?"</localizedText>
+        <newAddrInSeg>1479</newAddrInSeg>
+        <localizedText>В этом Прекрасном храме видны следы
+запустения и старения. Высшая жрица
+спрашивает: "Нужна помощь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12883,10 +12882,10 @@ PRIESTESS ASKS,"NEED HELP (Y/N)?"</localizedText>
         <originalText>A TALL, MUSCULAR FEMALE CLAD IN LEATHER
 ARMOR APPROACHES ASKING, "STRANGERS,
 ARE YOU HERE FOR TRAINING (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A TALL, MUSCULAR FEMALE CLAD IN LEATHER
-ARMOR APPROACHES ASKING, "STRANGERS,
-ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
+        <newAddrInSeg>1585</newAddrInSeg>
+        <localizedText>К вам подошла высокая мускулистая
+женщина в кожаной броне. "Незнакомцы,
+Хотите потренироваться (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12896,8 +12895,8 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1739</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1688</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12907,8 +12906,8 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1775</addrInSeg>
         <originalText>"ZORELDA'S WATERING HOLE"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"ZORELDA'S WATERING HOLE"</localizedText>
+        <newAddrInSeg>1722</newAddrInSeg>
+        <localizedText>"Скважина Зорельды"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12918,8 +12917,8 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1801</addrInSeg>
         <originalText>"TEMPLE SUCCUBON"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"TEMPLE SUCCUBON"</localizedText>
+        <newAddrInSeg>1742</newAddrInSeg>
+        <localizedText>"Храм Суккубон"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12929,8 +12928,8 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1819</addrInSeg>
         <originalText>"AMAZONIA'S TRAINING"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"AMAZONIA'S TRAINING"</localizedText>
+        <newAddrInSeg>1758</newAddrInSeg>
+        <localizedText>"Тренер Амазония"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12940,8 +12939,8 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1841</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PASSAGE OUTSIDE, EXIT (Y/N)?</localizedText>
+        <newAddrInSeg>1776</newAddrInSeg>
+        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12953,9 +12952,9 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</localizedText>
         <originalText>"I AM ZAM, ASTRAL BROTHER OF ZOM AND
 ONLY LIVING MALE RESIDING IN PORTSMITH
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"I AM ZAM, ASTRAL BROTHER OF ZOM AND
-ONLY LIVING MALE RESIDING IN PORTSMITH
+        <newAddrInSeg>1847</newAddrInSeg>
+        <localizedText>"Я Зам, астральный брат Зома и
+единственный живой мужчина в Портсмите
 </localizedText>
       </text>
       <text>
@@ -12966,8 +12965,8 @@ ONLY LIVING MALE RESIDING IN PORTSMITH
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1947</addrInSeg>
         <originalText>MY CLUE IS C-15"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MY CLUE IS C-15"</localizedText>
+        <newAddrInSeg>1918</newAddrInSeg>
+        <localizedText>моя подсказка C-15"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12977,8 +12976,8 @@ ONLY LIVING MALE RESIDING IN PORTSMITH
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1964</addrInSeg>
         <originalText>YOU'RE NOT THE COURIERS!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU'RE NOT THE COURIERS!"</localizedText>
+        <newAddrInSeg>1938</newAddrInSeg>
+        <localizedText>Вы не курьеры!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12990,10 +12989,9 @@ ONLY LIVING MALE RESIDING IN PORTSMITH
         <originalText>A SENSUOUS FEMALE VOICE SPEAKS FROM
 WITHIN AN INTOXICATING MIST,
 "YOU'VE DISCOVERED MY SECRET!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A SENSUOUS FEMALE VOICE SPEAKS FROM
-WITHIN AN INTOXICATING MIST,
-"YOU'VE DISCOVERED MY SECRET!"</localizedText>
+        <newAddrInSeg>1954</newAddrInSeg>
+        <localizedText>Чувственный женский голос слышен сквозь
+дурман: "Вы раскрыли мой секрет!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13003,8 +13001,8 @@ WITHIN AN INTOXICATING MIST,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2086</addrInSeg>
         <originalText>NOTE: ZAM 12,2</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>NOTE: ZAM 12,2</localizedText>
+        <newAddrInSeg>2028</newAddrInSeg>
+        <localizedText>Надпись: Зам 12,2</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13014,8 +13012,8 @@ WITHIN AN INTOXICATING MIST,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2101</addrInSeg>
         <originalText>MALES ARE DRAINED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MALES ARE DRAINED!</localizedText>
+        <newAddrInSeg>2046</newAddrInSeg>
+        <localizedText>Мужчины слабеют!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13032,10 +13030,10 @@ WITHIN AN INTOXICATING MIST,
         <originalText>ETCHED IN GOLD, MESSAGE 7 READS:
 THESE-AND-THAT-MUST-CAN-DIFFERENT-
 SHALL-HAVE-FROM-A-JVC</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD, MESSAGE 7 READS:
-THESE-AND-THAT-MUST-CAN-DIFFERENT-
-SHALL-HAVE-FROM-A-JVC</localizedText>
+        <newAddrInSeg>844</newAddrInSeg>
+        <localizedText>На золотой табличке 7 гравировка:
+выполнить-и-которое-короля,-это-разных-
+карту-во-моей-уже-JVC</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13046,9 +13044,9 @@ SHALL-HAVE-FROM-A-JVC</localizedText>
         <addrInSeg>934</addrInSeg>
         <originalText>CLUB DEAD...
 THE ANTIDOTE TO HUMANIZATION!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CLUB DEAD...
-THE ANTIDOTE TO HUMANIZATION!</localizedText>
+        <newAddrInSeg>940</newAddrInSeg>
+        <localizedText>Клуб мертвых...
+Антидот гуманизации!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13058,8 +13056,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>977</addrInSeg>
         <originalText>TEMPLE OF THE OLD ORDER</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TEMPLE OF THE OLD ORDER</localizedText>
+        <newAddrInSeg>977</newAddrInSeg>
+        <localizedText>Храм старого порядка</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13069,8 +13067,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1001</addrInSeg>
         <originalText>GLASS ROOM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GLASS ROOM</localizedText>
+        <newAddrInSeg>998</newAddrInSeg>
+        <localizedText>зал стекла</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13080,8 +13078,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1012</addrInSeg>
         <originalText>RUBY ROOM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>RUBY ROOM</localizedText>
+        <newAddrInSeg>1009</newAddrInSeg>
+        <localizedText>зал рубина</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13091,8 +13089,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1022</addrInSeg>
         <originalText>TWINKLE ROOM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TWINKLE ROOM</localizedText>
+        <newAddrInSeg>1020</newAddrInSeg>
+        <localizedText>зал блеска</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13102,8 +13100,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1035</addrInSeg>
         <originalText>RAINBOW ROOM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>RAINBOW ROOM</localizedText>
+        <newAddrInSeg>1031</newAddrInSeg>
+        <localizedText>зал радуги</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13113,8 +13111,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1048</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</localizedText>
+        <newAddrInSeg>1042</newAddrInSeg>
+        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13124,7 +13122,7 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1088</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1070</newAddrInSeg>
         <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
       </text>
       <text>
@@ -13135,7 +13133,7 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1088</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1070</newAddrInSeg>
         <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
       </text>
       <text>
@@ -13146,8 +13144,8 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1088</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1070</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13159,10 +13157,9 @@ THE ANTIDOTE TO HUMANIZATION!</localizedText>
         <originalText>THE ROOM IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>1372</newAddrInSeg>
+        <localizedText>От пола до потолка комната покрыта
+черно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13172,8 +13169,8 @@ PATTERN!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1454</addrInSeg>
         <originalText>THE CRYSTAL GRATE REPELS YOU!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE CRYSTAL GRATE REPELS YOU!</localizedText>
+        <newAddrInSeg>1427</newAddrInSeg>
+        <localizedText>Кристальная решетка оттолкнула вас!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13188,8 +13185,8 @@ PATTERN!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>740</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>740</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13199,8 +13196,8 @@ PATTERN!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>776</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>774</newAddrInSeg>
+        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13212,10 +13209,9 @@ PATTERN!</localizedText>
         <originalText>THE WALL IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE WALL IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>1094</newAddrInSeg>
+        <localizedText>От пола до потолка комната покрыта
+черно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13226,9 +13222,9 @@ PATTERN!</localizedText>
         <addrInSeg>1176</addrInSeg>
         <originalText>WITHOUT EXPERIMENTAL SUBSTANCE
 THERE IS NO HOPE...POOF!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WITHOUT EXPERIMENTAL SUBSTANCE
-THERE IS NO HOPE...POOF!</localizedText>
+        <newAddrInSeg>1149</newAddrInSeg>
+        <localizedText>Без экспериментальной субстанции и не
+надейтесь...Вжух!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13243,8 +13239,8 @@ THERE IS NO HOPE...POOF!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>387</addrInSeg>
         <originalText>YOU HAVE BEEN SUMMONED...POOF!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>YOU HAVE BEEN SUMMONED...POOF!</localizedText>
+        <newAddrInSeg>387</newAddrInSeg>
+        <localizedText>Вас призвали...Вжух!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13254,8 +13250,8 @@ THERE IS NO HOPE...POOF!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>408</newAddrInSeg>
+        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13265,8 +13261,8 @@ THERE IS NO HOPE...POOF!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>408</newAddrInSeg>
+        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13278,10 +13274,9 @@ THERE IS NO HOPE...POOF!</localizedText>
         <originalText>THE ROOM IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE ROOM IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>443</newAddrInSeg>
+        <localizedText>От пола до потолка комната покрыта
+черно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13296,8 +13291,8 @@ PATTERN!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>529</addrInSeg>
         <originalText>DANGER! DUNGEON UNDER CONSTRUCTION.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>DANGER! DUNGEON UNDER CONSTRUCTION.</localizedText>
+        <newAddrInSeg>529</newAddrInSeg>
+        <localizedText>Опасно! Идет строительство.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13307,8 +13302,8 @@ PATTERN!</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>565</addrInSeg>
         <originalText>A LADDER GOING UP, CLIMB IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A LADDER GOING UP, CLIMB IT (Y/N)?</localizedText>
+        <newAddrInSeg>557</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13319,9 +13314,9 @@ PATTERN!</localizedText>
         <addrInSeg>734</addrInSeg>
         <originalText>THE WALL IS PAINTED IN A BLACK AND
 WHITE CHECKERED PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE WALL IS PAINTED IN A BLACK AND
-WHITE CHECKERED PATTERN!</localizedText>
+        <newAddrInSeg>734</newAddrInSeg>
+        <localizedText>От пола до потолка комната покрыта
+черно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>

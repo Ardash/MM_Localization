@@ -30,6 +30,9 @@
       Command="{x:Static commands:MM_Localization_Commands.GetProgress}"
       Executed="GetProgressBinding_Executed" />
     <CommandBinding
+      Command="{x:Static commands:MM_Localization_Commands.ExportExcel}"
+      Executed="ExportExcelBinding_Executed" />
+    <CommandBinding
       Command="{x:Static commands:MM_Localization_Commands.Options}"
       Executed="OptionsBinding_Executed" />
   </Window.CommandBindings>
@@ -78,6 +81,9 @@
         <MenuItem
           Header="Check _Progress"
           Command="{x:Static commands:MM_Localization_Commands.GetProgress}" />
+        <MenuItem
+          Header="Export to _Excel"
+          Command="{x:Static commands:MM_Localization_Commands.ExportExcel}" />
         <Separator />
         <MenuItem
           Header="_Options..."

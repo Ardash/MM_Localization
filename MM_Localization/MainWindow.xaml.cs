@@ -1,14 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Data;
 using System.Globalization;
 using System.IO;
+using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
 using System.Windows.Input;
+using System.Xml;
 using System.Xml.Serialization;
+using Excel = Microsoft.Office.Interop.Excel;
 
 namespace MM_Localization {
   public class StringToHex4Converter : IValueConverter {
@@ -2147,6 +2152,44 @@ namespace MM_Localization {
       System.Windows.MessageBox.Show(this, textsViewModel.CheckProgress(),
         "Progress", MessageBoxButton.OK, MessageBoxImage.Information);
     }
+
+    private void ExportExcelBinding_Executed(object sender, 
+                                             ExecutedRoutedEventArgs e) {
+      string path = "";
+      using (var dialog = new System.Windows.Forms.SaveFileDialog()) {
+        dialog.InitialDirectory = appPath;
+        dialog.Filter = "|*.xlsx";
+        if (System.Windows.Forms.DialogResult.OK != dialog.ShowDialog())
+          return;
+        path = dialog.FileName;
+      }
+
+      Excel.Application xlApp = new Excel.Application();
+      Excel.Workbook xlWorkBook = xlApp.Workbooks.Add();
+      var sheets = xlWorkBook.Worksheets;
+      sheets.Add(Missing.Value, Missing.Value, 
+                                textsViewModel.lstFNames.Length - 1);
+
+      for (int i = 0; i < textsViewModel.lstFNames.Length; i++) {
+        var xlWorkSheet = (Excel.Worksheet)sheets.get_Item(i + 1);
+        string fName = textsViewModel.lstFNames[i];
+        xlWorkSheet.Name = fName;
+        locText lt = textsViewModel.locTexts.Find(x => x.fName == fName);
+        if (lt == null) continue;
+        for (int j = 0; j < lt.dt.Count; j++) {
+          xlWorkSheet.Cells[j + 1, 1] = lt.dt[j].originalText;
+          xlWorkSheet.Cells[j + 1, 2] = string.Format("=LEN(A{0})", j + 1);
+          xlWorkSheet.Cells[j + 1, 3] = lt.dt[j].localizedText;
+          xlWorkSheet.Cells[j + 1, 4] = string.Format("=LEN(C{0})", j + 1);
+        }
+        xlWorkSheet.Columns.AutoFit();
+        xlWorkSheet.Rows.AutoFit();
+      }
+
+      xlWorkBook.SaveAs(path);
+      xlWorkBook.Close();
+      xlApp.Quit();
+    }
   }
 }
 
@@ -2174,6 +2217,9 @@ namespace MM_Localization.Commands {
 
     public static RoutedUICommand GetProgress =
       new RoutedUICommand("", "GetProgress", typeof(MM_Localization_Commands));
+
+    public static RoutedUICommand ExportExcel =
+      new RoutedUICommand("", "ExportExcel", typeof(MM_Localization_Commands));
 
     public static RoutedUICommand Options =
       new RoutedUICommand("", "Options", typeof(MM_Localization_Commands));
