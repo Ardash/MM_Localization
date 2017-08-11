@@ -13210,7 +13210,7 @@ PATTERN!</originalText>
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1094</newAddrInSeg>
-        <localizedText>От пола до потолка комната покрыта
+        <localizedText>От пола до потолка стена покрыта
 черно-белым узором!</localizedText>
       </text>
       <text>
@@ -13222,7 +13222,7 @@ PATTERN!</originalText>
         <addrInSeg>1176</addrInSeg>
         <originalText>WITHOUT EXPERIMENTAL SUBSTANCE
 THERE IS NO HOPE...POOF!</originalText>
-        <newAddrInSeg>1149</newAddrInSeg>
+        <newAddrInSeg>1147</newAddrInSeg>
         <localizedText>Без экспериментальной субстанции и не
 надейтесь...Вжух!</localizedText>
       </text>
@@ -13333,10 +13333,9 @@ WHITE CHECKERED PATTERN!</originalText>
         <originalText>ETCHED IN GOLD, MESSAGE 1 READS:
 COMPLETION-MUST-EACH-KINGS-OF-ASTRAL-
 WITH-9TH-SANCTUM-AND-WONDROUS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD, MESSAGE 1 READS:
-COMPLETION-MUST-EACH-KINGS-OF-ASTRAL-
-WITH-9TH-SANCTUM-AND-WONDROUS</localizedText>
+        <newAddrInSeg>1190</newAddrInSeg>
+        <localizedText>На золотой табличке 1 гравировка:
+список-завершению-у-нужно-и-плана-возьми-для-достигнуть-реальности-кажется,</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13348,10 +13347,10 @@ WITH-9TH-SANCTUM-AND-WONDROUS</localizedText>
         <originalText>A GHOSTLIKE FIGURE RISES FROM THE BODY
 OF OKRIM AND SPEAKS,"IN EXCHANGE FOR
 MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A GHOSTLIKE FIGURE RISES FROM THE BODY
-OF OKRIM AND SPEAKS,"IN EXCHANGE FOR
-MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</localizedText>
+        <newAddrInSeg>1022</newAddrInSeg>
+        <localizedText>Из тела Окрима встает призрачная фигура
+и говорит: "В обмен на мое кольцо я
+заберу вашу жизнь. Согласны (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13362,9 +13361,9 @@ MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</localizedText>
         <addrInSeg>1138</addrInSeg>
         <originalText>"MAY THE SHADOW OF DEATH GREET YOU
 WITH OPEN ARMS!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>"MAY THE SHADOW OF DEATH GREET YOU
-WITH OPEN ARMS!"</localizedText>
+        <newAddrInSeg>1134</newAddrInSeg>
+        <localizedText>"Да примет вас тень смерти с
+распростертыми объятиями!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13375,9 +13374,10 @@ WITH OPEN ARMS!"</localizedText>
         <addrInSeg>1190</addrInSeg>
         <originalText>A GEM ENCRUSTED ARCHWAY READS:
 LAIR OF THE OMNIPOTENT WIZARD OKRIM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A GEM ENCRUSTED ARCHWAY READS:
-LAIR OF THE OMNIPOTENT WIZARD OKRIM</localizedText>
+        <newAddrInSeg>920</newAddrInSeg>
+        <localizedText>На инкрустированной камнями арке
+надпись: дом всемогущего волшебника
+Окрима</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13388,9 +13388,8 @@ LAIR OF THE OMNIPOTENT WIZARD OKRIM</localizedText>
         <addrInSeg>1257</addrInSeg>
         <originalText>AN OPENING ABOVE LEADS OUTSIDE,
 CLIMB OUT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AN OPENING ABOVE LEADS OUTSIDE,
-CLIMB OUT (Y/N)?</localizedText>
+        <newAddrInSeg>1607</newAddrInSeg>
+        <localizedText>Провал ведет наружу. Вылезти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13400,8 +13399,8 @@ CLIMB OUT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1306</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1300</newAddrInSeg>
+        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13411,8 +13410,8 @@ CLIMB OUT (Y/N)?</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1554</addrInSeg>
         <originalText>THE FLOOR SPINS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE FLOOR SPINS!</localizedText>
+        <newAddrInSeg>996</newAddrInSeg>
+        <localizedText>Пол вращается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13424,10 +13423,9 @@ CLIMB OUT (Y/N)?</localizedText>
         <originalText>THE WALL IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE WALL IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>1554</newAddrInSeg>
+        <localizedText>От пола до потолка стена покрыта
+черно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13444,10 +13442,10 @@ PATTERN!</localizedText>
         <originalText>ETCHED IN GOLD, MESSAGE 4 READS:
 OF-BE-HAS-TRUE-KNOWLEDGE-PLANE-A-LEVEL-
 TO-REALITY-IT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ETCHED IN GOLD, MESSAGE 4 READS:
-OF-BE-HAS-TRUE-KNOWLEDGE-PLANE-A-LEVEL-
-TO-REALITY-IT</localizedText>
+        <newAddrInSeg>636</newAddrInSeg>
+        <localizedText>На золотой табличке 4 гравировка:
+задач,-первой-всего-узнать-применить-
+пять-с-того,-девятого-к-будет</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13459,10 +13457,10 @@ TO-REALITY-IT</localizedText>
         <originalText>A BANNER READS:
 THE LABYRINTH OF LAZZERUTH...
 FEW HAVE ENTERED, NONE HAVE RETURNED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A BANNER READS:
-THE LABYRINTH OF LAZZERUTH...
-FEW HAVE ENTERED, NONE HAVE RETURNED!</localizedText>
+        <newAddrInSeg>738</newAddrInSeg>
+        <localizedText>Надпись на стяге:
+Лабиринт Лаззарря...
+Многие входили, никто не вернулся!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13473,9 +13471,9 @@ FEW HAVE ENTERED, NONE HAVE RETURNED!</localizedText>
         <addrInSeg>807</addrInSeg>
         <originalText>INSET IN THE WALL, A STONE FACE
 YELLS: "MY BRAIN HURTS!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>INSET IN THE WALL, A STONE FACE
-YELLS: "MY BRAIN HURTS!"</localizedText>
+        <newAddrInSeg>812</newAddrInSeg>
+        <localizedText>Каменное лицо на стене кричит:
+"Мой мозг болит!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13487,10 +13485,10 @@ YELLS: "MY BRAIN HURTS!"</localizedText>
         <originalText>INSET IN THE WALL, A STONE FACE
 SPEAKS: "I WOULD PAY HIGHLY FOR A GREEN
 HANDLED, PEARL ENCRUSTED ABELNUSKI."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>INSET IN THE WALL, A STONE FACE
-SPEAKS: "I WOULD PAY HIGHLY FOR A GREEN
-HANDLED, PEARL ENCRUSTED ABELNUSKI."</localizedText>
+        <newAddrInSeg>861</newAddrInSeg>
+        <localizedText>Каменное лицо на стене говорит:
+"Я хорошо заплачу за абельнуску с
+зеленой ручкой, украшенную жемчугом"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13502,10 +13500,10 @@ HANDLED, PEARL ENCRUSTED ABELNUSKI."</localizedText>
         <originalText>INSET IN THE WALL, A STONE FACE
 SPEAKS: "I SEE ALL, HEAR ALL,
 KNOW NOTHING..."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>INSET IN THE WALL, A STONE FACE
-SPEAKS: "I SEE ALL, HEAR ALL,
-KNOW NOTHING..."</localizedText>
+        <newAddrInSeg>964</newAddrInSeg>
+        <localizedText>Каменное лицо на стене говорит:
+"Я все вижу, все слышу,
+ничего не знаю..."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13517,10 +13515,10 @@ KNOW NOTHING..."</localizedText>
         <originalText>INSET IN THE WALL, A STONE FACE
 PROCLAIMS: "OKRIM IS WATCHING.
 HE STUDIES YOUR WEAKNESSES!"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>INSET IN THE WALL, A STONE FACE
-PROCLAIMS: "OKRIM IS WATCHING.
-HE STUDIES YOUR WEAKNESSES!"</localizedText>
+        <newAddrInSeg>1039</newAddrInSeg>
+        <localizedText>Каменное лицо на стене
+заявляет: "Окрим наблюдает.
+Он знает ваши слабости!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13530,8 +13528,8 @@ HE STUDIES YOUR WEAKNESSES!"</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1144</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>STAIRS GOING UP, TAKE THEM (Y/N)?</localizedText>
+        <newAddrInSeg>1115</newAddrInSeg>
+        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13543,10 +13541,9 @@ HE STUDIES YOUR WEAKNESSES!"</localizedText>
         <originalText>THE WALL IS PAINTED FROM CEILING TO
 FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>THE WALL IS PAINTED FROM CEILING TO
-FLOOR IN A BLACK AND WHITE CHECKERED
-PATTERN!</localizedText>
+        <newAddrInSeg>1414</newAddrInSeg>
+        <localizedText>От пола до потолка стена покрыта
+черно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13557,9 +13554,9 @@ PATTERN!</localizedText>
         <addrInSeg>1496</addrInSeg>
         <originalText>A STRANGE RINGING SOUND STARTLES
 THE PARTY. YOU ARE TELEPORTED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>A STRANGE RINGING SOUND STARTLES
-THE PARTY. YOU ARE TELEPORTED!</localizedText>
+        <newAddrInSeg>1467</newAddrInSeg>
+        <localizedText>Странный звон пугает вас.
+Вы телепортировались!</localizedText>
       </text>
     </dt>
   </locText>
