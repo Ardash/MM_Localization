@@ -65,6 +65,7 @@ WYVERN PEAKS - Горы Виверн
 TRIVIA ISLAND - остров Пустяк
 quivering forest - дрожащий лес
 SHRINE OF OKZAR - склеп Окзара
+Ravens wood - вороний лес
 
 Замки:
 Doom - Рок
