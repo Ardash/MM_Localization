@@ -14432,7 +14432,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1343</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1343</newAddrInSeg>
         <localizedText>Покинуть замок (Y/N)?</localizedText>
       </text>
       <text>
@@ -14443,7 +14443,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1363</addrInSeg>
         <originalText>BUTTON ON THE WALL, PUSH IT (Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1365</newAddrInSeg>
         <localizedText>Кнопка на стене. Нажать (Y/N)?</localizedText>
       </text>
       <text>
@@ -14454,7 +14454,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1399</addrInSeg>
         <originalText>FIND THE STRONGHOLD IN RAVENS WOOD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1399</newAddrInSeg>
         <localizedText>Найди крепость в вороньем лесу</localizedText>
       </text>
       <text>
@@ -14465,7 +14465,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1434</addrInSeg>
         <originalText>FIND LORD KILBURN</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1430</newAddrInSeg>
         <localizedText>Найди лорда Килбурна</localizedText>
       </text>
       <text>
@@ -14476,7 +14476,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1452</addrInSeg>
         <originalText>DISCOVER THE SECRET OF PORTSMITH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1451</newAddrInSeg>
         <localizedText>Раскрой секрет Портсмита</localizedText>
       </text>
       <text>
@@ -14487,7 +14487,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1485</addrInSeg>
         <originalText>FIND THE PIRATES SECRET COVE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1476</newAddrInSeg>
         <localizedText>Найди секретную пиратскую пещеру</localizedText>
       </text>
       <text>
@@ -14498,7 +14498,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1514</addrInSeg>
         <originalText>FIND THE SHIPWRECK OF THE JOLLY RAVEN</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1509</newAddrInSeg>
         <localizedText>Найди обломки корабля Веселый ворон</localizedText>
       </text>
       <text>
@@ -14509,7 +14509,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1552</addrInSeg>
         <originalText>DEFEAT THE PIRATE GHOST SHIP ANARCHIST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1545</newAddrInSeg>
         <localizedText>Сокруши корабль-призрак пиратов Анархист</localizedText>
       </text>
       <text>
@@ -14520,7 +14520,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1591</addrInSeg>
         <originalText>DEFEAT THE STRONGHOLD IN RAVENS WOOD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1586</newAddrInSeg>
         <localizedText>Сокруши крепость в вороньем лесу</localizedText>
       </text>
       <text>
@@ -14532,7 +14532,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1628</addrInSeg>
         <originalText>LORD IRONFIST SPEAKS:
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1619</newAddrInSeg>
         <localizedText>Лорд Айронфист говорит:
 </localizedText>
       </text>
@@ -14544,7 +14544,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1651</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!" ACCEPT(Y/N)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1644</newAddrInSeg>
         <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
       </text>
       <text>
@@ -14555,7 +14555,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1692</addrInSeg>
         <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1685</newAddrInSeg>
         <localizedText>"Не возвращайтесь, пока не выполните
 задание"</localizedText>
       </text>
@@ -14568,7 +14568,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1733</addrInSeg>
         <originalText>"SORRY, BUT SINCE YOU ARE CURRENTLY
 QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1731</newAddrInSeg>
         <localizedText>"Простите, но я не найму вас, пока у васесть другое задание."</localizedText>
       </text>
       <text>
@@ -14580,7 +14580,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>1809</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1793</newAddrInSeg>
         <localizedText>Выберите: 1) Освободить заключенного.
 </localizedText>
       </text>
@@ -14593,7 +14593,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>1846</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1832</newAddrInSeg>
         <localizedText>2) пытать заключенного.
 </localizedText>
       </text>
@@ -14605,7 +14605,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1872</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1857</newAddrInSeg>
         <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
@@ -14616,7 +14616,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1901</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1882</newAddrInSeg>
         <localizedText>заключенный убегает!</localizedText>
       </text>
       <text>
@@ -14627,7 +14627,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1921</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1903</newAddrInSeg>
         <localizedText>заключенный съеживается!</localizedText>
       </text>
       <text>
@@ -14641,7 +14641,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
 RESTRAINED ONLY BY A COLLAR AND CHAIN!
 
 </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1928</newAddrInSeg>
         <localizedText>Злой демон бросается к вам,
 но цепи и ошейник удерживают его!
 
@@ -14656,7 +14656,7 @@ RESTRAINED ONLY BY A COLLAR AND CHAIN!
         <addrInSeg>2020</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE B READS:
 RSTIA-,E1,;/11RN;/M-</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>1992</newAddrInSeg>
         <localizedText>На серебряной табличке B гравировка:
 ч/ти1;-2;0олс15а-зес-</localizedText>
       </text>
@@ -14669,7 +14669,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrInSeg>2076</addrInSeg>
         <originalText>CASTLE GUARDS EXCLAIM,
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>2051</newAddrInSeg>
         <localizedText>Охранник говорит,
 "Покажите пропуск торговца или уходите."</localizedText>
       </text>
@@ -14681,7 +14681,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2159</addrInSeg>
         <originalText>WELL DONE, QUEST COMPLETE! +</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>2159</newAddrInSeg>
         <localizedText>Отлично, задача выполнена! +</localizedText>
       </text>
       <text>
@@ -14692,7 +14692,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2188</addrInSeg>
         <originalText> EXP</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>2188</newAddrInSeg>
         <localizedText> оп</localizedText>
       </text>
       <text>
@@ -14703,7 +14703,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2214</addrInSeg>
         <originalText>THE TOWER</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>2214</newAddrInSeg>
         <localizedText>Башня</localizedText>
       </text>
       <text>
@@ -14714,7 +14714,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2224</addrInSeg>
         <originalText>THRONE ROOM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>2220</newAddrInSeg>
         <localizedText>Тронный зал</localizedText>
       </text>
     </dt>

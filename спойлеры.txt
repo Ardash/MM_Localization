@@ -1,0 +1,8 @@
+C-4, Volcano, cave7.ovr,    GALA - Гала
+D-4, Surface, aread4.ovr,   QUEEN TO KINGS LEVEL 1 - Королева на линию Короля 1
+B-2, Surface, areab2.ovr,   LOVE - Любовь
+B-4, Surface, areab4.ovr,   LARA - Лара
+                            OG - Ог
+							CURRENT TRENDS - современные веяния
+							I BE ME - я есть я
+							LORD IRONFIST - лорд Айронфист
