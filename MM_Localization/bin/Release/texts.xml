@@ -7460,7 +7460,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>7666</addrInSeg>
         <originalText>` COMMANDS</originalText>
         <newAddrInSeg>7666</newAddrInSeg>
-        <localizedText>` Команды </localizedText>
+        <localizedText>` Команды</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -9428,8 +9428,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>9868</addrInSeg>
         <originalText>GOOD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GOOD</localizedText>
+        <newAddrInSeg>9868</newAddrInSeg>
+        <localizedText>Добр</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -9439,8 +9439,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>9868</addrInSeg>
         <originalText>GOOD</originalText>
-        <newAddrInSeg>9868</newAddrInSeg>
-        <localizedText>Добр</localizedText>
+        <newAddrInSeg>5884</newAddrInSeg>
+        <localizedText>Норм</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10253,8 +10253,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10898</addrInSeg>
         <originalText>*** CURSED ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** CURSED ***</localizedText>
+        <newAddrInSeg>10898</newAddrInSeg>
+        <localizedText>***Проклято***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10264,8 +10264,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10913</addrInSeg>
         <originalText>REMOVE WHICH ITEM: '1'-'6'?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>REMOVE WHICH ITEM: '1'-'6'?</localizedText>
+        <newAddrInSeg>10913</newAddrInSeg>
+        <localizedText>снять какую вещь: '1'-'6'?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10275,8 +10275,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10941</addrInSeg>
         <originalText>*** YOU DON'T HAVE THAT MUCH ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** YOU DON'T HAVE THAT MUCH ***</localizedText>
+        <newAddrInSeg>10941</newAddrInSeg>
+        <localizedText>*** У вас столько нет ***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10286,8 +10286,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10974</addrInSeg>
         <originalText>TRADE WHICH:</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TRADE WHICH:</localizedText>
+        <newAddrInSeg>10974</newAddrInSeg>
+        <localizedText>      Отдаю:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10297,8 +10297,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10987</addrInSeg>
         <originalText>4) ITEM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>4) ITEM</localizedText>
+        <newAddrInSeg>10987</newAddrInSeg>
+        <localizedText>4) Вещь</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10308,8 +10308,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>10995</addrInSeg>
         <originalText>TRADE WITH: '1'-'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TRADE WITH: '1'-'</localizedText>
+        <newAddrInSeg>10995</newAddrInSeg>
+        <localizedText>Кому дать:  '1'-'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10319,8 +10319,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11013</addrInSeg>
         <originalText>'ESC' TO GO BACK</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'ESC' TO GO BACK</localizedText>
+        <newAddrInSeg>11013</newAddrInSeg>
+        <localizedText>'ESC' назад</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10330,8 +10330,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11030</addrInSeg>
         <originalText>1) GEMS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>1) GEMS</localizedText>
+        <newAddrInSeg>11030</newAddrInSeg>
+        <localizedText>1) драг</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10341,8 +10341,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11038</addrInSeg>
         <originalText>2) GOLD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>2) GOLD</localizedText>
+        <newAddrInSeg>11038</newAddrInSeg>
+        <localizedText>2) Зол</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10352,8 +10352,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11046</addrInSeg>
         <originalText>3) FOOD</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>3) FOOD</localizedText>
+        <newAddrInSeg>11046</newAddrInSeg>
+        <localizedText>3) Еда</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10363,8 +10363,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11054</addrInSeg>
         <originalText>GATHER ALL:</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>GATHER ALL:</localizedText>
+        <newAddrInSeg>11054</newAddrInSeg>
+        <localizedText>   Собрать:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10374,8 +10374,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11075</addrInSeg>
         <originalText>HOW MUCH: _</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>HOW MUCH: _</localizedText>
+        <newAddrInSeg>11075</newAddrInSeg>
+        <localizedText>Сколько:  _</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10385,8 +10385,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11091</addrInSeg>
         <originalText>USE WHICH 'A'-'F','1'-'6'?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>USE WHICH 'A'-'F','1'-'6'?</localizedText>
+        <newAddrInSeg>11091</newAddrInSeg>
+        <localizedText>Использовать 'A'-'F','1'-'6'?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10396,8 +10396,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11118</addrInSeg>
         <originalText>*** NO SPECIAL POWER ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** NO SPECIAL POWER ***</localizedText>
+        <newAddrInSeg>11121</newAddrInSeg>
+        <localizedText>*** Нет особых сил ***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10407,8 +10407,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11143</addrInSeg>
         <originalText>*** NO CHARGES LEFT ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** NO CHARGES LEFT ***</localizedText>
+        <newAddrInSeg>11144</newAddrInSeg>
+        <localizedText>*** Разряжена ***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10418,8 +10418,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11167</addrInSeg>
         <originalText>CAST SPELL:  LEVEL= _</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CAST SPELL:  LEVEL= _</localizedText>
+        <newAddrInSeg>11162</newAddrInSeg>
+        <localizedText>Заклинание: Уровень=_</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10429,8 +10429,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11189</addrInSeg>
         <originalText>NUMBER= _</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>NUMBER= _</localizedText>
+        <newAddrInSeg>11184</newAddrInSeg>
+        <localizedText>номер  =_</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10440,8 +10440,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11199</addrInSeg>
         <originalText>*** DONE ***</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>*** DONE ***</localizedText>
+        <newAddrInSeg>11194</newAddrInSeg>
+        <localizedText>***Удачно***</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10451,8 +10451,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11212</addrInSeg>
         <originalText>CAST ON: '1'-'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CAST ON: '1'-'</localizedText>
+        <newAddrInSeg>11207</newAddrInSeg>
+        <localizedText>   цель: '1'-'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10462,7 +10462,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11227</addrInSeg>
         <originalText>'ENTER' TO CAST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>11222</newAddrInSeg>
         <localizedText>'ENTER' TO CAST</localizedText>
       </text>
       <text>
@@ -10473,7 +10473,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11227</addrInSeg>
         <originalText>'ENTER' TO CAST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>11222</newAddrInSeg>
         <localizedText>'ENTER' TO CAST</localizedText>
       </text>
       <text>
@@ -10484,8 +10484,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11227</addrInSeg>
         <originalText>'ENTER' TO CAST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'ENTER' TO CAST</localizedText>
+        <newAddrInSeg>11222</newAddrInSeg>
+        <localizedText>'ENTER'колдовать</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10495,8 +10495,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>11437</addrInSeg>
         <originalText>WHICH TOWN (1-5)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>WHICH TOWN (1-5)?</localizedText>
+        <newAddrInSeg>11437</newAddrInSeg>
+        <localizedText>Какой город(1-5)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
