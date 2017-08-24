@@ -67,32 +67,10 @@
 0323   C3                retn
 
 Заменить
-;0324  8F 06 10 CB 59 89 26 0C CB 89 2E 0E CB 89 36 08 CB 89 3E 0A CB FC BF 12 CB B9 12 CB 2B CF D1 E9 74 04 2B C0 F3 AB
-0324   8F 06 10 CB       pop     word ptr ds:0CB10h
-0328   59                pop     cx
-0329   89 26 0C CB       mov     ds:0CB0Ch, sp
-032D   89 2E 0E CB       mov     ds:0CB0Eh, bp
-0331   89 36 08 CB       mov     ds:0CB08h, si
-0335   89 3E 0A CB       mov     ds:0CB0Ah, di
-0339   FC                cld
-033A   BF 12 CB          mov     di, 0CB12h
-033D   B9 12 CB          mov     cx, 0CB12h
-0340   2B CF             sub     cx, di
-0342   D1 E9             shr     cx, 1
-0344   74 04             jz      short loc_2D8
-0346   2B C0             sub     ax, ax
-0348   F3 AB             rep stosw
+034A   E8 C1 FC          call    near ptr loc_E
 
 Заменить
-;034A  E8 C1 FC 8B 2E 0E CB 8B 26 0C CB 8B 36 08 CB 8B 3E 0A CB 51 FF 26 10 CB
-034A   E8 C1 FC          call    near ptr loc_E
-034D   8B 2E 0E CB       mov     bp, ds:0CB0Eh
-0351   8B 26 0C CB       mov     sp, ds:0CB0Ch
-0355   8B 36 08 CB       mov     si, ds:0CB08h
-0359   8B 3E 0A CB       mov     di, ds:0CB0Ah
-035D   51                push    cx
-035E   FF 26 10 CB       jmp     word ptr ds:0CB10h
-
+05DE   A3 A0 AB A0
 
 вставить
 ;       '  (  )  *  +  ,  -  .  /  0  1  2  3  4  5  6  7  8  9  :  ;  <  =  >  ?  @  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  [  \  ]  ^  _  `  a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z

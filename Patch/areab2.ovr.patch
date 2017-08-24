@@ -94,31 +94,7 @@
 02B1   C3                retn
 
 Заменить
-;02B2  8F 06 10 CB 59 89 26 0C CB 89 2E 0E CB 89 36 08 CB 89 3E 0A CB FC BF 12 CB B9 12 CB 2B CF D1 E9 74 04 2B C0 F3 AB
-02B2   8F 06 10 CB       pop     word ptr ds:0CB10h
-02B6   59                pop     cx
-02B7   89 26 0C CB       mov     ds:0CB0Ch, sp
-02BB   89 2E 0E CB       mov     ds:0CB0Eh, bp
-02BF   89 36 08 CB       mov     ds:0CB08h, si
-02C3   89 3E 0A CB       mov     ds:0CB0Ah, di
-02C7   FC                cld
-02C8   BF 12 CB          mov     di, 0CB12h
-02CB   B9 12 CB          mov     cx, 0CB12h
-02CE   2B CF             sub     cx, di
-02D0   D1 E9             shr     cx, 1
-02D2   74 04             jz      short loc_2D8
-02D4   2B C0             sub     ax, ax
-02D6   F3 AB             rep stosw
-
-Заменить
-;02D8  E8 33 FD 8B 2E 0E CB 8B 26 0C CB 8B 36 08 CB 8B 3E 0A CB 51 FF 26 10 CB
 02D8   E8 33 FD          call    near ptr loc_E
-02DB   8B 2E 0E CB       mov     bp, ds:0CB0Eh
-02DF   8B 26 0C CB       mov     sp, ds:0CB0Ch
-02E3   8B 36 08 CB       mov     si, ds:0CB08h
-02E7   8B 3E 0A CB       mov     di, ds:0CB0Ah
-02EB   51                push    cx
-02EC   FF 26 10 CB       jmp     word ptr ds:0CB10h
 
 Заменить
 0397   AB BE A1 AE A2 BC
