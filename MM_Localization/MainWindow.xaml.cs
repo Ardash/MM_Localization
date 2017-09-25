@@ -684,7 +684,10 @@ namespace MM_Localization {
         new addrPair(seg001+0x359B+0x08), //:35DD;IS POISONED
         new addrPair(seg001+0x359B+0x0A), //:35E9;IS PARALYZED
         new addrPair(seg001+0x359B+0x0C), //:35F6;IS RENDERED UNCONSCIOUS
-        new addrPair(seg001+0x359B+0x0E), //:360E;IS AFFECTED
+        new addrPair(seg001+0x359B+0x0E), //:3332;IS KILLED
+        //new addrPair(seg001+0x359B+0x10), //:33C0; 
+        new addrPair(seg001+0x359B+0x12), //:3397;IS ERADICATED
+        new addrPair(seg001+0x359B+0x14), //:360E;IS AFFECTED
         new addrPair(seg000+0xB5F1),      //:361A;IS NOT AFFECTED!
         new addrPair(seg000+0xD908),
         new addrPair(seg000+0xB6DD),      //:362B;COMBAT

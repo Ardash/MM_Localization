@@ -11430,8 +11430,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13605</addrInSeg>
         <originalText>POISON</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POISON</localizedText>
+        <newAddrInSeg>13605</newAddrInSeg>
+        <localizedText>Яд</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11441,8 +11441,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13612</addrInSeg>
         <originalText>LIGHTNING</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>LIGHTNING</localizedText>
+        <newAddrInSeg>13608</newAddrInSeg>
+        <localizedText>Молния</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11452,8 +11452,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13622</addrInSeg>
         <originalText>FROST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FROST</localizedText>
+        <newAddrInSeg>13615</newAddrInSeg>
+        <localizedText>Мороз</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11463,8 +11463,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13628</addrInSeg>
         <originalText>SPIKES</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SPIKES</localizedText>
+        <newAddrInSeg>13621</newAddrInSeg>
+        <localizedText>Шипы</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11474,8 +11474,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13635</addrInSeg>
         <originalText>ACID</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ACID</localizedText>
+        <newAddrInSeg>13626</newAddrInSeg>
+        <localizedText>Кислота</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11485,8 +11485,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13640</addrInSeg>
         <originalText>FIRE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FIRE</localizedText>
+        <newAddrInSeg>13634</newAddrInSeg>
+        <localizedText>Огонь</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11496,8 +11496,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13645</addrInSeg>
         <originalText>ENERGY</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ENERGY</localizedText>
+        <newAddrInSeg>13640</newAddrInSeg>
+        <localizedText>Энергия</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11507,8 +11507,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13652</addrInSeg>
         <originalText>SWARM</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SWARM</localizedText>
+        <newAddrInSeg>13648</newAddrInSeg>
+        <localizedText>Рой</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11518,8 +11518,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13658</addrInSeg>
         <originalText>BREATHES </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>BREATHES </localizedText>
+        <newAddrInSeg>13652</newAddrInSeg>
+        <localizedText>Дышит </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11529,8 +11529,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13668</addrInSeg>
         <originalText>FAILS TO CAST A SPELL</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FAILS TO CAST A SPELL</localizedText>
+        <newAddrInSeg>13659</newAddrInSeg>
+        <localizedText>провалил заклинание</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11540,8 +11540,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13690</addrInSeg>
         <originalText>CASTS </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>CASTS </localizedText>
+        <newAddrInSeg>13679</newAddrInSeg>
+        <localizedText>колдует </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11551,8 +11551,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13699</addrInSeg>
         <originalText>TAKES </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TAKES </localizedText>
+        <newAddrInSeg>13699</newAddrInSeg>
+        <localizedText>получает </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11562,8 +11562,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13706</addrInSeg>
         <originalText>POINT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POINT</localizedText>
+        <newAddrInSeg>13709</newAddrInSeg>
+        <localizedText>очков</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11573,8 +11573,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13712</addrInSeg>
         <originalText>OF DAMAGE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OF DAMAGE!</localizedText>
+        <newAddrInSeg>13715</newAddrInSeg>
+        <localizedText>урона!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11584,8 +11584,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13745</addrInSeg>
         <originalText>IS SLEPT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS SLEPT</localizedText>
+        <newAddrInSeg>13745</newAddrInSeg>
+        <localizedText>Уснул</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11595,8 +11595,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13754</addrInSeg>
         <originalText>IS BLINDED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS BLINDED</localizedText>
+        <newAddrInSeg>13751</newAddrInSeg>
+        <localizedText>ослеплен</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11606,8 +11606,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13765</addrInSeg>
         <originalText>IS SILENCED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS SILENCED</localizedText>
+        <newAddrInSeg>13760</newAddrInSeg>
+        <localizedText>умолк</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11617,8 +11617,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13777</addrInSeg>
         <originalText>IS DISEASED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS DISEASED</localizedText>
+        <newAddrInSeg>13766</newAddrInSeg>
+        <localizedText>болен</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11628,8 +11628,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13789</addrInSeg>
         <originalText>IS POISONED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS POISONED</localizedText>
+        <newAddrInSeg>13772</newAddrInSeg>
+        <localizedText>отравлен</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11639,8 +11639,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13801</addrInSeg>
         <originalText>IS PARALYZED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS PARALYZED</localizedText>
+        <newAddrInSeg>13781</newAddrInSeg>
+        <localizedText>парализован</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11650,8 +11650,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13814</addrInSeg>
         <originalText>IS RENDERED UNCONSCIOUS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS RENDERED UNCONSCIOUS</localizedText>
+        <newAddrInSeg>13793</newAddrInSeg>
+        <localizedText>без сознания</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11661,8 +11661,30 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13106</addrInSeg>
         <originalText>IS KILLED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS KILLED</localizedText>
+        <newAddrInSeg>13069</newAddrInSeg>
+        <localizedText>убит</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>81758</h>
+          <l>81757</l>
+        </addrOfAddr>
+        <addrOfSeg>68016</addrOfSeg>
+        <addrInSeg>13207</addrInSeg>
+        <originalText>IS ERADICATED</originalText>
+        <newAddrInSeg>13173</newAddrInSeg>
+        <localizedText>распылен</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>81760</h>
+          <l>81759</l>
+        </addrOfAddr>
+        <addrOfSeg>68016</addrOfSeg>
+        <addrInSeg>13838</addrInSeg>
+        <originalText>IS AFFECTED</originalText>
+        <newAddrInSeg>13838</newAddrInSeg>
+        <localizedText>поражен</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11672,8 +11694,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13850</addrInSeg>
         <originalText>IS NOT AFFECTED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS NOT AFFECTED!</localizedText>
+        <newAddrInSeg>13846</newAddrInSeg>
+        <localizedText>увернулся!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11683,8 +11705,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13850</addrInSeg>
         <originalText>IS NOT AFFECTED!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>IS NOT AFFECTED!</localizedText>
+        <newAddrInSeg>13846</newAddrInSeg>
+        <localizedText>увернулся!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11694,8 +11716,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13867</addrInSeg>
         <originalText>COMBAT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>COMBAT</localizedText>
+        <newAddrInSeg>13857</newAddrInSeg>
+        <localizedText>Бой</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11705,8 +11727,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13874</addrInSeg>
         <originalText>ROUND #:</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ROUND #:</localizedText>
+        <newAddrInSeg>13861</newAddrInSeg>
+        <localizedText>раунд #:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11716,8 +11738,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13874</addrInSeg>
         <originalText>ROUND #:</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ROUND #:</localizedText>
+        <newAddrInSeg>13861</newAddrInSeg>
+        <localizedText>раунд #:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11727,8 +11749,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13883</addrInSeg>
         <originalText>D DELAY</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>D DELAY</localizedText>
+        <newAddrInSeg>13870</newAddrInSeg>
+        <localizedText>D задержка</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11738,8 +11760,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13891</addrInSeg>
         <originalText>P PROTECT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>P PROTECT</localizedText>
+        <newAddrInSeg>13881</newAddrInSeg>
+        <localizedText>P эффекты</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11749,8 +11771,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13901</addrInSeg>
         <originalText>Q QUICKREF</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>Q QUICKREF</localizedText>
+        <newAddrInSeg>13891</newAddrInSeg>
+        <localizedText>Q Реестр</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11760,8 +11782,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13912</addrInSeg>
         <originalText># VIEW CH</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText># VIEW CH</localizedText>
+        <newAddrInSeg>13900</newAddrInSeg>
+        <localizedText># Осмотр</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11771,8 +11793,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13922</addrInSeg>
         <originalText>HANDICAP</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>HANDICAP</localizedText>
+        <newAddrInSeg>13909</newAddrInSeg>
+        <localizedText>гандикап</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11782,8 +11804,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13931</addrInSeg>
         <originalText>MONSTER +</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MONSTER +</localizedText>
+        <newAddrInSeg>13918</newAddrInSeg>
+        <localizedText>монстры +</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11793,8 +11815,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13941</addrInSeg>
         <originalText>PARTY +</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>PARTY +</localizedText>
+        <newAddrInSeg>13928</newAddrInSeg>
+        <localizedText>группа +</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11804,8 +11826,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13949</addrInSeg>
         <originalText>EVEN</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EVEN</localizedText>
+        <newAddrInSeg>13936</newAddrInSeg>
+        <localizedText>Нет</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11815,8 +11837,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13954</addrInSeg>
         <originalText>OPTIONS FOR: </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OPTIONS FOR: </localizedText>
+        <newAddrInSeg>13940</newAddrInSeg>
+        <localizedText>Выберите:</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11826,8 +11848,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13968</addrInSeg>
         <originalText>'E' EXCHANGE  'U' USE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'E' EXCHANGE  'U' USE</localizedText>
+        <newAddrInSeg>13950</newAddrInSeg>
+        <localizedText>'E' место     'U' Особ</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11837,8 +11859,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>13990</addrInSeg>
         <originalText>'R' RETREAT   'B' BLOCK</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'R' RETREAT   'B' BLOCK</localizedText>
+        <newAddrInSeg>13973</newAddrInSeg>
+        <localizedText>'R' бежать    'B' Блок</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11848,8 +11870,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14014</addrInSeg>
         <originalText>'A' ATTACK(A)</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'A' ATTACK(A)</localizedText>
+        <newAddrInSeg>13996</newAddrInSeg>
+        <localizedText>'A' Удар в A</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11859,8 +11881,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14028</addrInSeg>
         <originalText>'F' FIGHT(+)</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'F' FIGHT(+)</localizedText>
+        <newAddrInSeg>14009</newAddrInSeg>
+        <localizedText>'F' Удар в +</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11870,8 +11892,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14041</addrInSeg>
         <originalText>'S' SHOOT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'S' SHOOT</localizedText>
+        <newAddrInSeg>14022</newAddrInSeg>
+        <localizedText>'S' Стрел</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11881,8 +11903,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14051</addrInSeg>
         <originalText>'C' CAST</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'C' CAST</localizedText>
+        <newAddrInSeg>14032</newAddrInSeg>
+        <localizedText>'C' закл</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11892,8 +11914,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14060</addrInSeg>
         <originalText>ATTACKS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ATTACKS</localizedText>
+        <newAddrInSeg>14041</newAddrInSeg>
+        <localizedText>Атакует</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11903,8 +11925,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14068</addrInSeg>
         <originalText>SHOOTS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SHOOTS</localizedText>
+        <newAddrInSeg>14049</newAddrInSeg>
+        <localizedText>Стреляет</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11914,8 +11936,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14075</addrInSeg>
         <originalText>TIMES</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TIMES</localizedText>
+        <newAddrInSeg>14058</newAddrInSeg>
+        <localizedText>раз</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11925,8 +11947,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14075</addrInSeg>
         <originalText>TIMES</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>TIMES</localizedText>
+        <newAddrInSeg>14058</newAddrInSeg>
+        <localizedText>раз</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11936,8 +11958,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14081</addrInSeg>
         <originalText>ONCE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ONCE</localizedText>
+        <newAddrInSeg>14062</newAddrInSeg>
+        <localizedText />
       </text>
       <text>
         <addrOfAddr>
@@ -11947,8 +11969,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14081</addrInSeg>
         <originalText>ONCE</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>ONCE</localizedText>
+        <newAddrInSeg>14062</newAddrInSeg>
+        <localizedText />
       </text>
       <text>
         <addrOfAddr>
@@ -11958,8 +11980,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14086</addrInSeg>
         <originalText>AND</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>AND</localizedText>
+        <newAddrInSeg>14063</newAddrInSeg>
+        <localizedText>и</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11969,8 +11991,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14090</addrInSeg>
         <originalText>MISSES</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>MISSES</localizedText>
+        <newAddrInSeg>14065</newAddrInSeg>
+        <localizedText>мимо</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11980,8 +12002,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14097</addrInSeg>
         <originalText>HIT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>HIT</localizedText>
+        <newAddrInSeg>14070</newAddrInSeg>
+        <localizedText>наносит</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11991,8 +12013,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14101</addrInSeg>
         <originalText>FOR</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FOR</localizedText>
+        <newAddrInSeg>14078</newAddrInSeg>
+        <localizedText />
       </text>
       <text>
         <addrOfAddr>
@@ -12002,8 +12024,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14105</addrInSeg>
         <originalText>POINT</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>POINT</localizedText>
+        <newAddrInSeg>14079</newAddrInSeg>
+        <localizedText>очков</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12013,8 +12035,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14111</addrInSeg>
         <originalText>OF DAMAGE!</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>OF DAMAGE!</localizedText>
+        <newAddrInSeg>14085</newAddrInSeg>
+        <localizedText>урона!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12024,8 +12046,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14122</addrInSeg>
         <originalText>SET DELAY (0-9):</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SET DELAY (0-9):</localizedText>
+        <newAddrInSeg>14092</newAddrInSeg>
+        <localizedText>Задержка (0-9):</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12035,8 +12057,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14139</addrInSeg>
         <originalText>(CURRENTLY= </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>(CURRENTLY= </localizedText>
+        <newAddrInSeg>14108</newAddrInSeg>
+        <localizedText>(текущая= </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12046,7 +12068,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14152</addrInSeg>
         <originalText>'1'-'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>14119</newAddrInSeg>
         <localizedText>'1'-'</localizedText>
       </text>
       <text>
@@ -12057,8 +12079,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14158</addrInSeg>
         <originalText>' TO VIEW</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>' TO VIEW</localizedText>
+        <newAddrInSeg>14125</newAddrInSeg>
+        <localizedText>' смотреть</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12068,8 +12090,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14168</addrInSeg>
         <originalText>'ESC' TO GO BACK</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>'ESC' TO GO BACK</localizedText>
+        <newAddrInSeg>14136</newAddrInSeg>
+        <localizedText>'ESC' назад</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12079,8 +12101,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14185</addrInSeg>
         <originalText>EXCHANGE PLACES WITH (1-</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>EXCHANGE PLACES WITH (1-</localizedText>
+        <newAddrInSeg>14148</newAddrInSeg>
+        <localizedText>Поменять местами с (1-</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12090,7 +12112,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14210</addrInSeg>
         <originalText>)?</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>14171</newAddrInSeg>
         <localizedText>)?</localizedText>
       </text>
       <text>
@@ -12101,8 +12123,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14213</addrInSeg>
         <originalText>FIGHT WHICH 'A'-'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>FIGHT WHICH 'A'-'</localizedText>
+        <newAddrInSeg>14174</newAddrInSeg>
+        <localizedText>Атаковать 'A'-'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12112,8 +12134,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14231</addrInSeg>
         <originalText>SHOOT WHICH 'A'-'</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>SHOOT WHICH 'A'-'</localizedText>
+        <newAddrInSeg>14190</newAddrInSeg>
+        <localizedText>Стрелять в 'A'-'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12123,8 +12145,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14249</addrInSeg>
         <originalText>(WOUNDED) </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>(WOUNDED) </localizedText>
+        <newAddrInSeg>14207</newAddrInSeg>
+        <localizedText>(Ранен) </localizedText>
       </text>
       <text>
         <addrOfAddr>
