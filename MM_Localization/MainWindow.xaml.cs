@@ -769,9 +769,14 @@ namespace MM_Localization {
         //...
         //seg000:CC21:3A9E;>>B03A BA35 C535 BA3A B135 C63A CE3A E935 0E36
         new addrPair(seg001+0x3A9E+0x00), //:3AB0;IS SCARED
-        new addrPair(seg001+0x3A9E+0x02), //:3ABA;IS MINDLESS
-        new addrPair(seg001+0x3A9E+0x04), //:3AC6;IS HELD
-        new addrPair(seg001+0x3A9E+0x06), //:3ACE;IS WEBBED
+        new addrPair(seg001+0x3A9E+0x02), //:
+        new addrPair(seg001+0x3A9E+0x04), //:
+        new addrPair(seg001+0x3A9E+0x08), //:
+        new addrPair(seg001+0x3A9E+0x0A), //:
+        new addrPair(seg001+0x3A9E+0x0C), //:
+        new addrPair(seg001+0x3A9E+0x0E), //:
+        new addrPair(seg001+0x3A9E+0x10), //:
+        new addrPair(seg001+0x3A9E+0x12), //:  
         //...
         new addrPair(seg000+0xCD81),      //:3AD9; CASTS A SPELL:
         //...

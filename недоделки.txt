@@ -26,5 +26,82 @@ cave7.ovr (volcano)
 
 *******************************************************
 mm.exe
+// Борьба с множественным числом
 заменить seg000:C129 B0 53 mov     al, 53h ; 'S'
-на       seg000:C129 B0 30 mov     al, 20h ; 'S'
+на       seg000:C129 B0 20 mov     al, 20h ; 'S'
+
+// BONUS ON TOUCH   YN
+Заменить seg000:D5E3 B0 59 mov     al, 59h ; 'Y'
+на       seg000:D5E3 B0 64 mov     al, 64h ; 'Д'
+
+Заменить seg000:D5EB B0 4E mov     al, 4Eh ; 'N'
+на       seg000:D5EB B0 6D mov     al, 6Dh ; 'Н'
+
+// SPECIAL ABILITY  YN
+Заменить seg000:D62F B0 59 mov     al, 59h ; 'Y'
+на       seg000:D62F B0 64 mov     al, 64h ; 'Д'
+
+Заменить seg000:D637 B0 4E mov     al, 4Eh ; 'N'
+на       seg000:D637 B0 6D mov     al, 6Dh ; 'Н'
+
+// MAGIC RESISTANCE YN
+Заменить seg000:D679 B0 59 mov     al, 59h ; 'Y'
+на       seg000:D679 B0 64 mov     al, 64h ; 'Д'
+
+Заменить seg000:D681 B0 4E mov     al, 4Eh ; 'N'
+на       seg000:D681 B0 6D mov     al, 6Dh ; 'Н'
+
+интегрировать перевод 
+ CLOTH SACK |тканевый мешок   |
+ткан. мешок |
+LEATHER SACK|кожаный мешок    |
+кожан. мешок|
+ WOODEN BOX |деревянный ящик  |
+дерев. ящик |
+WOODEN CHEST|деревянный сундук|
+дерев.сундук|
+  IRON BOX  |железный ящик    |
+Железн. ящик|
+ IRON CHEST |железный сундук  |
+Желез.сундук|
+ SILVER BOX |серебряный ящик  |
+Серебр. Ящик|
+SILVER CHEST|серебряный сундук|
+сереб.сундук|
+  GOLD BOX  |золотой ящик     |
+золотой ящик|
+ GOLD CHEST |золотой сундук   |
+золот.сундук| 
+ BLACK BOX  |черный ящик      |
+черный ящик |
+
+ 
+ DARTS!! A SWARM OF POISONOUS DARTS\FILL THE AIR!
+Дротики!! Залп отравленных дротиков\наполнил воздух!+4
+SPIKES!! DEADLY SPIKES SPRING FORTH!
+Шипы!! Вырвались Смертоносные шипы!-1
+ARROWS!! A SUDDEN ONSLAUGHT OF POISONOUS         ARROWS PERMEATE THE PARTY!
+Стрелы!! Внезапно группу пронзают\         отравленные стрелы!-13
+BLADES!! RAZOR SHARP BLADES SLICE\         THROUGH THE PARTY!
+Лезвия!! Бритвенно-острые лезвия\         проносятся по группе!+2
+BOILING OIL!! STREAMS OF BOILING OIL\              COVER THE PARTY!
+Кипящее масло!! Группу накрывают потоки\                кипящего масла!+4
+GAS!! A FAINT HISS CAN BE HEARD AS\      NOXIOUS FUMES FILL THE AIR!
+Газ!! С легким шипением Воздух\      наполняется ядовитыми парами!-2
+FIREBALL!! A FIERY EXPLOSION ENGULFS\           THE AREA!
+Шар огня!! Огненный взрыв поглощает\           местность!+0
+LIGHTNING BOLT!! ELECTRIC CURRENTS\                 SINGE THE PARTY!
+Молния!! Группу обжигает электрическим\         током!-14
+ACID!! A FINE MIST OF VOLATILE ACID\       SPRAYS THE PARTY!
+Кислота!! Прозрачный туман кислоты\          накрывает группу!+2
+ICE STORM!! PARTICLES OF SPLINTERED ICE\            HAIL THROUGH THE AIR!
+ледяной град!! Мелкие частицы льда\               падают градом!-9
+DEATH RAY!! A BLINDING LIGHT SEARS\            THROUGH THE PARTY!
+луч смерти!! слепящий свет обжигает\             группу!-9
+
+перенести из
+seg000:DA3A:3B99;NO SPELL POINTS
+seg000:DA05:3BA9;SPELL FAILED
+после "луч смерти!! слепящий свет обжигает\             группу!-9"
+не хватает маны16
+не удалось11
