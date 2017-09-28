@@ -10,22 +10,6 @@
 
 Сост=добр - заменить адрес 696C на 16FC и перевести GOOD
 
-areab4.ovr
-найти ответы
-(15,15) Play trivia games at....
-
-aread2.ovr
-Заменить стороны света:
-00DD - N
-0147 - E
-018A - W
-
-cave7.ovr (volcano)
-Ответ на загадку
-
-
-*******************************************************
-mm.exe
 // Борьба с множественным числом
 заменить seg000:C129 B0 53 mov     al, 53h ; 'S'
 на       seg000:C129 B0 20 mov     al, 20h ; 'S'
@@ -51,6 +35,24 @@ mm.exe
 Заменить seg000:D681 B0 4E mov     al, 4Eh ; 'N'
 на       seg000:D681 B0 6D mov     al, 6Dh ; 'Н'
 
+areab4.ovr
+найти ответы
+(15,15) Play trivia games at....
+
+aread2.ovr
+Заменить стороны света:
+00DD - N
+0147 - E
+018A - W
+
+cave7.ovr (volcano)
+Ответ на загадку
+
+
+*******************************************************
+mm.exe
+
+0123EE
 интегрировать перевод 
  CLOTH SACK |тканевый мешок   |
 ткан. мешок |
@@ -105,3 +107,83 @@ seg000:DA05:3BA9;SPELL FAILED
 после "луч смерти!! слепящий свет обжигает\             группу!-9"
 не хватает маны16
 не удалось11
+
+
+
+SEE MAN IN CAVE BELOW (1,2)
+Ищи старца в пещере ниже (1,2)31
+CHECK WALLS NEAR (12,3)
+Обыщи стены в (12,3)21
+STATUE AT (2,4) IS YOUR FIRST JOB
+Твоя первая задача - статуя (2,4)34
+SIMILAR PIECES OF A PUZZLE MAY NOTЌBELONG TO THE SAME PUZZLE
+Похожие части мозаики могут не быть частями одной целой56
+
+SEEK QUESTS BEHIND MOONS
+Ищи ответы на обратных сторонах лун36
+THE QUEEN CAN BE HELPFUL
+Королева может помочь22
+THE BEASTS ARE ON THE MAP
+Ищи чудищ на карте19
+ISLANDS LIKE COLORS ARE UNKNOWNЌUNTIL DISCOVERED
+Про острова и про цвета не узнаешь пока не обнаружишь54
+
+ATTACKS SHOULD BE CONCENTRATED
+Не распаляй силы17
+DUE NORTH IS THE CAVE OF SQUARE MAGIC
+Пещера квадратной магии строго на севере41
+SECRET DOORS ARE ABUNDANT
+Ищи секретные двери20
+THE DEMON AND THE MAZE ARE ONE
+Демон един с лабиринтом24
+
+TELGORAN IS IN S.E. MAZE
+Телгоран на юго-востоке лабиринта34
+SOME ITEMS GIVE PROTECTION
+Иногда вещи заряжены магией28
+DRAGADUNE HOLDS MANY GEMS
+В Драгадуне много драгоценностей33
+DONATIONS HELP ON JUDGEMENT DAY
+Милость поможет в день правосудия34
+
+AGAR LIVES BEHIND THE INN
+Агар живет за отелем21
+FIND THE PRISONER
+Найди пленника15
+BARRIERS GUARD WEALTH
+Барьеры скрывают богатства27
+THE MAGIC TOTAL IS 34
+магическая сумма - 34
+
+ALL PORTALS ARE CONNECTED
+Все порталы связаны20
+SORPIGAL HAS 8 STATUES
+В Сорпигале 8 статуй21
+THE BROTHERS LIVE BY DOCKS
+Ищи братьев в доках20
+SOME CAVES HAVE MORE THAN ONE EXIT
+Из пещер может быть много выходов34
+THE ICE PRINCESS HAS THE KEY
+У ледяной принцессы есть ключ30
+THE DESERT HAS MANY OASES
+В пустыне много оазисов24
+THE SWAMP WAS ONCE A CITY OF GOLD
+Болото было золотым городом28
+PORTSMITH AND MEN DON'T MIX
+Портсмит не место для мужчин29
+MOST TOWNS HAVE CAVERNS BELOW
+Под городами есть пещеры25
+VARN IS NOT WHAT IT APPEARS TO BE
+VARN не то, чем кажется24
+KILBURN IS NEAR THE WYVERN PEAKS
+Килбурн около гор виверн25
+A DRAGONS BREATH IS ONLY AS STRONGЌAS IT'S CONDITION
+Дыхание дракона сильно настолько, насколько выглядит53
+THE KING IS
+Король7
+IN SECLUSION
+в изоляции11
+THE INNER SANCTUM IS A MYTH
+Внутреннее святилище - миф27
+THE CANINE HAS THE KEY
+Ключ у пса11
