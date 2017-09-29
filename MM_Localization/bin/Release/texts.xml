@@ -12717,7 +12717,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>15257</addrInSeg>
         <originalText>NO SPELL POINTS</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>7578</newAddrInSeg>
         <localizedText>не хватает маны</localizedText>
       </text>
       <text>
@@ -12728,7 +12728,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>15273</addrInSeg>
         <originalText>SPELL FAILED</originalText>
-        <newAddrInSeg>0</newAddrInSeg>
+        <newAddrInSeg>7594</newAddrInSeg>
         <localizedText>не удалось</localizedText>
       </text>
       <text>
