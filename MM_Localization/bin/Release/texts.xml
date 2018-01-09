@@ -200,8 +200,8 @@ CRYPT OF CARMENCA. AWAY WITH YOU..."</originalText>
         <originalText>CASTLE GUARDS EXCLAIM,
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
         <newAddrInSeg>1900</newAddrInSeg>
-        <localizedText>Охранник говорит,
-"Покажите пропуск торговца или уходите."</localizedText>
+        <localizedText>Охранник говорит:
+"Покажите грамоту купца или уходите."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -951,8 +951,8 @@ MIGHT AND MAGIC BOOK TWO !!!  </originalText>
         <newAddrInSeg>1014</newAddrInSeg>
         <localizedText>Здравствуйте, прославленные   
 путешественники! Врата открыты
-для вас. Чтобы пройти вам надо
-найти вторую часть            
+для вас. Чтобы пройти, вам    
+надо найти вторую часть       
 MIGHT AND MAGIC!!!            </localizedText>
       </text>
       <text>
@@ -1350,7 +1350,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrInSeg>939</addrInSeg>
         <originalText>TODAY SPELLS!</originalText>
         <newAddrInSeg>939</newAddrInSeg>
-        <localizedText>Сегодня зклинания!</localizedText>
+        <localizedText>Сегодня заклинания!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1360,7 +1360,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>953</addrInSeg>
         <originalText>ARGHHH... POISON!</originalText>
-        <newAddrInSeg>958</newAddrInSeg>
+        <newAddrInSeg>959</newAddrInSeg>
         <localizedText>Проклятие... Яд!</localizedText>
       </text>
       <text>
@@ -1371,7 +1371,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>971</addrInSeg>
         <originalText>TODAY MIGHT!</originalText>
-        <newAddrInSeg>975</newAddrInSeg>
+        <newAddrInSeg>976</newAddrInSeg>
         <localizedText>Сегодня сила!</localizedText>
       </text>
       <text>
@@ -1383,7 +1383,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrInSeg>984</addrInSeg>
         <originalText>A FOUNTAIN SPEAKS:
 "WILL THE PARTY DRINK (Y/N)?"</originalText>
-        <newAddrInSeg>989</newAddrInSeg>
+        <newAddrInSeg>990</newAddrInSeg>
         <localizedText>Фонтан спрашивает:
 "Хотите напиться (Y/N)?"</localizedText>
       </text>
@@ -1400,7 +1400,7 @@ INSIDE YOU FOUND A RUBY WHISTLE, 2000
 GOLD AND A NOTE:
 THE STRONGHOLD LIES AT B-3,14-2
 BLOW TWICE TO ENTER.</originalText>
-        <newAddrInSeg>1033</newAddrInSeg>
+        <newAddrInSeg>1034</newAddrInSeg>
         <localizedText>Вы нашли сундук. На нем надпись:
 Собственность XX!XX!
 Внутри вы нашли рубиновый свисток,
@@ -1416,7 +1416,7 @@ BLOW TWICE TO ENTER.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1211</addrInSeg>
         <originalText>ROADSIGN: SORPIGAL S.17, W.1, N.2</originalText>
-        <newAddrInSeg>1195</newAddrInSeg>
+        <newAddrInSeg>1196</newAddrInSeg>
         <localizedText>Указатель. Сорпигал Ю.17, З.1, С.2</localizedText>
       </text>
     </dt>
@@ -2263,7 +2263,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1055</addrInSeg>
         <originalText>ALGARY, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>1055</newAddrInSeg>
+        <newAddrInSeg>1142</newAddrInSeg>
         <localizedText>Алгари. Войти (Y/N)?</localizedText>
       </text>
       <text>
@@ -2274,7 +2274,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1077</addrInSeg>
         <originalText>PAUL PEAD AND HIS MEN ATTACK!</originalText>
-        <newAddrInSeg>1077</newAddrInSeg>
+        <newAddrInSeg>1164</newAddrInSeg>
         <localizedText>Пол Пэд и его люди нападают!</localizedText>
       </text>
       <text>
@@ -2287,7 +2287,7 @@ A) золото B) камни  C) вещи</localizedText>
         <originalText>A HUGE WINGED BEAST EXCLAIMS,
 "THIS SWAMP IS QUITE DANGEROUS. FLY YOU
 TO SAFETY (Y/N)?"</originalText>
-        <newAddrInSeg>1106</newAddrInSeg>
+        <newAddrInSeg>1193</newAddrInSeg>
         <localizedText>Огромное крылатое чудище восклицает:
 "Это болото опасно. Перенести вас в
 безопасное место (Y/N)?"</localizedText>
@@ -2300,7 +2300,7 @@ TO SAFETY (Y/N)?"</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1195</addrInSeg>
         <originalText>OG SAYS, "BEGONE!"</originalText>
-        <newAddrInSeg>1204</newAddrInSeg>
+        <newAddrInSeg>1291</newAddrInSeg>
         <localizedText>Ог говорит: "Уходите!"</localizedText>
       </text>
       <text>
@@ -2317,7 +2317,7 @@ A LARGE BEING APPROACHES...
 OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
 
 RESPONSE: </originalText>
-        <newAddrInSeg>1227</newAddrInSeg>
+        <newAddrInSeg>1314</newAddrInSeg>
         <localizedText>На земле нарисован узор из черных и
 белых клеток. На нем стоят идолы,
 подобные вашим. К вам идет большое
@@ -2337,7 +2337,7 @@ RESPONSE: </originalText>
 ON MT. DOOM! HE HAS YOUR SIGHT.
 
 OG CURSES AS THE IDOLS VANISH!</originalText>
-        <newAddrInSeg>1399</newAddrInSeg>
+        <newAddrInSeg>1486</newAddrInSeg>
         <localizedText>Вы восстановили мое зрение! (+25000 EXP)Я вижу важного пленника в замке на горе
 Рок! Ваши глаза у него.
 
@@ -2868,7 +2868,7 @@ ENTER (Y/N)?</originalText>
         <addrInSeg>942</addrInSeg>
         <originalText>TOPPLED TOMBSTONES ABOUND!</originalText>
         <newAddrInSeg>937</newAddrInSeg>
-        <localizedText>Разбросанныe могильные плиты!</localizedText>
+        <localizedText>Разбросанные могильные плиты!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3040,7 +3040,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
         <newAddrInSeg>976</newAddrInSeg>
         <localizedText>Хранитель данных спокойно говорит:
 "Добро пожаловать в ваше внутреннее
-святилище жители VARN. То, что вы
+святилище, жители VARN. То, что вы
 сделали, достойно похвалы. Я слежу за
 вашими подвигами." Он повернулся к
 странному механическому устройству и
@@ -3055,7 +3055,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1301</addrInSeg>
         <originalText>"YOU ARE NOT YET WORTHY FOR TRANSFER.   RETURN AFTER DEFEATING THE IMPOSTER."</originalText>
-        <newAddrInSeg>1252</newAddrInSeg>
+        <newAddrInSeg>1253</newAddrInSeg>
         <localizedText>"Вы еще не готовы к перемещению.
 Приходите, когда победите самозванца."</localizedText>
       </text>
@@ -3068,7 +3068,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
         <addrInSeg>1379</addrInSeg>
         <originalText>EXCELLENT RATING! THIS IS A RARE        OCCASION, FOR ONLY A PRIVILEGED FEW ARE GIVEN THE OPPORTUNITY FOR TRANSFER TO   ANOTHER V.A.R.N. (VEHICULAR ASTROPOD    RESEARCH NACELLE). RETURN NOW TO THE    INN OF SORPIGAL FOR REST AND CELEBRATIONTHEN CONTINUE ON TO YOUR NEW ASSIGNMENT AT THE GATES TO ANOTHER WORLD..."       (+500,000 EXP FOR YOUR ACCOMPLISHMENT!) ----------------------------------------PLEASE SEND YOUR PERFORMANCE TOTAL TO          NEW WORLD COMPUTING, INC.
   P. O. BOX 2068  VAN NUYS, CA  91404</originalText>
-        <newAddrInSeg>1324</newAddrInSeg>
+        <newAddrInSeg>1325</newAddrInSeg>
         <localizedText>Великолепный счет! Вам выпала редкая
 удача. Немногие получают
 возможность перемещения на другой
@@ -3732,7 +3732,7 @@ IACI1;-2;0NU--G,NOT2</originalText>
         <addrInSeg>1138</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1138</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4053,7 +4053,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1183</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1182</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4093,8 +4093,8 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
 SPEAKS: "PLEASE ENTER ACCESS CODE:"
 </originalText>
         <newAddrInSeg>907</newAddrInSeg>
-        <localizedText>Стена покрыта мигающими огнями говорит:
-"Введите код доступа:"
+        <localizedText>Стена, покрытая мигающими огнями,
+говорит: "Введите код доступа:"
 </localizedText>
       </text>
       <text>
@@ -4152,7 +4152,7 @@ THE AREA IN FRONT OF YOU!</originalText>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1104</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4163,7 +4163,7 @@ THE AREA IN FRONT OF YOU!</originalText>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1104</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -4307,7 +4307,7 @@ ARE WORTHY +4 SPEED!</originalText>
         <addrInSeg>1563</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1530</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4489,7 +4489,7 @@ AUTHORIZED PERSONNEL ONLY! KEEP OUT.</originalText>
         <addrInSeg>886</addrInSeg>
         <originalText>A LADDER GOING UP, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>886</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4644,7 +4644,7 @@ ARE SET.</originalText>
         <originalText>ATOP A CRYSTAL PYRAMID SPINS A GLOWING
 POLYHEDRON. STOP IT ON SIDE (1-9)?</originalText>
         <newAddrInSeg>841</newAddrInSeg>
-        <localizedText>На вершине пирамиды вращается мерцающий полиэндр. Остановить на стороне (1-9)?</localizedText>
+        <localizedText>На вершине пирамиды вращается мерцающий полиэдр. Остановить на стороне (1-9)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4656,7 +4656,7 @@ POLYHEDRON. STOP IT ON SIDE (1-9)?</originalText>
         <originalText>THE POLYHEDRON IS SET ON
 SPIN IT (Y/N)?</originalText>
         <newAddrInSeg>920</newAddrInSeg>
-        <localizedText>На полиэндре число
+        <localizedText>На полиэдре число
 Раскрутить (Y/N)?</localizedText>
       </text>
       <text>
@@ -4668,7 +4668,7 @@ SPIN IT (Y/N)?</originalText>
         <addrInSeg>948</addrInSeg>
         <originalText>A GLOWING POLYHEDRON IS SET ON SIDE</originalText>
         <newAddrInSeg>957</newAddrInSeg>
-        <localizedText>Мерцающий полиэндр установлен на</localizedText>
+        <localizedText>Мерцающий полиэдр установлен на</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5521,7 +5521,7 @@ ASKING, "NEED TRAINING (Y/N)?"</originalText>
 
 </originalText>
         <newAddrInSeg>1706</newAddrInSeg>
-        <localizedText>Приближается эльф одетый в робу...
+        <localizedText>Приближается эльф, одетый в робу...
 
 </localizedText>
       </text>
@@ -5533,7 +5533,7 @@ ASKING, "NEED TRAINING (Y/N)?"</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1800</addrInSeg>
         <originalText>"YOU'RE NOT THE COURIERS!</originalText>
-        <newAddrInSeg>1743</newAddrInSeg>
+        <newAddrInSeg>1744</newAddrInSeg>
         <localizedText>"Вы не курьеры!</localizedText>
       </text>
       <text>
@@ -5547,7 +5547,7 @@ ASKING, "NEED TRAINING (Y/N)?"</originalText>
 (+2500 EXP) HERE'S 1500 GOLD FOR YOUR
 SERVICES. I'LL TELL YOU A SECRET, IF
 TREASURE IS WHAT YOU WANT..."</originalText>
-        <newAddrInSeg>1759</newAddrInSeg>
+        <newAddrInSeg>1760</newAddrInSeg>
         <localizedText>"Друзья, я Телгоран. Свиток, что вы
 принесли, мне очень поможет.
 (+2500 опыта) Вот 1500 золота за ваш
@@ -5563,7 +5563,7 @@ TREASURE IS WHAT YOU WANT..."</originalText>
         <addrInSeg>2008</addrInSeg>
         <originalText>"THE BROTHERS YOU MUST FIND...
 PORTSMITH AND ALGARY ARE COMBINED."</originalText>
-        <newAddrInSeg>1936</newAddrInSeg>
+        <newAddrInSeg>1937</newAddrInSeg>
         <localizedText>"Братьев найди...
 В Портсмит из Алгари ты попади."</localizedText>
       </text>
@@ -5684,7 +5684,7 @@ FRUSTRATIONS!-THE-TO-IN</originalText>
         <addrInSeg>1008</addrInSeg>
         <originalText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1011</newAddrInSeg>
-        <localizedText>Спиральная лестница вверх, войти (Y/N)?</localizedText>
+        <localizedText>Спиральная лестница вверх, уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5804,7 +5804,7 @@ IF YOU DARE!</originalText>
         <addrInSeg>1209</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1077</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6386,7 +6386,7 @@ ENCHANTED FOREST AND NOW RULES
 A GREAT FORTRESS THERE</originalText>
         <newAddrInSeg>4640</newAddrInSeg>
         <localizedText>Этот зверь сейчас управляет
-крепостью в зачарованом лесу</localizedText>
+крепостью в зачарованном лесу</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6396,7 +6396,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4758</addrInSeg>
         <originalText>ON THIS STONE STATUE OF </originalText>
-        <newAddrInSeg>4697</newAddrInSeg>
+        <newAddrInSeg>4698</newAddrInSeg>
         <localizedText>Статуя </localizedText>
       </text>
       <text>
@@ -6407,7 +6407,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4783</addrInSeg>
         <originalText>A PLAQUE READS...</originalText>
-        <newAddrInSeg>4705</newAddrInSeg>
+        <newAddrInSeg>4706</newAddrInSeg>
         <localizedText>Под ней табличка..</localizedText>
       </text>
       <text>
@@ -9297,7 +9297,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>9771</addrInSeg>
         <originalText>DUSK</originalText>
         <newAddrInSeg>9770</newAddrInSeg>
-        <localizedText>Дуск</localizedText>
+        <localizedText>Даск</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -11409,7 +11409,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>13559</addrInSeg>
         <originalText>DISINTEGRATION</originalText>
         <newAddrInSeg>13557</newAddrInSeg>
-        <localizedText>дизинтеграция</localizedText>
+        <localizedText>дезинтеграция</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13263,7 +13263,7 @@ PATTERN!</originalText>
         <addrInSeg>776</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>774</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13317,7 +13317,7 @@ THERE IS NO HOPE...POOF!</originalText>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>408</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13328,7 +13328,7 @@ THERE IS NO HOPE...POOF!</originalText>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>408</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13369,7 +13369,7 @@ PATTERN!</originalText>
         <addrInSeg>565</addrInSeg>
         <originalText>A LADDER GOING UP, CLIMB IT (Y/N)?</originalText>
         <newAddrInSeg>557</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13595,7 +13595,7 @@ HE STUDIES YOUR WEAKNESSES!"</originalText>
         <addrInSeg>1144</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1115</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13868,7 +13868,7 @@ OF SPEARS!</originalText>
         <addrInSeg>1456</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1439</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13993,7 +13993,7 @@ EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"<
 THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <newAddrInSeg>1376</newAddrInSeg>
         <localizedText>К вам подошли несколько клериков в
-красивых робах. Они спрашивают "Мы можемвам помочь (Y/N)?"</localizedText>
+красивых робах. Они спрашивают: "Мы можемвам помочь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14003,7 +14003,7 @@ THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1500</addrInSeg>
         <originalText>BEFORE YOU ARE VARIOUS GROUPS ENGAGED INTRAINING EXERCISES. WORG,THE GUILDMASTERASKS, "DO YOU REQUIRE TRAINING(Y/N)?"</originalText>
-        <newAddrInSeg>1471</newAddrInSeg>
+        <newAddrInSeg>1472</newAddrInSeg>
         <localizedText>Вы видите несколько групп, делающих
 упражнения. Ворг, тренер, спрашивает:
 "Хотите потренироваться (Y/N)?"</localizedText>
@@ -14233,7 +14233,7 @@ WE FEAR THE WORST YET WE CONTINUE-CORAK</originalText>
         <addrInSeg>1103</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1075</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14323,7 +14323,7 @@ PATTERN!</originalText>
         <addrInSeg>498</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>464</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14448,7 +14448,7 @@ THROUGHOUT THE ROOM!</originalText>
         <addrInSeg>1228</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1223</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Войти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14737,7 +14737,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
         <newAddrInSeg>2051</newAddrInSeg>
         <localizedText>Охранник говорит,
-"Покажите пропуск торговца или уходите."</localizedText>
+"Покажите грамоту купца или уходите."</localizedText>
       </text>
       <text>
         <addrOfAddr>
