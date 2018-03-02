@@ -2341,7 +2341,7 @@ OG CURSES AS THE IDOLS VANISH!</originalText>
         <localizedText>Вы восстановили мое зрение! (+25000 EXP)Я вижу важного пленника в замке на горе
 Рок! Ваши глаза у него.
 
-Ог ругнулся когда идолы исчезли!</localizedText>
+Ог ругнулся, когда идолы исчезли!</localizedText>
       </text>
     </dt>
   </locText>
@@ -4488,7 +4488,7 @@ AUTHORIZED PERSONNEL ONLY! KEEP OUT.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>886</addrInSeg>
         <originalText>A LADDER GOING UP, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>886</newAddrInSeg>
+        <newAddrInSeg>975</newAddrInSeg>
         <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
       </text>
       <text>
@@ -4501,7 +4501,7 @@ AUTHORIZED PERSONNEL ONLY! KEEP OUT.</originalText>
         <originalText>THE VOLCANO GOD BELLOWS,
 "WHAT DO YOU SEEK HERE?"
 A) A CHALLENGE  B) A RIDDLE  C) A CLUE</originalText>
-        <newAddrInSeg>919</newAddrInSeg>
+        <newAddrInSeg>1007</newAddrInSeg>
         <localizedText>Бог вулкан ревет:
 "Что вы ищете?"
 A) Поединок  B) Загадку   C) Подсказку</localizedText>
@@ -4516,7 +4516,7 @@ A) Поединок  B) Загадку   C) Подсказку</localizedText>
         <originalText>WHO WAS BRAVE YET FAILED?
 
 ANSWER:&gt; ..........</originalText>
-        <newAddrInSeg>992</newAddrInSeg>
+        <newAddrInSeg>1080</newAddrInSeg>
         <localizedText>Кто браво пытался, но проиграл?
 
 Ответ :&gt; ..........</localizedText>
@@ -4531,7 +4531,7 @@ ANSWER:&gt; ..........</originalText>
         <originalText>PAINTED IN A BLACK AND WHITE PATTERN,
 A SIGN READS: THE SECOND PART IS THE
 MOST VALUABLE.</originalText>
-        <newAddrInSeg>1045</newAddrInSeg>
+        <newAddrInSeg>1138</newAddrInSeg>
         <localizedText>Табличка в черно-белую клетку:
 Вторая часть наиболее важная.</localizedText>
       </text>
@@ -4544,7 +4544,7 @@ MOST VALUABLE.</originalText>
         <addrInSeg>1146</addrInSeg>
         <originalText>PIT OF BUBBLING LAVA!
 </originalText>
-        <newAddrInSeg>1106</newAddrInSeg>
+        <newAddrInSeg>1199</newAddrInSeg>
         <localizedText>Яма с пузырящейся лавой!
 </localizedText>
       </text>
@@ -4556,7 +4556,7 @@ MOST VALUABLE.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1169</addrInSeg>
         <originalText>LEVITATION SAVES YOU.</originalText>
-        <newAddrInSeg>1132</newAddrInSeg>
+        <newAddrInSeg>1236</newAddrInSeg>
         <localizedText>левитация вас спасла.</localizedText>
       </text>
       <text>
@@ -4568,7 +4568,7 @@ MOST VALUABLE.</originalText>
         <addrInSeg>1191</addrInSeg>
         <originalText>A LUSCIOUS VIRGIN SHACKLED TO THE WALL!
 A) KISS HER  B) RELEASE HER  C) LEAVE</originalText>
-        <newAddrInSeg>1154</newAddrInSeg>
+        <newAddrInSeg>1269</newAddrInSeg>
         <localizedText>Соблазнительная дева прикована к стене!
 A) поцеловать B) освободить C) Уйти</localizedText>
       </text>
@@ -4580,7 +4580,7 @@ A) поцеловать B) освободить C) Уйти</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1285</addrInSeg>
         <originalText>TRY SETTING 1B,2J</originalText>
-        <newAddrInSeg>1285</newAddrInSeg>
+        <newAddrInSeg>1372</newAddrInSeg>
         <localizedText>Попробуйте 1B,2J</localizedText>
       </text>
       <text>
@@ -4592,7 +4592,7 @@ A) поцеловать B) освободить C) Уйти</localizedText>
         <addrInSeg>1303</addrInSeg>
         <originalText>THIS CAVERN IS RANDOM UNTIL THE DIALS
 ARE SET.</originalText>
-        <newAddrInSeg>1302</newAddrInSeg>
+        <newAddrInSeg>1389</newAddrInSeg>
         <localizedText>Эта пещера случайна, пока диски
 не выставлены.</localizedText>
       </text>
@@ -4604,7 +4604,7 @@ ARE SET.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1350</addrInSeg>
         <originalText>STABILIZATION DIAL #  SET (A-Z)?</originalText>
-        <newAddrInSeg>1349</newAddrInSeg>
+        <newAddrInSeg>1436</newAddrInSeg>
         <localizedText>диск стабилизации  #  выбрать (A-Z)</localizedText>
       </text>
       <text>
@@ -4615,7 +4615,7 @@ ARE SET.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1383</addrInSeg>
         <originalText>POOF! YOU'VE BEEN TELEPORTED...</originalText>
-        <newAddrInSeg>1385</newAddrInSeg>
+        <newAddrInSeg>1472</newAddrInSeg>
         <localizedText>Вжух! Вы телепортировались...</localizedText>
       </text>
     </dt>
@@ -6148,6 +6148,17 @@ A)Напасть B)Взятка  C)Убежать D)Сдаться</localizedTex
       </text>
       <text>
         <addrOfAddr>
+          <h>5114</h>
+          <l>5113</l>
+        </addrOfAddr>
+        <addrOfSeg>68016</addrOfSeg>
+        <addrInSeg>962</addrInSeg>
+        <originalText>  DARKNESS</originalText>
+        <newAddrInSeg>962</newAddrInSeg>
+        <localizedText>  Темно   </localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
           <h>7300</h>
           <l>7299</l>
         </addrOfAddr>
@@ -6408,7 +6419,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrInSeg>4783</addrInSeg>
         <originalText>A PLAQUE READS...</originalText>
         <newAddrInSeg>4706</newAddrInSeg>
-        <localizedText>Под ней табличка..</localizedText>
+        <localizedText>Под ней табличка</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13993,7 +14004,8 @@ EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"<
 THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <newAddrInSeg>1376</newAddrInSeg>
         <localizedText>К вам подошли несколько клериков в
-красивых робах. Они спрашивают: "Мы можемвам помочь (Y/N)?"</localizedText>
+красивых робах. Они спрашивают: "Мы
+можем вам помочь (Y/N)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14736,7 +14748,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <originalText>CASTLE GUARDS EXCLAIM,
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
         <newAddrInSeg>2051</newAddrInSeg>
-        <localizedText>Охранник говорит,
+        <localizedText>Охранник говорит:
 "Покажите грамоту купца или уходите."</localizedText>
       </text>
       <text>

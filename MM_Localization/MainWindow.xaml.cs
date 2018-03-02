@@ -93,8 +93,10 @@ namespace MM_Localization {
 
     private List<txtAddresses> textAddresses = new List<txtAddresses> {
       new txtAddresses("mm.exe",       new addrPair[] {
-        new addrPair(seg000+0x03F2),      //0062; INSERT MIGHT & MAGIC DISK
-        new addrPair(seg000+0x0405),      //007D;IN DRIVE A AND PRESS 'ENTER'
+        new addrPair(seg000+0x03F2),      //:0062; INSERT MIGHT & MAGIC DISK
+        new addrPair(seg000+0x0405),      //:007D;IN DRIVE A AND PRESS 'ENTER'
+        //...
+        new addrPair(seg000+0x11F9),      //:03C2; DARKNESS
         //...
         new addrPair(seg000+0x1A83),      //:0D14;  ARE YOU READY?
         new addrPair(seg000+0x1A96),      //:0D26;THEN PRESS ENTER!
