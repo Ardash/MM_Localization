@@ -52,6 +52,13 @@
 Заменить
 00CB   80 FB 06          cmp   bl, 06h
 
+Заменить
+000204   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000208   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000237   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00023B   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
 Вставить
 ;025B  3C 0D 0F 84 56 FE 3C 20 0F 84 32 FE 3C 27 0F 82 19 FE 3C 7A 0F 87 13 FE 2C 27 BB 12 CB 03 D8 8A 07 22 C0 0F 84 04 FE E9 14 FE
 025B   3C 0D             cmp   al, 0Dh                        // Enter?

@@ -1,0 +1,11 @@
+00007E   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000082   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000127   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00012B   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000186   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00018A   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+00022F   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000233   3C 59             cmp     al, 59h ; 'Y' ('Н')

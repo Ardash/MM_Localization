@@ -986,11 +986,11 @@ namespace MM_Localization {
         new addrPair(0x012E), // TRIVIA ISLAND! 500 GOLD, ENTER (Y/N)?
         new addrPair(0x019A), // NOT ENOUGH GOLD!
         new addrPair(0x0076), // PIRATE GHOSTSHIP ANARCHIST!
-        new addrPair(0x04A9), // WHO RULES CASTLE W.W.?
-        new addrPair(0x04AB), // WHO IS THE VOLUPTUOUS ONE?
-        new addrPair(0x04AD), // WHO'S LOST SIGHT?
-        new addrPair(0x04AF), // WHERE'S THE VERY LATEST?
-        new addrPair(0x04B1), // WHO BE YE?
+        new addrPair(0x0500), // WHO RULES CASTLE W.W.?
+        new addrPair(0x0502), // WHO IS THE VOLUPTUOUS ONE?
+        new addrPair(0x0504), // WHO'S LOST SIGHT?
+        new addrPair(0x0506), // WHERE'S THE VERY LATEST?
+        new addrPair(0x0508), // WHO BE YE?
         new addrPair(0x010A), // FREE TRIVIA CHANCE, PULL BRANCH (Y/N)?
         new addrPair(0x02C7), // CORRECT!+50 GEMS
         new addrPair(0x02EE), // WRONG!

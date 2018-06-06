@@ -4,10 +4,28 @@
 000870   5A 59 90 E8 90 FC 0A C0  78 09 E2 E8 B8 00 00 90
 000880   E9 06 00 90 B0 00 E8 C0  FC 50 58 59 C3 FF FF FF
 
+002063   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+002067   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+003498   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00349C   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+0036B0   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+0036B4   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+0059AC   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+0059B0   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
 005F84   B0 73             mov     al, 73h  // Замена L на У в обозначении уровня
+
+006202   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
 
 006A29   B0 6C             mov     al, 6Ch  // Замена M на М в обозначении пола
 006A31   B0 66             mov     al, 66h  // Замена F на Ж в обозначении пола
+
+00712C   3C 59             cmp     al, 59h ; 'Y' ('Н')
+007136   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+
 0092AF   B0 6D             mov     al, 6Dh  // Detect Magic - Наличие заклинания - N
 0092B7   B0 64             mov     al, 64h  // Detect Magic - Наличие заклинания - Y
 

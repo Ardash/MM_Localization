@@ -1,0 +1,26 @@
+00006B   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00006F   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000128   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+00012C   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000144   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000148   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+000160   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000164   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+00018E   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000192   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+0001AA   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+0001AE   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+0001C6   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+0001CA   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+00034F   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000353   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
+00036C   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+000370   3C 59             cmp     al, 59h ; 'Y' ('Н')

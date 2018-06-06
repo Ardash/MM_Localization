@@ -25,6 +25,10 @@
 0110   90                nop
 0111   90                nop
 
+Заменить
+0267   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+026B   3C 59             cmp     al, 59h ; 'Y' ('Н')
+
 Вставить
 ;02CD  3C 0D 0F 84 5D FE 3C 20 0F 84 39 FE 3C 27 0F 82 20 FE 3C 7A 0F 87 1A FE 2C 27 BB CE CB 03 D8 8A 07 22 C0 0F 84 0B FE E9 1B FE
 02CD   3C 0D             cmp   al, 0Dh                        // Enter?

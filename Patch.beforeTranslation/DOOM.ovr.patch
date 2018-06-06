@@ -1,0 +1,2 @@
+02EB   3C 4C             cmp     al, 4Ch ; 'L' ('Д')
+02EF   3C 59             cmp     al, 59h ; 'Y' ('Н')

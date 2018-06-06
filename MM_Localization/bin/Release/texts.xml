@@ -108,7 +108,7 @@
         <addrInSeg>1478</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1477</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -274,7 +274,7 @@ CRYPT OF CARMENCA. AWAY WITH YOU..."</originalText>
         <addrInSeg>1172</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
         <newAddrInSeg>1171</newAddrInSeg>
-        <localizedText>Подойти к стойке (Y/N)?</localizedText>
+        <localizedText>Подойти к стойке (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -296,7 +296,7 @@ CRYPT OF CARMENCA. AWAY WITH YOU..."</originalText>
         <addrInSeg>1213</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
         <newAddrInSeg>1211</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть город (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -311,7 +311,7 @@ SIGN IN, YOU CAN'T STAY! WELL (Y/N)?"</originalText>
         <newAddrInSeg>1249</newAddrInSeg>
         <localizedText>Стоящий за стойкой, высокий бородатый
 полуорк ворчит: "Вы хотите войти и
-остановиться тут (Y/N)?"</localizedText>
+остановиться тут (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -323,7 +323,7 @@ SIGN IN, YOU CAN'T STAY! WELL (Y/N)?"</originalText>
         <originalText>A MAN ENCLOSED IN A STEEL CAGE SAYS,
 "CAN I HELP YOU FIND ANYTHING (Y/N)?"</originalText>
         <newAddrInSeg>1347</newAddrInSeg>
-        <localizedText>Человек за стальной решеткой спрашивает:"Я могу вам помочь (Y/N)?"</localizedText>
+        <localizedText>Человек за стальной решеткой спрашивает:"Я могу вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -369,7 +369,7 @@ SIGN IN, YOU CAN'T STAY! WELL (Y/N)?"</originalText>
 LOOK FOR SOME FOOD (Y/N)?</originalText>
         <newAddrInSeg>1462</newAddrInSeg>
         <localizedText>Запах гнили наполняет комнату...
-Ищете еду (Y/N)?</localizedText>
+Ищете еду (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -382,7 +382,7 @@ LOOK FOR SOME FOOD (Y/N)?</originalText>
 REALLY I CAN!" ACCEPT THE OFFER (Y/N)?</originalText>
         <newAddrInSeg>1512</newAddrInSeg>
         <localizedText>К группе пошатываясь и тяжело дыша
-подошел очень старый клерик. "Я могу вампомочь, серьезно!" Согласиться (Y/N)?</localizedText>
+подошел очень старый клерик. "Я могу вампомочь, серьезно!" Согласиться (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -397,7 +397,7 @@ SCALES, ADDRESS THE PARTY,
         <newAddrInSeg>1625</newAddrInSeg>
         <localizedText>Несколько человек в броне из чешуи
 дракона обращаются к группе:
-"Хотите потренироваться (Y/N)?"</localizedText>
+"Хотите потренироваться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -524,7 +524,7 @@ ACID      FEAR     POISON     SLEEP</originalText>
         <addrInSeg>2056</addrInSeg>
         <originalText>SWAZE PIT! JUMP IN (Y/N)?</originalText>
         <newAddrInSeg>2011</newAddrInSeg>
-        <localizedText>выгребная яма! запрыгнуть (Y/N)?</localizedText>
+        <localizedText>выгребная яма! запрыгнуть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -535,7 +535,7 @@ ACID      FEAR     POISON     SLEEP</originalText>
         <addrInSeg>2082</addrInSeg>
         <originalText>A MAGIC PORTAL! ENTER (Y/N)?</originalText>
         <newAddrInSeg>2044</newAddrInSeg>
-        <localizedText>Магический портал! войти (Y/N)?</localizedText>
+        <localizedText>Магический портал! войти (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -564,7 +564,7 @@ START AT 15-7 AND WALK TO DOOM!</originalText>
         <addrInSeg>758</addrInSeg>
         <originalText>A SECRET PASSAGE TO DOOM, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>758</newAddrInSeg>
-        <localizedText>Скрытый тоннель к Року. Войти (Y/N)?</localizedText>
+        <localizedText>Скрытый тоннель к Року. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -590,7 +590,7 @@ WORTHY +4 ENDURANCE!</originalText>
         <newAddrInSeg>855</newAddrInSeg>
         <localizedText>Вы окружены группой людей во главе с
 Черным всадником! Он вызывает вас на
-дуэль... Принять (Y/N)?</localizedText>
+дуэль... Принять (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -603,7 +603,7 @@ WORTHY +4 ENDURANCE!</originalText>
 WILL YOU ENTER (Y/N)?</originalText>
         <newAddrInSeg>953</newAddrInSeg>
         <localizedText>Легендарный замок рок!
-Войдете (Y/N)?</localizedText>
+Войдете (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -644,7 +644,7 @@ FOR A SHINY TOOTH!</originalText>
         <originalText>A PIRATES SECRET COVE, SEARCH (Y/N)?</originalText>
         <newAddrInSeg>1021</newAddrInSeg>
         <localizedText>Секретная пиратская пещера.
-Обыскать (Y/N)?</localizedText>
+Обыскать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -658,7 +658,7 @@ YOU NEED. BUT PROMISE ME THAT YOU WON'T
 HELP THAT DEMONIC MENACE. ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>1065</newAddrInSeg>
         <localizedText>Я Перселла, друид, и у меня есть то, чтовам нужно. Пообещайте не помогать
-демонической угрозе. Согласны (Y/N)?</localizedText>
+демонической угрозе. Согласны (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -763,7 +763,7 @@ A LARGE WHEEL COVERED IN STRANGE AND
 ARCHAIC SYMBOLS. SPIN THE WHEEL (Y/N)?</originalText>
         <newAddrInSeg>1138</newAddrInSeg>
         <localizedText>К скале прикреплено большое колесо,
-покрытое странными архаичными символами.Раскрутить колесо (Y/N)?</localizedText>
+покрытое странными архаичными символами.Раскрутить колесо (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -801,7 +801,7 @@ ANSWER A QUESTION, ACCEPT (Y/N)?"</originalText>
         <newAddrInSeg>863</newAddrInSeg>
         <localizedText>Деревянный мост уходит через океан в
 туман. Фигура в капюшоне говорит: "Чтобыпройти, ответь на вопрос.
-Согласен (Y/N)?"</localizedText>
+Согласен (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -875,7 +875,7 @@ TO THE SOUTHEAST</originalText>
         <originalText>CAVERNOUS PASSAGE TO ERLIQUIN,
 TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>752</newAddrInSeg>
-        <localizedText>Тоннель в Эрликин. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель в Эрликин. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -886,7 +886,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>798</addrInSeg>
         <originalText>A CAVE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>784</newAddrInSeg>
-        <localizedText>Пещера. Войти (Y/N)?</localizedText>
+        <localizedText>Пещера. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -897,7 +897,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>819</addrInSeg>
         <originalText>CASTLE BLACKRIDGE NORTH, ENTER (Y/N)?</originalText>
         <newAddrInSeg>805</newAddrInSeg>
-        <localizedText>Замок Блэкридж северный. Войти (Y/N)?</localizedText>
+        <localizedText>Замок Блэкридж северный. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -908,7 +908,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>858</addrInSeg>
         <originalText>CASTLE BLACKRIDGE SOUTH, ENTER (Y/N)?</originalText>
         <newAddrInSeg>858</newAddrInSeg>
-        <localizedText>Замок Блэкридж южный. Войти (Y/N)?</localizedText>
+        <localizedText>Замок Блэкридж южный. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -921,7 +921,7 @@ TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>897</newAddrInSeg>
         <localizedText>Древние развалины убежища пустынного
 колдуна. Вокруг следы недавнего
-использования. Войти (Y/N)?</localizedText>
+использования. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1035,7 +1035,7 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrInSeg>923</addrInSeg>
         <originalText>THERE'S A CAVE HERE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>925</newAddrInSeg>
-        <localizedText>Здесь пещера. Войти (Y/N)?</localizedText>
+        <localizedText>Здесь пещера. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1046,8 +1046,8 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrInSeg>957</addrInSeg>
         <originalText>A DESCENDING STAIRCASE IS THE ENTRANCE
 TO A WARRIORS STRONGHOLD, GO IN (Y/N)?</originalText>
-        <newAddrInSeg>950</newAddrInSeg>
-        <localizedText>Лестница вниз, ведущая в оплот воителей.Войти (Y/N)?</localizedText>
+        <newAddrInSeg>952</newAddrInSeg>
+        <localizedText>Лестница вниз, ведущая в оплот воителей.Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1084,7 +1084,7 @@ ANSWER:&gt; ..........</originalText>
         <addrInSeg>861</addrInSeg>
         <originalText>PASSAGE TO PORTSMITH, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>861</newAddrInSeg>
-        <localizedText>Тоннель в Портсмит. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель в Портсмит. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1095,7 +1095,7 @@ ANSWER:&gt; ..........</originalText>
         <addrInSeg>898</addrInSeg>
         <originalText>A CAVE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>894</newAddrInSeg>
-        <localizedText>Пещера. Войти (Y/N)?</localizedText>
+        <localizedText>Пещера. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1106,7 +1106,7 @@ ANSWER:&gt; ..........</originalText>
         <addrInSeg>919</addrInSeg>
         <originalText>CASTLE WHITE WOLF, ENTER (Y/N)?</originalText>
         <newAddrInSeg>915</newAddrInSeg>
-        <localizedText>Замок Белый волк. Войти (Y/N)?</localizedText>
+        <localizedText>Замок Белый волк. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1130,7 +1130,7 @@ BLOW IT (0-9 TIMES)?</originalText>
         <addrInSeg>1007</addrInSeg>
         <originalText>STAIRS GOING DOWN, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1003</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1201,8 +1201,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>943</addrInSeg>
         <originalText>TRIVIA ISLAND! 500 GOLD, ENTER (Y/N)?</originalText>
-        <newAddrInSeg>943</newAddrInSeg>
-        <localizedText>Остров Пустяк! 500 золота. Войти (Y/N)?</localizedText>
+        <newAddrInSeg>1030</newAddrInSeg>
+        <localizedText>Остров Пустяк! 500 золота. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1212,7 +1212,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>981</addrInSeg>
         <originalText>NOT ENOUGH GOLD!</originalText>
-        <newAddrInSeg>983</newAddrInSeg>
+        <newAddrInSeg>1070</newAddrInSeg>
         <localizedText>Мало золота!</localizedText>
       </text>
       <text>
@@ -1223,62 +1223,62 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>998</addrInSeg>
         <originalText>PIRATE GHOSTSHIP ANARCHIST!</originalText>
-        <newAddrInSeg>996</newAddrInSeg>
+        <newAddrInSeg>1083</newAddrInSeg>
         <localizedText>пиратский корабль-призрак Анархист!</localizedText>
       </text>
       <text>
         <addrOfAddr>
-          <h>1194</h>
-          <l>1193</l>
+          <h>1281</h>
+          <l>1280</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1026</addrInSeg>
         <originalText>WHO RULES CASTLE W.W.?</originalText>
-        <newAddrInSeg>1032</newAddrInSeg>
+        <newAddrInSeg>1119</newAddrInSeg>
         <localizedText>Кто правит в замке Б.В.?</localizedText>
       </text>
       <text>
         <addrOfAddr>
-          <h>1196</h>
-          <l>1195</l>
+          <h>1283</h>
+          <l>1282</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1049</addrInSeg>
         <originalText>WHO IS THE VOLUPTUOUS ONE?</originalText>
-        <newAddrInSeg>1057</newAddrInSeg>
+        <newAddrInSeg>1144</newAddrInSeg>
         <localizedText>Как зовут пышную деву?</localizedText>
       </text>
       <text>
         <addrOfAddr>
-          <h>1198</h>
-          <l>1197</l>
+          <h>1285</h>
+          <l>1284</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1076</addrInSeg>
         <originalText>WHO'S LOST SIGHT?</originalText>
-        <newAddrInSeg>1080</newAddrInSeg>
+        <newAddrInSeg>1167</newAddrInSeg>
         <localizedText>Кто ослеп?</localizedText>
       </text>
       <text>
         <addrOfAddr>
-          <h>1200</h>
-          <l>1199</l>
+          <h>1287</h>
+          <l>1286</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1094</addrInSeg>
         <originalText>WHERE'S THE VERY LATEST?</originalText>
-        <newAddrInSeg>1091</newAddrInSeg>
+        <newAddrInSeg>1178</newAddrInSeg>
         <localizedText>Где самое лучшее?</localizedText>
       </text>
       <text>
         <addrOfAddr>
-          <h>1202</h>
-          <l>1201</l>
+          <h>1289</h>
+          <l>1288</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1119</addrInSeg>
         <originalText>WHO BE YE?</originalText>
-        <newAddrInSeg>1109</newAddrInSeg>
+        <newAddrInSeg>1196</newAddrInSeg>
         <localizedText>Кто есть ты?</localizedText>
       </text>
       <text>
@@ -1289,8 +1289,8 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1130</addrInSeg>
         <originalText>FREE TRIVIA CHANCE, PULL BRANCH (Y/N)?</originalText>
-        <newAddrInSeg>1122</newAddrInSeg>
-        <localizedText>Бесплатный шанс. Дернуть ветку (Y/N)?</localizedText>
+        <newAddrInSeg>1209</newAddrInSeg>
+        <localizedText>Бесплатный шанс. Дернуть ветку (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1300,7 +1300,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1169</addrInSeg>
         <originalText>CORRECT!+50 GEMS</originalText>
-        <newAddrInSeg>1160</newAddrInSeg>
+        <newAddrInSeg>1247</newAddrInSeg>
         <localizedText>Верно!+50 камней</localizedText>
       </text>
       <text>
@@ -1311,7 +1311,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1186</addrInSeg>
         <originalText>WRONG!</originalText>
-        <newAddrInSeg>1177</newAddrInSeg>
+        <newAddrInSeg>1264</newAddrInSeg>
         <localizedText>неверно!</localizedText>
       </text>
     </dt>
@@ -1339,7 +1339,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
         <addrInSeg>889</addrInSeg>
         <originalText>DESERTED MERCHANT WAGONS, SEARCH (Y/N)?</originalText>
         <newAddrInSeg>889</newAddrInSeg>
-        <localizedText>Брошенная повозка купца. Обыскать(Y/N)?</localizedText>
+        <localizedText>Брошенная повозка купца. Обыскать(Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1385,7 +1385,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
 "WILL THE PARTY DRINK (Y/N)?"</originalText>
         <newAddrInSeg>990</newAddrInSeg>
         <localizedText>Фонтан спрашивает:
-"Хотите напиться (Y/N)?"</localizedText>
+"Хотите напиться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1434,7 +1434,7 @@ BLOW TWICE TO ENTER.</originalText>
         <originalText>A CAVERNOUS PASSAGE LEADS TO SORPIGAL,
 TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>978</newAddrInSeg>
-        <localizedText>Тоннель в Сорпигал. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель в Сорпигал. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1479,7 +1479,7 @@ TAKE IT (Y/N)?</originalText>
         <originalText>A GLOWING WHITE COLUMN, TOUCH IT (Y/N)?</originalText>
         <newAddrInSeg>1050</newAddrInSeg>
         <localizedText>Белая светящаяся колонна.
-Прикоснуться (Y/N)?</localizedText>
+Прикоснуться (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1490,7 +1490,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>1121</addrInSeg>
         <originalText>STATUES BLOCK THE PATH,SMASH THEM (Y/N)?</originalText>
         <newAddrInSeg>1096</newAddrInSeg>
-        <localizedText>Статуи перегородили путь. Разбить (Y/N)?</localizedText>
+        <localizedText>Статуи перегородили путь. Разбить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1501,7 +1501,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>1162</addrInSeg>
         <originalText>A STRANGE FOUNTAIN, DRINK (Y/N)?</originalText>
         <newAddrInSeg>1137</newAddrInSeg>
-        <localizedText>Странный фонтан. Выпить (Y/N)?</localizedText>
+        <localizedText>Странный фонтан. Выпить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1534,7 +1534,7 @@ TAKE IT (Y/N)?</originalText>
         <addrInSeg>1214</addrInSeg>
         <originalText>THERE'S A CAVE HERE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1181</newAddrInSeg>
-        <localizedText>Пещера. Войти (Y/N)?</localizedText>
+        <localizedText>Пещера. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1684,7 +1684,7 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</originalText>
         <originalText>ONE OF THE WYVERN'S EYES BEGINS TO GLOW!TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>778</newAddrInSeg>
         <localizedText>Один из глаз Виверна мерцает!
-Взять (Y/N)?</localizedText>
+Взять (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1710,7 +1710,7 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <newAddrInSeg>856</newAddrInSeg>
         <localizedText>Лорд Килбурн-изгнанник говорит: "Бери
 эту карту и разведай пустыню. Расскажи освоих находках остальным лордам. Тогда
-они поймут!" Согласен (Y/N)?</localizedText>
+они поймут!" Согласен (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1732,7 +1732,7 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <addrInSeg>1039</addrInSeg>
         <originalText>A WYVERN'S LAIR, INVESTIGATE (Y/N)?</originalText>
         <newAddrInSeg>1021</newAddrInSeg>
-        <localizedText>Нора виверн. Обследовать (Y/N)?</localizedText>
+        <localizedText>Нора виверн. Обследовать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1757,7 +1757,7 @@ A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
         <originalText>THE HERMIT SAYS: "TRADE WARES (Y/N)?"</originalText>
         <newAddrInSeg>1108</newAddrInSeg>
         <localizedText>Отшельник спрашивает:
-"Поменяемся (Y/N)?"</localizedText>
+"Поменяемся (Д/Н)?"</localizedText>
       </text>
     </dt>
   </locText>
@@ -1789,7 +1789,7 @@ A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
 IN THE LOCK, ENTER (Y/N)?</originalText>
         <newAddrInSeg>945</newAddrInSeg>
         <localizedText>Ваш коралловый ключ подошел к замку.
-Войти (Y/N)?</localizedText>
+Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1801,7 +1801,7 @@ IN THE LOCK, ENTER (Y/N)?</originalText>
         <originalText>AT THE WATERS EDGE ARE THE DECAYING
 REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</originalText>
         <newAddrInSeg>995</newAddrInSeg>
-        <localizedText>На берегу гниющий остов большого корабляОбыскать (Y/N)?</localizedText>
+        <localizedText>На берегу гниющий остов большого корабляОбыскать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1867,7 +1867,7 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</originalText>
         <addrInSeg>1186</addrInSeg>
         <originalText>PORTAL OF POWER, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1163</newAddrInSeg>
-        <localizedText>Портал силы. Войти (Y/N)?</localizedText>
+        <localizedText>Портал силы. Войти (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -1898,7 +1898,7 @@ TRADE ITEM (Y/N)?</originalText>
         <newAddrInSeg>1054</newAddrInSeg>
         <localizedText>Небольшое племя песчаных кочевников
 поставило тут торговый пост.
-Торговать (Y/N)?</localizedText>
+Торговать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2088,7 +2088,7 @@ WORTHY, IF YOU CAN FIND THEM!</originalText>
         <addrInSeg>882</addrInSeg>
         <originalText>A CAVE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>882</newAddrInSeg>
-        <localizedText>Пещера. Войти (Y/N)?</localizedText>
+        <localizedText>Пещера. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2099,7 +2099,7 @@ WORTHY, IF YOU CAN FIND THEM!</originalText>
         <addrInSeg>903</addrInSeg>
         <originalText>CLIMB TREE (Y/N)?</originalText>
         <newAddrInSeg>903</newAddrInSeg>
-        <localizedText>Залезть на дерево (Y/N)?</localizedText>
+        <localizedText>Залезть на дерево (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2264,7 +2264,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrInSeg>1055</addrInSeg>
         <originalText>ALGARY, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1142</newAddrInSeg>
-        <localizedText>Алгари. Войти (Y/N)?</localizedText>
+        <localizedText>Алгари. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2290,7 +2290,7 @@ TO SAFETY (Y/N)?"</originalText>
         <newAddrInSeg>1193</newAddrInSeg>
         <localizedText>Огромное крылатое чудище восклицает:
 "Это болото опасно. Перенести вас в
-безопасное место (Y/N)?"</localizedText>
+безопасное место (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2357,7 +2357,7 @@ OG CURSES AS THE IDOLS VANISH!</originalText>
         <addrInSeg>1341</addrInSeg>
         <originalText>PASSAGE TO DUSK, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1341</newAddrInSeg>
-        <localizedText>Тоннель в Даск. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель в Даск. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2368,7 +2368,7 @@ OG CURSES AS THE IDOLS VANISH!</originalText>
         <addrInSeg>1371</addrInSeg>
         <originalText>RUINS OF CASTLE DRAGADUNE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1370</newAddrInSeg>
-        <localizedText>Руины замка Драгадун. Войти (Y/N)?</localizedText>
+        <localizedText>Руины замка Драгадун. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2424,7 +2424,7 @@ OG CURSES AS THE IDOLS VANISH!</originalText>
         <originalText>AT THE CENTER OF THE LAND THAT TIME
 FORGOT STANDS AN HOURGLASS,TURN IT(Y/N)?</originalText>
         <newAddrInSeg>1496</newAddrInSeg>
-        <localizedText>В центре земли, забытой временем, стоят песочные часы. Повернуть их (Y/N)?</localizedText>
+        <localizedText>В центре земли, забытой временем, стоят песочные часы. Повернуть их (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2655,7 +2655,7 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</or
         <addrInSeg>672</addrInSeg>
         <originalText>KING ALAMAR'S CASTLE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>672</newAddrInSeg>
-        <localizedText>Замок короля Аламара. Войти (Y/N)?</localizedText>
+        <localizedText>Замок короля Аламара. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2677,7 +2677,7 @@ ESCAPED AND MAY BE DISGUISED AS A NOBLE.FIND HIS COUNTERPART TO EXPOSE HIM!"</or
         <addrInSeg>724</addrInSeg>
         <originalText> USE YOUR KEY (Y/N)?</originalText>
         <newAddrInSeg>724</newAddrInSeg>
-        <localizedText> Использовать ключ (Y/N)?</localizedText>
+        <localizedText> Использовать ключ (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2844,7 +2844,7 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
 ENTER (Y/N)?</originalText>
         <newAddrInSeg>860</newAddrInSeg>
         <localizedText>красивое здание из золота.
-Войти (Y/N)?</localizedText>
+Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2879,7 +2879,7 @@ ENTER (Y/N)?</originalText>
         <addrInSeg>969</addrInSeg>
         <originalText>UNEARTHED COFFIN! EXAMINE (Y/N)?</originalText>
         <newAddrInSeg>967</newAddrInSeg>
-        <localizedText>Отрытый саркофаг! Изучить (Y/N)?</localizedText>
+        <localizedText>Отрытый саркофаг! Изучить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2890,7 +2890,7 @@ ENTER (Y/N)?</originalText>
         <addrInSeg>1002</addrInSeg>
         <originalText>OPEN CRYPT! EXAMINE (Y/N)?</originalText>
         <newAddrInSeg>1000</newAddrInSeg>
-        <localizedText>Открытый склеп! Изучить (Y/N)?</localizedText>
+        <localizedText>Открытый склеп! Изучить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2903,7 +2903,7 @@ ENTER (Y/N)?</originalText>
 ASSIST (Y/N)?</originalText>
         <newAddrInSeg>1031</newAddrInSeg>
         <localizedText>Полузарытый труп просит о помощи!
-Помочь (Y/N)?</localizedText>
+Помочь (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2916,7 +2916,7 @@ ASSIST (Y/N)?</originalText>
 DISRUPT (Y/N)?</originalText>
         <newAddrInSeg>1079</newAddrInSeg>
         <localizedText>Город драконов, собрание...
-Прервать (Y/N)?</localizedText>
+Прервать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3122,7 +3122,7 @@ A MYSTERIOUS MAN IN A WHITE COAT...
         <addrInSeg>1311</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
         <newAddrInSeg>1311</newAddrInSeg>
-        <localizedText>Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3264,7 +3264,7 @@ IN THE ENCHANTED FOREST</originalText>
         <addrInSeg>1811</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>1786</newAddrInSeg>
-        <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
+        <localizedText>"Мне нужны ваши услуги!" Согласны (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3413,7 +3413,7 @@ ATIS-19-31UD54AEUPI1</originalText>
         <addrInSeg>1420</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
         <newAddrInSeg>1420</newAddrInSeg>
-        <localizedText>Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3470,7 +3470,7 @@ ITEMS AND SEND THEM TO THE PIT!</originalText>
         <addrInSeg>1629</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!"ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>1622</newAddrInSeg>
-        <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
+        <localizedText>"Мне нужны ваши услуги!" Согласны (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3732,7 +3732,7 @@ IACI1;-2;0NU--G,NOT2</originalText>
         <addrInSeg>1138</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1138</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3747,7 +3747,7 @@ ARE YOU INTERESTED (Y/N)?"</originalText>
         <newAddrInSeg>1173</newAddrInSeg>
         <localizedText>За столом сидит пожилой человек.
 "Мне нужно доставить кое-что.
-Вам это интересно (Y/N)?"</localizedText>
+Вам это интересно (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3760,7 +3760,7 @@ ARE YOU INTERESTED (Y/N)?"</originalText>
 CARE TO TRY AGAIN (Y/N)?"</originalText>
         <newAddrInSeg>1262</newAddrInSeg>
         <localizedText>"Я вижу, вы не доставили мое послание.
-Хотите попробовать еще раз (Y/N)?"</localizedText>
+Хотите попробовать еще раз (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3800,7 +3800,7 @@ BALCONIES FILLED WITH CHEERING PEASANTS
 A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</originalText>
         <newAddrInSeg>1423</newAddrInSeg>
         <localizedText>По периметру комнаты расположены балконыс ликующей толпой. Человек спрашивает:
-"вы будете участвовать (Y/N)?"</localizedText>
+"вы будете участвовать (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3835,7 +3835,7 @@ A MAN ASKS "WILL YOU PARTICIPATE (Y/N)?"</originalText>
 APPEARS! ENTER (Y/N)?</originalText>
         <newAddrInSeg>1598</newAddrInSeg>
         <localizedText>Мерцающий бело-синий портал.
-Войти (Y/N)?</localizedText>
+Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3888,7 +3888,7 @@ APPEARS! ENTER (Y/N)?</originalText>
 ENTER (Y/N)?</originalText>
         <newAddrInSeg>891</newAddrInSeg>
         <localizedText>Мерцающий бело-синий портал.
-Войти (Y/N)?</localizedText>
+Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3921,7 +3921,7 @@ ENTER (Y/N)?</originalText>
         <addrInSeg>971</addrInSeg>
         <originalText>BUTTON ON THE WALL, PRESS IT (Y/N)?</originalText>
         <newAddrInSeg>963</newAddrInSeg>
-        <localizedText>Кнопка на стене. Нажать (Y/N)?</localizedText>
+        <localizedText>Кнопка на стене. Нажать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3969,7 +3969,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1149</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
         <newAddrInSeg>1148</newAddrInSeg>
-        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Уйти (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -3985,7 +3985,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1021</addrInSeg>
         <originalText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1021</newAddrInSeg>
-        <localizedText>бело-синий портал. Войти (Y/N)?</localizedText>
+        <localizedText>бело-синий портал. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4053,7 +4053,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1183</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1182</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4064,7 +4064,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1227</addrInSeg>
         <originalText>GLOWING POOL, STEP IN (Y/N)?</originalText>
         <newAddrInSeg>1149</newAddrInSeg>
-        <localizedText>Мерцающее озеро. Вступить (Y/N)?</localizedText>
+        <localizedText>Мерцающее озеро. Вступить (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -4152,7 +4152,7 @@ THE AREA IN FRONT OF YOU!</originalText>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1104</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4163,7 +4163,7 @@ THE AREA IN FRONT OF YOU!</originalText>
         <addrInSeg>1117</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1104</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -4179,7 +4179,7 @@ THE AREA IN FRONT OF YOU!</originalText>
         <addrInSeg>1186</addrInSeg>
         <originalText>BLUE AND WHITE PORTAL, ENTER (Y/N)?</originalText>
         <newAddrInSeg>1186</newAddrInSeg>
-        <localizedText>бело-синий портал. Войти (Y/N)?</localizedText>
+        <localizedText>бело-синий портал. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4215,7 +4215,7 @@ ARE WORTHY +4 SPEED!</originalText>
         <addrInSeg>1345</addrInSeg>
         <originalText>THE SHRINE OF OKZAR, PRAY (Y/N)?</originalText>
         <newAddrInSeg>1324</newAddrInSeg>
-        <localizedText>склеп Окзара. помолиться (Y/N)?</localizedText>
+        <localizedText>склеп Окзара. помолиться (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4307,7 +4307,7 @@ ARE WORTHY +4 SPEED!</originalText>
         <addrInSeg>1563</addrInSeg>
         <originalText>STAIRS GOING UP! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1530</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4318,7 +4318,7 @@ ARE WORTHY +4 SPEED!</originalText>
         <addrInSeg>1597</addrInSeg>
         <originalText>A CAVERNOUS PASSAGE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1563</newAddrInSeg>
-        <localizedText>Тоннель вглубь. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель вглубь. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4406,7 +4406,7 @@ ETCHED IN GOLD READS: YICU2ME3</originalText>
         <addrInSeg>950</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>945</newAddrInSeg>
-        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4418,7 +4418,7 @@ ETCHED IN GOLD READS: YICU2ME3</originalText>
         <originalText>"I'M THE WIZARD RANALOU. ARE YOU HERE TOUSE THE PORTALS (Y/N)?"</originalText>
         <newAddrInSeg>973</newAddrInSeg>
         <localizedText>"Я колдун Раналу. Вы хотите
-воспользоваться порталами (Y/N)?"</localizedText>
+воспользоваться порталами (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4488,8 +4488,8 @@ AUTHORIZED PERSONNEL ONLY! KEEP OUT.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>886</addrInSeg>
         <originalText>A LADDER GOING UP, TAKE IT (Y/N)?</originalText>
-        <newAddrInSeg>975</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <newAddrInSeg>973</newAddrInSeg>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4501,7 +4501,7 @@ AUTHORIZED PERSONNEL ONLY! KEEP OUT.</originalText>
         <originalText>THE VOLCANO GOD BELLOWS,
 "WHAT DO YOU SEEK HERE?"
 A) A CHALLENGE  B) A RIDDLE  C) A CLUE</originalText>
-        <newAddrInSeg>1007</newAddrInSeg>
+        <newAddrInSeg>1094</newAddrInSeg>
         <localizedText>Бог вулкан ревет:
 "Что вы ищете?"
 A) Поединок  B) Загадку   C) Подсказку</localizedText>
@@ -4516,7 +4516,7 @@ A) Поединок  B) Загадку   C) Подсказку</localizedText>
         <originalText>WHO WAS BRAVE YET FAILED?
 
 ANSWER:&gt; ..........</originalText>
-        <newAddrInSeg>1080</newAddrInSeg>
+        <newAddrInSeg>1167</newAddrInSeg>
         <localizedText>Кто браво пытался, но проиграл?
 
 Ответ :&gt; ..........</localizedText>
@@ -4531,7 +4531,7 @@ ANSWER:&gt; ..........</originalText>
         <originalText>PAINTED IN A BLACK AND WHITE PATTERN,
 A SIGN READS: THE SECOND PART IS THE
 MOST VALUABLE.</originalText>
-        <newAddrInSeg>1138</newAddrInSeg>
+        <newAddrInSeg>1225</newAddrInSeg>
         <localizedText>Табличка в черно-белую клетку:
 Вторая часть наиболее важная.</localizedText>
       </text>
@@ -4544,7 +4544,7 @@ MOST VALUABLE.</originalText>
         <addrInSeg>1146</addrInSeg>
         <originalText>PIT OF BUBBLING LAVA!
 </originalText>
-        <newAddrInSeg>1199</newAddrInSeg>
+        <newAddrInSeg>1286</newAddrInSeg>
         <localizedText>Яма с пузырящейся лавой!
 </localizedText>
       </text>
@@ -4556,7 +4556,7 @@ MOST VALUABLE.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1169</addrInSeg>
         <originalText>LEVITATION SAVES YOU.</originalText>
-        <newAddrInSeg>1236</newAddrInSeg>
+        <newAddrInSeg>1323</newAddrInSeg>
         <localizedText>левитация вас спасла.</localizedText>
       </text>
       <text>
@@ -4568,7 +4568,7 @@ MOST VALUABLE.</originalText>
         <addrInSeg>1191</addrInSeg>
         <originalText>A LUSCIOUS VIRGIN SHACKLED TO THE WALL!
 A) KISS HER  B) RELEASE HER  C) LEAVE</originalText>
-        <newAddrInSeg>1269</newAddrInSeg>
+        <newAddrInSeg>1356</newAddrInSeg>
         <localizedText>Соблазнительная дева прикована к стене!
 A) поцеловать B) освободить C) Уйти</localizedText>
       </text>
@@ -4580,7 +4580,7 @@ A) поцеловать B) освободить C) Уйти</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1285</addrInSeg>
         <originalText>TRY SETTING 1B,2J</originalText>
-        <newAddrInSeg>1372</newAddrInSeg>
+        <newAddrInSeg>1459</newAddrInSeg>
         <localizedText>Попробуйте 1B,2J</localizedText>
       </text>
       <text>
@@ -4592,7 +4592,7 @@ A) поцеловать B) освободить C) Уйти</localizedText>
         <addrInSeg>1303</addrInSeg>
         <originalText>THIS CAVERN IS RANDOM UNTIL THE DIALS
 ARE SET.</originalText>
-        <newAddrInSeg>1389</newAddrInSeg>
+        <newAddrInSeg>1476</newAddrInSeg>
         <localizedText>Эта пещера случайна, пока диски
 не выставлены.</localizedText>
       </text>
@@ -4604,7 +4604,7 @@ ARE SET.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1350</addrInSeg>
         <originalText>STABILIZATION DIAL #  SET (A-Z)?</originalText>
-        <newAddrInSeg>1436</newAddrInSeg>
+        <newAddrInSeg>1523</newAddrInSeg>
         <localizedText>диск стабилизации  #  выбрать (A-Z)</localizedText>
       </text>
       <text>
@@ -4615,7 +4615,7 @@ ARE SET.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1383</addrInSeg>
         <originalText>POOF! YOU'VE BEEN TELEPORTED...</originalText>
-        <newAddrInSeg>1472</newAddrInSeg>
+        <newAddrInSeg>1559</newAddrInSeg>
         <localizedText>Вжух! Вы телепортировались...</localizedText>
       </text>
     </dt>
@@ -4632,7 +4632,7 @@ ARE SET.</originalText>
         <addrInSeg>810</addrInSeg>
         <originalText>LADDER UP, CLIMB (Y/N)?</originalText>
         <newAddrInSeg>810</newAddrInSeg>
-        <localizedText>лестница вверх, залезть (Y/N)?</localizedText>
+        <localizedText>лестница вверх, залезть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4657,7 +4657,7 @@ POLYHEDRON. STOP IT ON SIDE (1-9)?</originalText>
 SPIN IT (Y/N)?</originalText>
         <newAddrInSeg>920</newAddrInSeg>
         <localizedText>На полиэдре число
-Раскрутить (Y/N)?</localizedText>
+Раскрутить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4703,7 +4703,7 @@ SPIN IT (Y/N)?</originalText>
         <addrInSeg>1041</addrInSeg>
         <originalText>PULL IT (Y/N)?</originalText>
         <newAddrInSeg>1032</newAddrInSeg>
-        <localizedText>Дернуть (Y/N)?</localizedText>
+        <localizedText>Дернуть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4743,7 +4743,7 @@ SPIN IT (Y/N)?</originalText>
         <addrInSeg>831</addrInSeg>
         <originalText>A PASSAGE LEADS OUTDOORS, EXIT (Y/N)?</originalText>
         <newAddrInSeg>831</newAddrInSeg>
-        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5045,7 +5045,7 @@ APPROACH.
         <addrInSeg>1551</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1547</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5247,7 +5247,7 @@ GRUNTS AS YOU APPROACH.
         <addrInSeg>1059</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1063</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5258,7 +5258,7 @@ GRUNTS AS YOU APPROACH.
         <addrInSeg>1099</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1101</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5299,7 +5299,7 @@ EXPERIENCE, ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>1248</newAddrInSeg>
         <localizedText>Изумительный легендарный фонтан
 Драгадуна превращает все золото в опыт.
-Согласны (Y/N)?</localizedText>
+Согласны (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5352,7 +5352,7 @@ READS: I BE ME</originalText>
         <addrInSeg>1131</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
         <newAddrInSeg>1130</newAddrInSeg>
-        <localizedText>Подойти к стойке (Y/N)?</localizedText>
+        <localizedText>Подойти к стойке (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5363,7 +5363,7 @@ READS: I BE ME</originalText>
         <addrInSeg>1157</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1154</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5374,7 +5374,7 @@ READS: I BE ME</originalText>
         <addrInSeg>1193</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1188</newAddrInSeg>
-        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5389,7 +5389,7 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</originalText>
         <newAddrInSeg>1216</newAddrInSeg>
         <localizedText>В этой гостинице жутко тихо. Внезапно
 появляется призрачное видение и
-спрашивает: "хотите остановиться (Y/N)?"</localizedText>
+спрашивает: "хотите остановиться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5435,7 +5435,7 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</originalText>
 "WOULD YOU BE WANTING MY SERVICES(Y/N)?"</originalText>
         <newAddrInSeg>1378</newAddrInSeg>
         <localizedText>Появился молодой гном.
-"Могу я вам помочь (Y/N)?"</localizedText>
+"Могу я вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5448,7 +5448,7 @@ APPEARS, ASKING, "SIGN IN (Y/N)?"</originalText>
 SAYING, "NEED SOME FEED (Y/N)?"</originalText>
         <newAddrInSeg>1428</newAddrInSeg>
         <localizedText>Вы видите слабое подобие человека.
-"Хотите купить еды (Y/N)?"</localizedText>
+"Хотите купить еды (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5462,7 +5462,7 @@ SAYING, "NEED SOME FEED (Y/N)?"</originalText>
         <newAddrInSeg>1490</newAddrInSeg>
         <localizedText>Яркие огоньки мечутся по комнате.
 Ужасный голос визгливо интересуется:
-"Нужна помощь (Y/N)?"</localizedText>
+"Нужна помощь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5475,7 +5475,7 @@ SAYING, "NEED SOME FEED (Y/N)?"</originalText>
 ASKING, "NEED TRAINING (Y/N)?"</originalText>
         <newAddrInSeg>1583</newAddrInSeg>
         <localizedText>Несколько пустых доспехов интересуются:
-"Хотите потренироваться (Y/N)?"</localizedText>
+"Хотите потренироваться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5684,7 +5684,7 @@ FRUSTRATIONS!-THE-TO-IN</originalText>
         <addrInSeg>1008</addrInSeg>
         <originalText>SPIRALLING STAIRS GO UP,TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1011</newAddrInSeg>
-        <localizedText>Спиральная лестница вверх, уйти (Y/N)?</localizedText>
+        <localizedText>Спиральная лестница вверх, уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5695,7 +5695,7 @@ FRUSTRATIONS!-THE-TO-IN</originalText>
         <addrInSeg>1049</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1051</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5804,7 +5804,7 @@ IF YOU DARE!</originalText>
         <addrInSeg>1209</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1077</newAddrInSeg>
-        <localizedText>Ступени идут вверх! уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5842,7 +5842,7 @@ REMEMBER B.J.!"</originalText>
         <addrInSeg>1444</addrInSeg>
         <originalText>DESECRATE IT (Y/N)?</originalText>
         <newAddrInSeg>1368</newAddrInSeg>
-        <localizedText>Осквернить (Y/N)?</localizedText>
+        <localizedText>Осквернить (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -5871,7 +5871,7 @@ REMEMBER B.J.!"</originalText>
         <addrInSeg>1281</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
         <newAddrInSeg>1281</newAddrInSeg>
-        <localizedText>Подойти к стойке (Y/N)?</localizedText>
+        <localizedText>Подойти к стойке (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5882,7 +5882,7 @@ REMEMBER B.J.!"</originalText>
         <addrInSeg>1308</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1308</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5893,7 +5893,7 @@ REMEMBER B.J.!"</originalText>
         <addrInSeg>1344</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
         <newAddrInSeg>1342</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть город (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5907,7 +5907,7 @@ GNOME EYES THE PARTY AND ASKS,
 "SIGNING IN (Y/N)?"</originalText>
         <newAddrInSeg>1380</newAddrInSeg>
         <localizedText>Старый гном поправил очки и спрашивает:
-"Хотите остановиться (Y/N)?"</localizedText>
+"Хотите остановиться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5955,7 +5955,7 @@ BROWSE (Y/N)?"</originalText>
         <newAddrInSeg>1519</newAddrInSeg>
         <localizedText>Громогласный полуорк заявляет:
 "Все по последней моде"
-Осмотреть (Y/N)?</localizedText>
+Осмотреть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5968,7 +5968,7 @@ BROWSE (Y/N)?"</originalText>
 HUNGRY (Y/N)?"</originalText>
         <newAddrInSeg>1591</newAddrInSeg>
         <localizedText>Повар говорит: "У нас самая лучшая еда!
-Голодны (Y/N)?"</localizedText>
+Голодны (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5981,7 +5981,7 @@ HUNGRY (Y/N)?"</originalText>
 NEED HELP (Y/N)?</originalText>
         <newAddrInSeg>1647</newAddrInSeg>
         <localizedText>Несколько толстых клериков приветствуют
-вас. Помочь (Y/N)?</localizedText>
+вас. Помочь (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5995,7 +5995,7 @@ UNISON, "WANT A GOOD WORKOUT (Y/N)?"</originalText>
         <newAddrInSeg>1706</newAddrInSeg>
         <localizedText>Три бронированных рыцаря
 рявкнули в унисон:
-"Хотите потренироваться (Y/N)?"</localizedText>
+"Хотите потренироваться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6117,7 +6117,7 @@ A)Напасть B)Взятка  C)Убежать D)Сдаться</localizedTex
         <addrInSeg>2112</addrInSeg>
         <originalText>TOWN TREASURE, STEAL (Y/N)?</originalText>
         <newAddrInSeg>2112</newAddrInSeg>
-        <localizedText>Сокровище, украсть (Y/N)?</localizedText>
+        <localizedText>Сокровище, украсть (Д/Н)?</localizedText>
       </text>
     </dt>
   </locText>
@@ -6586,7 +6586,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>5121</addrInSeg>
         <originalText>WILL YOU PAY (Y/N)?</originalText>
         <newAddrInSeg>5117</newAddrInSeg>
-        <localizedText>Покупаешь (Y/N)?</localizedText>
+        <localizedText>Покупаешь (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7117,7 +7117,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>6210</addrInSeg>
         <originalText>APPROACH (Y/N)?</originalText>
         <newAddrInSeg>6202</newAddrInSeg>
-        <localizedText>приблизиться (Y/N)?</localizedText>
+        <localizedText>приблизиться (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7194,7 +7194,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>6351</addrInSeg>
         <originalText>GIVE UP ALL YOUR      (Y/N)?</originalText>
         <newAddrInSeg>6313</newAddrInSeg>
-        <localizedText>Полностью отдать        (Y/N)?</localizedText>
+        <localizedText>Полностью отдать        (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -8834,8 +8834,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>9067</addrInSeg>
         <originalText>     (Y/N)?     </originalText>
-        <newAddrInSeg>0</newAddrInSeg>
-        <localizedText>     (Y/N)?     </localizedText>
+        <newAddrInSeg>9067</newAddrInSeg>
+        <localizedText>     (Д/Н)?     </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -9055,7 +9055,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>9262</addrInSeg>
         <originalText>    ARE YOU SURE (Y/N)?          </originalText>
         <newAddrInSeg>9262</newAddrInSeg>
-        <localizedText>    Вы уверены   (Y/N)?          </localizedText>
+        <localizedText>    Вы уверены   (Д/Н)?          </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -10023,7 +10023,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>10447</addrInSeg>
         <originalText>REST HERE (Y/N)?</originalText>
         <newAddrInSeg>10445</newAddrInSeg>
-        <localizedText>сделать привал (Y/N)?</localizedText>
+        <localizedText>привал (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12847,7 +12847,7 @@ DAUGHTER, ASKS IF YOU WILL BE SPENDING
 THE NIGHT... SIGN IN (Y/N)?</originalText>
         <newAddrInSeg>1111</newAddrInSeg>
         <localizedText>Лара, пышная дочка владельца гостиницы,
-спрашивает: "Хотите переночевать (Y/N)?"</localizedText>
+спрашивает: "Хотите переночевать (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12907,7 +12907,7 @@ SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</originalText>
         <newAddrInSeg>1275</newAddrInSeg>
         <localizedText>Прекрасная молодая дева соблазнительно
 улыбается и усердно кует длинный меч.
-"Могу я вам помочь (Y/N)?"</localizedText>
+"Могу я вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12921,7 +12921,7 @@ A SULTRY VOICE ASKS, "SEE ANYTHING
 YOU LIKE (Y/N)?"</originalText>
         <newAddrInSeg>1379</newAddrInSeg>
         <localizedText>Страстный голос из-за стойки с фруктами
-спрашивает: "Выбрали что-то (Y/N)?"</localizedText>
+спрашивает: "Выбрали что-то (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12932,7 +12932,7 @@ YOU LIKE (Y/N)?"</originalText>
         <addrInSeg>1497</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
         <newAddrInSeg>1455</newAddrInSeg>
-        <localizedText>Подойти к стойке (Y/N)?</localizedText>
+        <localizedText>Подойти к стойке (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12947,7 +12947,7 @@ PRIESTESS ASKS,"NEED HELP (Y/N)?"</originalText>
         <newAddrInSeg>1479</newAddrInSeg>
         <localizedText>В этом Прекрасном храме видны следы
 запустения и старения. Высшая жрица
-спрашивает: "Нужна помощь (Y/N)?"</localizedText>
+спрашивает: "Нужна помощь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12962,7 +12962,7 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</originalText>
         <newAddrInSeg>1585</newAddrInSeg>
         <localizedText>К вам подошла высокая мускулистая
 женщина в кожаной броне. "Незнакомцы,
-Хотите потренироваться (Y/N)?"</localizedText>
+Хотите потренироваться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12973,7 +12973,7 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</originalText>
         <addrInSeg>1739</addrInSeg>
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1688</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13017,7 +13017,7 @@ ARE YOU HERE FOR TRAINING (Y/N)?"</originalText>
         <addrInSeg>1841</addrInSeg>
         <originalText>PASSAGE OUTSIDE, EXIT (Y/N)?</originalText>
         <newAddrInSeg>1776</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть город (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13189,7 +13189,7 @@ THE ANTIDOTE TO HUMANIZATION!</originalText>
         <addrInSeg>1048</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1042</newAddrInSeg>
-        <localizedText>Тоннель наружу. Уйти (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13222,7 +13222,7 @@ THE ANTIDOTE TO HUMANIZATION!</originalText>
         <addrInSeg>1088</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1070</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13263,7 +13263,7 @@ PATTERN!</originalText>
         <addrInSeg>740</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>740</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13274,7 +13274,7 @@ PATTERN!</originalText>
         <addrInSeg>776</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>774</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13328,7 +13328,7 @@ THERE IS NO HOPE...POOF!</originalText>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>408</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13339,7 +13339,7 @@ THERE IS NO HOPE...POOF!</originalText>
         <addrInSeg>418</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>408</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13380,7 +13380,7 @@ PATTERN!</originalText>
         <addrInSeg>565</addrInSeg>
         <originalText>A LADDER GOING UP, CLIMB IT (Y/N)?</originalText>
         <newAddrInSeg>557</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13427,7 +13427,7 @@ MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</originalText>
         <newAddrInSeg>1022</newAddrInSeg>
         <localizedText>Из тела Окрима встает призрачная фигура
 и говорит: "В обмен на мое кольцо я
-заберу вашу жизнь. Согласны (Y/N)?"</localizedText>
+заберу вашу жизнь. Согласны (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13466,7 +13466,7 @@ LAIR OF THE OMNIPOTENT WIZARD OKRIM</originalText>
         <originalText>AN OPENING ABOVE LEADS OUTSIDE,
 CLIMB OUT (Y/N)?</originalText>
         <newAddrInSeg>1607</newAddrInSeg>
-        <localizedText>Провал ведет наружу. Вылезти (Y/N)?</localizedText>
+        <localizedText>Провал ведет наружу. Вылезти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13477,7 +13477,7 @@ CLIMB OUT (Y/N)?</originalText>
         <addrInSeg>1306</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1300</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13606,7 +13606,7 @@ HE STUDIES YOUR WEAKNESSES!"</originalText>
         <addrInSeg>1144</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1115</newAddrInSeg>
-        <localizedText>Ступени уходят вверх. Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вверх. Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13720,7 +13720,7 @@ WHAT AM I? :&gt; ...............</originalText>
         <addrInSeg>1345</addrInSeg>
         <originalText>STAIRS TO SURFACE, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>2158</newAddrInSeg>
-        <localizedText>Лестница на поверхность. Выходим (Y/N)?</localizedText>
+        <localizedText>Лестница на поверхность. Выходим (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13731,7 +13731,7 @@ WHAT AM I? :&gt; ...............</originalText>
         <addrInSeg>1381</addrInSeg>
         <originalText>STAIRS DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>2198</newAddrInSeg>
-        <localizedText>Лестница вниз. Спускаемся (Y/N)?</localizedText>
+        <localizedText>Лестница вниз. Спускаемся (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13779,7 +13779,7 @@ THOSE WHO HAVE NOT! SUBMIT (Y/N)?"</originalText>
         <newAddrInSeg>1154</newAddrInSeg>
         <localizedText>"Я лорд Лучник, Ворон.
 Я забираю у кого есть и раздаю тем,
-у кого нет! Согласны (Y/N)?"</localizedText>
+у кого нет! Согласны (д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13801,7 +13801,7 @@ THOSE WHO HAVE NOT! SUBMIT (Y/N)?"</originalText>
         <addrInSeg>1266</addrInSeg>
         <originalText>A BUTTON ON THE WALL, PUSH IT (Y/N)?</originalText>
         <newAddrInSeg>1266</newAddrInSeg>
-        <localizedText>Кнопка на стене. Нажать (Y/N)?</localizedText>
+        <localizedText>Кнопка на стене. Нажать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13879,7 +13879,7 @@ OF SPEARS!</originalText>
         <addrInSeg>1456</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1439</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13908,7 +13908,7 @@ OF SPEARS!</originalText>
 "WOULD YOU LIKE TO SIGN IN (Y/N)?"</originalText>
         <newAddrInSeg>999</newAddrInSeg>
         <localizedText>Портье спрашивает:
-"Хотите остановиться здесь (Y/N)?"</localizedText>
+"Хотите остановиться здесь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13967,7 +13967,7 @@ OF SPEARS!</originalText>
 "DISTINGUISHED TRAVELERS, YOU'VE COME TOTHE RIGHT PLACE.CAN I HELP YOU (Y/N)?"</originalText>
         <newAddrInSeg>1140</newAddrInSeg>
         <localizedText>Мужчина в кожаном фартуке говорит:
-"Дорогие путешественники, хорошо, что выпришли. Могу я вам помочь (Y/N)?"</localizedText>
+"Дорогие путешественники, хорошо, что выпришли. Могу я вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13980,7 +13980,7 @@ OF SPEARS!</originalText>
 EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"</originalText>
         <newAddrInSeg>1249</newAddrInSeg>
         <localizedText>За стойкой вы видите толстого дварфа
-Он восклицает: "Вы выглядите голодными! Хотите купить еды (Y/N)?"</localizedText>
+Он восклицает: "Вы выглядите голодными! Хотите купить еды (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13991,7 +13991,7 @@ EXCLAIMS: "YOU LOOK LIKE A HUNGRY BUNCH!WOULD YOU LIKE TO BUY SOME FOOD (Y/N)?"<
         <addrInSeg>1386</addrInSeg>
         <originalText>STEP UP TO THE BAR (Y/N)?</originalText>
         <newAddrInSeg>1352</newAddrInSeg>
-        <localizedText>Подойти к стойке (Y/N)?</localizedText>
+        <localizedText>Подойти к стойке (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14005,7 +14005,7 @@ THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <newAddrInSeg>1376</newAddrInSeg>
         <localizedText>К вам подошли несколько клериков в
 красивых робах. Они спрашивают: "Мы
-можем вам помочь (Y/N)?"</localizedText>
+можем вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14018,7 +14018,7 @@ THE PARTY AND ASK, "DO YOU SEEK OUR HELP(Y/N)?"</originalText>
         <newAddrInSeg>1472</newAddrInSeg>
         <localizedText>Вы видите несколько групп, делающих
 упражнения. Ворг, тренер, спрашивает:
-"Хотите потренироваться (Y/N)?"</localizedText>
+"Хотите потренироваться (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14053,7 +14053,7 @@ TO THE TOWN YOU CHOOSE."
         <originalText>STAIRS GOING DOWN! TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1846</newAddrInSeg>
         <localizedText>Ступени уходят в темноту!
-Рискнем спуститься (Y/N)?</localizedText>
+Рискнем спуститься (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14065,7 +14065,7 @@ TO THE TOWN YOU CHOOSE."
         <originalText>THERE IS A STATUE HERE, SEARCH IT (Y/N)?</originalText>
         <newAddrInSeg>1898</newAddrInSeg>
         <localizedText>Вы видите статую.
-Хотите осмотреть (Y/N)?</localizedText>
+Хотите осмотреть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14120,7 +14120,7 @@ TO THE TOWN YOU CHOOSE."
         <addrInSeg>2015</addrInSeg>
         <originalText>A PASSAGE LEADS OUTSIDE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>2017</newAddrInSeg>
-        <localizedText>Тоннель наружу. Покинуть город (Y/N)?</localizedText>
+        <localizedText>Тоннель наружу. Покинуть город (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14234,7 +14234,7 @@ WE FEAR THE WORST YET WE CONTINUE-CORAK</originalText>
         <addrInSeg>1067</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1041</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14245,7 +14245,7 @@ WE FEAR THE WORST YET WE CONTINUE-CORAK</originalText>
         <addrInSeg>1103</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1075</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14256,7 +14256,7 @@ WE FEAR THE WORST YET WE CONTINUE-CORAK</originalText>
         <addrInSeg>1137</addrInSeg>
         <originalText>A CAVERNOUS PASSAGE, TAKE IT (Y/N)?</originalText>
         <newAddrInSeg>1108</newAddrInSeg>
-        <localizedText>Тоннель вглубь. Войти (Y/N)?</localizedText>
+        <localizedText>Тоннель вглубь. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14324,7 +14324,7 @@ PATTERN!</originalText>
         <addrInSeg>462</addrInSeg>
         <originalText>STAIRS GOING DOWN, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>430</newAddrInSeg>
-        <localizedText>Ступени уходят вниз. Войти (Y/N)?</localizedText>
+        <localizedText>Ступени уходят вниз. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14335,7 +14335,7 @@ PATTERN!</originalText>
         <addrInSeg>498</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>464</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14380,7 +14380,7 @@ BRASS GONG HANGS FROM THE CEILING.
 STRIKE IT (Y/N)?</originalText>
         <newAddrInSeg>830</newAddrInSeg>
         <localizedText>С потолка свисает медный гонг, покрытый
-загадочными письменами. Ударить (Y/N)?</localizedText>
+загадочными письменами. Ударить (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14460,7 +14460,7 @@ THROUGHOUT THE ROOM!</originalText>
         <addrInSeg>1228</addrInSeg>
         <originalText>STAIRS GOING UP, TAKE THEM (Y/N)?</originalText>
         <newAddrInSeg>1223</newAddrInSeg>
-        <localizedText>Ступени идут вверх! Уйти (Y/N)?</localizedText>
+        <localizedText>Ступени идут вверх! Уйти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14511,7 +14511,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1343</addrInSeg>
         <originalText>EXIT CASTLE, (Y/N)?</originalText>
         <newAddrInSeg>1343</newAddrInSeg>
-        <localizedText>Покинуть замок (Y/N)?</localizedText>
+        <localizedText>Покинуть замок (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14522,7 +14522,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1363</addrInSeg>
         <originalText>BUTTON ON THE WALL, PUSH IT (Y/N)?</originalText>
         <newAddrInSeg>1365</newAddrInSeg>
-        <localizedText>Кнопка на стене. Нажать (Y/N)?</localizedText>
+        <localizedText>Кнопка на стене. Нажать (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14623,7 +14623,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1651</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!" ACCEPT(Y/N)?</originalText>
         <newAddrInSeg>1644</newAddrInSeg>
-        <localizedText>"Мне нужны ваши услуги!" Согласны (Y/N)?</localizedText>
+        <localizedText>"Мне нужны ваши услуги!" Согласны (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
