@@ -109,6 +109,7 @@
         <DataGrid.Resources>
           <!--<local:StringToHex8Converter x:Key="StringToHex8Converter" />-->
           <local:StringToHex4Converter x:Key="StringToHex4Converter" />
+          <local:MMStringConverter x:Key="MMStringConverter" />
         </DataGrid.Resources>
         <DataGrid.Columns>
           <!--<DataGridTextColumn
@@ -127,7 +128,9 @@
             IsReadOnly="True" />
           <DataGridTextColumn
             Binding= "{
-            Binding Path=originalText}"
+            Binding Path=originalText,
+            Converter={StaticResource MMStringConverter}
+            }"
             Header="originalText"
             IsReadOnly="True" />
           <DataGridTextColumn
@@ -137,7 +140,10 @@
             }"
             Header="newAddrInSeg" />
           <DataGridTextColumn
-            Binding= "{Binding Path=localizedText}"
+            Binding= "{
+            Binding Path=localizedText,
+            Converter={StaticResource MMStringConverter}
+            }"
             Header="localizedText" />
         </DataGrid.Columns>
       </DataGrid>

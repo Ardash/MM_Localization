@@ -35,7 +35,7 @@
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
         <newAddrInSeg>1296</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенную.
+        <localizedText>Выберите: 1) Освободить заключённую.
 </localizedText>
       </text>
       <text>
@@ -48,7 +48,7 @@
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
         <newAddrInSeg>1334</newAddrInSeg>
-        <localizedText>2) пытать заключенную.
+        <localizedText>2) пытать заключённую.
 </localizedText>
       </text>
       <text>
@@ -71,7 +71,7 @@
         <addrInSeg>1394</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
         <newAddrInSeg>1383</newAddrInSeg>
-        <localizedText>заключенная убегает!</localizedText>
+        <localizedText>заключённая убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -82,7 +82,7 @@
         <addrInSeg>1414</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
         <newAddrInSeg>1404</newAddrInSeg>
-        <localizedText>заключенная съеживается!</localizedText>
+        <localizedText>заключённая съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -309,7 +309,7 @@ CRYPT OF CARMENCA. AWAY WITH YOU..."</originalText>
 BEARDED HALF-ORC GRUNTS, "IF YOU DON'T
 SIGN IN, YOU CAN'T STAY! WELL (Y/N)?"</originalText>
         <newAddrInSeg>1249</newAddrInSeg>
-        <localizedText>Стоящий за стойкой, высокий бородатый
+        <localizedText>Стоящий за стойкой высокий бородатый
 полуорк ворчит: "Вы хотите войти и
 остановиться тут (Д/Н)?"</localizedText>
       </text>
@@ -323,7 +323,7 @@ SIGN IN, YOU CAN'T STAY! WELL (Y/N)?"</originalText>
         <originalText>A MAN ENCLOSED IN A STEEL CAGE SAYS,
 "CAN I HELP YOU FIND ANYTHING (Y/N)?"</originalText>
         <newAddrInSeg>1347</newAddrInSeg>
-        <localizedText>Человек за стальной решеткой спрашивает:"Я могу вам помочь (Д/Н)?"</localizedText>
+        <localizedText>Человек за стальной решёткой спрашивает:"Я могу вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -381,8 +381,8 @@ LOOK FOR SOME FOOD (Y/N)?</originalText>
         <originalText>AN ANCIENT LOOKING CLERIC STAGGERS UP TOTHE PARTY GASPING, "I CAN HELP,
 REALLY I CAN!" ACCEPT THE OFFER (Y/N)?</originalText>
         <newAddrInSeg>1512</newAddrInSeg>
-        <localizedText>К группе пошатываясь и тяжело дыша
-подошел очень старый клерик. "Я могу вампомочь, серьезно!" Согласиться (Д/Н)?</localizedText>
+        <localizedText>К группе, пошатываясь и тяжело дыша,
+подошел очень старый клерик. "Я могу вампомочь, серьёзно!" Согласиться (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -394,7 +394,7 @@ REALLY I CAN!" ACCEPT THE OFFER (Y/N)?</originalText>
         <originalText>SEVERAL ADVENTURERS ARMORED IN DRAGON
 SCALES, ADDRESS THE PARTY,
 "LOOKING FOR TRAINING (Y/N)?"</originalText>
-        <newAddrInSeg>1625</newAddrInSeg>
+        <newAddrInSeg>1628</newAddrInSeg>
         <localizedText>Несколько человек в броне из чешуи
 дракона обращаются к группе:
 "Хотите потренироваться (Д/Н)?"</localizedText>
@@ -407,7 +407,7 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1755</addrInSeg>
         <originalText>"JOLLY JESTER TAVERN"</originalText>
-        <newAddrInSeg>1721</newAddrInSeg>
+        <newAddrInSeg>1724</newAddrInSeg>
         <localizedText>"Таверна веселый клоун"</localizedText>
       </text>
       <text>
@@ -418,8 +418,8 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1777</addrInSeg>
         <originalText>"TEMPLE HALF-DEAD"</originalText>
-        <newAddrInSeg>1745</newAddrInSeg>
-        <localizedText>"полумертвый храм"</localizedText>
+        <newAddrInSeg>1748</newAddrInSeg>
+        <localizedText>"полумёртвый храм"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -429,7 +429,7 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1796</addrInSeg>
         <originalText>"DRAGONS CLAW TRAINING"</originalText>
-        <newAddrInSeg>1764</newAddrInSeg>
+        <newAddrInSeg>1767</newAddrInSeg>
         <localizedText>"Тренер коготь дракона"</localizedText>
       </text>
       <text>
@@ -441,7 +441,7 @@ SCALES, ADDRESS THE PARTY,
         <addrInSeg>1820</addrInSeg>
         <originalText>"I AM ZOM, ASTRAL BROTHER OF ZAM.
 </originalText>
-        <newAddrInSeg>1788</newAddrInSeg>
+        <newAddrInSeg>1791</newAddrInSeg>
         <localizedText>"Я Зом, астральный брат Зама.
 </localizedText>
       </text>
@@ -453,7 +453,7 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1855</addrInSeg>
         <originalText>MY CLUE IS 1-15."</originalText>
-        <newAddrInSeg>1819</newAddrInSeg>
+        <newAddrInSeg>1822</newAddrInSeg>
         <localizedText>мой ключ - 1-15."</localizedText>
       </text>
       <text>
@@ -464,7 +464,7 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1873</addrInSeg>
         <originalText>YOU'RE NOT THE COURIERS!"</originalText>
-        <newAddrInSeg>1837</newAddrInSeg>
+        <newAddrInSeg>1840</newAddrInSeg>
         <localizedText>Вы не курьеры!"</localizedText>
       </text>
       <text>
@@ -476,7 +476,7 @@ SCALES, ADDRESS THE PARTY,
         <addrInSeg>1899</addrInSeg>
         <originalText>MORANGO THE MYSTIC ASKS,
 "WHO SHALL I MEASURE (1-6)?"</originalText>
-        <newAddrInSeg>1853</newAddrInSeg>
+        <newAddrInSeg>1856</newAddrInSeg>
         <localizedText>Мистик Моранго спрашивает:
 "Кого мне оценить (1-6)?"</localizedText>
       </text>
@@ -488,7 +488,7 @@ SCALES, ADDRESS THE PARTY,
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1953</addrInSeg>
         <originalText>% RESISTANCE FOR </originalText>
-        <newAddrInSeg>1906</newAddrInSeg>
+        <newAddrInSeg>1909</newAddrInSeg>
         <localizedText>% сопротивление </localizedText>
       </text>
       <text>
@@ -500,7 +500,7 @@ SCALES, ADDRESS THE PARTY,
         <addrInSeg>1971</addrInSeg>
         <originalText>MAGIC     FIRE     COLD       ELEC
 ACID      FEAR     POISON     SLEEP</originalText>
-        <newAddrInSeg>1923</newAddrInSeg>
+        <newAddrInSeg>1926</newAddrInSeg>
         <localizedText>магии     огню     холоду     электр
 кислот    страх    яду        сну</localizedText>
       </text>
@@ -512,7 +512,7 @@ ACID      FEAR     POISON     SLEEP</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2042</addrInSeg>
         <originalText>NOTE: ZOM 1,1</originalText>
-        <newAddrInSeg>1994</newAddrInSeg>
+        <newAddrInSeg>1997</newAddrInSeg>
         <localizedText>Записка: Зом 1,1</localizedText>
       </text>
       <text>
@@ -523,7 +523,7 @@ ACID      FEAR     POISON     SLEEP</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2056</addrInSeg>
         <originalText>SWAZE PIT! JUMP IN (Y/N)?</originalText>
-        <newAddrInSeg>2011</newAddrInSeg>
+        <newAddrInSeg>2014</newAddrInSeg>
         <localizedText>выгребная яма! запрыгнуть (Д/Н)?</localizedText>
       </text>
       <text>
@@ -534,7 +534,7 @@ ACID      FEAR     POISON     SLEEP</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>2082</addrInSeg>
         <originalText>A MAGIC PORTAL! ENTER (Y/N)?</originalText>
-        <newAddrInSeg>2044</newAddrInSeg>
+        <newAddrInSeg>2047</newAddrInSeg>
         <localizedText>Магический портал! войти (Д/Н)?</localizedText>
       </text>
     </dt>
@@ -589,7 +589,7 @@ WORTHY +4 ENDURANCE!</originalText>
         <originalText>YOU'VE BEEN SURROUNDED BY THE DARK RIDERAND HIS MEN! HE CHALLENGES YOU TO A DUEL...ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>855</newAddrInSeg>
         <localizedText>Вы окружены группой людей во главе с
-Черным всадником! Он вызывает вас на
+Чёрным всадником! Он вызывает вас на
 дуэль... Принять (Д/Н)?</localizedText>
       </text>
       <text>
@@ -783,9 +783,9 @@ ARCHAIC SYMBOLS. SPIN THE WHEEL (Y/N)?</originalText>
 7) BLACK DRESIDION  8) WHITE DILITHIUM</originalText>
         <newAddrInSeg>716</newAddrInSeg>
         <localizedText>1) красный торак    2) синий ограм
-3) зеленый багар    4) желтая лимра
+3) зелёный багар    4) жёлтая лимра
 5) пурпурный сагран 6) оранжевый улак
-7) черный дресидион 8) белый дилитиум</localizedText>
+7) чёрный дресидион 8) белый дилитиум</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -858,7 +858,7 @@ TO THE SOUTHEAST</originalText>
         <addrInSeg>1102</addrInSeg>
         <originalText>A TIDAL WAVE SWEEPS THE PARTY AWAY!</originalText>
         <newAddrInSeg>1074</newAddrInSeg>
-        <localizedText>Приливная волна смывает группу назад!</localizedText>
+        <localizedText>Приливная волна отбрасывает группу!</localizedText>
       </text>
     </dt>
   </locText>
@@ -920,8 +920,8 @@ TAKE IT (Y/N)?</originalText>
         <originalText>ANCIENT RUINS OF A DESERTED WIZARDS LAIRSHOW SIGNS OF RECENT USE, ENTER (Y/N)?</originalText>
         <newAddrInSeg>897</newAddrInSeg>
         <localizedText>Древние развалины убежища пустынного
-колдуна. Вокруг следы недавнего
-использования. Войти (Д/Н)?</localizedText>
+колдуна. Вокруг заметны признаки
+активности. Войти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1002,7 +1002,7 @@ MIGHT AND MAGIC!!!            </localizedText>
         <addrInSeg>827</addrInSeg>
         <originalText>WRONG, YOU'RE TOO YOUNG TO UNDERSTAND.</originalText>
         <newAddrInSeg>827</newAddrInSeg>
-        <localizedText>неверно, вы еще слишком молоды.</localizedText>
+        <localizedText>неверно, вы ещё слишком молоды.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1063,7 +1063,7 @@ THE GREATEST FORCE OF ALL, YET ELUSIVE
 IT SEEMS."
 
 ANSWER:&gt; ..........</originalText>
-        <newAddrInSeg>1003</newAddrInSeg>
+        <newAddrInSeg>1005</newAddrInSeg>
         <localizedText>На троне, украшенном драгоценными
 камнями, восседает ледяная принцесса.
 Она говорит: "Она покоряет миры, рождаетмечты, Она самая величайшая сила, хотя икажется иллюзорной."
@@ -1164,7 +1164,7 @@ W= A PIRATE SHIP BEYOND KORIN BLUFFS.</originalText>
 С= Пещера за Белым волком.
 В= Чудовища над горами Виверн!
 Ю= Вдали неизведанные острова.
-З= Пиратский корабль за Утесом газели.</localizedText>
+З= Пиратский корабль за Утёсом газели.</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1590,7 +1590,7 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</originalText>
         <addrInSeg>1362</addrInSeg>
         <originalText>GREEN BAGAR"</originalText>
         <newAddrInSeg>1314</newAddrInSeg>
-        <localizedText>зеленый багар"</localizedText>
+        <localizedText>зелёный багар"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1601,7 +1601,7 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</originalText>
         <addrInSeg>1375</addrInSeg>
         <originalText>YELLOW LIMRA"</originalText>
         <newAddrInSeg>1329</newAddrInSeg>
-        <localizedText>желтая лимра"</localizedText>
+        <localizedText>жёлтая лимра"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1634,7 +1634,7 @@ LIKE TO HEAR THEIR SIGN (1-6)?"</originalText>
         <addrInSeg>1418</addrInSeg>
         <originalText>BLACK DRESIDION"</originalText>
         <newAddrInSeg>1377</newAddrInSeg>
-        <localizedText>черный дресидион"</localizedText>
+        <localizedText>чёрный дресидион"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -1744,7 +1744,7 @@ REPORT YOUR FINDINGS TO THE OTHER LORDS.THEN THEY WILL UNDERSTAND!" ACCEPT(Y/N)?
         <originalText>PAINTED IN A BLACK AND WHITE PATTERN,
 A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
         <newAddrInSeg>1053</newAddrInSeg>
-        <localizedText>Табличка в черно-белую клетку:
+        <localizedText>Табличка в чёрно-белую клетку:
 Первая часть - женщина.</localizedText>
       </text>
       <text>
@@ -1788,7 +1788,7 @@ A SIGN READS: THE FIRST PART IS FEMALE.</originalText>
         <originalText>YOUR CORAL KEY FITS PERFECTLY
 IN THE LOCK, ENTER (Y/N)?</originalText>
         <newAddrInSeg>945</newAddrInSeg>
-        <localizedText>Ваш коралловый ключ подошел к замку.
+        <localizedText>Ваш коралловый ключ подошёл к замку.
 Войти (Д/Н)?</localizedText>
       </text>
       <text>
@@ -1856,7 +1856,7 @@ REMAINS OF A LARGE SHIP. SEARCH(Y/N)?</originalText>
         <addrInSeg>1169</addrInSeg>
         <originalText>THE JOLLY RAVEN!</originalText>
         <newAddrInSeg>1148</newAddrInSeg>
-        <localizedText>Веселый ворон!</localizedText>
+        <localizedText>Весёлый ворон!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2050,7 +2050,7 @@ WORTHY +4 PERSONALITY.</originalText>
 WORTHY, IF YOU CAN FIND THEM!</originalText>
         <newAddrInSeg>1191</newAddrInSeg>
         <localizedText>Клерики ю. посчитают вас достойными,
-если вы их найдете!</localizedText>
+если вы их найдёте!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2112,7 +2112,7 @@ WORTHY, IF YOU CAN FIND THEM!</originalText>
 CLIMB ALL THE TREES, WITHOUT LEAVING
 THE AREA, AND RETURN.</originalText>
         <newAddrInSeg>928</newAddrInSeg>
-        <localizedText>Я Аренко Гайр и это моя роща.
+        <localizedText>Я Аренко Гайр, и это моя роща.
 Залезьте на все деревья, не уходя,
 и возвращайтесь.</localizedText>
       </text>
@@ -2125,7 +2125,7 @@ THE AREA, AND RETURN.</originalText>
         <addrInSeg>1020</addrInSeg>
         <originalText>WELL DONE! WHAT IS YOUR PLEASURE?
 A) GOLD  B) GEMS  C) ITEM</originalText>
-        <newAddrInSeg>1010</newAddrInSeg>
+        <newAddrInSeg>1011</newAddrInSeg>
         <localizedText>Отлично! Чего вы хотите?
 A) золото B) камни  C) вещи</localizedText>
       </text>
@@ -2137,7 +2137,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1080</addrInSeg>
         <originalText>+5 FOOD</originalText>
-        <newAddrInSeg>1063</newAddrInSeg>
+        <newAddrInSeg>1064</newAddrInSeg>
         <localizedText>+5 еды</localizedText>
       </text>
       <text>
@@ -2148,7 +2148,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1088</addrInSeg>
         <originalText>POISON THORNS</originalText>
-        <newAddrInSeg>1070</newAddrInSeg>
+        <newAddrInSeg>1071</newAddrInSeg>
         <localizedText>ядовитые шипы</localizedText>
       </text>
       <text>
@@ -2159,7 +2159,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1102</addrInSeg>
         <originalText>YOU FELL</originalText>
-        <newAddrInSeg>1084</newAddrInSeg>
+        <newAddrInSeg>1085</newAddrInSeg>
         <localizedText>Вы упали</localizedText>
       </text>
       <text>
@@ -2170,7 +2170,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1111</addrInSeg>
         <originalText>LIGHTNING</originalText>
-        <newAddrInSeg>1093</newAddrInSeg>
+        <newAddrInSeg>1094</newAddrInSeg>
         <localizedText>молния</localizedText>
       </text>
       <text>
@@ -2181,7 +2181,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1121</addrInSeg>
         <originalText>INFECTIOUS SAP</originalText>
-        <newAddrInSeg>1100</newAddrInSeg>
+        <newAddrInSeg>1101</newAddrInSeg>
         <localizedText>Инфекция</localizedText>
       </text>
       <text>
@@ -2192,7 +2192,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1136</addrInSeg>
         <originalText>FLASH</originalText>
-        <newAddrInSeg>1109</newAddrInSeg>
+        <newAddrInSeg>1110</newAddrInSeg>
         <localizedText>вспышка</localizedText>
       </text>
       <text>
@@ -2203,7 +2203,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1142</addrInSeg>
         <originalText>POOF</originalText>
-        <newAddrInSeg>1117</newAddrInSeg>
+        <newAddrInSeg>1118</newAddrInSeg>
         <localizedText>Вжух</localizedText>
       </text>
       <text>
@@ -2214,7 +2214,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1147</addrInSeg>
         <originalText>NOTHING HERE.</originalText>
-        <newAddrInSeg>1122</newAddrInSeg>
+        <newAddrInSeg>1123</newAddrInSeg>
         <localizedText>тут ничего нет.</localizedText>
       </text>
       <text>
@@ -2225,7 +2225,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1161</addrInSeg>
         <originalText>CURSED</originalText>
-        <newAddrInSeg>1138</newAddrInSeg>
+        <newAddrInSeg>1139</newAddrInSeg>
         <localizedText>Проклятие</localizedText>
       </text>
       <text>
@@ -2236,7 +2236,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1168</addrInSeg>
         <originalText>KEEP CLIMBING.</originalText>
-        <newAddrInSeg>1148</newAddrInSeg>
+        <newAddrInSeg>1149</newAddrInSeg>
         <localizedText>продолжайте лезть.</localizedText>
       </text>
       <text>
@@ -2247,7 +2247,7 @@ A) золото B) камни  C) вещи</localizedText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1183</addrInSeg>
         <originalText>ROADSIGN: ALGARY S.9</originalText>
-        <newAddrInSeg>1167</newAddrInSeg>
+        <newAddrInSeg>1168</newAddrInSeg>
         <localizedText>Указатель. Алгари Ю.9</localizedText>
       </text>
     </dt>
@@ -2318,7 +2318,7 @@ OG SPEAKS, "QUEEN TO QUEENS LEVEL 3"
 
 RESPONSE: </originalText>
         <newAddrInSeg>1314</newAddrInSeg>
-        <localizedText>На земле нарисован узор из черных и
+        <localizedText>На земле нарисован узор из чёрных и
 белых клеток. На нем стоят идолы,
 подобные вашим. К вам идет большое
 существо... Ог говорит:
@@ -2338,7 +2338,7 @@ ON MT. DOOM! HE HAS YOUR SIGHT.
 
 OG CURSES AS THE IDOLS VANISH!</originalText>
         <newAddrInSeg>1486</newAddrInSeg>
-        <localizedText>Вы восстановили мое зрение! (+25000 EXP)Я вижу важного пленника в замке на горе
+        <localizedText>Вы восстановили моё зрение! (+25000 ОП) Я вижу важного пленника в замке на горе
 Рок! Ваши глаза у него.
 
 Ог ругнулся, когда идолы исчезли!</localizedText>
@@ -2461,7 +2461,7 @@ FORGOT STANDS AN HOURGLASS,TURN IT(Y/N)?</originalText>
 JUDGEMENT. WHO WILL CLIMB ON (1-6)?</originalText>
         <newAddrInSeg>1684</newAddrInSeg>
         <localizedText>Статуя гиганта держит чашу весов
-правосудия. Кто встанет на нее (1-6)?</localizedText>
+правосудия. Кто встанет на неё (1-6)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2703,7 +2703,7 @@ RESPONSE:&gt; ..........</originalText>
 LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
         <newAddrInSeg>800</newAddrInSeg>
         <localizedText>пароль на сегодня.
-Уйдешь далеко и его сменю я!"</localizedText>
+Уйдёшь далеко - и его сменю я!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -2714,8 +2714,8 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
         <addrInSeg>867</addrInSeg>
         <originalText>HERATIO HARPER SINGS:
 "</originalText>
-        <newAddrInSeg>849</newAddrInSeg>
-        <localizedText>Арфист Горацио поет:
+        <newAddrInSeg>851</newAddrInSeg>
+        <localizedText>Арфист Горацио поёт:
 "</localizedText>
       </text>
       <text>
@@ -2726,7 +2726,7 @@ LEAVE THE AREA AND CHANGE IT I MAY!"</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>891</addrInSeg>
         <originalText>DISTANT HARP MUSIC...</originalText>
-        <newAddrInSeg>872</newAddrInSeg>
+        <newAddrInSeg>874</newAddrInSeg>
         <localizedText>Слышна музыка арфы...</localizedText>
       </text>
       <text>
@@ -3045,7 +3045,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
 вашими подвигами." Он повернулся к
 странному механическому устройству и
 вставил плоский объект в щель. Ваш
-итоговый счет составляет </localizedText>
+итоговый счёт составляет </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3056,7 +3056,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
         <addrInSeg>1301</addrInSeg>
         <originalText>"YOU ARE NOT YET WORTHY FOR TRANSFER.   RETURN AFTER DEFEATING THE IMPOSTER."</originalText>
         <newAddrInSeg>1253</newAddrInSeg>
-        <localizedText>"Вы еще не готовы к перемещению.
+        <localizedText>"Вы ещё не готовы к перемещению.
 Приходите, когда победите самозванца."</localizedText>
       </text>
       <text>
@@ -3069,7 +3069,7 @@ COMMENDED. I'VE BEEN MONITORING YOUR    PROGRESS." TURNING TO THE STRANGE       
         <originalText>EXCELLENT RATING! THIS IS A RARE        OCCASION, FOR ONLY A PRIVILEGED FEW ARE GIVEN THE OPPORTUNITY FOR TRANSFER TO   ANOTHER V.A.R.N. (VEHICULAR ASTROPOD    RESEARCH NACELLE). RETURN NOW TO THE    INN OF SORPIGAL FOR REST AND CELEBRATIONTHEN CONTINUE ON TO YOUR NEW ASSIGNMENT AT THE GATES TO ANOTHER WORLD..."       (+500,000 EXP FOR YOUR ACCOMPLISHMENT!) ----------------------------------------PLEASE SEND YOUR PERFORMANCE TOTAL TO          NEW WORLD COMPUTING, INC.
   P. O. BOX 2068  VAN NUYS, CA  91404</originalText>
         <newAddrInSeg>1325</newAddrInSeg>
-        <localizedText>Великолепный счет! Вам выпала редкая
+        <localizedText>Великолепный счёт! Вам выпала редкая
 удача. Немногие получают
 возможность перемещения на другой
 V.A.R.N. (исследовательская гондола
@@ -3300,7 +3300,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
         <newAddrInSeg>1935</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенного.
+        <localizedText>Выберите: 1) Освободить заключённого.
 </localizedText>
       </text>
       <text>
@@ -3313,7 +3313,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
         <newAddrInSeg>1974</newAddrInSeg>
-        <localizedText>2) пытать заключенного.
+        <localizedText>2) пытать заключённого.
 </localizedText>
       </text>
       <text>
@@ -3336,7 +3336,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>2061</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
         <newAddrInSeg>2024</newAddrInSeg>
-        <localizedText>заключенный убегает!</localizedText>
+        <localizedText>заключённый убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3347,7 +3347,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>2081</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
         <newAddrInSeg>2045</newAddrInSeg>
-        <localizedText>заключенный съеживается!</localizedText>
+        <localizedText>заключённый съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3505,7 +3505,7 @@ ITEMS AND SEND THEM TO THE PIT!</originalText>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
         <newAddrInSeg>1775</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенного.
+        <localizedText>Выберите: 1) Освободить заключённого.
 </localizedText>
       </text>
       <text>
@@ -3518,7 +3518,7 @@ ITEMS AND SEND THEM TO THE PIT!</originalText>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
         <newAddrInSeg>1814</newAddrInSeg>
-        <localizedText>2) пытать заключенного.
+        <localizedText>2) пытать заключённого.
 </localizedText>
       </text>
       <text>
@@ -3541,7 +3541,7 @@ ITEMS AND SEND THEM TO THE PIT!</originalText>
         <addrInSeg>1864</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
         <newAddrInSeg>1864</newAddrInSeg>
-        <localizedText>заключенный убегает!</localizedText>
+        <localizedText>заключённый убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3552,7 +3552,7 @@ ITEMS AND SEND THEM TO THE PIT!</originalText>
         <addrInSeg>1884</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
         <newAddrInSeg>1885</newAddrInSeg>
-        <localizedText>заключенный съеживается!</localizedText>
+        <localizedText>заключённый съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3759,8 +3759,8 @@ ARE YOU INTERESTED (Y/N)?"</originalText>
         <originalText>"I SEE YOU HAVEN'T DELIVERED MY MESSAGE,
 CARE TO TRY AGAIN (Y/N)?"</originalText>
         <newAddrInSeg>1262</newAddrInSeg>
-        <localizedText>"Я вижу, вы не доставили мое послание.
-Хотите попробовать еще раз (Д/Н)?"</localizedText>
+        <localizedText>"Я вижу, вы не доставили моё послание.
+Хотите попробовать ещё раз (Д/Н)?"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -3773,8 +3773,8 @@ CARE TO TRY AGAIN (Y/N)?"</originalText>
 WIZARD AGAR IN ERLIQUIN AND YOU SHALL
 BE REWARDED."</originalText>
         <newAddrInSeg>1336</newAddrInSeg>
-        <localizedText>"Хорошо! Доставьте этот свиток Агару
-волшебнику в Эрликин и получите
+        <localizedText>"Хорошо! Доставьте этот свиток
+волшебнику Агару в Эрликин и получите
 награду."</localizedText>
       </text>
       <text>
@@ -3996,7 +3996,7 @@ CORRIDOR OF ENDLESS ENCOUNTERS!</originalText>
         <addrInSeg>1057</addrInSeg>
         <originalText>BRONZE GRATE REPELS YOU!</originalText>
         <newAddrInSeg>1053</newAddrInSeg>
-        <localizedText>Бронзовая решетка оттолкнула вас!</localizedText>
+        <localizedText>Бронзовая решётка оттолкнула вас!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4332,7 +4332,7 @@ CHARACTER #1 LEADS THE WAY.
 BEWARE, TRAPS ABOUND!</originalText>
         <newAddrInSeg>1592</newAddrInSeg>
         <localizedText>На камне небрежно написано:
-Персонаж #1 ведет.
+Персонаж #1 ведёт.
 Опасайтесь ловушек!</localizedText>
       </text>
       <text>
@@ -4443,7 +4443,7 @@ EACH OF WHICH LEADS TO A CASTLE. THE
 STATUE OF JUDGEMENT REQUIRES YOU TO FINDONE PRISONER FROM EACH OF THESE CASTLES
 BEFORE YOU MAY BE FOUND WORTHY."</originalText>
         <newAddrInSeg>1052</newAddrInSeg>
-        <localizedText>"Хорошо! В этой комнате есть 6 порталов,ведущих в замки. Чтобы Статуя правосудияпосчитала вас достойными, вам надо найтизаключенного в каждом из них."</localizedText>
+        <localizedText>"Хорошо! В этой комнате есть 6 порталов,ведущих в замки. Чтобы Статуя правосудияпосчитала вас достойными, вам надо найтизаключённого в каждом из них."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4532,7 +4532,7 @@ ANSWER:&gt; ..........</originalText>
 A SIGN READS: THE SECOND PART IS THE
 MOST VALUABLE.</originalText>
         <newAddrInSeg>1225</newAddrInSeg>
-        <localizedText>Табличка в черно-белую клетку:
+        <localizedText>Табличка в чёрно-белую клетку:
 Вторая часть наиболее важная.</localizedText>
       </text>
       <text>
@@ -4703,7 +4703,7 @@ SPIN IT (Y/N)?</originalText>
         <addrInSeg>1041</addrInSeg>
         <originalText>PULL IT (Y/N)?</originalText>
         <newAddrInSeg>1032</newAddrInSeg>
-        <localizedText>Дернуть (Д/Н)?</localizedText>
+        <localizedText>Дёрнуть (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4827,7 +4827,7 @@ NAME HIDDEN WITHIN THESE WALLS."
 ANSWER:&gt; ...............</originalText>
         <newAddrInSeg>409</newAddrInSeg>
         <localizedText>Странный пришелец, одетый в мерцающий
-серебрянный комбинезон, объясняет: "это
+серебряный комбинезон, объясняет: "это
 лабиринт душ и вы здесь пленники! Чтобы
 уйти, вам надо узнать имя пленителя,
 скрытое в этих стенах."
@@ -4860,7 +4860,7 @@ ASSIGNMENT. THE WALLS BEGIN TO FADE...
 (PRESS SPACE)</originalText>
         <newAddrInSeg>917</newAddrInSeg>
         <localizedText>Агент Оранго семнадцать докладывает:
-Самозванец XX21A7-3 устранен!
+Самозванец XX21A7-3 устранён!
 Фаза 5281.6 борт 120-VARN-161 капсула#41Вам присвоен ранг 1 и выдано разрешение
 на перемещение. Обратитесь во внутреннеесвятилище За новым назначением. Стены
 начали пропадать... (нажмите пробел)</localizedText>
@@ -4958,7 +4958,7 @@ FOR THE WORLD IS HOLLOW AND I HAVE
 TOUCHED THE SKY!</originalText>
         <newAddrInSeg>1290</newAddrInSeg>
         <localizedText>На стене небрежно написано:
-Ибо мир полый, и я коснулся неба!</localizedText>
+Ибо мир полый и я коснулся неба!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -4987,7 +4987,7 @@ APPROACH.
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
         <newAddrInSeg>1412</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенного.
+        <localizedText>Выберите: 1) Освободить заключённого.
 </localizedText>
       </text>
       <text>
@@ -5000,7 +5000,7 @@ APPROACH.
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
         <newAddrInSeg>1451</newAddrInSeg>
-        <localizedText>2) пытать заключенного.
+        <localizedText>2) пытать заключённого.
 </localizedText>
       </text>
       <text>
@@ -5023,7 +5023,7 @@ APPROACH.
         <addrInSeg>1510</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
         <newAddrInSeg>1501</newAddrInSeg>
-        <localizedText>заключенный убегает!</localizedText>
+        <localizedText>заключённый убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5034,7 +5034,7 @@ APPROACH.
         <addrInSeg>1530</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
         <newAddrInSeg>1522</newAddrInSeg>
-        <localizedText>заключенный съеживается!</localizedText>
+        <localizedText>заключённый съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5128,7 +5128,7 @@ SELF.</originalText>
 MESSAGE INTERLEAVE 'FEDBAC'</originalText>
         <newAddrInSeg>1954</newAddrInSeg>
         <localizedText>На серебряной табличке гравировка:
-Очередность сообщений 'FEDBAC'</localizedText>
+Очерёдность сообщений 'FEDBAC'</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5141,7 +5141,7 @@ MESSAGE INTERLEAVE 'FEDBAC'</originalText>
 MESSAGE INTERLEAVE '8,5,3,9,1,4,6,2,7'</originalText>
         <newAddrInSeg>1999</newAddrInSeg>
         <localizedText>На золотой табличке гравировка:
-Очередность сообщений
+Очерёдность сообщений
 '8,5,3,9,1,4,6,2,7'</localizedText>
       </text>
       <text>
@@ -5172,7 +5172,7 @@ JUMP THREE TIMES TO REACH CENTER.</originalText>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
         <newAddrInSeg>860</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенного.
+        <localizedText>Выберите: 1) Освободить заключённого.
 </localizedText>
       </text>
       <text>
@@ -5185,7 +5185,7 @@ JUMP THREE TIMES TO REACH CENTER.</originalText>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
         <newAddrInSeg>899</newAddrInSeg>
-        <localizedText>2) пытать заключенного.
+        <localizedText>2) пытать заключённого.
 </localizedText>
       </text>
       <text>
@@ -5208,7 +5208,7 @@ JUMP THREE TIMES TO REACH CENTER.</originalText>
         <addrInSeg>952</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
         <newAddrInSeg>949</newAddrInSeg>
-        <localizedText>заключенный убегает!</localizedText>
+        <localizedText>заключённый убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5219,7 +5219,7 @@ JUMP THREE TIMES TO REACH CENTER.</originalText>
         <addrInSeg>972</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
         <newAddrInSeg>970</newAddrInSeg>
-        <localizedText>заключенный съеживается!</localizedText>
+        <localizedText>заключённый съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5283,7 +5283,7 @@ TSTST,E1,D-DS15A1DRH</originalText>
         <originalText>THE GREEN CLOVER GRANTS THOSE WHO
 ARE WORTHY +4 LUCK!</originalText>
         <newAddrInSeg>1194</newAddrInSeg>
-        <localizedText>Зеленый клевер, тем кто достоин,
+        <localizedText>Зеленый клевер тем, кто достоин,
 дарует +4 удачи!</localizedText>
       </text>
       <text>
@@ -5298,7 +5298,7 @@ DRAGADUNE CONVERTS ALL GOLD INTO
 EXPERIENCE, ACCEPT (Y/N)?</originalText>
         <newAddrInSeg>1248</newAddrInSeg>
         <localizedText>Изумительный легендарный фонтан
-Драгадуна превращает все золото в опыт.
+Драгадуна превращает всё золото в опыт.
 Согласны (Д/Н)?</localizedText>
       </text>
       <text>
@@ -5552,7 +5552,7 @@ TREASURE IS WHAT YOU WANT..."</originalText>
 принесли, мне очень поможет.
 (+2500 опыта) Вот 1500 золота за ваш
 труд. Я расскажу вам один секрет, если
-сокровища это все, что вы ищете..."</localizedText>
+сокровища это всё, что вы ищете..."</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5651,7 +5651,7 @@ FRUSTRATIONS!-THE-TO-IN</originalText>
         <addrInSeg>910</addrInSeg>
         <originalText>THE COUNCIL OF STRENGTH IS IN SESSION</originalText>
         <newAddrInSeg>920</newAddrInSeg>
-        <localizedText>Тихо, идет совет сильных</localizedText>
+        <localizedText>Тихо, идёт совет сильных</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5722,7 +5722,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1324</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5768,7 +5768,7 @@ THE-VISIT-YET-INNER-REALITY,-ORDER,</originalText>
         <newAddrInSeg>1113</newAddrInSeg>
         <localizedText>На золотой табличке 9 гравировка:
 здесь-успешному-тренировки;-Вам-знаний-
-астрального-раз-Еще,-должны-от-оно,</localizedText>
+астрального-раз-Ещё,-должны-от-оно,</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5929,7 +5929,7 @@ GNOME EYES THE PARTY AND ASKS,
         <addrInSeg>1479</addrInSeg>
         <originalText>"CURRENT TRENDS IRONWORKS"</originalText>
         <newAddrInSeg>1476</newAddrInSeg>
-        <localizedText>"Кузня современные веяния"</localizedText>
+        <localizedText>Кузня "современные веяния"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -5954,7 +5954,7 @@ GNOME EYES THE PARTY AND ASKS,
 BROWSE (Y/N)?"</originalText>
         <newAddrInSeg>1519</newAddrInSeg>
         <localizedText>Громогласный полуорк заявляет:
-"Все по последней моде"
+"Всё по последней моде"
 Осмотреть (Д/Н)?</localizedText>
       </text>
       <text>
@@ -6231,8 +6231,8 @@ A)Напасть B)Взятка  C)Убежать D)Сдаться</localizedTex
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>3579</addrInSeg>
         <originalText>THANKS A LOT, HAVE ANOTHER ROUND!</originalText>
-        <newAddrInSeg>4447</newAddrInSeg>
-        <localizedText>Cпасибо, Выпей еще!</localizedText>
+        <newAddrInSeg>4455</newAddrInSeg>
+        <localizedText>Спасибо, Выпей ещё!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6326,7 +6326,7 @@ THE ANCIENT SEER OG HAS LOST HIS SIGHT
 THE IDOLS WILL HELP TO END HIS PLIGHT</originalText>
         <newAddrInSeg>4817</newAddrInSeg>
         <localizedText>Есть много таких же темниц
-Найди правильную пару
+Найди правильную пару,
 и ты получишь ключ
 Древний провидец Ог потерял свое зрение
 Идолы помогут снять обет</localizedText>
@@ -6361,7 +6361,7 @@ OF THE LOST TOWN OF DUSK</originalText>
 
 FOR HER BRAVE ATTEMPT TO WORK WITH THE
 SAVAGES OF THE VOLCANIC ISLES</originalText>
-        <newAddrInSeg>4467</newAddrInSeg>
+        <newAddrInSeg>4475</newAddrInSeg>
         <localizedText>Во славу Галы...
 
 За ее бравую попытку работы с
@@ -6379,7 +6379,7 @@ SAVAGES OF THE VOLCANIC ISLES</originalText>
 BEFORE THE DAYS WHEN THE TOWNS
 MOVED UNDERGROUND, DRAGONS WERE
 FEW AND FAR BETWEEN</originalText>
-        <newAddrInSeg>4547</newAddrInSeg>
+        <newAddrInSeg>4555</newAddrInSeg>
         <localizedText>В память о давних временах...
 
 До ухода городов под землю
@@ -6395,7 +6395,7 @@ FEW AND FAR BETWEEN</originalText>
         <originalText>THIS BEAST ONCE ROAMED THE
 ENCHANTED FOREST AND NOW RULES
 A GREAT FORTRESS THERE</originalText>
-        <newAddrInSeg>4640</newAddrInSeg>
+        <newAddrInSeg>4648</newAddrInSeg>
         <localizedText>Этот зверь сейчас управляет
 крепостью в зачарованном лесу</localizedText>
       </text>
@@ -6407,7 +6407,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4758</addrInSeg>
         <originalText>ON THIS STONE STATUE OF </originalText>
-        <newAddrInSeg>4698</newAddrInSeg>
+        <newAddrInSeg>4720</newAddrInSeg>
         <localizedText>Статуя </localizedText>
       </text>
       <text>
@@ -6429,7 +6429,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4817</addrInSeg>
         <originalText>A HUMAN KNIGHT</originalText>
-        <newAddrInSeg>4950</newAddrInSeg>
+        <newAddrInSeg>4951</newAddrInSeg>
         <localizedText>Рыцаря</localizedText>
       </text>
       <text>
@@ -6440,7 +6440,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4832</addrInSeg>
         <originalText>AN ELVEN WIZARD</originalText>
-        <newAddrInSeg>4957</newAddrInSeg>
+        <newAddrInSeg>4958</newAddrInSeg>
         <localizedText>Эльфа-мага</localizedText>
       </text>
       <text>
@@ -6451,7 +6451,7 @@ A GREAT FORTRESS THERE</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4848</addrInSeg>
         <originalText>A GNOME ROBBER</originalText>
-        <newAddrInSeg>4724</newAddrInSeg>
+        <newAddrInSeg>4732</newAddrInSeg>
         <localizedText>Гнома-вора</localizedText>
       </text>
       <text>
@@ -6463,9 +6463,9 @@ A GREAT FORTRESS THERE</originalText>
         <addrInSeg>4863</addrInSeg>
         <originalText>A DWARF PALADIN
 PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
-        <newAddrInSeg>4735</newAddrInSeg>
+        <newAddrInSeg>4743</newAddrInSeg>
         <localizedText>Дварфа-паладина
-в черно-белую клетку</localizedText>
+в чёрно-белую клетку</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6475,7 +6475,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4919</addrInSeg>
         <originalText>AN H-ORC ARCHER</originalText>
-        <newAddrInSeg>4772</newAddrInSeg>
+        <newAddrInSeg>4780</newAddrInSeg>
         <localizedText>орка-лучника</localizedText>
       </text>
       <text>
@@ -6486,7 +6486,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4935</addrInSeg>
         <originalText>A HUMAN CLERIC</originalText>
-        <newAddrInSeg>4785</newAddrInSeg>
+        <newAddrInSeg>4793</newAddrInSeg>
         <localizedText>клерика</localizedText>
       </text>
       <text>
@@ -6497,7 +6497,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4950</addrInSeg>
         <originalText>A BLUE DRAGON</originalText>
-        <newAddrInSeg>4793</newAddrInSeg>
+        <newAddrInSeg>6095</newAddrInSeg>
         <localizedText>дракона</localizedText>
       </text>
       <text>
@@ -6508,7 +6508,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>4964</addrInSeg>
         <originalText>A GRAY MINOTAUR</originalText>
-        <newAddrInSeg>4968</newAddrInSeg>
+        <newAddrInSeg>4969</newAddrInSeg>
         <localizedText>минотавра</localizedText>
       </text>
       <text>
@@ -6597,7 +6597,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>5141</addrInSeg>
         <originalText>NO GOLD, NO FOOD!</originalText>
         <newAddrInSeg>5134</newAddrInSeg>
-        <localizedText>Нет денег, нет еды!</localizedText>
+        <localizedText>Нет денег - нет еды!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -6607,8 +6607,8 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>5159</addrInSeg>
         <originalText>THANK YOU, COME AGAIN!</originalText>
-        <newAddrInSeg>5154</newAddrInSeg>
-        <localizedText>Спасибо, приходите еще!</localizedText>
+        <newAddrInSeg>5155</newAddrInSeg>
+        <localizedText>Спасибо, приходите ещё!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -7493,7 +7493,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>7679</addrInSeg>
         <originalText>`[ FORWARD</originalText>
         <newAddrInSeg>7679</newAddrInSeg>
-        <localizedText>`[ Вперед</localizedText>
+        <localizedText>`[ Вперёд</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -9450,7 +9450,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>9868</addrInSeg>
         <originalText>GOOD</originalText>
-        <newAddrInSeg>5884</newAddrInSeg>
+        <newAddrInSeg>5426</newAddrInSeg>
         <localizedText>Норм</localizedText>
       </text>
       <text>
@@ -9605,7 +9605,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>9956</addrInSeg>
         <originalText>ERADICATED</originalText>
         <newAddrInSeg>9952</newAddrInSeg>
-        <localizedText>истреблен</localizedText>
+        <localizedText>истреблён</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -9616,7 +9616,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>9967</addrInSeg>
         <originalText>DEAD,</originalText>
         <newAddrInSeg>9962</newAddrInSeg>
-        <localizedText>мертв,</localizedText>
+        <localizedText>мёртв,</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12256,7 +12256,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>14366</addrInSeg>
         <originalText>(DEAD)    </originalText>
         <newAddrInSeg>14366</newAddrInSeg>
-        <localizedText>(мертв)   </localizedText>
+        <localizedText>(мёртв)   </localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12273,6 +12273,17 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrOfAddr>
           <h>41038</h>
           <l>41037</l>
+        </addrOfAddr>
+        <addrOfSeg>68016</addrOfSeg>
+        <addrInSeg>14381</addrInSeg>
+        <originalText>GOES DOWN!!!</originalText>
+        <newAddrInSeg>14379</newAddrInSeg>
+        <localizedText>падает!!!</localizedText>
+      </text>
+      <text>
+        <addrOfAddr>
+          <h>50348</h>
+          <l>50347</l>
         </addrOfAddr>
         <addrOfSeg>68016</addrOfSeg>
         <addrInSeg>14381</addrInSeg>
@@ -12520,7 +12531,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>13754</addrInSeg>
         <originalText>IS BLINDED</originalText>
         <newAddrInSeg>13751</newAddrInSeg>
-        <localizedText>ослеплен</localizedText>
+        <localizedText>ослеплён</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12586,7 +12597,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>13838</addrInSeg>
         <originalText>IS AFFECTED</originalText>
         <newAddrInSeg>13838</newAddrInSeg>
-        <localizedText>поражен</localizedText>
+        <localizedText>поражён</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12718,7 +12729,7 @@ PAINTED A BLACK &amp; WHITE CHECKERED MOTIF</originalText>
         <addrInSeg>15239</addrInSeg>
         <originalText>IS DISINTEGRATED!</originalText>
         <newAddrInSeg>15236</newAddrInSeg>
-        <localizedText>Расщеплен!</localizedText>
+        <localizedText>Расщеплён!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -12906,7 +12917,7 @@ THE NIGHT... SIGN IN (Y/N)?</originalText>
 SEDUCTIVE SMILE, "CAN I HELP YOU (Y/N)?"</originalText>
         <newAddrInSeg>1275</newAddrInSeg>
         <localizedText>Прекрасная молодая дева соблазнительно
-улыбается и усердно кует длинный меч.
+улыбается и усердно куёт длинный меч.
 "Могу я вам помочь (Д/Н)?"</localizedText>
       </text>
       <text>
@@ -13122,7 +13133,7 @@ SHALL-HAVE-FROM-A-JVC</originalText>
         <originalText>CLUB DEAD...
 THE ANTIDOTE TO HUMANIZATION!</originalText>
         <newAddrInSeg>940</newAddrInSeg>
-        <localizedText>Клуб мертвых...
+        <localizedText>Клуб мёртвых...
 Антидот гуманизации!</localizedText>
       </text>
       <text>
@@ -13236,7 +13247,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1372</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13247,7 +13258,7 @@ PATTERN!</originalText>
         <addrInSeg>1454</addrInSeg>
         <originalText>THE CRYSTAL GRATE REPELS YOU!</originalText>
         <newAddrInSeg>1427</newAddrInSeg>
-        <localizedText>Кристальная решетка оттолкнула вас!</localizedText>
+        <localizedText>Кристальная решётка оттолкнула вас!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13288,7 +13299,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1094</newAddrInSeg>
         <localizedText>От пола до потолка стена покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13353,7 +13364,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>443</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13393,7 +13404,7 @@ PATTERN!</originalText>
 WHITE CHECKERED PATTERN!</originalText>
         <newAddrInSeg>734</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13425,7 +13436,7 @@ WITH-9TH-SANCTUM-AND-WONDROUS</originalText>
 OF OKRIM AND SPEAKS,"IN EXCHANGE FOR
 MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</originalText>
         <newAddrInSeg>1022</newAddrInSeg>
-        <localizedText>Из тела Окрима встает призрачная фигура
+        <localizedText>Из тела Окрима встаёт призрачная фигура
 и говорит: "В обмен на мое кольцо я
 заберу вашу жизнь. Согласны (Д/Н)?"</localizedText>
       </text>
@@ -13440,7 +13451,7 @@ MY RING, FORFEIT A LIFE, ACCEPT (Y/N)?"</originalText>
 WITH OPEN ARMS!"</originalText>
         <newAddrInSeg>1134</newAddrInSeg>
         <localizedText>"Да примет вас тень смерти с
-распростертыми объятиями!"</localizedText>
+распростёртыми объятиями!"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13466,7 +13477,7 @@ LAIR OF THE OMNIPOTENT WIZARD OKRIM</originalText>
         <originalText>AN OPENING ABOVE LEADS OUTSIDE,
 CLIMB OUT (Y/N)?</originalText>
         <newAddrInSeg>1607</newAddrInSeg>
-        <localizedText>Провал ведет наружу. Вылезти (Д/Н)?</localizedText>
+        <localizedText>Провал ведёт наружу. Вылезти (Д/Н)?</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13502,7 +13513,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1554</newAddrInSeg>
         <localizedText>От пола до потолка стена покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -13579,7 +13590,7 @@ SPEAKS: "I SEE ALL, HEAR ALL,
 KNOW NOTHING..."</originalText>
         <newAddrInSeg>964</newAddrInSeg>
         <localizedText>Каменное лицо на стене говорит:
-"Я все вижу, все слышу,
+"Я всё вижу, всё слышу,
 ничего не знаю..."</localizedText>
       </text>
       <text>
@@ -13620,7 +13631,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1414</newAddrInSeg>
         <localizedText>От пола до потолка стена покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13646,11 +13657,11 @@ THE PARTY. YOU ARE TELEPORTED!</originalText>
           <l>96</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>923</addrInSeg>
+        <addrInSeg>1010</addrInSeg>
         <originalText>ETCHED IN GOLD, MESSAGE 6 READS:
 BOOK-DONE.-A-SELF-THAT-FROM-KEY-YOU-
 BE-TO-SEEMS</originalText>
-        <newAddrInSeg>1690</newAddrInSeg>
+        <newAddrInSeg>1777</newAddrInSeg>
         <localizedText>На золотой табличке 6 гравировка:
 которые-книги.-есть-истинную-их,-раз-
 собой-чтобы-уровня.-мечте,-великолепным</localizedText>
@@ -13661,7 +13672,7 @@ BE-TO-SEEMS</originalText>
           <l>112</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1005</addrInSeg>
+        <addrInSeg>1092</addrInSeg>
         <originalText>IN THE CENTER OF THE ROOM, A HUGE RUBY
 STANDS ATOP A PEDESTAL. HEXAGONALLY
 SHAPED, IT GLOWS RHYTHMICALLY!
@@ -13669,13 +13680,13 @@ MESMERIZED BY ITS LIGHT, YOU HEAR:
 GLASS THAT GLITTERS, RUBIES THAT GLOW
 WHEN I TWINKLE, I CAST A RAINBOW
 WHAT AM I? :&gt; ...............</originalText>
-        <newAddrInSeg>1802</newAddrInSeg>
+        <newAddrInSeg>1889</newAddrInSeg>
         <localizedText>В центре комнаты вы видите огромный
 рубин шестиугольной формы, установленныйна пьедестале. Он ритмично мерцает!
-Очарованные этим мерцанием вы слышите:
+Очарованные этим мерцанием, вы слышите:
 Стекло - сверкает, Рубин - светится,
 А я сияю всеми цветами радуги.
-Что я? :&gt;     ...............</localizedText>
+Что я? :&gt;    ...............</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -13683,9 +13694,9 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>234</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1247</addrInSeg>
+        <addrInSeg>1334</addrInSeg>
         <originalText>WRONG!  A BRIGHT FLASH...</originalText>
-        <newAddrInSeg>2051</newAddrInSeg>
+        <newAddrInSeg>2138</newAddrInSeg>
         <localizedText>неверно! Яркая вспышка...</localizedText>
       </text>
       <text>
@@ -13694,9 +13705,9 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>385</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1281</addrInSeg>
+        <addrInSeg>1368</addrInSeg>
         <originalText>A SILVER DOOR REPELS YOU!</originalText>
-        <newAddrInSeg>2077</newAddrInSeg>
+        <newAddrInSeg>2164</newAddrInSeg>
         <localizedText>Серебряная дверь оттолкнула вас!</localizedText>
       </text>
       <text>
@@ -13705,9 +13716,9 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>408</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1307</addrInSeg>
+        <addrInSeg>1394</addrInSeg>
         <originalText>A SILVER DOOR, YOUR SILVER KEY GLOWS!</originalText>
-        <newAddrInSeg>2110</newAddrInSeg>
+        <newAddrInSeg>2197</newAddrInSeg>
         <localizedText>Серебряная дверь, ваш серебряный ключ
 светится!</localizedText>
       </text>
@@ -13717,9 +13728,9 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>421</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1345</addrInSeg>
+        <addrInSeg>1432</addrInSeg>
         <originalText>STAIRS TO SURFACE, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>2158</newAddrInSeg>
+        <newAddrInSeg>2245</newAddrInSeg>
         <localizedText>Лестница на поверхность. Выходим (Д/Н)?</localizedText>
       </text>
       <text>
@@ -13728,9 +13739,9 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>506</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1381</addrInSeg>
+        <addrInSeg>1468</addrInSeg>
         <originalText>STAIRS DOWN, TAKE THEM (Y/N)?</originalText>
-        <newAddrInSeg>2198</newAddrInSeg>
+        <newAddrInSeg>2285</newAddrInSeg>
         <localizedText>Лестница вниз. Спускаемся (Д/Н)?</localizedText>
       </text>
       <text>
@@ -13739,12 +13750,12 @@ WHAT AM I? :&gt; ...............</originalText>
           <l>722</l>
         </addrOfAddr>
         <addrOfSeg>0</addrOfSeg>
-        <addrInSeg>1615</addrInSeg>
+        <addrInSeg>1702</addrInSeg>
         <originalText>THE ROOM IS PAINTED IN A BLACK AND
 WHITE CHECKERED PATTERN!</originalText>
-        <newAddrInSeg>2231</newAddrInSeg>
+        <newAddrInSeg>2318</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -14174,7 +14185,7 @@ APPLY.-LOCATIONS,-END-ATTAINED-MY-SEQUEL</originalText>
         <originalText>PAINTED IN A BLACK AND WHITE PATTERN,
 A SIGN READS: THE LAST PART IS THE FIRST</originalText>
         <newAddrInSeg>821</newAddrInSeg>
-        <localizedText>Табличка в черно-белую клетку:
+        <localizedText>Табличка в чёрно-белую клетку:
 Последняя часть - первая</localizedText>
       </text>
       <text>
@@ -14283,7 +14294,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>1446</newAddrInSeg>
         <localizedText>От пола до потолка стена покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
     </dt>
   </locText>
@@ -14302,7 +14313,7 @@ FLOOR IN A BLACK AND WHITE CHECKERED
 PATTERN!</originalText>
         <newAddrInSeg>361</newAddrInSeg>
         <localizedText>От пола до потолка комната покрыта
-черно-белым узором!</localizedText>
+чёрно-белым узором!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14403,7 +14414,7 @@ THROUGHOUT THE ROOM!</originalText>
         <addrInSeg>1066</addrInSeg>
         <originalText>A SHARP TONE ASSAULTS YOUR SENSES!</originalText>
         <newAddrInSeg>1074</newAddrInSeg>
-        <localizedText>Пронзительный звон бьет вам в ухо!</localizedText>
+        <localizedText>Пронзительный звон бьёт вам в ухо!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14577,7 +14588,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1514</addrInSeg>
         <originalText>FIND THE SHIPWRECK OF THE JOLLY RAVEN</originalText>
         <newAddrInSeg>1509</newAddrInSeg>
-        <localizedText>Найди обломки корабля Веселый ворон</localizedText>
+        <localizedText>Найди обломки корабля Весёлый ворон</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14588,7 +14599,8 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1552</addrInSeg>
         <originalText>DEFEAT THE PIRATE GHOST SHIP ANARCHIST</originalText>
         <newAddrInSeg>1545</newAddrInSeg>
-        <localizedText>Сокруши корабль-призрак пиратов Анархист</localizedText>
+        <localizedText>Сокруши корабль-призрак пиратов
+"Анархист"</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14598,7 +14610,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1591</addrInSeg>
         <originalText>DEFEAT THE STRONGHOLD IN RAVENS WOOD</originalText>
-        <newAddrInSeg>1586</newAddrInSeg>
+        <newAddrInSeg>1589</newAddrInSeg>
         <localizedText>Сокруши крепость в вороньем лесу</localizedText>
       </text>
       <text>
@@ -14610,7 +14622,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1628</addrInSeg>
         <originalText>LORD IRONFIST SPEAKS:
 </originalText>
-        <newAddrInSeg>1619</newAddrInSeg>
+        <newAddrInSeg>1622</newAddrInSeg>
         <localizedText>Лорд Айронфист говорит:
 </localizedText>
       </text>
@@ -14622,7 +14634,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1651</addrInSeg>
         <originalText>"YOUR SERVICES ARE NEEDED!" ACCEPT(Y/N)?</originalText>
-        <newAddrInSeg>1644</newAddrInSeg>
+        <newAddrInSeg>1647</newAddrInSeg>
         <localizedText>"Мне нужны ваши услуги!" Согласны (Д/Н)?</localizedText>
       </text>
       <text>
@@ -14633,7 +14645,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1692</addrInSeg>
         <originalText>"RETURN NOT UNTIL THY QUEST IS COMPLETE"</originalText>
-        <newAddrInSeg>1685</newAddrInSeg>
+        <newAddrInSeg>1688</newAddrInSeg>
         <localizedText>"Не возвращайтесь, пока не выполните
 задание"</localizedText>
       </text>
@@ -14646,7 +14658,7 @@ BOX,ON THE LEFT A PAINTING OF A CURTAIN.</originalText>
         <addrInSeg>1733</addrInSeg>
         <originalText>"SORRY, BUT SINCE YOU ARE CURRENTLY
 QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
-        <newAddrInSeg>1731</newAddrInSeg>
+        <newAddrInSeg>1734</newAddrInSeg>
         <localizedText>"Простите, но я не найму вас, пока у васесть другое задание."</localizedText>
       </text>
       <text>
@@ -14658,8 +14670,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>1809</addrInSeg>
         <originalText>OPTIONS:  1) SET THE PRISONER FREE.
 </originalText>
-        <newAddrInSeg>1793</newAddrInSeg>
-        <localizedText>Выберите: 1) Освободить заключенного.
+        <newAddrInSeg>1796</newAddrInSeg>
+        <localizedText>Выберите: 1) Освободить заключённого.
 </localizedText>
       </text>
       <text>
@@ -14671,8 +14683,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrInSeg>1846</addrInSeg>
         <originalText>2) TORMENT THE PRISONER.
 </originalText>
-        <newAddrInSeg>1832</newAddrInSeg>
-        <localizedText>2) пытать заключенного.
+        <newAddrInSeg>1835</newAddrInSeg>
+        <localizedText>2) пытать заключённого.
 </localizedText>
       </text>
       <text>
@@ -14683,7 +14695,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1872</addrInSeg>
         <originalText>3) LEAVE WITHOUT DISTURBING.</originalText>
-        <newAddrInSeg>1857</newAddrInSeg>
+        <newAddrInSeg>1860</newAddrInSeg>
         <localizedText>3) не беспокоить и уйти.</localizedText>
       </text>
       <text>
@@ -14694,8 +14706,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1901</addrInSeg>
         <originalText>THE PRISONER FLEES!</originalText>
-        <newAddrInSeg>1882</newAddrInSeg>
-        <localizedText>заключенный убегает!</localizedText>
+        <newAddrInSeg>1885</newAddrInSeg>
+        <localizedText>заключённый убегает!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14705,8 +14717,8 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
         <addrOfSeg>0</addrOfSeg>
         <addrInSeg>1921</addrInSeg>
         <originalText>THE PRISONER COWERS!</originalText>
-        <newAddrInSeg>1903</newAddrInSeg>
-        <localizedText>заключенный съеживается!</localizedText>
+        <newAddrInSeg>1906</newAddrInSeg>
+        <localizedText>заключённый съёживается!</localizedText>
       </text>
       <text>
         <addrOfAddr>
@@ -14719,7 +14731,7 @@ QUESTED, I CAN'T ENGAGE YOUR SERVICES."</originalText>
 RESTRAINED ONLY BY A COLLAR AND CHAIN!
 
 </originalText>
-        <newAddrInSeg>1928</newAddrInSeg>
+        <newAddrInSeg>1931</newAddrInSeg>
         <localizedText>Злой демон бросается к вам,
 но цепи и ошейник удерживают его!
 
@@ -14734,7 +14746,7 @@ RESTRAINED ONLY BY A COLLAR AND CHAIN!
         <addrInSeg>2020</addrInSeg>
         <originalText>ETCHED IN SILVER, MESSAGE B READS:
 RSTIA-,E1,;/11RN;/M-</originalText>
-        <newAddrInSeg>1992</newAddrInSeg>
+        <newAddrInSeg>1995</newAddrInSeg>
         <localizedText>На серебряной табличке B гравировка:
 ч/ти1;-2;0олс15а-зес-</localizedText>
       </text>
@@ -14747,7 +14759,7 @@ RSTIA-,E1,;/11RN;/M-</originalText>
         <addrInSeg>2076</addrInSeg>
         <originalText>CASTLE GUARDS EXCLAIM,
 "NO MERCHANTS PASS! BEGONE PEASANTS."</originalText>
-        <newAddrInSeg>2051</newAddrInSeg>
+        <newAddrInSeg>2054</newAddrInSeg>
         <localizedText>Охранник говорит:
 "Покажите грамоту купца или уходите."</localizedText>
       </text>

@@ -32,7 +32,7 @@ namespace picPack {
     private static void Main(string[] args) {
       const string fPrefix = "screen";
       for (int fileN = 0; fileN < 10; fileN++) {
-        Bitmap bmp = new Bitmap(fPrefix + fileN.ToString() + "_.bmp");
+        Bitmap bmp = new Bitmap(fPrefix + fileN.ToString() + ".bmp");
 
         // Считаем, что PixelFormat 8 бит/пиксель
         int bmp8bppL = bmp.Size.Width * bmp.Size.Height;
@@ -108,8 +108,8 @@ namespace picPack {
           byteCnt = 0x00;
         }
 
-        resBuf[0] = (byte)(resBuf.Capacity % 0x100);
-        resBuf[1] = (byte)(resBuf.Capacity / 0x100);
+        resBuf[0] = (byte)(resBuf.Count % 0x100);
+        resBuf[1] = (byte)(resBuf.Count / 0x100);
 
         // Сохранить
         File.WriteAllBytes(fPrefix + fileN.ToString(), resBuf.ToArray());
